@@ -1,0 +1,205 @@
+video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+P04-20240413-142619,,Wash and dry hands,0.0,56.0
+P04-20240413-142619,R01,"Take out chicken, lemon, gather ingredients and prep equipment",56.0,235.0
+P04-20240413-142619,R01,Weigh and wash chicken,235.0,353.0
+P04-20240413-142619,,Wash and dry hands,353.0,364.0
+P04-20240413-142619,R01,Add seasoning to the chicken and mix with spices,364.0,770.0
+P04-20240413-142619,,Wash and dry hands,770.0,784.0
+P04-20240413-142619,,Clean and clear,784.0,840.0
+P04-20240413-142619,R01,"Pick out, wash, weigh and chop vegetables",840.0,1365.0
+P04-20240413-142619,,Wash and dry hands,1365.0,1378.0
+P04-20240413-142619,,Clean and clear,1378.0,end
+P04-20240413-145245,R01,Heat up a pan,0.0,86.0
+P04-20240413-145245,R01,Add chicken to hot pan for cooking,86.0,150.0
+P04-20240413-145245,R01,Take out bowl and strainer,150.0,180.0
+P04-20240413-145245,R01,Check on chicken being cooked,180.0,203.0
+P04-20240413-145245,,Turn on exhaust,203.0,210.0
+P04-20240413-145245,R01,Wash head of romaine lettuce and remove core,210.0,245.0
+P04-20240413-145245,R01,Flip chicken in the pan,245.0,280.0
+P04-20240413-145245,R01,Shred romaine lettuce with knife,280.0,381.0
+P04-20240413-145245,R01,Cut chicken and check for doneness,381.0,551.0
+P04-20240413-145245,R01,Transfer chicken to bowl after cooking,551.0,592.0
+P04-20240413-145245,R01,Add remaining chicken to hot pan for cooking,592.0,613.0
+P04-20240413-145245,,Clean and clear,613.0,631.0
+P04-20240413-145245,R01,Wash and weigh shredded lettuce,631.0,742.0
+P04-20240413-145245,,Clean and clear,742.0,749.0
+P04-20240413-145245,R01,Flip chicken in the pan,749.0,767.0
+P04-20240413-145245,R01,Note down measurements,767.0,785.0
+P04-20240413-145245,R01,Check on chicken being cooked,785.0,812.0
+P04-20240413-145245,,Clean and clear,812.0,847.0
+P04-20240413-145245,R01,Cut chicken and check for doneness,847.0,1035.0
+P04-20240413-145245,R01,Transfer chicken to bowl after cooking and cut into small cubes,1035.0,1211.0
+P04-20240413-145245,,Wash and dry hands,1211.0,end
+P04-20240413-151722,,Clean and clear,0.0,21.0
+P04-20240413-151722,R01,Set up station on countertop for making wraps,21.0,40.0
+P04-20240413-151722,R01,Slice and weigh lemon,40.0,72.0
+P04-20240413-151722,R01,Gather ingredients for making sauce,72.0,153.0
+P04-20240413-151722,R01,Prepare sauce,153.0,394.0
+P04-20240413-151722,,Clean and clear,394.0,464.0
+P04-20240413-151722,R01,Set up station on countertop for making wraps,464.0,506.0
+P04-20240413-151722,,Wash and dry hands,506.0,545.0
+P04-20240413-151722,R01,Prepare chicken wraps,545.0,1037.0
+P04-20240413-151722,,Clean and clear,1037.0,end
+P04-20240414-064514,R02,Clean and clear,0.0,26.0
+P04-20240414-064514,R02,Gather ingredients and cooking equipment,26.0,170.0
+P04-20240414-064514,,Wash and dry hands,170.0,208.0
+P04-20240414-064514,,Take out scale,208.0,end
+P04-20240414-065311,,Take out marker and notebook,0.0,18.0
+P04-20240414-065311,R02,Weigh and crack eggs,18.0,200.0
+P04-20240414-065311,,Wash and dry hands,200.0,216.0
+P04-20240414-065311,,Clean and clear,216.0,224.0
+P04-20240414-065311,R02,Add salt and pepper to eggs,224.0,255.0
+P04-20240414-065311,,Note down measurements,255.0,273.0
+P04-20240414-065311,,Clean and clear,273.0,283.0
+P04-20240414-065311,R02,Gather and prepare vegetables,283.0,521.0
+P04-20240414-065311,R02,Weigh vegetables,521.0,606.0
+P04-20240414-065311,,Clean and clear,606.0,665.0
+P04-20240414-065311,R02,Whisk eggs,665.0,714.0
+P04-20240414-065311,,Clean and clear,714.0,718.0
+P04-20240414-065311,R02,Heat oil in pan,718.0,830.0
+P04-20240414-065311,R02,Pour egg mixture into pan,830.0,852.0
+P04-20240414-065311,R02,Add chopped vegetables into pan,852.0,870.0
+P04-20240414-065311,R02,Stir continuously to prepare scrambled eggs,870.0,896.0
+P04-20240414-065311,,Take bowl and place on scale,896.0,911.0
+P04-20240414-065311,R02,Continue to stir continuously to prepare scrambled eggs,911.0,1068.0
+P04-20240414-065311,,Clean and clear,1068.0,1123.0
+P04-20240414-065311,R03,Gather ingredients,1123.0,1145.0
+P04-20240414-065311,,Put away egg carton,1145.0,1161.0
+P04-20240414-065311,R03,"Gather utensils, and ingredients",1161.0,1186.0
+P04-20240414-065311,,Note down measurements,1186.0,1216.0
+P04-20240414-065311,R03,Take out measuring cup,1216.0,1246.0
+P04-20240414-065311,R03,Prepare granola with milk,1246.0,1376.0
+P04-20240414-065311,,Clean and clear,1376.0,1424.0
+P04-20240414-065311,R03,Mix granola bowl,1424.0,1455.0
+P04-20240414-065311,,Clean and clear,1455.0,1482.0
+P04-20240414-065311,R02,Plate scrambled eggs,1482.0,1455.0
+P04-20240414-065311,,Clean and clear,1455.0,end
+P04-20240414-072251,,Clean and clear - wash dishes,0.0,850.0
+P04-20240414-072251,,Fill a mug with hot water,850.0,878.0
+P04-20240414-072251,,Clean and clear - hand dry and put away dishes,878.0,1156.0
+P04-20240414-072251,,Clean and clear - wipe surfaces,1156.0,1220.0
+P04-20240414-072251,,Wash and dry hands,1220.0,1232.0
+P04-20240414-072251,,Clean and clear,1232.0,end
+P04-20240414-162242,,Clean and clear,0.0,33.0
+P04-20240414-162242,R04,"Gather cookware, ingredients and utensils",33.0,end
+P04-20240414-162750,R04,Gather ingredients and utensils,0.0,275.0
+P04-20240414-162750,R04,Wash potato,275.0,307.0
+P04-20240414-162750,R04,Weigh vegetables,307.0,402.0
+P04-20240414-162750,R04,Cut potato and put into pressure cooker,402.0,516.0
+P04-20240414-162750,R04,Peel onions,516.0,570.0
+P04-20240414-162750,,Wash and dry hands,570.0,582.0
+P04-20240414-162750,R04,Start the pressure cooker to cook the potatoes,582.0,598.0
+P04-20240414-162750,R04,"Chop onions, chillies, ginger and coriander leaves",598.0,1025.0
+P04-20240414-162750,,Wash and dry hands,1025.0,1040.0
+P04-20240414-162750,R04,Add oil to pan,1040.0,1095.0
+P04-20240414-162750,R04,Weigh ginger pieces,1095.0,1135.0
+P04-20240414-162750,,Wash and dry hands,1135.0,end
+P04-20240414-164751,R04,Heat oil in pan,0.0,25.0
+P04-20240414-164751,R04,Gather ingredients and stir oil in pan,25.0,163.0
+P04-20240414-164751,R04,"Add sesame seeds and yellow dal, then stir-fry",163.0,end
+P04-20240414-165333,R04,"Add ginger, green chillies, and finely chopped coriander leaves and stir-fry",0.0,98.0
+P04-20240414-165333,R04,Turn off pressure cooker after 3 whistles,98.0,103.0
+P04-20240414-165333,R04,Continue to stir-fry,103.0,135.0
+P04-20240414-165333,R04,Set aside cooker on cooling rack,135.0,146.0
+P04-20240414-165333,R04,"Add chopped onions, some more oil, salt, and turmeric powder and stir-fry",146.0,438.0
+P04-20240414-165333,R05,Take out bowl for preparing dosa batter,438.0,479.0
+P04-20240414-165333,R04,Continue to stir-fry,479.0,493.0
+P04-20240414-165333,R05,Place bowl and read instructions for preparing batter,493.0,511.0
+P04-20240414-165333,R04,Continue to stir-fry,511.0,end
+P04-20240414-170520,R05,Prepare bowl for dosa batter,0.0,44.0
+P04-20240414-170520,R04,Check on potatoes cooked in pressure cooker,44.0,53.0
+P04-20240414-170520,R04,Remove hot potato halves from cooker and cool on a plate,53.0,117.0
+P04-20240414-170520,R05,Add dosa powder to the bowl,117.0,173.0
+P04-20240414-170520,R05,Note down weight measurements in notebook,173.0,211.0
+P04-20240414-170520,R05,Take a measuring jug and fill with water,211.0,290.0
+P04-20240414-170520,R05,Add water to dosa mix and whisk into batter,290.0,415.0
+P04-20240414-170520,R05,Read instructions to prepare dosa,415.0,434.0
+P04-20240414-170520,,Clean and clear,434.0,482.0
+P04-20240414-170520,R04,Peel cooked potato,482.0,570.0
+P04-20240414-170520,,Wash and dry hands,570.0,586.0
+P04-20240414-170520,R04,Taste masala prepared in pan,586.0,595.0
+P04-20240414-170520,R04,Mash cooked potato,595.0,704.0
+P04-20240414-170520,R04,Add mashed potatoes to masala in pan and mix,704.0,795.0
+P04-20240414-170520,R04,Season and garnish aloo masala,795.0,865.0
+P04-20240414-170520,,Clean and clear,865.0,end
+P04-20240414-172534,,Clean and clear,0.0,52.0
+P04-20240414-172534,R05,Wash and place dosa pan on hob,52.0,107.0
+P04-20240414-172534,,Clean and clear,107.0,end
+P04-20240414-173337,R05,Pour oil into a cup for dosa making,0.0,53.0
+P04-20240414-173337,R05,Take and wash another cup,53.0,86.0
+P04-20240414-173337,R05,Melt ghee,86.0,149.0
+P04-20240414-173337,R05,Wash ladle,149.0,214.0
+P04-20240414-173337,R05,Adjust the dosa batter's thickness,214.0,301.0
+P04-20240414-173337,,Clean and clear,301.0,320.0
+P04-20240414-173337,,Find a spatula to make dosas,320.0,397.0
+P04-20240414-173337,R05,Preheat and grease pan with oil,397.0,460.0
+P04-20240414-173337,R05,Pour and spread dosa batter on the pan to cook,460.0,570.0
+P04-20240414-173337,R05,Try to pick up dosa from the pan with a spatula,570.0,675.0
+P04-20240414-173337,R05,Move the broken dosa onto the plate,675.0,713.0
+P04-20240414-173337,,Clean and clear,713.0,739.0
+P04-20240414-173337,R05,Grease pan with oil,739.0,769.0
+P04-20240414-173337,R05,Pour and spread dosa batter on the pan to cook,769.0,840.0
+P04-20240414-173337,R05,Try to pick up dosa from the pan with a spatula,840.0,900.0
+P04-20240414-173337,R05,Move the broken dosa onto the plate,900.0,end
+P04-20240414-175337,,Clean and clear,0.0,19.0
+P04-20240414-181030,R05,Heat pan for making dosa,19.0,25.0
+P04-20240414-181030,R05,Grease pan with oil,25.0,48.0
+P04-20240414-181030,R05,Check if pan is hot enough for making dosa,48.0,72.0
+P04-20240414-181030,R05,Pour and spread dosa batter on the pan to cook,72.0,137.0
+P04-20240414-181030,R05,Try to pick up dosa from the pan with a spatula,137.0,238.0
+P04-20240414-181030,R05,Move the broken dosa onto the plate,238.0,251.0
+P04-20240414-181030,,Clean and clear,251.0,296.0
+P04-20240414-181030,R05,Get another spatula,296.0,312.0
+P04-20240414-181030,R05,Heat pan for making dosa,312.0,319.0
+P04-20240414-181030,,Clean and clear,319.0,346.0
+P04-20240414-181030,R05,Grease pan with oil,346.0,372.0
+P04-20240414-181030,R05,Pour and spread dosa batter on the pan to cook,372.0,469.0
+P04-20240414-181030,R05,Try to pick up dosa from the pan with a spatula,469.0,499.0
+P04-20240414-181030,R05,Move the broken dosa onto the plate,499.0,509.0
+P04-20240414-181030,,Clean and clear,509.0,533.0
+P04-20240414-181030,R04,Serve aloo masala on plate with dosa,533.0,end
+P04-20240414-181030,,Clean and clear - put away ingredients,0.0,72.0
+P04-20240414-181030,,Clean and clear - dispose of leftovers and put dirty dishes in the sink,72.0,148.0
+P04-20240414-181030,,Clean and clear - put away ingredients and utensils,148.0,225.0
+P04-20240414-181030,,Clean and clear - wipe countertop,225.0,257.0
+P04-20240414-181030,,Wash dishes,257.0,260.0
+P04-20240414-181030,,Dry hands,260.0,1198.0
+P04-20240414-181030,,Clean and clear - put away ingredients,1198.0,end
+P04-20240415-175615,,Wash and dry hands,0.0,40.0
+P04-20240415-175615,R06,"Gather utensils, gather and weigh ingredients",40.0,616.0
+P04-20240415-175615,R06,Peel and chop ginger,616.0,734.0
+P04-20240415-175615,,Clean and clear,734.0,739.0
+P04-20240415-175615,R06,"Peel and chop onion, slice chillis and peel garlic cloves",739.0,905.0
+P04-20240415-175615,,Wash and dry hands,905.0,end
+P04-20240415-181212,,Weigh ingredients - garlic and ginger,0.0,42.0
+P04-20240415-181212,,Wash mortar and pestle,42.0,85.0
+P04-20240415-181212,R06,Grind spices,85.0,247.0
+P04-20240415-181212,,Arrange ingredients,247.0,270.0
+P04-20240415-181212,R06,Weigh uncooked basmati rice,270.0,337.0
+P04-20240415-181212,R06,Measure and collect water,335.0,408.0
+P04-20240415-181212,,Note down measurements,408.0,417.0
+P04-20240415-181212,,Arrange ingredients,417.0,430.0
+P04-20240415-181212,R06,Add oil and ghee to pressure cooker,430.0,534.0
+P04-20240415-181212,,Wash spatula,534.0,560.0
+P04-20240415-181212,R06,Heat cooker and oils in it,560.0,633.0
+P04-20240415-181212,R06,Fry whole spices and nuts,633.0,789.0
+P04-20240415-181212,R06,Weigh green peas,789.0,849.0
+P04-20240415-181212,R06,Stir contents of cooker,849.0,861.0
+P04-20240415-181212,R06,Add and fry ingredients in cooker,861.0,1019.0
+P04-20240415-181212,R06,Add garam masala and continue frying,1019.0,1066.0
+P04-20240415-181212,R06,Add salt and peas and continue frying,1066.0,1211.0
+P04-20240415-181212,R06,"Add water, lime and stir",1211.0,1260.0
+P04-20240415-181212,,Wash and dry hands,1260.0,1272.0
+P04-20240415-181212,,Note down measurements,1272.0,1286.0
+P04-20240415-181212,R06,Continue stirring cooker contents,1286.0,1330.0
+P04-20240415-181212,R06,Add rice to cooker and stir,1330.0,1380.0
+P04-20240415-181212,R06,Close pressure cooker and let pulav cook,1380.0,1401.0
+P04-20240415-181212,,Clean and clear,1401.0,end
+P04-20240415-184003,,Clean and clear - wash dishes,0.0,267.0
+P04-20240415-184003,,Wash and dry hands,267.0,272.0
+P04-20240415-184003,R06,Turn off pressure cooker after two whistles,272.0,299.0
+P04-20240415-184003,,Clean and clear - wash dishes,299.0,797.0
+P04-20240415-184003,,Wash and dry hands,797.0,824.0
+P04-20240415-184003,R06,"Open cooker, fluff and mix pulav",824.0,895.0
+P04-20240415-184003,R06,Plate peas pulav,895.0,985.0
+P04-20240415-184003,,Clean and clear,985.0,end

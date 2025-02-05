@@ -1,0 +1,47 @@
+video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+P06-20240510-090328,R01,"Preparing ingredients, chopping onion and tomato, preparing batter and cooking pancakes",0.0,end
+P06-20240510-094438,R01,Continue cooking Pancake on frying pan,0.0,end
+P06-20240510-100047,R01,Finish cooking and plating the pancake,0.0,12.0
+P06-20240510-100047,R02,"Prepare Ingredients, whisking, frothing milk",12.0,644.0
+P06-20240510-100047,,Washing the utensils,644.0,1349.0
+P06-20240510-100047,R02,Serving the pancake with Coffee,1349.0,end
+P06-20240510-104642,R03,"Chopping, preparing curry base and cooking it",0.0,1742.0
+P06-20240510-104642,R04,Boil kidney beans and pulses in a pressure cooker,1742.0,1960.0
+P06-20240510-104642,R03,Add cabbage and continue stirring,1960.0,2454.0
+P06-20240510-104642,,Washing the utensils,2454.0,2850.0
+P06-20240510-104642,,Cleaning the benchtop and sink area,2850.0,2879.0
+P06-20240510-104642,,Storing the prepared curry in a box,2879.0,2929.0
+P06-20240510-104642,,Washing the utensils,2929.0,3049.0
+P06-20240510-104642,,Cleaning the tabletop area,3049.0,end
+P06-20240510-115307,,Packing Kadhai Paneer in a box,0.0,15.0
+P06-20240510-115307,R04,"Prepare Ingredients, chopping vegetables and preparing curry base",15.0,end
+P06-20240510-121619,R04,"Preparing curry base in a frying pan, Add kidney beans and pulses in the curry base, Cooking the dal makhni on a low flame",0.0,494.0
+P06-20240510-121619,,Clean and clear,494.0,551.0
+P06-20240510-121619,,Washing the utensils,551.0,866.0
+P06-20240510-121619,,Cleaning the tabletop and sink area,866.0,873.0
+P06-20240510-121619,,Storing Dal makhani in a sauce pan,873.0,965.0
+P06-20240510-121619,,Washing the utensils,965.0,1067.0
+P06-20240510-121619,,Cleaning up the tabletop and gas stove surface,1067.0,end
+P06-20240510-135423,,Placing clean utensils in the cabinets and drawers,0.0,161.0
+P06-20240510-135423,R04,Washing and cooking rice in pressure cooker,161.0,end
+P06-20240510-140459,R05,"Prepare Ingredients, kneading the dough",0.0,294.0
+P06-20240510-140459,,Clean and clear,294.0,357.0
+P06-20240510-140459,R05,"Kneading the dough, making chappati, stuffing to make aloo parantha and cooking aloo parantha in frying pan",357.0,1331.0
+P06-20240510-140459,,Washing the utensils,1331.0,1499.0
+P06-20240510-140459,,Filling water in water bottles,1499.0,1590.0
+P06-20240510-140459,,Washing the utensils,1590.0,1676.0
+P06-20240510-140459,,Clean and clear,1676.0,1754.0
+P06-20240510-140459,R05,Plating and clean up,1754.0,end
+P06-20240511-102207,R06,"Prepare Ingredients, chopping onions, preparing bread omelette",0.0,1195.0
+P06-20240511-102207,R07,"Prepare Ingredients for Cappucino, frothing milk",1195.0,1850.0
+P06-20240511-102207,,Placing clean utensils in the cabinets and drawers,1850.0,1897.0
+P06-20240511-102207,,Washing the utensils,1897.0,2155.0
+P06-20240511-102207,,Serving food and cleaning up,2155.0,2342.0
+P06-20240511-102207,,Washing the utensils,2342.0,end
+P06-20240511-121048,,Placing clean utensils in the cabinets and drawers,0.0,101.0
+P06-20240511-121048,,Washing the utensils,101.0,304.0
+P06-20240511-121048,,Cleaning the tabletop and sink area,304.0,366.0
+P06-20240511-121048,,Washing the utensils,366.0,483.0
+P06-20240511-121048,,Drying utensils,483.0,end
+P06-20240511-122221,,Cleaning the tabletop and sink area,0.0,37.0
+P06-20240511-122221,,Drying utensils and putting them away in cabinets,37.0,end

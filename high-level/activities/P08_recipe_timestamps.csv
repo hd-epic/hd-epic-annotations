@@ -1,0 +1,212 @@
+video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+P08-20240613-122900,R01,Make and serve coffee,0.0,end
+P08-20240613-123547,R02,"Prepare, season and mix salad",0.0,846.0
+P08-20240613-123547,R02,Put ingredients away,846.0,873.0
+P08-20240613-123547,,Throw away food scraps,873.0,890.0
+P08-20240613-123547,R02,Prepare bread for salad and serve,890.0,972.0
+P08-20240613-123547,,Clean up,972.0,end
+P08-20240614-085000,R03,Gather and prepare ingredients and cooking materials,0.0,272.0
+P08-20240614-085000,R03,Preheat pan,272.0,301.0
+P08-20240614-085000,R03,Add eggs to pan,301.0,376.0
+P08-20240614-085000,,Clean spatula,376.0,386.0
+P08-20240614-085000,R03,Stir vegetables in pan,386.0,424.0
+P08-20240614-085000,,Clean up,424.0,447.0
+P08-20240614-085000,R03,Scramble eggs,447.0,460.0
+P08-20240614-085000,,Clean up,460.0,470.0
+P08-20240614-085000,R03,Stir vegetables in pan,470.0,484.0
+P08-20240614-085000,R03,Put food in fridge,484.0,496.0
+P08-20240614-085000,R03,Measure and record food,496.0,578.0
+P08-20240614-085000,R03,Stir vegetables in pan,578.0,588.0
+P08-20240614-085000,,Clean up,588.0,607.0
+P08-20240614-085000,R03,Season cottage cheese,607.0,691.0
+P08-20240614-085000,R03,Stir vegetables in pan,691.0,700.0
+P08-20240614-085000,R03,Add scrambled eggs to pan and stir,700.0,761.0
+P08-20240614-085000,,Clean up,761.0,769.0
+P08-20240614-085000,R03,Stir eggs in pan and serve,769.0,832.0
+P08-20240614-085000,,Clean up,832.0,853.0
+P08-20240614-085000,R03,Season and record food,853.0,898.0
+P08-20240614-085000,,Wash dishes,898.0,1058.0
+P08-20240614-085000,,Clean counters,1058.0,end
+P08-20240614-125650,R04,Preheat oven and gather ingredients,0.0,50.0
+P08-20240614-125650,R04,"Measure and season chicken, then put in oven",50.0,197.0
+P08-20240614-125650,R04,Prep cooking materials and ingredients,197.0,246.0
+P08-20240614-125650,R04,"Measure, record and mix salad greens",246.0,488.0
+P08-20240614-125650,,Clean up,488.0,512.0
+P08-20240614-125650,R04,Measure and chop and add other vegetables,512.0,656.0
+P08-20240614-125650,,Clean up,656.0,667.0
+P08-20240614-125650,R04,Measure and prepare other vegetables,667.0,754.0
+P08-20240614-125650,R04,Flip chicken in oven,754.0,784.0
+P08-20240614-125650,,Clean up,784.0,793.0
+P08-20240614-125650,R04,"Grab avocado, measure and chop and add to salad",793.0,899.0
+P08-20240614-125650,,Put avocado away,899.0,903.0
+P08-20240614-125650,,Clean up,903.0,924.0
+P08-20240614-125650,R04,Season salad,924.0,951.0
+P08-20240614-125650,,Unload dishrack,951.0,1021.0
+P08-20240614-125650,,Wash dishes,1021.0,1094.0
+P08-20240614-125650,,Clean counters,1094.0,1136.0
+P08-20240614-125650,,Update phone app,1136.0,1150.0
+P08-20240614-125650,R04,Flip chicken in oven,1150.0,1179.0
+P08-20240614-125650,R04,Add salad dressing to salad,1179.0,1193.0
+P08-20240614-125650,,Clean dressing container in sink,1193.0,1209.0
+P08-20240614-125650,,Throw out trash and fold kitchen towel,1209.0,end
+P08-20240614-132938,R04,Removing baking tray from oven,0.0,19.0
+P08-20240614-132938,R04,"Flip chicken, check chicken is done and serve",19.0,71.0
+P08-20240614-132938,,Remove tinfoil and throw in trash,71.0,83.0
+P08-20240614-132938,,Turn off oven,83.0,88.0
+P08-20240614-132938,,,88.0,106.0
+P08-20240614-132938,R04,Cut chicken to check if cooked,106.0,122.0
+P08-20240614-132938,,Clean cooking utensils,122.0,146.0
+P08-20240614-132938,,Tidy up,146.0,end
+P08-20240614-184945,R05,"Get food from fridge, prepare baking tray and preheat oven",0.0,94.0
+P08-20240614-184945,R05,Put skewers on baking tray and place in oven,94.0,137.0
+P08-20240614-184945,R05,"Get airfryer from kitchen cupboard, weight and record food",137.0,260.0
+P08-20240614-184945,R05,Put broccoli in air fryer,260.0,270.0
+P08-20240614-184945,,Return remaining broccoli in freezer,270.0,280.0
+P08-20240614-184945,,Clean scale,280.0,290.0
+P08-20240614-184945,R05,Measure and record salad mix in phone app,290.0,401.0
+P08-20240614-184945,R05,Pour salad mix into serving bowl,401.0,415.0
+P08-20240614-184945,,Tidy up,415.0,436.0
+P08-20240614-184945,,Clean up,436.0,462.0
+P08-20240614-184945,R05,Season broccoli and continue cooking in airfryer,462.0,533.0
+P08-20240614-184945,R05,Wipe skewers with sauce and put back in oven,533.0,576.0
+P08-20240614-184945,R05,Shake broccoli and continue cooking in airfryer,576.0,586.0
+P08-20240614-184945,,Wash dishes,586.0,626.0
+P08-20240614-184945,,Unload dishrack,626.0,642.0
+P08-20240614-184945,R05,Check on broccoli cooking in airfryer,642.0,664.0
+P08-20240614-184945,,Clean kitchen counter,664.0,681.0
+P08-20240614-184945,R05,Wait for salmon skewers to cook,681.0,722.0
+P08-20240614-184945,R05,Season broccoli in airfryer,722.0,755.0
+P08-20240614-184945,,Wash spoon in sink,755.0,767.0
+P08-20240614-184945,R05,Check on salmon skewers and continue cooking it in oven,767.0,814.0
+P08-20240614-184945,R05,Remove broccoli from airfryer and serve,814.0,827.0
+P08-20240614-184945,,Clean airfryer in sink,827.0,890.0
+P08-20240614-184945,R05,Check if salmon skewers were cooked and serve,890.0,937.0
+P08-20240614-184945,R05,Turn off oven,937.0,950.0
+P08-20240614-184945,,Tidy up,950.0,end
+P08-20240617-130401,R06,Clean kitchen space,0.0,46.0
+P08-20240617-130401,R06,Prepare ingredients,46.0,86.0
+P08-20240617-130401,R06,Boil water and add salt,86.0,118.0
+P08-20240617-130401,R06,Weigh pasta,118.0,206.0
+P08-20240617-130401,R06,Chop vegetables for salad,206.0,311.0
+P08-20240617-130401,R06,Return pasta to cupboard,311.0,316.0
+P08-20240617-130401,R06,Continue chopping vegetables for salad,316.0,464.0
+P08-20240617-130401,R06,Check boiling water,464.0,472.0
+P08-20240617-130401,,Throw out food scraps,472.0,490.0
+P08-20240617-130401,R06,Continue chopping vegetables for salad,490.0,568.0
+P08-20240617-130401,R06,Add pasta to boiling water,568.0,575.0
+P08-20240617-130401,R06,Continue chopping vegetables for salad,575.0,615.0
+P08-20240617-130401,R06,Get cans from kitchen cupboard,615.0,634.0
+P08-20240617-130401,R06,Continue chopping vegetables for salad,634.0,795.0
+P08-20240617-130401,,Throw out food scraps,795.0,809.0
+P08-20240617-130401,R06,Continue chopping vegetables for salad,809.0,1088.0
+P08-20240617-130401,R06,Prepare canned food for salad,1088.0,1501.0
+P08-20240617-130401,,Clean up and wash dishes,1501.0,1778.0
+P08-20240617-130401,R06,Season salad and mix,1778.0,1930.0
+P08-20240617-130401,,Clean up and wash dishes,1930.0,end
+P08-20240617-184909,R07,Preheat oven,0.0,44.0
+P08-20240617-184909,R07,Prepare fishcakes and remaining ingredients and put in oven,44.0,197.0
+P08-20240617-184909,R07,"Get airfryer, prepare vegetables and put some in airfryer",197.0,397.0
+P08-20240617-184909,R07,Boil kettle,397.0,436.0
+P08-20240617-184909,R07,Continue preparing vegetables,436.0,533.0
+P08-20240617-184909,R07,Add couscous and boiling water to pot,533.0,593.0
+P08-20240617-184909,R07,Continue preparing vegetables,593.0,750.0
+P08-20240617-184909,R07,Check fishcakes in oven,750.0,773.0
+P08-20240617-184909,R07,Continue preparing vegetables,773.0,788.0
+P08-20240617-184909,R07,Heat pan,788.0,822.0
+P08-20240617-184909,R07,Clear space,822.0,850.0
+P08-20240617-184909,R07,Add vegetables to pan,850.0,871.0
+P08-20240617-184909,,Clean up,871.0,871.0
+P08-20240617-184909,R07,Stir vegetables in pan,871.0,955.0
+P08-20240617-184909,R07,Remove broccoli from air fryer and cut,955.0,1033.0
+P08-20240617-184909,R07,Check fishcakes in oven,1033.0,1041.0
+P08-20240617-184909,R07,Stir vegetables in pan,1041.0,1077.0
+P08-20240617-184909,R07,Wait for food to cook,1077.0,1104.0
+P08-20240617-184909,R07,Add broccoli and green beans to pan and stir,1104.0,1141.0
+P08-20240617-184909,,Clean up,1141.0,1150.0
+P08-20240617-184909,R07,Season vegetables in pan,1150.0,1214.0
+P08-20240617-184909,R07,Record ingredients on phone,1214.0,1238.0
+P08-20240617-184909,R07,Stir vegetables in pan,1238.0,1251.0
+P08-20240617-184909,,Wash dishes,1251.0,1358.0
+P08-20240617-184909,R07,Stir vegetables in pan,1358.0,1379.0
+P08-20240617-184909,,Clean up,1379.0,1435.0
+P08-20240617-184909,R07,Check fishcakes in oven,1435.0,1443.0
+P08-20240617-184909,R07,Stir vegetables in pan,1443.0,1457.0
+P08-20240617-184909,,Clean up,1457.0,1512.0
+P08-20240617-184909,R07,Stir vegetables in pan,1512.0,1529.0
+P08-20240617-184909,,Clean up,1529.0,1543.0
+P08-20240617-184909,R07,Serve food,1543.0,1574.0
+P08-20240617-184909,,Clean spoon,1574.0,1585.0
+P08-20240617-184909,R07,Stir vegetables in pan,1585.0,1596.0
+P08-20240617-184909,,Clean pot in kitchen sink,1596.0,1653.0
+P08-20240617-184909,R07,Check fishcakes in oven and place back in oven,1653.0,1683.0
+P08-20240617-184909,R07,Serve vegetables on plate,1683.0,1731.0
+P08-20240617-184909,,Clean pan,1731.0,1818.0
+P08-20240617-184909,R07,Remove fishcakes from oven and serve,1818.0,end
+P08-20240618-163547,R08,Prepare ingredients and cooking materials,0.0,160.0
+P08-20240618-163547,R08,"Measure, peel and chop red and yellow onions",160.0,418.0
+P08-20240618-163547,R08,"Grab, scan, measure, peel and slice garlic",418.0,617.0
+P08-20240618-163547,R08,Slice and add cherry tomatoes,617.0,653.0
+P08-20240618-163547,R08,Record cherry tomatoes in phone,653.0,688.0
+P08-20240618-163547,R08,"Clean, measure, slice and add celery to bowl",688.0,775.0
+P08-20240618-163547,R08,"prepare, measure and add carrot to bowl",775.0,964.0
+P08-20240618-163547,R08,"slice, measure and add green pepper to bowl",964.0,1112.0
+P08-20240618-163547,R08,Put vegetables back in fridge,1112.0,1136.0
+P08-20240618-163547,R08,"Wash, measure, slice and add mushrooms to bowl",1136.0,1366.0
+P08-20240618-163547,,Clean up kitchen counter,1366.0,1385.0
+P08-20240618-163547,R08,Preheat pan with olive oil,1385.0,1468.0
+P08-20240618-163547,R08,Add and stir vegetables in the pan,1468.0,1511.0
+P08-20240618-163547,R08,"Chop and add chilli pepper, and record on phone",1511.0,1536.0
+P08-20240618-163547,,Clean kitchen counter,1536.0,1545.0
+P08-20240618-163547,R08,Put food in fridge,1545.0,1568.0
+P08-20240618-163547,,Wash dishes and throw out food scraps,1568.0,1647.0
+P08-20240618-163547,,Clean kitchen counter,1647.0,1660.0
+P08-20240618-163547,R08,Stir vegetables in pan,1660.0,1688.0
+P08-20240618-163547,,Wash dishes,1688.0,1715.0
+P08-20240618-163547,R08,Stir vegetables in pan,1715.0,1746.0
+P08-20240618-163547,R08,Use phone to record measurements of beef,1746.0,1795.0
+P08-20240618-163547,R08,Stir vegetables in pan and wait for it to cook,1795.0,1837.0
+P08-20240618-163547,R08,Use phone to record measurements of tomato sauce,1837.0,1897.0
+P08-20240618-163547,R08,Stir vegetables in pan,1897.0,1920.0
+P08-20240618-163547,R08,Check phone,1920.0,1938.0
+P08-20240618-163547,R08,Stir vegetables in pan and wait for it to cook,1938.0,end
+P08-20240618-171546,R08,Stir vegetables in pan,0.0,17.0
+P08-20240618-171546,R08,Add beef into pan and stir with vegetables,17.0,87.0
+P08-20240618-171546,,Throw out trash,87.0,93.0
+P08-20240618-171546,R08,"Stir beef into vegetables in pa, season and wait to cook",93.0,234.0
+P08-20240618-171546,R08,Put ingredients away,234.0,242.0
+P08-20240618-171546,R08,Stir beef into vegetables in pan and season beef,242.0,311.0
+P08-20240618-171546,,Clean up,311.0,325.0
+P08-20240618-171546,R08,Open can of tomatoes,325.0,363.0
+P08-20240618-171546,R08,Stir beef into vegetables in pan and wait for it to cook,363.0,458.0
+P08-20240618-171546,R08,"Add vegetables to pan and mix, then cover with second pan",458.0,526.0
+P08-20240618-171546,,Wash dishes,526.0,573.0
+P08-20240618-171546,,Clean up kitchen counter,573.0,587.0
+P08-20240618-171546,R08,Stir food in pan,587.0,614.0
+P08-20240618-171546,,Clean up kitchen counter and floor,614.0,644.0
+P08-20240618-171546,R08,Stir food in pan,644.0,664.0
+P08-20240618-171546,R08,Season food in pan and cover,664.0,757.0
+P08-20240618-171546,,Put seasoning away,757.0,767.0
+P08-20240618-171546,,Clean spoon in sink,767.0,774.0
+P08-20240618-171546,R08,Record seasoning on phone,774.0,845.0
+P08-20240618-171546,R08,"Stir food in pan, pour tomato sauce into pan and stir",845.0,858.0
+P08-20240618-171546,,Wipe jar to clean,906.0,915.0
+P08-20240618-171546,R08,"Stir sauce into food in pan, then cover",915.0,955.0
+P08-20240618-171546,,Clean can and throw away,955.0,973.0
+P08-20240618-171546,R08,Put jar in fridge,973.0,987.0
+P08-20240618-171546,,Wash dishes and clean counter,987.0,1055.0
+P08-20240618-171546,R08,Stir food in pan,1055.0,1077.0
+P08-20240618-171546,,Clean up kitchen counter,1077.0,1091.0
+P08-20240618-171546,R08,Prepare spaghetti and bowl,1091.0,1159.0
+P08-20240618-171546,,Throw out spaghetti plastic bag,1159.0,1167.0
+P08-20240618-171546,R08,Stir food in pan and cover,1167.0,end
+P08-20240622-141902,R09,Gather and prepare ingredients and cooking materials,0.0,60.0
+P08-20240622-141902,R09,"Weigh, wash, chop and add cucumber to bowl, then mix",60.0,336.0
+P08-20240622-141902,R09,"Peel, chop, record and add garlic and mix",336.0,504.0
+P08-20240622-141902,,Clean up kitchen counter,504.0,526.0
+P08-20240622-141902,R09,Gather sauces,526.0,554.0
+P08-20240622-141902,R09,"Mix ingredients in bowl. Measure and add soy sauce, sesame oil, white vinegar and crispy chili oil, mixing while adding",554.0,767.0
+P08-20240622-141902,R09,"Chop, grate, record and add ginger to bowl. Continue to mix ingredients",806.0,946.0
+P08-20240622-141902,R09,Put chili oil into separate container and return back to fridge,946.0,961.0
+P08-20240622-141902,,Clean up kitchen counter and tidy up,961.0,1003.0
+P08-20240622-141902,,Wash dishes,1003.0,1089.0
+P08-20240622-141902,,Wipe down kitchen counter with paper towel. Fold tea towel and hang,1089.0,end

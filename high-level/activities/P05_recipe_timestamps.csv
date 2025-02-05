@@ -1,0 +1,55 @@
+video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+P05-20240423-170021,R01,Chop ingredients and find spices,0.0,end
+P05-20240423-172243,R01,Add more ingredients to curry,0.0,286.0
+P05-20240423-172243,,Recycle cans and load dishwasher,286.0,end
+P05-20240423-175745,R01,"Continue cooking curry, stirring content",0.0,end
+P05-20240423-180529,R01,"Add rice, chickpeas and spinach to curry",0.0,990.0
+P05-20240423-180529,,Tidy up - load dishwasher and wash knife,990.0,1042.0
+P05-20240423-180529,R01,Drain rice and serve,1042.0,end
+P05-20240423-183358,,Tidy up - load dishwasher,0.0,end
+P05-20240424-085204,R02,Make porridge - weigh and microwave,0.0,110.0
+P05-20240424-085204,,Clean and clear,110.0,190.0
+P05-20240424-085204,R02,Weigh banana to make porridge,190.0,end
+P05-20240424-090812,R02,Microwave porridge and add fruit,0.0,end
+P05-20240424-130119,,heat up curry in microwave,0.0,79.0
+P05-20240424-130119,,Load dishwasher and wipe surfaces,79.0,190.0
+P05-20240424-130119,,Heat up curry and add pickle,190.0,end
+P05-20240424-131231,,Load dishwasher,0.0,end
+P05-20240424-171038,R03,Make pesto,0.0,end
+P05-20240424-175101,R03,Continue making pesto and tidy up,0.0,106.0
+P05-20240424-175101,,Empty dishwasher,106.0,227.0
+P05-20240424-175101,R03,"Finish making pesto, tidy up and load dishwasher",227.0,end
+P05-20240425-082420,R02,Weigh and microwave porridge,0.0,195.0
+P05-20240425-082420,,Unload dishwasher,195.0,246.0
+P05-20240425-082420,R02,Stir and continue to microwave porridge,246.0,end
+P05-20240425-083515,R02,"Finish porridge, add fruit and nuts",0.0,177.0
+P05-20240425-083515,R02,Tidy up,177.0,end
+P05-20240425-124420,,Heat up curry in microwave,0.0,106.0
+P05-20240425-124420,,Tidy up,106.0,162.0
+P05-20240425-124420,,Heat up curry in microwave,162.0,end
+P05-20240425-125459,,Load dishwasher,0.0,end
+P05-20240425-171455,,Load dishwasher,0.0,172.0
+P05-20240425-171455,R04,"Boil pasta, slice and fry the bacon and prepare the egg and parmesan mix",172.0,end
+P05-20240425-173353,R04,"Continue making carbonara, adding boiling water of pasta to sauce then mix eggs and parmesan",0.0,66.0
+P05-20240425-173353,R04,Chop lettuce,66.0,94.0
+P05-20240425-173353,R04,Season bacon and peas for carbonara,94.0,110.0
+P05-20240425-173353,R04,Chop tomatoes,110.0,138.0
+P05-20240425-173353,R04,Stir bacon and peas for carbonara,138.0,160.0
+P05-20240425-173353,R04,"Add spinach, oil and vinegar to salad",160.0,238.0
+P05-20240425-173353,R04,"Add bacon and peas to pasta, then mix in eggs with parmesan",238.0,553.0
+P05-20240425-173353,R04,Serve carbonara and salad,553.0,end
+P05-20240425-180658,,Tidy up,0.0,end
+P05-20240425-201444,R05,Make chocolate puddings,0.0,940.0
+P05-20240425-201444,,Tidy up and load dishwasher,940.0,1297.0
+P05-20240425-201444,R05,Serve chocolate puddings,1297.0,end
+P05-20240426-085333,R02,Make porridge,0.0,99.0
+P05-20240426-085333,,Tidy up - load dishwasher,99.0,250.0
+P05-20240426-085333,R02,Stir and chop banana for porridge,250.0,end
+P05-20240426-091011,R02,Stir and microwave porridge,0.0,end
+P05-20240426-092000,R02,Add fruit and nuts to porridge,0.0,end
+P05-20240427-143353,R06,Make stir fry - put on rice and prep ingredients,0.0,815.0
+P05-20240427-143353,,Load dishwasher,815.0,924.0
+P05-20240427-143353,R06,Fry vegetables,924.0,end
+P05-20240427-145526,R06,Add vegetables and make sauce,0.0,end
+P05-20240427-150402,R06,Weigh leftover ingredients and serve,0.0,end
+P05-20240427-151808,,Tidy up putting away leftover stir fry,0.0,end

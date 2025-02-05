@@ -1,0 +1,47 @@
+video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+P07-20240529-102652,,Unloading the dishwasher,0.0,190.0
+P07-20240529-102652,,Reloading the dishwasher,190.0,251.0
+P07-20240529-102652,,Washing up and refilling dish soap bottle,251.0,542.0
+P07-20240529-102652,,Wiping down sink and work surfaces,542.0,783.0
+P07-20240529-102652,R01,Preparing coffee,783.0,end
+P07-20240529-131737,R02,Bake the chickpeas and wash lettuce leaves,0.0,end
+P07-20240529-134410,R02,"Tearing lettuce, halving tomatoes, chopping cucumber tearing olives and put all in bowl with crumbled blue cheese",0.0,674.0
+P07-20240529-134410,,Tidying up,674.0,773.0
+P07-20240529-134410,R02,"Remove chickpeas from oven, removing burnt ones, add to salad and mix",773.0,end
+P07-20240529-191007,R03,"Cook mushrooms with vegetable stock. In another saucepan, fry onions and garlic. Measure risotto rice",0.0,end
+P07-20240529-194518,R03,"Season, add the rice and wine to the mushroom risotto",0.0,393.0
+P07-20240529-194518,,Tidying up and loading the dishwasher,393.0,434.0
+P07-20240529-194518,R03,"Simmer the risotto, adding stock and grate the cheese",434.0,847.0
+P07-20240529-194518,,"Tidy up, clean, wash up and wipe down surfaces",847.0,1135.0
+P07-20240529-194518,R03,Continue stirring the risotto and adding the remaining stock,1135.0,1174.0
+P07-20240529-194518,,Washing up,1174.0,1211.0
+P07-20240529-194518,,Hoovering,1211.0,1268.0
+P07-20240529-194518,R03,"Finishing off the risotto, add butter, grated cheese and parsley leaves",1268.0,end
+P07-20240530-102543,,Unloading the dishwasher - putting dishes away,0.0,170.0
+P07-20240530-102543,,Reloading the dishwasher,170.0,221.0
+P07-20240530-102543,R04,"Prepare the cookies mix with butter, banana, egg yolk and flour. Fold the chocolate chips into the mix",221.0,1127.0
+P07-20240530-102543,,Tidy up,1127.0,1150.0
+P07-20240530-102543,R04,Preheat the oven,1150.0,1155.0
+P07-20240530-102543,,Tidy up - load the dishwasher and wash up,1155.0,1399.0
+P07-20240530-102543,R04,Line parchment paper on baking trays,1399.0,1515.0
+P07-20240530-102543,R05,Freshly grind coffee and start preparing coffee using espresso machine,1515.0,1619.0
+P07-20240530-102543,,Clean up,1619.0,1668.0
+P07-20240530-102543,R05,Pour the espresso using the machine,1668.0,1669.0
+P07-20240530-102543,R04,Scoop the cookies and line up on parchment paper,1669.0,end
+P07-20240530-111344,R04,Remove the baking trays with baked cookies from the oven,0.0,42.0
+P07-20240530-111344,R05,Boil the kettle to add water to coffee,42.0,60.0
+P07-20240530-111344,,Washing up and loading the dishwasher,60.0,end
+P07-20240531-101357,,"Washing up, loading the dishwasher and tidying",0.0,351.0
+P07-20240531-101357,,"Wiping tiles, surface and coffee machine",351.0,623.0
+P07-20240531-101357,,"Cleaning sink area including draining board, tiles and surfaces",623.0,1122.0
+P07-20240531-101357,,Washing up coffee equipment and air fryer,1122.0,1524.0
+P07-20240531-101357,,"Tidying up and wiping down sink, tiles, surfaces and cupboards",1524.0,2322.0
+P07-20240531-101357,R06,Prepare espresso coffee with freshly ground beans,2322.0,end
+P07-20240531-201703,R07,"Preheat the oven. Wash, peel and chop sweet potatoes, then roast",0.0,508.0
+P07-20240531-201703,,Clean and clear,508.0,572.0
+P07-20240531-201703,R07,"Prepare the dressing, add lettuce, sweetcorn and avocado. Once ready, add the roasted sweet potato to salad and mix with the dressing",572.0,1400.0
+P07-20240531-201703,,Clean and clear - put ingredients and equipment away,1400.0,1546.0
+P07-20240531-201703,,Washing up and loading the dishwasher,1546.0,1712.0
+P07-20240531-201703,,Replacing the bag in the food composting bin and throwing away food scraps,1712.0,1766.0
+P07-20240531-201703,,Cleaning surfaces,1766.0,1836.0
+P07-20240531-201703,,Serving a portion of salad,1836.0,end

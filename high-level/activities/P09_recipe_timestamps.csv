@@ -1,0 +1,345 @@
+video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+P09-20240621-093545,R01,Retrieve ingredients from fridge,10.0,35.0
+P09-20240621-093545,,Clean up,35.0,48.0
+P09-20240621-093545,R01,Retrieve cooking utensils,48.0,60.0
+P09-20240621-093545,R01,Prepare Chicken,60.0,91.0
+P09-20240621-093545,R01,Retrieve napkins and scale,91.0,125.0
+P09-20240621-093545,,Clean up,125.0,130.0
+P09-20240621-093545,R01,Continue preparing chicken,130.0,138.0
+P09-20240621-093545,,Clean up,138.0,144.0
+P09-20240621-093545,R01,Weigh and prepare chicken,144.0,180.0
+P09-20240621-093545,,Clean up,180.0,190.0
+P09-20240621-093545,R01,Store excess chicken and prepare the chicken,190.0,292.0
+P09-20240621-093545,,Clean up,292.0,300.0
+P09-20240621-093545,R01,Retrieve pots from cabinet,300.0,311.0
+P09-20240621-093545,,Clean up,311.0,356.0
+P09-20240621-093545,R01,Retrieve ingredients and finish preparing chicken,356.0,408.0
+P09-20240621-093545,R01,Start preparing the Thai red curry (place cut chicken breasts in pot and add water),408.0,432.0
+P09-20240621-093545,,Clean up,432.0,437.0
+P09-20240621-093545,R01,Start boiling chicken for Thai red curry,437.0,444.0
+P09-20240621-093545,,Tidy up,444.0,450.0
+P09-20240621-093545,R01,Retrieve ingredients,450.0,485.0
+P09-20240621-093545,,Clean up,485.0,547.0
+P09-20240621-093545,R01,Wash courgette,547.0,549.0
+P09-20240621-093545,,Clean up,549.0,581.0
+P09-20240621-093545,R01,"Cut, slice, weigh and plate courgette",581.0,676.0
+P09-20240621-093545,,Clean up,676.0,683.0
+P09-20240621-093545,R01,Stir the meat and reduce heat,683.0,689.0
+P09-20240621-093545,R01,Drain chicken in colander,689.0,738.0
+P09-20240621-093545,R01,"Transfer cooked meat to plate, retrieve and prepare ingredients",738.0,805.0
+P09-20240621-093545,R01,"Pour oil into pot, add salt, add chicken and red curry paste and stir",805.0,1060.0
+P09-20240621-093545,,Clean up and tidy,1060.0,1081.0
+P09-20240621-093545,R01,"Reduce heat, pour coconut milk into pot and stir",1081.0,1150.0
+P09-20240621-093545,R01,Fill kettle of water,1150.0,1163.0
+P09-20240621-093545,R01,Pour remaining coconut milk into bowl,1163.0,1176.0
+P09-20240621-093545,,Clean up and tidy,1176.0,1252.0
+P09-20240621-093545,R01,Stir pot of chicken and coconut milk,1252.0,1275.0
+P09-20240621-093545,,Clean - wash plate and knife,1275.0,1303.0
+P09-20240621-093545,R01,Continue Stirring pot of chicken and coconut milk,1303.0,1316.0
+P09-20240621-093545,,Clean - colander and recyclables,1316.0,1362.0
+P09-20240621-093545,R01,Continue Stirring pot of chicken and coconut milk and reduce heat,1362.0,1378.0
+P09-20240621-093545,R01,Prepare chilli,1378.0,1410.0
+P09-20240621-093545,,Clean up,1410.0,1416.0
+P09-20240621-093545,R01,"Prep chilli, then add sliced bamboo shoots from can and sliced courgette and stir",1416.0,1588.0
+P09-20240621-093545,,Clean up and tidy,1588.0,1678.0
+P09-20240621-093545,R01,Stir pot and increase heat,1678.0,1700.0
+P09-20240621-093545,,Clean - wash dishes,1700.0,1775.0
+P09-20240621-093545,R01,Stir pot,1775.0,1817.0
+P09-20240621-093545,,Clean - Chopping board and counter surface,1817.0,1857.0
+P09-20240621-093545,R01,Stir pot,1857.0,1886.0
+P09-20240621-093545,,Clean- wipe counter surface,1886.0,1891.0
+P09-20240621-093545,R01,Pluck basil leaves,1891.0,1966.0
+P09-20240621-093545,,Clean - take discarded bail leaves to food bin,1966.0,1959.0
+P09-20240621-093545,R01,"Pluck and Prepare basil leaves, stir pot, add chili",1959.0,2078.0
+P09-20240621-093545,,Clean - knife and counter surface,2078.0,2103.0
+P09-20240621-093545,R01,Stir pot and taste,2103.0,2164.0
+P09-20240621-093545,R01,Add basil to pot and stir,2164.0,2237.0
+P09-20240621-093545,,Tidy up fridge,2237.0,2263.0
+P09-20240621-093545,R01,Stir pot,2263.0,2305.0
+P09-20240621-093545,R01,Microwave rice,2305.0,2368.0
+P09-20240621-093545,R01,Stir pot and find utensils,2368.0,2485.0
+P09-20240621-093545,R01,Pluck and prepare basil leaves,2485.0,2525.0
+P09-20240621-093545,R01,"Add basil to pot, stir pot and turn off hob",2525.0,2574.0
+P09-20240621-093545,,Clean - wash serving spoon,2574.0,2598.0
+P09-20240621-093545,R01,Stir pot to mix,2598.0,2606.0
+P09-20240621-093545,R01,Plate rice,2606.0,2618.0
+P09-20240621-093545,,Clean - wash fork,2618.0,2626.0
+P09-20240621-093545,R01,Serve thai red curry along with rice,2626.0,2650.0
+P09-20240621-093545,,"Clean, tidy up and store leftovers",2650.0,end
+P09-20240622-194642,R02,Prepare potato-chicken ball and turn on hob,0.0,42.0
+P09-20240622-194642,,Offload dish rack and place items in cabinet,42.0,128.0
+P09-20240622-194642,R02,Continue preparing potato-chicken ball,128.0,128.0
+P09-20240622-194642,,Store plates in cupboard,128.0,148.0
+P09-20240622-194642,R02,Store leftover back in freezer,148.0,162.0
+P09-20240622-194642,R03,Pour hibiscus drink into cup and store leftover in fridge,162.0,190.0
+P09-20240622-194642,R02,Turn cooking potato-chicken ball,190.0,210.0
+P09-20240622-194642,,Clean - Wash and refill ice tray,210.0,296.0
+P09-20240622-194642,R02,Turn cooking potato-chicken ball,296.0,303.0
+P09-20240622-194642,,Return ice tray,303.0,318.0
+P09-20240622-194642,,Clean - wash hands,318.0,336.0
+P09-20240622-194642,R02,Turn potato-chicken ball and turn off hob,336.0,350.0
+P09-20240622-194642,R02,Finish preparing potato-chicken ball and place in plate,350.0,end
+P09-20240622-150155,R02,Retrieve pots and plates,0.0,32.0
+P09-20240622-150155,R02,Prepare chicken,32.0,56.0
+P09-20240622-150155,,Clean - wash and dry hands,56.0,90.0
+P09-20240622-150155,R02,Weigh ingredients and retrieve plates,90.0,224.0
+P09-20240622-150155,R02,Separate flour into two bowls and combine spices,224.0,289.0
+P09-20240622-150155,,Store spice jars,289.0,294.0
+P09-20240622-150155,R02,Measure and add salt to spice mix,294.0,306.0
+P09-20240622-150155,,Keep salt aside,306.0,311.0
+P09-20240622-150155,R02,Mix spices,311.0,315.0
+P09-20240622-150155,,Clear counter top,315.0,342.0
+P09-20240622-150155,R02,Crack eggs,342.0,346.0
+P09-20240622-150155,,Refill kettle and set to boil,346.0,368.0
+P09-20240622-150155,R02,Beat eggs,368.0,400.0
+P09-20240622-150155,R02,Retrieve pot,400.0,469.0
+P09-20240622-150155,,Clean up,469.0,496.0
+P09-20240622-150155,R02,Measure salt and add to pot,496.0,516.0
+P09-20240622-150155,R02,Peel potatoes,516.0,579.0
+P09-20240622-150155,R02,Add water to pots and refill kettle,579.0,614.0
+P09-20240622-150155,R02,Finish peeling potatoes,614.0,649.0
+P09-20240622-150155,R03,Weigh ginger,649.0,720.0
+P09-20240622-150155,R03,Add water to third pot,720.0,744.0
+P09-20240622-150155,R03,"Measure ginger and hibiscus flower, and add to water",744.0,801.0
+P09-20240622-150155,R03,Turn on hob,801.0,813.0
+P09-20240622-150155,R02,Chop potatoes and chicken and add to boiling water,813.0,947.0
+P09-20240622-150155,,Clean up,947.0,960.0
+P09-20240622-150155,R03,Stir pot of hibiscus flower,960.0,985.0
+P09-20240622-150155,,Clean up and tidy,985.0,1140.0
+P09-20240622-150155,R03,Stir boiling hibiscus flowers,1140.0,1150.0
+P09-20240622-150155,,Retrieve cutlery,1150.0,1177.0
+P09-20240622-150155,R02,Stir boiling potatoes,1177.0,1186.0
+P09-20240622-150155,,Retrieve potato masher,1186.0,1202.0
+P09-20240622-150155,R02,Stir chicken and check if cooked through,1202.0,1227.0
+P09-20240622-150155,R03,Stir boiling hibiscus flowers,1227.0,1242.0
+P09-20240622-150155,R02,Stir pot of boiling potatoes,1242.0,1270.0
+P09-20240622-150155,R02,Stir chicken and check if cooked through,1270.0,1287.0
+P09-20240622-150155,R02,Weigh mozzarella,1287.0,1320.0
+P09-20240622-150155,R02,"Stir chicken and check if cooked through, then prepare for shredding",1320.0,1414.0
+P09-20240622-150155,R02,Transfer potatoes to larger pot and turn on hob,1414.0,1367.0
+P09-20240622-150155,R02,Finish measuring and Weighing mozzarella,1367.0,1470.0
+P09-20240622-150155,R02,"Shred chicken and mix spices, and stir potatoes",1470.0,1819.0
+P09-20240622-150155,,Clear - counter surface,1819.0,1827.0
+P09-20240622-150155,R02,Finish mixing combined spices with shredded chicken,1827.0,1848.0
+P09-20240622-150155,R02,Stir boiling potatoes and confirm its cooked through,1848.0,1859.0
+P09-20240622-150155,R02,Drain and mash boiled potatoes,1859.0,1945.0
+P09-20240622-150155,,Clean - wash pot,1945.0,1960.0
+P09-20240622-150155,R02,Finish mashing potatoes,1960.0,1989.0
+P09-20240622-150155,R02,"Combine mashed potatoes, shredded chicken, flour and mozzarella together",1989.0,2055.0
+P09-20240622-150155,,Clean utensils,2055.0,2062.0
+P09-20240622-150155,R02,"Combine mashed potatoes, shredded chicken, flour and mozzarella together",2062.0,2108.0
+P09-20240622-150155,,Clean up,2108.0,2131.0
+P09-20240622-150155,R02,"Finish Combining mashed potatoes, shredded chicken, flour and mozzarella together",2131.0,2142.0
+P09-20240622-150155,,Clean up,2142.0,2165.0
+P09-20240622-150155,R02,"Mould potato-chicken-cheese mix into balls and coat with flour, eggs and bread crumbs",2165.0,2464.0
+P09-20240622-150155,,Clean up,2464.0,end
+P09-20240622-154652,R02,Weigh ingredients,6.0,57.0
+P09-20240622-154652,R02,Prepare potato-chicken balls,57.0,166.0
+P09-20240622-154652,,Clean up,166.0,201.0
+P09-20240622-154652,R02,Finish Preparing potato-chicken balls,201.0,257.0
+P09-20240622-154652,,Clean up,257.0,496.0
+P09-20240622-154652,R02,Pour oil into pot on hob,496.0,531.0
+P09-20240622-154652,,Clean up,531.0,593.0
+P09-20240622-154652,R02,Check oil,593.0,615.0
+P09-20240622-154652,R02,Package leftovers,615.0,649.0
+P09-20240622-154652,R02,"Place a potato-chicken ball in the oil to fry, stir and package leftovers",649.0,1057.0
+P09-20240622-154652,,Tidy up,1057.0,end
+P09-20240622-162302,R03,Separate hibiscus drink from discard,0.0,116.0
+P09-20240622-162302,,Fill kettle of water,116.0,144.0
+P09-20240622-162302,,Clean up,144.0,190.0
+P09-20240622-162302,R03,Measure sugar,190.0,304.0
+P09-20240622-162302,,Clean up and tidy,304.0,320.0
+P09-2024623-154547,,Fill mug with boiling water and stir,0.0,20.0
+P09-2024623-154547,,Cleanup,20.0,end
+P09-20240625-103827,,Unload dishwasher,0.0,end
+P09-20240624-160737,R06,Clean up and tidy,0.0,53.0
+P09-20240624-160737,R06,Retrieve materials and gather and prepare ingredients,53.0,639.0
+P09-20240624-160737,R06,Drizzle skewers with oil and arrange in baking tray,639.0,665.0
+P09-20240624-160737,,Walk around kitchen,665.0,669.0
+P09-20240624-160737,R06,Continue preparing ingredients and cooking materials,669.0,824.0
+P09-20240624-160737,,Return pack of skewers to drawer,824.0,827.0
+P09-20240624-160737,R06,Weigh and peel potatoes,827.0,907.0
+P09-20240624-160737,,Clean up and tidy,907.0,916.0
+P09-20240624-160737,R06,"Retrieve spices from spice basket, crockery and mix chosen spices",916.0,1071.0
+P09-20240624-160737,R06,Slice potatoes,1071.0,1079.0
+P09-20240624-160737,,Turn on hob,1079.0,1084.0
+P09-20240624-160737,R06,Continue slicing potato,1084.0,1136.0
+P09-20240624-160737,,Clean and Tidy up,1136.0,1148.0
+P09-20240624-160737,R06,Continue peeling potato,1148.0,1169.0
+P09-20240624-160737,R06,Place fries on hob,1169.0,1186.0
+P09-20240624-160737,R06,Stir fries and prepare potatoes,1186.0,1316.0
+P09-20240624-160737,,Clear - knife and surface,1316.0,1316.0
+P09-20240624-160737,R06,Continue stirring fries and slicing potato,1316.0,1395.0
+P09-20240624-160737,,Tidy up,1395.0,1397.0
+P09-20240624-160737,R06,Finish stirring fries,1397.0,1411.0
+P09-20240624-160737,,Clean up and tidy,1411.0,1444.0
+P09-20240624-160737,R06,"Transfer fries to plate, season and taste",1444.0,1511.0
+P09-20240624-160737,,Clean and tidy up,1511.0,1518.0
+P09-20240624-160737,R06,Retrieve plate from drawer,1518.0,1537.0
+P09-20240624-160737,,Clean and tidy up,1537.0,1555.0
+P09-20240624-160737,R06,Place fries on hob and stir,1555.0,1572.0
+P09-20240624-160737,,Clean and tidy up,1572.0,1582.0
+P09-20240624-160737,R06,Inspect skewers on baking tray,1582.0,1604.0
+P09-20240624-160737,R06,Stir fries and taste,1604.0,1719.0
+P09-20240624-160737,,Tidy counter top,1719.0,1723.0
+P09-20240624-160737,R06,"stir fries, taste and transfer to plate",1723.0,1826.0
+P09-20240624-160737,R06,"Retrieve a new saucepan, transfer oil between saucepans and add more oil",1826.0,1858.0
+P09-20240624-160737,R06,Place fries on hob and stir,1858.0,1897.0
+P09-20240624-160737,R06,Serve fries,1897.0,1903.0
+P09-20240624-160737,,Eat fries,1903.0,1910.0
+P09-20240624-160737,,Cool saucepan in sink,1910.0,1925.0
+P09-20240624-160737,R06,Stir fries in pan,1925.0,1949.0
+P09-20240624-160737,,Clean and tidy up,1949.0,1957.0
+P09-20240624-160737,R06,Turn skewers around and return to oven,1957.0,1979.0
+P09-20240624-160737,,Tidy up,1979.0,1985.0
+P09-20240624-160737,R06,Continue stirring fries,1985.0,1960.0
+P09-20240624-160737,,Clean and tidy up,1960.0,2054.0
+P09-20240624-160737,R06,Continue stirring fries,2054.0,2062.0
+P09-20240624-160737,,Clean and tidy up,2062.0,2115.0
+P09-20240624-160737,R06,Continue stirring fries,2115.0,2137.0
+P09-20240624-160737,,Clean and tidy up,2137.0,end
+P09-20240623-153253,,Clean up and Tidy,0.0,118.0
+P09-20240623-153253,,Unload dishwasher,118.0,end
+P09-20240623-153748,,Clean up and tidy and prepare tea,0.0,end
+P09-20240622-162302,R03,Move saucepan to counter top,0.0,15.0
+P09-20240622-162302,,Tidy counter top,15.0,25.0
+P09-20240622-162302,R03,Retrieve utensils and prepare cooking space,25.0,82.0
+P09-20240622-162302,R03,Filter hibiscus drink,82.0,120.0
+P09-20240622-162302,R03,"Get sugar, scale and refill kettle",120.0,137.0
+P09-20240622-162302,,Clean up and tidy,137.0,198.0
+P09-20240622-162302,R03,Retrieve ingredients (sugar) and prepare ingredients,198.0,230.0
+P09-20240622-162302,R03,Turn on kettle,230.0,231.0
+P09-20240622-162302,R03,Measure some sugar and add to bowl,231.0,311.0
+P09-20240622-162302,,Tidy counter top,311.0,324.0
+P09-20240622-162302,R03,Add water to sugar and pour drink using beaker,324.0,464.0
+P09-20240622-162302,,Clean and tidy up,464.0,662.0
+P09-20240622-162302,R03,Place saucepans on hob and turn on,662.0,668.0
+P09-20240622-162302,,Tidy Up and fry omelette (not a recipe),668.0,1007.0
+P09-20240622-162302,R03,Inspect hibiscus drink,1007.0,1020.0
+P09-20240622-162302,,Tidy counter top and place hibiscus drink in fridge,1020.0,end
+P09-20240624-165332,R06,Set timer,0.0,11.0
+P09-20240624-165332,R06,Check on skewers,11.0,19.0
+P09-20240624-165332,R06,Place saucepan on hob and ignite it and eat fries,19.0,42.0
+P09-20240624-165332,R06,Sprinkle water in oil,42.0,47.0
+P09-20240624-165332,,Clean and tidy up,47.0,96.0
+P09-20240624-165332,R06,Prepare and Place fries in pan and stir,96.0,156.0
+P09-20240624-165332,,Wash and rinse crockery,156.0,166.0
+P09-20240624-165332,R06,Place fries in pan,166.0,169.0
+P09-20240624-165332,,Clean up and tidy,169.0,220.0
+P09-20240624-165332,R06,Stir fries,220.0,228.0
+P09-20240624-165332,,Tidy counter top,228.0,232.0
+P09-20240624-165332,R06,Season fries,232.0,252.0
+P09-20240624-165332,,Tidy up,252.0,259.0
+P09-20240624-165332,R06,"Stir fries, check on skewers and plate ready ones on plate. Return the rest to the oven",259.0,369.0
+P09-20240624-165332,,Clean and tidy up,369.0,396.0
+P09-20240624-165332,R06,Stir fries and taste food,396.0,429.0
+P09-20240624-165332,,Wipe hands,429.0,438.0
+P09-20240624-165332,R06,Stir fries and transfer to plate,438.0,540.0
+P09-20240624-165332,R06,"Season fries in plate and continue stirring remaining fries, and retrieve the remaining kebab from oven",540.0,684.0
+P09-20240624-165332,,Clean and tidy,684.0,1095.0
+P09-20240624-165332,,Retrieve milk ingredients,1095.0,1114.0
+P09-20240624-165332,,Eat fries,1114.0,1119.0
+P09-20240624-165332,,Look about kitchen,1119.0,1130.0
+P09-20240624-165332,R06,Pour oil into bowl,1130.0,1142.0
+P09-20240624-165332,,"Clean up and tidy, and prepare tea",1142.0,1406.0
+P09-20240624-165332,R06,Consult timer and move food across kitchen,1406.0,end
+P09-20240623-120359,R05,Set timer,0.0,20.0
+P09-20240623-120359,R04,Prepare and season beef meat,20.0,286.0
+P09-20240623-120359,,Dry hands,286.0,289.0
+P09-20240623-120359,,Pack excess meat in freezer bag and store excess away,289.0,311.0
+P09-20240623-120359,,Clean up and tidy,311.0,346.0
+P09-20240623-120359,R04,Place beef on counter,346.0,350.0
+P09-20240623-120359,,Wash hands,350.0,357.0
+P09-20240623-120359,,Retrieve chopping board,357.0,368.0
+P09-20240623-120359,,Clean up and tidy,368.0,380.0
+P09-20240623-120359,R04,Retrieve frying pan and place on hob,380.0,388.0
+P09-20240623-120359,R04,Slice onions and refill kettle,388.0,555.0
+P09-20240623-120359,R04,Retrieve ingredients and equipments,555.0,583.0
+P09-20240623-120359,R04,Gather oil and ghee and pour oil,583.0,614.0
+P09-20240623-120359,,Wonder about kitchen,614.0,620.0
+P09-20240623-120359,R04,Rinse beef,620.0,665.0
+P09-20240623-120359,R04,Fry onion with spices and prepare a cup of yoghurt,665.0,749.0
+P09-20240623-120359,R04,Finish rinsing beef,749.0,782.0
+P09-20240623-120359,R04,Add beef and yoghurt and water to saucepan and stir,782.0,869.0
+P09-20240623-120359,,Return yoghurt to fridge,869.0,879.0
+P09-20240623-120359,R04,"Retrieve garlic and ginger, add to saucepan and stir",879.0,921.0
+P09-20240623-120359,,Tidy up,921.0,937.0
+P09-20240623-120359,R04,Turn on hob and add oil into frying pan,937.0,953.0
+P09-20240623-120359,,Wonder about kitchen,953.0,967.0
+P09-20240623-120359,R04,Retrieve ingredients and prepare,967.0,1000.0
+P09-20240623-120359,,Clean up,1000.0,1013.0
+P09-20240623-120359,R04,Prepare chilli,1013.0,1029.0
+P09-20240623-120359,R04,Add onions to frying pan and stir,1029.0,1051.0
+P09-20240623-120359,,Clean up and tidy,1051.0,1078.0
+P09-20240623-120359,R04,Stir onions and saucepan,1078.0,1144.0
+P09-20240623-120359,,Clean up and Tidy,1144.0,1159.0
+P09-20240623-120359,R05,Prepare ingredients and equipment,1159.0,1171.0
+P09-20240623-120359,R04,Stir onions and saucepan,1171.0,1213.0
+P09-20240623-120359,R05,Bring utensils,1213.0,1230.0
+P09-20240623-120359,R04,Stir onions and transfer to bowl,1230.0,1243.0
+P09-20240623-120359,,Clean up and tidy,1243.0,1279.0
+P09-20240623-120359,R05,Gather and prepare ingredients,1279.0,1427.0
+P09-20240623-120359,,Clean up and tidy,1427.0,1438.0
+P09-20240623-120359,R05,Prepare mango,1438.0,1497.0
+P09-20240623-120359,R04,Stir saucepan and get utensils,1497.0,1526.0
+P09-20240623-120359,R05,Continue preparing mango,1526.0,1652.0
+P09-20240623-120359,,Clean up and tidy,1652.0,1665.0
+P09-20240623-120359,R04,Add ingredients and water and salt to saucepan and stir,1665.0,1762.0
+P09-20240623-120359,,Clean up and tidy,1762.0,1787.0
+P09-20240623-120359,R05,Add honey to blender cup,1787.0,1808.0
+P09-20240623-120359,R05,Bring cold water and ice and add to blender's cup,1808.0,1858.0
+P09-20240623-120359,,Clean up,1858.0,1872.0
+P09-20240623-120359,R04,Stir saucepan,1872.0,1884.0
+P09-20240623-120359,,Tidy up,1884.0,1924.0
+P09-20240623-120359,R04,Stir saucepan,1924.0,1938.0
+P09-20240623-120359,,Clean up,1938.0,1951.0
+P09-20240623-120359,R05,Pour coconut milk into bowl,1951.0,1958.0
+P09-20240623-120359,,Clean up and tidy,1958.0,2009.0
+P09-20240623-120359,R05,Blend mango lassi,2009.0,2034.0
+P09-20240623-120359,,Clean up and tidy,2034.0,2092.0
+P09-20240623-120359,R04,Add water to saucepan and Stir,2092.0,2162.0
+P09-20240623-120359,R05,Prepare more mango and blend mango lassi,2162.0,2278.0
+P09-20240623-120359,,Clean up and tidy,2278.0,2290.0
+P09-20240623-120359,,Return ice tray and cold water to freezer,2290.0,2297.0
+P09-20240623-120359,,Tidy up,2297.0,2303.0
+P09-20240623-120359,R04,Stir saucepan and add water,2303.0,2358.0
+P09-20240623-120359,R04,Retrieve utensils,2358.0,2394.0
+P09-20240623-120359,R04,Stir saucepan and drain excess oil,2394.0,2481.0
+P09-20240623-120359,R04,Checking meat is tender,2481.0,2493.0
+P09-20240623-120359,R04,Add water to saucepan and stir,2493.0,2521.0
+P09-20240623-120359,R05,Bring tumbler and pour mango lassi into it,2521.0,2557.0
+P09-20240623-120359,,Tidy up,2557.0,2591.0
+P09-20240623-120359,R04,Stir saucepan,2591.0,2773.0
+P09-20240623-120359,,Clean up and drink lassi,2773.0,2930.0
+P09-20240623-120359,R04,Add water to saucepan and stir,2930.0,2979.0
+P09-20240623-120359,,Clean up and Tidy,2979.0,3123.0
+P09-20240623-120359,R04,Stir saucepan,3123.0,3146.0
+P09-20240623-120359,,Clean up and drink lassi,3146.0,3252.0
+P09-20240623-120359,R04,Stir saucepan and add water to it,3252.0,3473.0
+P09-20240623-120359,,Clean up and Tidy,3473.0,3495.0
+P09-20240623-120359,R04,Stir saucepan,3495.0,3522.0
+P09-20240623-120359,,Clean up and Tidy,3522.0,3576.0
+P09-20240623-120359,R04,Stir saucepan and turn off hob then serve,3576.0,3610.0
+P09-20240623-120359,,Clean up and Tidy,3610.0,end
+P09-20240621-153208,R03,Prepare ingredients and equipment,0.0,144.0
+P09-20240621-153208,R03,Adding hibiscus flowers and ginger to saucepan,144.0,194.0
+P09-20240621-153208,R03,Put utensils away,194.0,254.0
+P09-20240621-153208,R03,Bringing cooking utensils,254.0,263.0
+P09-20240621-153208,R03,Add hibiscus flower to saucepan and stir,263.0,291.0
+P09-20240621-153208,R03,Keep scale and ingredients away,291.0,307.0
+P09-20240621-153208,,Clean up,307.0,368.0
+P09-20240621-153208,R03,"Stir saucepan, add water and cover",368.0,399.0
+P09-20240621-153208,,Clean up,399.0,512.0
+P09-20240621-153208,R03,Stir saucepan and add water,512.0,643.0
+P09-20240621-153208,R03,Refill kettle,643.0,654.0
+P09-20240621-153208,,Clean up,654.0,684.0
+P09-20240621-153208,,Pour and drink orange juice,684.0,714.0
+P09-20240621-153208,R03,Stir saucepan and bring cooking utensils,714.0,789.0
+P09-20240621-153208,R03,Check hibiscus drink by tasting and reduce hob's heat,789.0,808.0
+P09-20240621-153208,R03,Sieve hibiscus drink,808.0,862.0
+P09-20240621-153208,R03,Bring measuring cup,862.0,878.0
+P09-20240621-153208,,Clean up,878.0,889.0
+P09-20240621-153208,R03,Filter hibiscus drink and clean up,889.0,972.0
+P09-20240621-153208,,Clean up and tidy,972.0,981.0
+P09-20240621-153208,R03,Measure sugar and mix with drink,981.0,1016.0
+P09-20240621-153208,,Tidy up,1017.0,end

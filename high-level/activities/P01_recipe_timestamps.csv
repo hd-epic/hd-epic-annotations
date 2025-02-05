@@ -1,0 +1,120 @@
+video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+P01-20240202-110250,R01,Prepare Coffee,0.0,48.0
+P01-20240202-110250,,Prepare Freshly-squeezed Orange Juice,48.0,103.0
+P01-20240202-110250,,Washing up and refilling dish soap bottle,103.0,136.0
+P01-20240202-110250,R01,Finish preparing coffee,136.0,155.0
+P01-20240202-110250,,Clean and clear,155.0,183.0
+P01-20240202-110250,,Continue orange juice,183.0,319.0
+P01-20240202-110250,,Clean and clear,319.0,end
+P01-20240202-161354,,"Clear kitchen, washing some dishes and loading the dishwasher.",0.0,34.0
+P01-20240202-161354,R03,Prepare pasta dish part 1,34.0,end
+P01-20240202-161948,R03,Prepare pasta dish part 2,0.0,end
+P01-20240202-171220,,Clear the dishes,0.0,130.0
+P01-20240202-171220,,Prepare candy floss,130.0,178.0
+P01-20240202-171220,,Drink some water,178.0,192.0
+P01-20240202-171220,,Continue preparing candy floss,192.0,213.0
+P01-20240202-171220,,Brew tea,213.0,290.0
+P01-20240202-171220,,Continue preparing candy floss,290.0,end
+P01-20240202-175627,,Washing up and pouring tea,0.0,end
+P01-20240202-195538,,Washing up and cleaning and putting dishes in dishwasher,0.0,444.0
+P01-20240202-195538,,(with interruptions) heat soup in microwave,107.0,520.0
+P01-20240202-195538,,Switch on heating,510.0,525.0
+P01-20240203-093333,R01,Prepare coffee,0.0,end
+P01-20240203-121517,,Unpack the groceries,0.0,156.0
+P01-20240203-121517,R04,Start preparing the yeast and measure flour,156.0,end
+P01-20240203-123350,R04,Prep the dough,0.0,440.0
+P01-20240203-123350,R04,Cook the meat,440.0,1340.0
+P01-20240203-123350,R06,Start peeling the carrots,1340.0,1601.0
+P01-20240203-123350,R04,Cook the meat adding stock,1601.0,1663.0
+P01-20240203-123350,R06,Continue peeling the carrots,1663.0,end
+P01-20240203-130505,R06,Measure the butter and chop onion,0.0,210.0
+P01-20240203-130505,R04,Season the meat,210.0,285.0
+P01-20240203-130505,R06,"measure the onion, chop the carrots, melt the butter and add onion to it, and continue cutting the carrots then add the carrots to the pot mixing thoroughly",285.0,725.0
+P01-20240203-130505,R04,Check the meat is ready and switch the hob off and move it aside to cool down,725.0,765.0
+P01-20240203-130505,R06,Mix the content of the pot allowing the carrot and onions to soften,765.0,end
+P01-20240203-132119,R06,Add water and stock to the soup,0.0,205.0
+P01-20240203-132119,,"Clear the space, cleaning dishes and loading dishwasher.",205.0,540.0
+P01-20240203-132119,R05,"Gather ingredients, crushing biscuits",540.0,end
+P01-20240203-135502,R05,Finish crushing biscuits,0.0,75.0
+P01-20240203-135502,R06,Check the soup and adjusting the temperature,75.0,93.0
+P01-20240203-135502,R05,"Weight biscuits, prepare the chocolate sauce",93.0,666.0
+P01-20240203-135502,R06,Check on the soup,666.0,696.0
+P01-20240203-135502,R05,"Finish preparing the full recipe and put into the fridge to cool, only awaiting to be cut into chunks",696.0,1090.0
+P01-20240203-135502,,Clean and clear,1090.0,1162.0
+P01-20240203-135502,R04,Prepare the dough balls as well as the mixture of meat with other ingredients,1162.0,1973.0
+P01-20240203-135502,,Clean and clear,1973.0,2013.0
+P01-20240203-135502,R06,"Turn off the heat, blend the soup and season",2013.0,2504.0
+P01-20240203-135502,R04,Check the preheating of the oven,2504.0,end
+P01-20240203-150506,,Clean and clear,0.0,13.0
+P01-20240203-150506,R04,Put the trays in the oven to start baking and set the timer to 12 minutes,13.0,35.0
+P01-20240203-150506,,"Clean and clear, including loading and starting the dishwasher",35.0,660.0
+P01-20240203-150506,R04,Check on the oven and increasing the timer's duration,660.0,672.0
+P01-20240203-150506,,Continue clearing,672.0,end
+P01-20240203-152323,R04,Take meat pies out of oven,0.0,end
+P01-20240203-152956,,"Pick up the second tray from the oven, pile the meat pies on two plate and cover one of them using foil paper",0.0,end
+P01-20240203-161757,,Clean and clear,0.0,20.0
+P01-20240203-161757,R05,"Pick the roll from the fridge, and cut it into thick slices, then pack these into a tupperware",20.0,150.0
+P01-20240203-161757,,Clear items including packing the meat pies into a Tupperware and putting in the fridge,150.0,end
+P01-20240203-184045,,"Get things out of the fridge, including the chicken needed for the next recipe and a pot with pre-cooked rice",0.0,end
+P01-20240203-184214,,Heat precooked rice,0.0,10.0
+P01-20240203-184214,R05,Marinate the chicken and put it in the fridge,10.0,730.0
+P01-20240203-184214,,Empty dishwasher returning items to cupboards and drawers,730.0,935.0
+P01-20240203-184214,,Wash the dishes in the sink including loading some into the dishwasher,935.0,1243.0
+P01-20240203-184214,,Serve heated rice and yoghurt on a plate,1243.0,end
+P01-20240204-095114,R01,Prepare coffee,0.0,42.0
+P01-20240204-095114,,Prepare cereal by adding milk and cereal to bowl,42.0,103.0
+P01-20240204-095114,R01,Finish preparing coffee [R01] by adding the frothed milk to the coffee and stirring,103.0,end
+P01-20240204-120411,,Put dirty dishes in sink,0.0,9.0
+P01-20240204-120411,,Switch on boiler,9.0,12.0
+P01-20240204-120411,,Put away dry things from drainer,12.0,17.0
+P01-20240204-120411,R07,Soak rice,17.0,end
+P01-20240204-121042,R09,Soften the dates with butter,0.0,820.0
+P01-20240204-121042,,Clean and Clear,820.0,933.0
+P01-20240204-121042,R09,Continue softening the dates with butter,933.0,955.0
+P01-20240204-121042,,Clean and Clear,955.0,1115.0
+P01-20240204-121042,R09,Continue softening the dates with butter,1115.0,1170.0
+P01-20240204-121042,,Clean and Clear,1170.0,1279.0
+P01-20240204-121042,R09,Continue softening the dates with butter,1279.0,1300.0
+P01-20240204-121042,,Clean and Clear,1300.0,1313.0
+P01-20240204-121042,R09,Finish softening the dates with butter and add the biscuits,1313.0,1440.0
+P01-20240204-121042,,Clean and Clear,1440.0,1465.0
+P01-20240204-121042,R09,Mix the biscuits with the dates,1465.0,end
+P01-20240204-124504,R09,Continue mixing the biscuits with the dates,0.0,12.0
+P01-20240204-124504,R08,Take the marinated chicken out of the fridge,12.0,end
+P01-20240204-130448,R09,Finish rolling the date balls,0.0,385.0
+P01-20240204-130448,,Clean and clear,385.0,end
+P01-20240204-142301,R08,Pre-heat oven,0.0,13.0
+P01-20240204-142301,R07,Wash the rise and leave it to drain,13.0,197.0
+P01-20240204-142301,R08,Place the chicken on the tray and add the oil and chicken stock cube to it,197.0,389.0
+P01-20240204-142301,R07,Chop the onion into pieces and start cooking the onion,389.0,900.0
+P01-20240204-142301,,Prep to prepare a glass of freshly squeezed orange juice by prepping the food processor juicer,900.0,944.0
+P01-20240204-142301,R07,"Stir the onion in the pan then adding the meat, browning it, and covering the pan with the lid for the meat to continue to cook",944.0,1256.0
+P01-20240204-142301,R08,Put the tray with chicken in the oven and set the timer,1256.0,1287.0
+P01-20240204-142301,R07,Prepare the chicken stock by dissolving a cube in hot water and stir into the meat,1287.0,1437.0
+P01-20240204-142301,,Squeeze oranges on the automatic juicer for a glass of fresh orange juice,1437.0,1632.0
+P01-20240204-142301,R07,Stir the meat and add the chicken stock with additional hot water and lower the heat,1632.0,1718.0
+P01-20240204-142301,,Prepare a fresh glass of orange juice,1718.0,end
+P01-20240204-145458,,Clean and clear - return the empty food waste bin back to the countertop,0.0,7.0
+P01-20240204-145458,,Drink from the glass of fresh orange juice,7.0,19.0
+P01-20240204-145458,R07,Stir meat,19.0,85.0
+P01-20240204-145458,,continue drinking the orange juice,85.0,102.0
+P01-20240204-145458,R07,Start preparing the Vermicelli and rice,102.0,206.0
+P01-20240204-145458,,Finish drinking the orange juice,206.0,216.0
+P01-20240204-145458,R07,Cook the rice and season the meat,216.0,552.0
+P01-20240204-145458,R08,Check on the chicken in the oven by looking at it,552.0,555.0
+P01-20240204-145458,R07,Check on the rice,555.0,565.0
+P01-20240204-145458,,Clean and clear,565.0,596.0
+P01-20240204-145458,R07,Check on the rice,596.0,620.0
+P01-20240204-145458,,Clean and clear,620.0,647.0
+P01-20240204-145458,R07,Check on the rice and stir the meat,647.0,686.0
+P01-20240204-145458,,Clean and clear - washing up and filling the dishwasher,686.0,984.0
+P01-20240204-145458,R07,Turn off the hob (meat and cooked) and stir the meat,984.0,1001.0
+P01-20240204-145458,,Clean and clear,1001.0,1053.0
+P01-20240204-145458,R07,Stir the rice,1053.0,end
+P01-20240204-152537,R07,Stir the rice in the pot,0.0,38.0
+P01-20240204-152537,R08,Check on the chicken in the oven and adjust the timer,38.0,57.0
+P01-20240204-152537,,Clean and clear,57.0,325.0
+P01-20240204-152537,R07,"Stir the rice and adding the meat to it, mixing them together",325.0,439.0
+P01-20240204-152537,R08,Check on the chicken in the oven,439.0,end
+P01-20240204-160230,R08,Removing the chicken tray from the oven,0.0,55.0
+P01-20240204-160230,"R08, R07",Serve one plate of rice with vermicelli and beef along with one leg of chicken with soy sauce,55.0,end

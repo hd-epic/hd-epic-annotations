@@ -1,0 +1,128 @@
+video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+P02-20240209-184316,R01,Preparing items,0.0,34.0
+P02-20240209-184316,R02,Prepare and microwave Potatoes,34.0,80.0
+P02-20240209-184316,R01,Preparing items,80.0,465.0
+P02-20240209-184316,R01,Pre-heat pan,465.0,517.0
+P02-20240209-184316,R01,Add tomatoes to pan to cook,517.0,545.0
+P02-20240209-184316,R01,Prepare onions and garlic,545.0,685.0
+P02-20240209-184316,R01,Add onions and garlic and cook,685.0,837.0
+P02-20240209-184316,R02,Prepare and cut potatoes,837.0,909.0
+P02-20240209-184316,,Tidying Up,909.0,947.0
+P02-20240209-184316,R02,Heat oil in pan,947.0,952.0
+P02-20240209-184316,R01,Prepare mushrooms,952.0,1000.0
+P02-20240209-184316,R02,Fry Potatoes,1000.0,1010.0
+P02-20240209-184316,R01,Continue preparing mushrooms,1010.0,1045.0
+P02-20240209-184316,R02,Continue frying Potatoes,1045.0,1051.0
+P02-20240209-184316,R01,Continue cooking mushrooms,1051.0,1084.0
+P02-20240209-184316,R02,Continue frying Potatoes,1084.0,1087.0
+P02-20240209-184316,R02,Stir and fry potatoes,1087.0,1124.0
+P02-20240209-184316,R01,Add tomato puree and cook,1124.0,1145.0
+P02-20240209-184316,R01,Add more oil and mushrooms,1145.0,1185.0
+P02-20240209-184316,R02,Continue stirring potato,1185.0,1209.0
+P02-20240209-184316,R01,Continue stirring mushrooms,1209.0,1229.0
+P02-20240209-184316,R02,Continue stirring potato,1229.0,1240.0
+P02-20240209-184316,R01,"Pack remaining mushrooms, add tomatoes and cook",1240.0,1335.0
+P02-20240209-184316,R02,Continue stirring potato,1335.0,1355.0
+P02-20240209-184316,R01,Continue stirring mushrooms with tomato and season,1355.0,1456.0
+P02-20240209-184316,R02,Continue stirring potato,1456.0,1471.0
+P02-20240209-184316,R01,Add sweetcorn and season,1471.0,1512.0
+P02-20240209-184316,R02,Continue stirring potato,1512.0,1528.0
+P02-20240209-184316,R01,"Continue stirring mushroom, tomato and sweetcorn",1528.0,1668.0
+P02-20240209-184316,R02,Dishing Up,1650.0,end
+P02-20240209-194141,,Washing Up,0.0,887.0
+P02-20240209-194141,R03,Prepare Glass,887.0,892.0
+P02-20240209-194141,R03,Add Squash,892.0,901.0
+P02-20240209-194141,R03,Fill glass with water and sip,901.0,917.0
+P02-20240209-194141,,Walking,917.0,end
+P02-20240209-231412,R03,Add Squash,0.0,14.0
+P02-20240209-231412,R03,Fill glass with water and sip,14.0,24.0
+P02-20240209-231412,,Walking,24.0,end
+P02-20240210-113925,,Moving items around the room,0.0,50.0
+P02-20240210-113925,R04,Heat pan and cook bacon,50.0,187.0
+P02-20240210-113925,R04,Crack eggs into jug,187.0,360.0
+P02-20240210-113925,R04,Cook Eggs,360.0,408.0
+P02-20240210-113925,R04,Cut Baguette,408.0,558.0
+P02-20240210-113925,R04,Season Eggs,558.0,734.0
+P02-20240210-113925,R04,Shred Cheese,734.0,772.0
+P02-20240210-113925,,Serving,772.0,end
+P02-20240210-195833,,Walking,0.0,16.0
+P02-20240210-195833,R03,Add Squash,16.0,23.0
+P02-20240210-195833,,Washing up,23.0,167.0
+P02-20240210-195833,R03,Fill glass with water and sip,167.0,177.0
+P02-20240210-195833,,Walking,177.0,end
+P02-20240210-220650,,Walking,0.0,9.0
+P02-20240210-220650,R03,Add Squash,9.0,16.0
+P02-20240210-220650,,Fill bottle with water,16.0,32.0
+P02-20240210-220650,R03,Fill glass with water and sip,32.0,42.0
+P02-20240210-220650,,Walking,42.0,end
+P02-20240211-104948,,Putting away food,0.0,239.0
+P02-20240211-104948,R05,Prepare Cereal,233.0,end
+P02-20240211-111822,,Washing up,0.0,123.0
+P02-20240211-111822,R06,Preparing items,123.0,899.0
+P02-20240211-111822,R06,Prepare Raspberry and Lemon Curd,899.0,end
+P02-20240211-115653,R06,Prepare Raspberry and Lemon Curd,0.0,41.0
+P02-20240211-115653,R07,Prepare work surface,41.0,81.0
+P02-20240211-115653,R06,Continue preparing Raspberry and Lemon Curd,106.0,143.0
+P02-20240211-115653,R07,Prepare Cheese,143.0,161.0
+P02-20240211-115653,R07,Unroll pastry and add cheese,161.0,199.0
+P02-20240211-115653,R07,Prepare Cheese grater,199.0,223.0
+P02-20240211-115653,R07,Unroll pastry and add cheese,223.0,260.0
+P02-20240211-115653,R07,Fold Pastry,260.0,357.0
+P02-20240211-115653,R06,Prepare Raspberry and Lemon Curd,357.0,402.0
+P02-20240211-115653,R07,Roll out and cut Cheese Straws,402.0,571.0
+P02-20240211-115653,R06,Continue preparing Raspberry and Lemon Curd,571.0,620.0
+P02-20240211-115653,R07,Prepare oven,620.0,624.0
+P02-20240211-115653,,Wash hands,624.0,end
+P02-20240211-120927,,Put away items,0.0,32.0
+P02-20240211-120927,R07,Lay on baking sheet,32.0,227.0
+P02-20240211-120927,R06,Continue preparing Raspberry and Lemon Curd,227.0,484.0
+P02-20240211-120927,R06,Prepare puff pastry,484.0,736.0
+P02-20240211-120927,R06,Continue preparing Raspberry and Lemon Curd,736.0,765.0
+P02-20240211-120927,R06,Continue prepare puff pastry,765.0,912.0
+P02-20240211-120927,R06,Continue preparing Raspberry and Lemon Curd,912.0,1030.0
+P02-20240211-120927,,Waiting for cooking,1030.0,1259.0
+P02-20240211-120927,R06,Bake puff pastry,1259.0,1379.0
+P02-20240211-120927,R06,Continue preparing Raspberry and Lemon Curd,1379.0,1586.0
+P02-20240211-120927,,Waiting for cooking,1586.0,1625.0
+P02-20240211-120927,R06,Continue preparing Raspberry and Lemon Curd,1625.0,1969.0
+P02-20240211-120927,R06,Removing items from oven and take off trays,1969.0,2081.0
+P02-20240211-120927,R06,Filling Tarts,2081.0,2441.0
+P02-20240211-120927,,Fill Jam Jars,2441.0,2928.0
+P02-20240211-120927,R08,Cut and butter baguette slices,2928.0,3042.0
+P02-20240211-120927,R08,Cut and add cheese,3042.0,3078.0
+P02-20240211-120927,R08,Add second slice of bread,3078.0,3081.0
+P02-20240211-120927,,Put away food items,3081.0,end
+P02-20240211-141313,,Dry up washing up,0.0,189.0
+P02-20240211-141313,R07,Transfer to container,189.0,272.0
+P02-20240211-141313,,Fill container with tarts,272.0,454.0
+P02-20240211-141313,,Mixing raspberry with yoghurt and washing up,454.0,695.0
+P02-20240211-141313,R10,Packing away yoghurt,695.0,722.0
+P02-20240211-141313,,Washing Up,722.0,end
+P02-20240211-175138,R10,Taking items out of fridge and cupboards and setting these on counter,0.0,131.0
+P02-20240211-175138,R10,Preheat oven and prepare mushrooms,131.0,405.0
+P02-20240211-175138,R10,Mix spices and pour over mushrooms,405.0,684.0
+P02-20240211-175138,R10,Preheat oven and prepare mushrooms,684.0,825.0
+P02-20240211-175138,R10,Mix spices and pour over mushrooms,825.0,870.0
+P02-20240211-175138,R10,Cover mushrooms with baking tray,870.0,923.0
+P02-20240211-175138,R10,Dice Tomatoes and Onion,923.0,1550.0
+P02-20240211-175138,R10,Make and Drizzle sugar syrup,1550.0,end
+P02-20240211-182630,R10,Continue making and drizzling sugar syrup,0.0,135.0
+P02-20240211-182630,,Waiting for recipe and washing up,135.0,306.0
+P02-20240211-182630,R11,Bring sweetcorn,306.0,330.0
+P02-20240211-182630,R11,Fill pot with Sweetcorn,330.0,340.0
+P02-20240211-182630,R11,Fill pot with water,340.0,349.0
+P02-20240211-182630,,Put sweetcorn away,349.0,378.0
+P02-20240211-182630,R11,Boil sweetcorn,378.0,381.0
+P02-20240211-182630,,Wash Up,381.0,421.0
+P02-20240211-182630,R10,Prepare ingredients,421.0,443.0
+P02-20240211-182630,R10,Uncover mushrooms,443.0,494.0
+P02-20240211-182630,R10,Prepare ingredients,494.0,699.0
+P02-20240211-182630,,Wait and Dry Up,699.0,909.0
+P02-20240211-182630,R10,Heat Kebab Wrap,910.0,920.0
+P02-20240211-182630,,Wait and Dry Up,920.0,1011.0
+P02-20240211-182630,R10,Heat Kebab Wrap,1011.0,1024.0
+P02-20240211-182630,,Wait for recipe,1024.0,1051.0
+P02-20240211-182630,R11,Drain Sweetcorn,1051.0,1079.0
+P02-20240211-182630,R10,Construct Kebab,1079.0,1376.0
+P02-20240211-182630,R11,Serve Sweetcorn,1376.0,1395.0
+P02-20240211-182630,R10,Construct Kebab,1395.0,end
