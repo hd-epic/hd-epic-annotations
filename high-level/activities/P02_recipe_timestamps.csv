@@ -1,4 +1,4 @@
-video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+video_id,recipe_id,high_level_activity_label,start_time,end_time
 P02-20240209-184316,R01,Preparing items,0.0,34.0
 P02-20240209-184316,R02,Prepare and microwave Potatoes,34.0,80.0
 P02-20240209-184316,R01,Preparing items,80.0,465.0

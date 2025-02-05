@@ -1,4 +1,4 @@
-video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+video_id,recipe_id,high_level_activity_label,start_time,end_time
 P09-20240621-093545,R01,Retrieve ingredients from fridge,10.0,35.0
 P09-20240621-093545,,Clean up,35.0,48.0
 P09-20240621-093545,R01,Retrieve cooking utensils,48.0,60.0

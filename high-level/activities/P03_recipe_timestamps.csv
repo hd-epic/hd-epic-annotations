@@ -1,4 +1,4 @@
-video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+video_id,recipe_id,high_level_activity_label,start_time,end_time
 P03-20240216-084005,,Put stuff away,0.0,93.0
 P03-20240216-084005,,Get toaster and set the table for breakfast,93.0,130.0
 P03-20240216-084005,,"Pack lunch, take bread and oat milk for breakfast",130.0,210.0

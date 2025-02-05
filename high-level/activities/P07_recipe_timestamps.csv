@@ -1,4 +1,4 @@
-video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+video_id,recipe_id,high_level_activity_label,start_time,end_time
 P07-20240529-102652,,Unloading the dishwasher,0.0,190.0
 P07-20240529-102652,,Reloading the dishwasher,190.0,251.0
 P07-20240529-102652,,Washing up and refilling dish soap bottle,251.0,542.0

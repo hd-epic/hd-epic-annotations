@@ -1,4 +1,4 @@
-video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+video_id,recipe_id,high_level_activity_label,start_time,end_time
 P08-20240613-122900,R01,Make and serve coffee,0.0,end
 P08-20240613-123547,R02,"Prepare, season and mix salad",0.0,846.0
 P08-20240613-123547,R02,Put ingredients away,846.0,873.0

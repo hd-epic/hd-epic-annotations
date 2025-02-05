@@ -1,4 +1,4 @@
-video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+video_id,recipe_id,high_level_activity_label,start_time,end_time
 P01-20240202-110250,R01,Prepare Coffee,0.0,48.0
 P01-20240202-110250,,Prepare Freshly-squeezed Orange Juice,48.0,103.0
 P01-20240202-110250,,Washing up and refilling dish soap bottle,103.0,136.0

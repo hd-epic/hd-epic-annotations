@@ -1,4 +1,4 @@
-video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+video_id,recipe_id,high_level_activity_label,start_time,end_time
 P04-20240413-142619,,Wash and dry hands,0.0,56.0
 P04-20240413-142619,R01,"Take out chicken, lemon, gather ingredients and prep equipment",56.0,235.0
 P04-20240413-142619,R01,Weigh and wash chicken,235.0,353.0

@@ -1,4 +1,4 @@
-video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+video_id,recipe_id,high_level_activity_label,start_time,end_time
 P05-20240423-170021,R01,Chop ingredients and find spices,0.0,end
 P05-20240423-172243,R01,Add more ingredients to curry,0.0,286.0
 P05-20240423-172243,,Recycle cans and load dishwasher,286.0,end

@@ -1,4 +1,4 @@
-video_id,recipe_id,high_level_activity_label,start_time_seconds,end_time_seconds
+video_id,recipe_id,high_level_activity_label,start_time,end_time
 P06-20240510-090328,R01,"Preparing ingredients, chopping onion and tomato, preparing batter and cooking pancakes",0.0,end
 P06-20240510-094438,R01,Continue cooking Pancake on frying pan,0.0,end
 P06-20240510-100047,R01,Finish cooking and plating the pancake,0.0,12.0
