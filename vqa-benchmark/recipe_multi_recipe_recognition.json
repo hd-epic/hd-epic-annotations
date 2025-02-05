@@ -1,0 +1,802 @@
+{
+    "recipe_multi_recipe_recognition_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Pesto Pasta",
+            "Alfredo Pasta",
+            "Spaghetti Cacio e Pepe",
+            "Pasta Primavera",
+            "Carbonara with Side Salad"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-145526"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Stir Fry",
+            "Chili Con Carne",
+            "Beef and Broccoli",
+            "Omurice",
+            "Chicken Fried Rice"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_recipe_recognition_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Keema Paratha and No-Bake Oreo Cake and Butternut Squash Soup",
+            "Sfesiha (Lebanese Meat Pies) and Lazy Cake Recipe and Carrot Soup",
+            "Lahmacun (Turkish Flatbread) and Icebox Cake and Sweet Potato Soup",
+            "Manakish Zaatar and Chocolate Biscuit Pudding and Pumpkin Soup",
+            "Empanadas and Chocolate Truffle Cake and Chowder"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_recipe_recognition_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Greek Salad with Chickpeas",
+            "Chickpea Avocado Salad",
+            "Chickpea and Quinoa Salad",
+            "Mediterranean Farro Salad",
+            "Chopped Chickpea Salad"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Paneer Paratha",
+            "Gobi Paratha",
+            "Mooli Paratha",
+            "Spinach Paratha",
+            "Aloo Paratha"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Sticky Toffee Pudding",
+            "Chocolate Mousse",
+            "Creme Brulee",
+            "Pots de Creme",
+            "Chocolate Pudding"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-165333"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Aloo Paratha and Puri Bhaji",
+            "Aloo Stuffing for Masala Dosa and Masala Dosa",
+            "Stuffed Potato Naan and Pesarattu (Green Gram Dosa)",
+            "Batata Vada and Uttapam",
+            "Potato Samosa and Adai (Lentil Pancake)"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_recipe_recognition_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Calzone",
+            "Pizza Dough",
+            "Focaccia",
+            "Breadsticks",
+            "Garlic Knots"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_recipe_recognition_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Greek Salad with Chickpeas",
+            "Chickpea and Quinoa Salad",
+            "Mediterranean Farro Salad",
+            "Chopped Chickpea Salad",
+            "Chickpea Avocado Salad"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Mushroom, Tomato, Sweetcorn and Onion Saute and Sauteed Potatoes",
+            "Mediterranean Vegetable Casserole and Home Fries",
+            "Vegetable Stir-Fry and Hasselback Potatoes",
+            "Ratatouille and Lyonnaise Potatoes",
+            "Caponata and Patatas Bravas"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_recipe_recognition_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162750"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Stuffed Potato Naan",
+            "Aloo Stuffing for Masala Dosa",
+            "Potato Samosa",
+            "Aloo Paratha",
+            "Batata Vada"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_recipe_recognition_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Salmon Patties with Salad",
+            "Crab Cakes with Slaw",
+            "Fish Cakes and Vegetables",
+            "Tuna Croquettes with Spinach",
+            "Cod Fish Tacos"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_recipe_recognition_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-152537"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Rice Noodles with Beef",
+            "Pilaf with Vermicelli",
+            "Paella",
+            "Biryani",
+            "Vermicelli Rice with Meat"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Greek Chicken Pita",
+            "BBQ Chicken Burrito",
+            "Grilled Chicken Wrap",
+            "Chicken Shawarma Wrap",
+            "Chicken Caesar Wrap"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_recipe_recognition_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Peanut Butter Banana Cookies and Espresso",
+            "Chocolate Chip Muffins and Mocha",
+            "Banana Nut Bread and Cold Brew",
+            "Banana Oat Cookies and Tea",
+            "Banana Bread Chocolate Chip Cookies and Coffee"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Breakfast Burrito",
+            "BLT Sandwich",
+            "Croque Madame",
+            "Bacon and Egg Sandwich",
+            "Egg Muffins with Bacon"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-170520"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Aloo Paratha and Uttapam",
+            "Potato Samosa and Pesarattu (Green Gram Dosa)",
+            "Stuffed Potato Naan and Puri Bhaji",
+            "Aloo Stuffing for Masala Dosa and Masala Dosa",
+            "Batata Vada and Adai (Lentil Pancake)"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Panzanella Salad",
+            "Caesar Salad with Breadsticks",
+            "Antipasto Salad with Focaccia",
+            "Chopped Salad and Bread",
+            "Greek Salad with Garlic Bread"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Peas Pulao",
+            "Fried Rice with Peas",
+            "Jeera Rice",
+            "Pilaf with Chickpeas",
+            "Vegetable Biryani"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_recipe_recognition_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Rajma (Kidney Bean Curry) with Rice",
+            "Chicken Korma",
+            "Dal Makhani with Rice",
+            "Thai Green Curry",
+            "Chole (Chickpea Curry) with Rice"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_recipe_recognition_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-152323"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Empanadas",
+            "Lahmacun (Turkish Flatbread)",
+            "Sfesiha (Lebanese Meat Pies)",
+            "Manakish Zaatar",
+            "Keema Paratha"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_recipe_recognition_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Grilled Vegetable Gyro",
+            "Portobello Burger",
+            "Falafel Wrap",
+            "Mushroom Burrito",
+            "Mushroom Doner Kebab"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Tuna Pasta Salad",
+            "Italian Pasta Salad",
+            "Greek Orzo Salad",
+            "Chicken Caesar Pasta Salad",
+            "Shrimp and Avocado Pasta Salad"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_recipe_recognition_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-115653"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Lemon Bars and Cheddar Crackers",
+            "Berry Tart and Cheese Biscuits",
+            "Key Lime Pie and Puff Pastry Cheese Twists",
+            "Raspberry and Lemon Curd Tarts and Cheese Straws",
+            "Fruit Galette and Parmesan Crisps"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Butternut Squash Risotto",
+            "Mushroom Risotto",
+            "Parmesan Risotto",
+            "Seafood Paella",
+            "Beef Ravioli"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_recipe_recognition_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-173337"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Masala Dosa",
+            "Puri Bhaji",
+            "Uttapam",
+            "Pesarattu (Green Gram Dosa)",
+            "Adai (Lentil Pancake)"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_recipe_recognition_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-184214"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Marinated Chicken with Soy Sauce",
+            "Sweet and Sour Chicken",
+            "Chicken Fajitas",
+            "Pierogi",
+            "Soy Garlic Chicken Wings"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_recipe_recognition_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-150155"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Chicken Cheese Balls and Hibiscus Drink",
+            "Stuffed Mushroom Caps and Hibiscus Lemonade",
+            "Chicken Kievs and Agua de Jamaica",
+            "Mozzarella Sticks and Hibiscus Iced Tea",
+            "Jalapeno Poppers and Roselle Juice"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_recipe_recognition_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Veggie Flatbread with Eggs and Chipotle Sauce and Stuffed Bell Peppers with Plant-Based Mince",
+            "Pizza with Aubergine and Egg and Tomato Sauce and Pizza with Plant-Based Mince and Mushrooms",
+            "Eggplant Parmesan and Pesto Rosso (Sun-Dried Tomato Pesto) and Plant-Based Bolognese Pasta",
+            "Shakshuka and Bolognese Sauce and Vegan Meatball Sub",
+            "Pepperoni Pizza and Carbonara Sauce and Mushroom and Spinach Calzone"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_recipe_recognition_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-194642"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Chicken Kievs",
+            "Mozzarella Sticks",
+            "Stuffed Mushroom Caps",
+            "Jalapeno Poppers",
+            "Chicken Cheese Balls"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-130448"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Date Balls",
+            "Coconut Bliss Balls",
+            "Almond Date Bars",
+            "Chocolate Coconut Truffles",
+            "Peanut Butter Energy Balls"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_recipe_recognition_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Manakish Zaatar and Butternut Squash Soup",
+            "Sfesiha (Lebanese Meat Pies) and Carrot Soup",
+            "Lahmacun (Turkish Flatbread) and Pumpkin Soup",
+            "Keema Paratha and Sweet Potato Soup",
+            "Empanadas and Chowder"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_recipe_recognition_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-150402"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Chicken Fried Rice",
+            "Chili Con Carne",
+            "Omurice",
+            "Beef and Broccoli",
+            "Stir Fry"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Mutton Vindaloo and Mint Lassi",
+            "Katsu Chicken and Horchata",
+            "Keema Matar and Strawberry Lassi",
+            "Chicken Korma and Rose Lassi",
+            "Mangsho Bhuna and Mango Lassi"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Beef Stroganoff",
+            "Salisbury Steak",
+            "Swedish Meatballs",
+            "Beef Bourguignon",
+            "Shepherd's Pie"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_recipe_recognition_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Miso-Glazed Salmon with Veggies",
+            "Grilled Salmon with Mango Salsa",
+            "Blackened Salmon with Avocado Salad",
+            "Salmon Teriyaki Skewers with Vegetables",
+            "Honey Garlic Salmon Skewers"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-094438"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Korean Savory Pancake (Pajeon)",
+            "Pesarattu (Green Gram Pancake)",
+            "Appam (Fermented Rice Pancake)",
+            "Thalipeeth (Indian Multigrain Pancake)",
+            "Uttapam Pancake"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Vegetable Curry with Rice",
+            "Chickpea Stew with Couscous",
+            "Chickpea and Spinach Curry with Rice",
+            "Saag Paneer",
+            "Chicken Jalfrezi"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_recipe_recognition_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Appam (Fermented Rice Pancake) and Macchiato",
+            "Pesarattu (Green Gram Pancake) and Cafe Mocha",
+            "Uttapam Pancake and Cappuccino",
+            "Thalipeeth (Indian Multigrain Pancake) and Hot Chocolate",
+            "Korean Savory Pancake (Pajeon) and Iced Coffee"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_recipe_recognition_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-145245"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "BBQ Chicken Burrito",
+            "Greek Chicken Pita",
+            "Chicken Shawarma Wrap",
+            "Grilled Chicken Wrap",
+            "Chicken Caesar Wrap"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Fruit Galette and Cheese Biscuits and Croque Monsieur",
+            "Lemon Bars and Cheddar Crackers and Baguette Pizza",
+            "Raspberry and Lemon Curd Tarts and Cheese Straws and Cheese Baguette",
+            "Berry Tart and Parmesan Crisps and Garlic Cheese Bread",
+            "Key Lime Pie and Puff Pastry Cheese Twists and Caprese Baguette"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_recipe_recognition_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Kadhai Paneer and Dal Makhani with Rice",
+            "Paneer Bhurji and Thai Green Curry",
+            "Halloumi Bake and Chicken Korma",
+            "Palak Paneer and Rajma (Kidney Bean Curry) with Rice",
+            "Matar Paneer and Chole (Chickpea Curry) with Rice"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_recipe_recognition_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-130505"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Lahmacun (Turkish Flatbread) and Chowder",
+            "Keema Paratha and Sweet Potato Soup",
+            "Empanadas and Butternut Squash Soup",
+            "Manakish Zaatar and Pumpkin Soup",
+            "Sfesiha (Lebanese Meat Pies) and Carrot Soup"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-191007"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Butternut Squash Risotto",
+            "Seafood Paella",
+            "Mushroom Risotto",
+            "Parmesan Risotto",
+            "Beef Ravioli"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_recipe_recognition_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Chocolate Coconut Truffles",
+            "Almond Date Bars",
+            "Peanut Butter Energy Balls",
+            "Date Balls",
+            "Coconut Bliss Balls"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Greek Salad with Cucumbers",
+            "Waldorf Salad",
+            "Tzatziki Dip",
+            "Pickled Cucumber Relish",
+            "Crispy Cucumber Salad"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_recipe_recognition_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-154652"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Mozzarella Sticks",
+            "Stuffed Mushroom Caps",
+            "Chicken Kievs",
+            "Chicken Cheese Balls",
+            "Jalapeno Poppers"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Omurice",
+            "Chicken Fried Rice",
+            "Chili Con Carne",
+            "Stir Fry",
+            "Beef and Broccoli"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Loaded Fries with Ground Beef",
+            "Corndogs",
+            "Beef Satay with Rice",
+            "French Fries and Beef Skewers",
+            "Steak Frites"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_recipe_recognition_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-142301"
+            }
+        },
+        "question": "Which of these recipes were carried out in this video?",
+        "choices": [
+            "Vermicelli Rice with Meat and Marinated Chicken with Soy Sauce",
+            "Paella and Chicken Fajitas",
+            "Rice Noodles with Beef and Soy Garlic Chicken Wings",
+            "Pilaf with Vermicelli and Sweet and Sour Chicken",
+            "Biryani and Pierogi"
+        ],
+        "correct_idx": 0
+    }
+}

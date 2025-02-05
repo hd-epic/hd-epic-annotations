@@ -1,0 +1,802 @@
+{
+    "recipe_following_activity_recognition_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add about the same amount of stock again and continue to simmer and stir - it should start to become creamy, plump and tender. By the time the final quarter of stock is added, the rice should be almost cooked in this video?",
+        "choices": [
+            "finishing off the risotto, add butter, grated cheese and parsley leaves",
+            "continue stirring the risotto and adding the remaining stock",
+            "tidy up, clean, wash up and wipe down surfaces",
+            "season, add the rice and wine to the mushroom risotto",
+            "hoovering"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_following_activity_recognition_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Check the sweet potatoes and roast for another 10-15 minutes in this video?",
+        "choices": [
+            "replacing the bag in the food composting bin and throwing away food scraps",
+            "washing up and loading the dishwasher",
+            "clean and clear",
+            "clean and clear - put ingredients and equipment away",
+            "prepare the dressing, add lettuce, sweetcorn and avocado. once ready, add the roasted sweet potato to salad and mix with the dressing"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add the onions and chopped garlic and brown slowly until tender and golden, about 5 minutes in this video?",
+        "choices": [
+            "heat oil in pan",
+            "add tomatoes to pan to cook",
+            "continue stirring potato",
+            "pack remaining mushrooms, add tomatoes and cook",
+            "continue stirring mushrooms with tomato and season"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Bring a large saucepan of water to boil in this video?",
+        "choices": [
+            "prepare dumplings",
+            "hoover the floor",
+            "clear and wash hands",
+            "put stuff away, serve food",
+            "clean and clear and set table"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_following_activity_recognition_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Mix all and stir and don't let it burn in this video?",
+        "choices": [
+            "stir pot and increase heat",
+            "clean - chopping board and counter surface",
+            "pour oil into pot, add salt, add chicken and red curry paste and stir",
+            "pluck basil leaves",
+            "prepare chilli"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_following_activity_recognition_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Freshly grind your coffee beans in this video?",
+        "choices": [
+            "freshly grind coffee and start preparing coffee using espresso machine",
+            "line parchment paper on baking trays",
+            "reloading the dishwasher",
+            "unloading the dishwasher - putting dishes away",
+            "preheat the oven"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_following_activity_recognition_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-173337"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Gently stir until completely blended and set aside for a few minutes in this video?",
+        "choices": [
+            "adjust the dosa batter's thickness",
+            "move the broken dosa onto the plate",
+            "take and wash another cup",
+            "try to pick up dosa from the pan with a spatula",
+            "wash ladle"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_following_activity_recognition_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add oil to a nonstick pan. Bring to medium heat in this video?",
+        "choices": [
+            "wash dishes",
+            "stir vegetables in pan",
+            "boil kettle",
+            "heat pan",
+            "record ingredients on phone"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_following_activity_recognition_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Pinch two small balls from the dough. Flatten them and dust with whole wheat flour in this video?",
+        "choices": [
+            "prepare ingredients, kneading the dough",
+            "plating and clean up",
+            "washing the utensils",
+            "filling water in water bottles",
+            "kneading the dough, making chappati, stuffing to make aloo parantha and cooking aloo parantha in frying pan"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Marinate beef in ginger and garlic paste in this video?",
+        "choices": [
+            "transfer fries to plate, season and taste",
+            "continue stirring fries and slicing potato",
+            "stir fries, taste and transfer to plate",
+            "retrieve materials and gather and prepare ingredients",
+            "place fries on hob and stir"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_following_activity_recognition_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Cook for 15 minutes in an oven preheated at 180 degrees with the fan on (200 if the oven does not have a fan). Once it's mainly wilted but crisp at the edges, it's ready in this video?",
+        "choices": [
+            "get salt and olive oil, pour olive oil on frying pan and turn on hob to start frying the potatoes",
+            "wait for food to cook and wash plate",
+            "get kale and bring it to the table",
+            "wash hands, get container and dough scraper for pizza dough, cover pizza dough",
+            "put oven mittens away and get spoon"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_following_activity_recognition_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Finally grate and add ginger and garlic to bowl. Toss well then pile up high into a shallow bowl and serve! in this video?",
+        "choices": [
+            "wash dishes",
+            "weigh, wash, chop and add cucumber to bowl, then mix",
+            "clean up kitchen counter and tidy up",
+            "put chili oil into separate container and return back to fridge",
+            "chop, grate, record and add ginger to bowl. continue to mix ingredients"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Heat a wide pan on high heat, add 2 tsps oil and sear the beef quickly on all sides. Remove and keep aside in this video?",
+        "choices": [
+            "dispose of peels and coffee grounds, wash v60 coffee filter and put scale away",
+            "read recipe, load dishwasher, wash rice cooker bowl",
+            "wash plastic pot and dispose of pots",
+            "continue cooking beef stroganoff",
+            "put mushrooms in the fridge, dispose of mushroom packaging"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_following_activity_recognition_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Take a serving bowl, add granola of your choice and pour in almond milk over it in this video?",
+        "choices": [
+            "pour egg mixture into pan",
+            "gather ingredients",
+            "wash and dry hands",
+            "clean and clear",
+            "prepare granola with milk"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Stir fry the mushrooms in a pan with sunflower oil. Add black pepper and garlic powder while cooking in this video?",
+        "choices": [
+            "cook and season aubergine",
+            "stir mushrooms",
+            "put stuff away",
+            "get garlic",
+            "eat mushrooms leftovers, check oven"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_following_activity_recognition_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-150155"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add the Hibiscus (Zobo) flowers and chopped ginger into a pot a fill with water in this video?",
+        "choices": [
+            "clean up and tidy",
+            "clear counter top",
+            "measure and add salt to spice mix",
+            "stir boiling potatoes",
+            "weigh ingredients and retrieve plates"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_following_activity_recognition_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Stir in the mushroom stock pot and the cream. Gently bring to the boil then cook for 2 mins on low heat in this video?",
+        "choices": [
+            "tidy up, dispose of packaging, set the table",
+            "rinse coffee jug",
+            "prepare potatoes, plant-based burger and mushrooms",
+            "get recipe card, potatoes, mushrooms, bowl, scale, chopping board",
+            "continue cooking beef stroganoff"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add the chilli, garlic and ginger into a kitchen mortar and crush them together into a paste using a pestle in this video?",
+        "choices": [
+            "weigh ingredients - garlic and ginger",
+            "stir contents of cooker",
+            "wash mortar and pestle",
+            "grind spices",
+            "weigh uncooked basmati rice"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_following_activity_recognition_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Sit the mushrooms stalk-side down and cover with another sheet of baking paper. Weigh down the mushrooms with another empty baking tray and roast for 30 minutes in this video?",
+        "choices": [
+            "preheat oven and prepare mushrooms",
+            "cover mushrooms with baking tray",
+            "mix spices and pour over mushrooms",
+            "taking items out of fridge and cupboards and setting these on counter",
+            "dice tomatoes and onion"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_following_activity_recognition_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-115653"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step heat oven to 220c/fan 200c/gas 7 in this video?",
+        "choices": [
+            "prepare raspberry and lemon curd",
+            "unroll pastry and add cheese",
+            "prepare work surface",
+            "prepare oven",
+            "roll out and cut cheese straws"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_following_activity_recognition_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Pour the Parmesan eggs into the pan, and keep everything moving, loosening with splashes of the pasta cooking water until you have a silky sauce. Make sure the pan isn't too hot otherwise the eggs will scramble in this video?",
+        "choices": [
+            "serve carbonara and salad",
+            "stir bacon and peas for carbonara",
+            "chop tomatoes",
+            "continue making carbonara, adding boiling water of pasta to sauce then mix eggs and parmesan",
+            "add bacon and peas to pasta, then mix in eggs with parmesan"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add half of the sliced onion and fry until the onion begin to brown. Set aside the other half for later use in this video?",
+        "choices": [
+            "fry onion with spices and prepare a cup of yoghurt",
+            "wonder about kitchen",
+            "prepare chilli",
+            "return yoghurt to fridge",
+            "clean up and drink lassi"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_following_activity_recognition_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Meanwhile, finely dice the tomatoes and finely slice the red onion. Mix with the zingy lemon juice and season well. Set aside in this video?",
+        "choices": [
+            "cover mushrooms with baking tray",
+            "preheat oven and prepare mushrooms",
+            "taking items out of fridge and cupboards and setting these on counter",
+            "make and drizzle sugar syrup",
+            "dice tomatoes and onion"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step In a large bowl, add 2 cups whole wheat flour (atta). Make a well in the centre. Add 1 tablespoon oil or ghee, and roughly 1/3 to 1/2 cup water in this video?",
+        "choices": [
+            "kneading the dough, making chappati, stuffing to make aloo parantha and cooking aloo parantha in frying pan",
+            "clean and clear",
+            "washing the utensils",
+            "plating and clean up",
+            "prepare ingredients, kneading the dough"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Spray olive oil in a small nonstick skillet. Bring to medium heat in this video?",
+        "choices": [
+            "clean up",
+            "add eggs to pan",
+            "stir eggs in pan and serve",
+            "put food in fridge",
+            "stir vegetables in pan"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add 300ml of water and 1tbsp of lemon juice followed by the drained basmati rice and fry on a slightly high flame for 2 to 3 minutes. Mix gently to evenly coat the rice with the cooked masala in this video?",
+        "choices": [
+            "fry whole spices and nuts",
+            "wash and dry hands",
+            "wash spatula",
+            "add rice to cooker and stir",
+            "wash mortar and pestle"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_following_activity_recognition_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step When the onions and potatoes are cooked, carefully pour the eggs on top ensuring the eggs cover the potatoes and onions evenly. Cook the eggs with a low heat until there's almost no runny egg on top in this video?",
+        "choices": [
+            "put oven mittens away and get spoon",
+            "flip spanish tortilla and bring it to the table",
+            "continue preparing kale",
+            "crack eggs",
+            "wait and rub spatula against spanish tortilla border"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-153208"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add sugar, give it a good stir and leave to cool in this video?",
+        "choices": [
+            "check hibiscus drink by tasting and reduce hob's heat",
+            "prepare ingredients and equipment",
+            "put utensils away",
+            "sieve hibiscus drink",
+            "measure sugar and mix with drink"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Remove the pan from the heat when the eggs are mostly set, but a little liquid egg remains. Season to taste with salt and pepper in this video?",
+        "choices": [
+            "add eggs to pan",
+            "clean spatula",
+            "wash dishes",
+            "clean up",
+            "stir eggs in pan and serve"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_following_activity_recognition_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add in some Thai basil and turn off the cooker in this video?",
+        "choices": [
+            "stir pot and find utensils",
+            "clean - wash plate and knife",
+            "add basil to pot, stir pot and turn off hob",
+            "retrieve cooking utensils",
+            "pluck basil leaves"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_following_activity_recognition_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step While waiting for the water to boil, pour the soy sauce and the sesame oil in a small bowl in this video?",
+        "choices": [
+            "set the table, put stuff away",
+            "hoover the floor",
+            "prepare dumplings",
+            "clean and clear and set table",
+            "prepare dumplings sauce"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step In another pan, add remaining oil, crack eggs into a measuring jug, add some milk and beat them. Add pepper to taste in this video?",
+        "choices": [
+            "cook eggs",
+            "crack eggs into jug",
+            "cut baguette",
+            "moving items around the room",
+            "season eggs"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_following_activity_recognition_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-153208"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Cover the pot and bring to a boil for about 30 minutes, occasionally stirring in this video?",
+        "choices": [
+            "add hibiscus flower to saucepan and stir",
+            "tidy up",
+            "put utensils away",
+            "stir saucepan and bring cooking utensils",
+            "prepare ingredients and equipment"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_following_activity_recognition_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Leave the stuffing to cool, then add a spoonful of yoghurt and another spoonful of tahini and a generous amount of sumac in this video?",
+        "choices": [
+            "finish crushing biscuits",
+            "clean and clear",
+            "turn off the heat, blend the soup and season",
+            "check on the soup",
+            "prepare the dough balls as well as the mixture of meat with other ingredients"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-141313"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Leave to cool, then keep in an airtight container for up to 2 days.   in this video?",
+        "choices": [
+            "mixing raspberry with yoghurt and washing up",
+            "packing away yoghurt",
+            "transfer to container",
+            "washing up",
+            "fill container with tarts"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_following_activity_recognition_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add vanilla extract. Mix well in this video?",
+        "choices": [
+            "preheat the oven",
+            "unloading the dishwasher - putting dishes away",
+            "prepare the cookies mix with butter, banana, egg yolk and flour. fold the chocolate chips into the mix",
+            "tidy up - load the dishwasher and wash up",
+            "reloading the dishwasher"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_following_activity_recognition_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-110250"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Put one capsule into the coffee machine in this video?",
+        "choices": [
+            "clean and clear",
+            "washing up and refilling dish soap bottle",
+            "continue orange juice",
+            "prepare coffee",
+            "prepare freshly-squeezed orange juice"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_following_activity_recognition_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Chop half of the onion into smaller pieces and other half into larger bits. Chop the tomatoes into smaller pieces and grind them in a grinder with fresh garlic and green chillies to make a smooth tomato puree. Chop some green chillies into pieces and add them into the puree in this video?",
+        "choices": [
+            "chopping, preparing curry base and cooking it",
+            "washing the utensils",
+            "cleaning the tabletop area",
+            "cleaning the benchtop and sink area",
+            "storing the prepared curry in a box"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_following_activity_recognition_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Chop the garlic in large chunks and stir fry it in a saucepan with olive oil at medium heat in this video?",
+        "choices": [
+            "stir mushrooms",
+            "load dishwasher and tidy up",
+            "get pizza oven and other utensils, get semolina flour",
+            "turn off hob, drain water out of saucepan and cool down egg",
+            "prepare tomato sauce"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Meanwhile, beat the eggs in a bowl, then finely grate in the Parmesan and mix well in this video?",
+        "choices": [
+            "add spinach, oil and vinegar to salad",
+            "season bacon and peas for carbonara",
+            "chop lettuce",
+            "continue making carbonara, adding boiling water of pasta to sauce then mix eggs and parmesan",
+            "chop tomatoes"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_following_activity_recognition_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Slowly pour over the remaining water over the coffee, making small circles. Stop when the water is 3/4 of the way or 2 cm from the top in this video?",
+        "choices": [
+            "continue wiping surfaces",
+            "clear the table and put stuff away, load dishwasher",
+            "clear the table and put stuff away",
+            "continue wiping counter top",
+            "continue pouring water into v60 coffee filter to brew coffee"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_following_activity_recognition_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Cover and cook until the meat is cooked through and a bit tender (50 - 55mins), occasionally adding water and stirring to prevent burning and sticking to the pan in this video?",
+        "choices": [
+            "slice onions and refill kettle",
+            "retrieve ingredients and equipments",
+            "stir saucepan and add water to it",
+            "retrieve garlic and ginger, add to saucepan and stir",
+            "pour coconut milk into bowl"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_following_activity_recognition_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Split the dough in 2, then flatten and fold each chunk to form a ball in this video?",
+        "choices": [
+            "clear the table and wash hands",
+            "stretch and fold dough",
+            "split pizza dough, stretch and fold each split and put dough in the fridge",
+            "wrap spanish tortilla leftovers in cling film",
+            "coat plastic box with olive oil for pizza dough"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_following_activity_recognition_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add some semolina flour to the pizza peel, then add the dough on top of it and add all toppings to the pizza: tomato sauce first, then mozzarella, finally aubergine and egg in this video?",
+        "choices": [
+            "get more garlic splitting and cutting cloves",
+            "prepare pizza",
+            "transfer mushrooms to frying pan",
+            "cook and season mushrooms",
+            "transfer pizza to the oven"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_following_activity_recognition_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Reduce the heat, add a knob of butter, the onion and the rest of the stroganoff seasoning.  Cook for 5 mins until soft in this video?",
+        "choices": [
+            "continue cooking beef stroganoff",
+            "read recipe, load dishwasher, wash rice cooker bowl",
+            "serve food",
+            "rinse coffee jug",
+            "cook potatoes and mushrooms"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_following_activity_recognition_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Place the chicken breast on a baking sheet and spray it with olive oil. Sprinkle liberally with salt and pepper. Roast for 35 to 40 minutes, until just cooked. Set aside until cool enough to handle in this video?",
+        "choices": [
+            "measure and season chicken, then put in oven",
+            "measure and chop and add other vegetables",
+            "clean dressing container in sink",
+            "update phone app",
+            "preheat oven and gather ingredients"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_following_activity_recognition_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Top one side with cheese. Add crisps if using in this video?",
+        "choices": [
+            "cut and add cheese",
+            "add second slice of bread",
+            "lay on baking sheet",
+            "cut and butter baguette slices",
+            "put away food items"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_following_activity_recognition_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step In the meantime, prepare the puff pastry. Roll out the puff pastry to about 10 inches by 14 inches, then cut into squares in this video?",
+        "choices": [
+            "put away items",
+            "continue prepare puff pastry",
+            "removing items from oven and take off trays",
+            "put away food items",
+            "lay on baking sheet"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_following_activity_recognition_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-184003"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Cover the pressure cooker and place the whistle. Pressure cook for 2 whistles on a medium high flame. Turn off and remove from the stove. Leaving it on the hot burner will further cook the rice in this video?",
+        "choices": [
+            "turn off pressure cooker after two whistles",
+            "clean and clear",
+            "clean and clear - wash dishes",
+            "wash and dry hands",
+            "plate peas pulav"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_following_activity_recognition_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "Which high-level activity did the participant do while completing recipe step Add the chicken chunks in (they should have been cooked 80%) in this video?",
+        "choices": [
+            "store excess chicken and prepare the chicken",
+            "tidy up",
+            "pour remaining coconut milk into bowl",
+            "pour oil into pot, add salt, add chicken and red curry paste and stir",
+            "continue stirring pot of chicken and coconut milk and reduce heat"
+        ],
+        "correct_idx": 3
+    }
+}

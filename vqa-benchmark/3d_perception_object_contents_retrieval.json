@@ -1,0 +1,3202 @@
+{
+    "3d_perception_object_contents_retrieval_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-195538"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 116.76849439864645 585.4222374175963 994.8534232426013 1063.9106723235532> in <TIME 00:05:3.633 video 1>?",
+        "choices": [
+            "Nothing",
+            "candy floss machine",
+            "plate, glass, teapot",
+            "stack of plastic boxes",
+            "weighing scale, carrier bag"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 504.887279649952 421.5401510762821 1408 1408> in <TIME 01:14:7.433 video 1>?",
+        "choices": [
+            "bread piece, fork",
+            "bread piece, phone",
+            "Nothing",
+            "large shopping bag, white plate, bag of potatoes",
+            "empty packaging, phone"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 542.1749191586086 703.9790183524805 1140.6039868791945 1020.209491606972> in <TIME 00:25:25.0 video 1>?",
+        "choices": [
+            "plate",
+            "plastic box lid",
+            "knife",
+            "large white jug of dishwashing liquid, napkin, drinking glass",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-090759"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 151.19876498665155 191.25396307965673 937.8617505710251 924.8147257306736> in <TIME 00:05:9.233 video 1>?",
+        "choices": [
+            "folded carrier bag, stack of plastic boxes",
+            "toaster",
+            "plate, stack of plastic boxes, third spoon",
+            "Nothing",
+            "plastic box lid, folded carrier bag, mug"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 244.78698347748292 1408 1315.633987122893> in <TIME 00:00:13.4 video 1>?",
+        "choices": [
+            "back of lettuce, carton of eggs and tub of cottage cheese, tub of cottage cheese",
+            "plastic bag, butter paper, yoghurt",
+            "object in fridge, piece of cling film",
+            "bowl of egg white",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-132938"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 753.1943780375881 477.5627860106206 1408 1394.4309059567286> in <TIME 00:02:17.333 video 1>?",
+        "choices": [
+            "sink plug, lid of bottle",
+            "Nothing",
+            "coffee jug, spoon holder",
+            "pan, bowl of grapes, spoon",
+            "knife"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 555.9060814835801 0 1408 843.1336201542472> in <TIME 00:28:31.433 video 1>?",
+        "choices": [
+            "frying pan, scrubbing brush",
+            "steaming tray, coffee jug",
+            "lid of bottle, coffee jug, cap",
+            "Nothing",
+            "dish scrubbing brush, plastic box"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-223126"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 634.3038732199923 223.19005468985864 1408 1408> in <TIME 00:01:34.4 video 1>?",
+        "choices": [
+            "knife, box",
+            "Nothing",
+            "tea towel, bowl of grapes, box",
+            "bowl, ginger ale bottle, bottle of beer",
+            "knife, bowl of grapes"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 412.2104278774377 538.5554351106578 1082.5189374646218 1083.786777324952> in <TIME 00:18:9.667 video 1>?",
+        "choices": [
+            "salt bottle, towel",
+            "Nothing",
+            "folded carrier bag, fork, third spoon",
+            "saucepan, fork",
+            "saucepan, cloth, napkin"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-094713"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 294.40266829638205 365.3938643826614 1259.8034240764641 1228.6763406179282> in <TIME 00:00:8.333 video 1>?",
+        "choices": [
+            "butter, jam jar",
+            "yellow box",
+            "object in fridge, vegetable drawer, piece of cling film",
+            "plastic bag, bowl of egg white, yoghurt",
+            "yoghurt, bowl of egg white, butter paper"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-100250"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 683.1828203631682 802.6616530180926 1001.2155584037946 1148.0493146034246> in <TIME 00:04:19.733 video 1>?",
+        "choices": [
+            "bowl",
+            "Nothing",
+            "vacuum cleaner",
+            "towel, cloth, jar of salt",
+            "cloth"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-100308"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 0 1126.2812659089564 1408> in <TIME 00:02:20.5 video 1>?",
+        "choices": [
+            "piece of cling film, yoghurt",
+            "yellow box",
+            "Nothing",
+            "yoghurt",
+            "apples, raspberries"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-161354"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 323.0311567766688 528.8992374231589 742.4041078543813 893.5079811552405> in <TIME 00:01:13.8 video 1>?",
+        "choices": [
+            "second mug, mug",
+            "knife, second bowl",
+            "third bowl",
+            "more cutlery, three spoons",
+            "spoon, other plate"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-101357"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 495.9828667364163 607.7008476966804 994.6845005295538 1354.328469536903> in <TIME 00:01:14.033 video 1>?",
+        "choices": [
+            "three spoons, other plate, fork",
+            "three spoons",
+            "Nothing",
+            "sharp serrated knife, mug",
+            "glass, fork"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-210126"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 612.9121218605248 334.5991869824784 1027.7534431709323 989.7759151870723> in <TIME 00:00:2.2 video 1>?",
+        "choices": [
+            "plate, baking paper, box",
+            "plate, phone",
+            "tissue, chocolate wrapper, dirty plates",
+            "fork",
+            "Nothing"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-145526"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 371.2097156178581 0 1048.039962530083 698.7370904353627> in <TIME 00:02:32.9 video 1>?",
+        "choices": [
+            "baking tray, pan, coffee jug",
+            "laundry conditioner cap, steaming tray",
+            "drain protector",
+            "coffee jug, sponge, lid",
+            "Nothing"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 225.58695136020384 0 874.4988056477329 949.7363944551207> in <TIME 00:08:4.667 video 1>?",
+        "choices": [
+            "drain protector, steaming tray",
+            "lid of bottle, drain protector, scrubbing brush",
+            "lid",
+            "bowl of grapes, lid",
+            "washing up brush"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 455.60485567026706 313.25913132949063 1408 1001.0646183011437> in <TIME 00:11:52.333 video 1>?",
+        "choices": [
+            "Nothing",
+            "packet of sugar, self-raising flour",
+            "tea towel, salt bottle, glass",
+            "fork",
+            "cloth"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-194642"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 653.4247630075066 429.04588735860847 1383.4267583440446 1049.8818173443185> in <TIME 00:05:16.367 video 1>?",
+        "choices": [
+            "container of leftovers, package of frozen meat",
+            "Nothing",
+            "lunchbox, pack of taiwanese pancakes",
+            "bag of frozen broccoli",
+            "buns package, lunchbox, package of frozen food"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 699.7099593396075 384.38387528890144 1408 1384.295140587429> in <TIME 00:16:47.967 video 1>?",
+        "choices": [
+            "Nothing",
+            "baking tray, pan",
+            "laundry conditioner cap, spoon",
+            "frying pan, spoon holder",
+            "spatula, small plate "
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-121048"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 709.6606461974936 724.8707456524005 1043.9390420155205 1039.3675816407513> in <TIME 00:04:39.367 video 1>?",
+        "choices": [
+            "package of frozen food",
+            "bag of frozen broccoli, lunchbox, package of frozen food",
+            "bag of frozen broccoli, package of frozen food, pack of taiwanese pancakes",
+            "bits of food",
+            "bag of frozen broccoli"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 310.766858677357 1408 1095.499679513065> in <TIME 00:00:9.133 video 1>?",
+        "choices": [
+            "bowl of egg white, packet of tomatoes, bottle",
+            "salmon skewer packaging",
+            "vegetable drawer, packet of tomatoes, bowl of egg white",
+            "yellow box, piece of cling film",
+            "vegetable drawer, yellow box, bottle"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-184003"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 663.369406706854 409.3548883173311 1340.7123738700193 1098.9029646916715> in <TIME 00:10:50.867 video 1>?",
+        "choices": [
+            "cap, lid",
+            "baking tray",
+            "baking tray, pan, drain cover",
+            "sink plug, carton of milk",
+            "Nothing"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-202148"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 639.2184453823205 16.58790981077766 963.8582971203665 823.5849266293495> in <TIME 00:13:14.633 video 1>?",
+        "choices": [
+            "plate, glass, box",
+            "Nothing",
+            "glass, serrated knife, baking paper",
+            "spoon, baking paper",
+            "recipe card"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 223.0390141079235 483.89094539279716 1187.486128269662 1140.73699548912> in <TIME 00:02:48.733 video 1>?",
+        "choices": [
+            "lid of jar of sugar, folded carrier bag, whisk",
+            "tea towel, saucepan, plastic box lid",
+            "Nothing",
+            "carrier bag, drinking glass, teapot",
+            "plate, metal silver bowl"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 427.4345295900306 721.8897507597314 1035.8894760347484 1013.4165635420359> in <TIME 00:11:59.3 video 1>?",
+        "choices": [
+            "plastic box lid, large white jug of dishwashing liquid",
+            "Nothing",
+            "weighing scale, whisk, mug",
+            "plastic box lid, stack of plastic boxes",
+            "napkin, teapot"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-110250"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 94.74322969464288 531.2886718513437 1121.9505506918083 1081.9932964269942> in <TIME 00:00:9.867 video 1>?",
+        "choices": [
+            "lid of jar of sugar, napkin, third spoon",
+            "towel, mug, teapot",
+            "bowl, cloth",
+            "Nothing",
+            "plastic box lid"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 383.4066547821186 588.5712386965613 1321.3273069233323 1104.4357935142166> in <TIME 00:12:42.533 video 1>?",
+        "choices": [
+            "tea towel",
+            "bowl",
+            "bowl, napkin, stack of plastic boxes",
+            "spice jar",
+            "carrier bag, glass"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-100448"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 232.16696713457054 0 1408 1220.9930676859099> in <TIME 00:04:27.9 video 1>?",
+        "choices": [
+            "yeast box, Track ",
+            "bowl, spoon, third spoon",
+            "salt bottle, lid of jar of sugar",
+            "stack of plastic boxes",
+            "tea towel, spoon"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 635.8471393449121 334.4424818611873 1261.3060893087325 1220.595280423753> in <TIME 00:05:48.233 video 1>?",
+        "choices": [
+            "baking tray, pan, scrubbing brush",
+            "Nothing",
+            "colander, brush",
+            "sponge, cap",
+            "lid"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-170021"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 272.7586126256432 981.510828808896 1299.0826182053227> in <TIME 00:14:58.433 video 1>?",
+        "choices": [
+            "box of spices",
+            "whisk, mug",
+            "large white jug of dishwashing liquid, mug",
+            "Nothing",
+            "knife, whisk"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-122221"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 825.1073198098114 154.33701851908597 1226.366283522726 679.3330225548746> in <TIME 00:01:26.733 video 1>?",
+        "choices": [
+            "cap",
+            "lid",
+            "sink plug, scrubbing brush",
+            "Nothing",
+            "spoon, scrubbing brush"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-090812"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 887.281168749927 298.19904216840416 1289.461566313229 1408> in <TIME 00:00:32.267 video 1>?",
+        "choices": [
+            "Nothing",
+            "pepper shakers, scale instructions",
+            "packet of raisins",
+            "bowl, bread piece, multivitamin pill",
+            "pepper shakers, bowl, cardboard insert"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 805.3045102061093 725.3569914030186 1182.7513272139577 1390.8436104417392> in <TIME 00:12:57.2 video 1>?",
+        "choices": [
+            "Nothing",
+            "orange towel, tea towel, baking paper",
+            "baking tray, orange towel",
+            "baking paper, tea towel, orange towel",
+            "hand blender cup"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-184003"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 356.8563542460489 540.6551568836348 955.4279852417566 937.6165503972794> in <TIME 00:14:57.7 video 1>?",
+        "choices": [
+            "Nothing",
+            "towel, stack of plastic boxes, teapot",
+            "salt bottle, bottle of soap, large white jug of dishwashing liquid",
+            "bowl, fork, third spoon",
+            "napkin"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-195833"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 594.4162219263209 473.3674872536168 1278.784410844253 1123.9261865594024> in <TIME 00:01:12.0 video 1>?",
+        "choices": [
+            "drain cover",
+            "drain protector, sponge, butter knife",
+            "laundry conditioner cap, steaming tray, scourer",
+            "sink plug, coffee jug",
+            "Nothing"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 432.3128519394613 536.1470850175394 904.9577501438195 943.2678037194828> in <TIME 00:13:28.467 video 1>?",
+        "choices": [
+            "bowl, knife, stack of plastic boxes",
+            "Nothing",
+            "bottle of oil, bottle of salt",
+            "bowl, fork, teapot",
+            "whisk"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-153748"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 721.7541802237222 422.2329899696743 1408 1076.938470502585> in <TIME 00:00:19.4 video 1>?",
+        "choices": [
+            "spoon, saucepan, sponge",
+            "scrubbing brush, cap, spoon holder",
+            "laundry conditioner cap, cap, spoon holder",
+            "Nothing",
+            "drain protector, drain cover"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 0 1072.922089674525 1408> in <TIME 00:22:26.7 video 1>?",
+        "choices": [
+            "three spoons, cutlery, saucepan lid",
+            "knife, teaspoon, spoon",
+            "more cutlery, cutlery",
+            "more cutlery",
+            "saucepan lid"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-223126"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 783.1832367340148 778.5769937125443 958.2898170354298 1241.4282521088926> in <TIME 00:01:59.067 video 1>?",
+        "choices": [
+            "plate, weighing scale, stack of plastic boxes",
+            "Nothing",
+            "carrier bag",
+            "knife, towel, bottle of soap",
+            "carrier bag, tea towel"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-202148"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 625.6572270746859 0 1408 1126.826556381141> in <TIME 00:13:30.667 video 1>?",
+        "choices": [
+            "tea towel, bread and plate, empty packaging",
+            "Nothing",
+            "plastic divider, chair",
+            "bread and plate",
+            "third spoon"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 493.177784724444 991.4733740753377 1408> in <TIME 00:07:59.133 video 1>?",
+        "choices": [
+            "Nothing",
+            "saucepan lid",
+            "saucepan lid, bowl",
+            "glass",
+            "small bowl, coffee jug"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 487.64280039848256 287.22790243361425 744.5956383646014 907.7458539319562> in <TIME 00:16:35.467 video 1>?",
+        "choices": [
+            "more cutlery, tablespoon, second bowl",
+            "measuring spoon, spoon, chopping board",
+            "Nothing",
+            "bowl",
+            "fork"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-172243"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 545.6958066037732 509.2329659943162 1408 1124.3026580860285> in <TIME 00:05:30.767 video 1>?",
+        "choices": [
+            "Nothing",
+            "pot of mango chutney",
+            "packet of tomatoes, bowl of egg white, butter paper",
+            "cup of yogurt",
+            "packet of tomatoes, bottle, yoghurt"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 401.85443792776385 715.1939558790833 1062.332064020234 1408> in <TIME 00:32:15.567 video 1>?",
+        "choices": [
+            "Nothing",
+            "towel, bottle of soap, napkin",
+            "knife, plastic box lid, large white jug of dishwashing liquid",
+            "napkin, fork, mug",
+            "frying pan"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 697.4183940348171 275.30764548667787 1348.517452142733 1272.4351224209427> in <TIME 00:05:44.9 video 1>?",
+        "choices": [
+            "brush",
+            "drain protector, cap",
+            "pan, steaming tray, drain cover",
+            "lid of bottle, pan, scrubbing brush",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-154652"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 559.6005200582333 584.4953572277891 1269.5979371038388 945.4395524716358> in <TIME 00:09:8.133 video 1>?",
+        "choices": [
+            "container of breadcrumbs, jars of spice",
+            "bottle of soap",
+            "glass, cloth",
+            "tea towel, glass",
+            "lid of jar of sugar, fork"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-172243"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 701.6887748078699 664.3536304733877 1107.7819438546987 1005.1697567645638> in <TIME 00:05:14.133 video 1>?",
+        "choices": [
+            "silver foil",
+            "tea towel, oven glove, towel",
+            "tin of tomatoes",
+            "tea towel, oven glove, egg",
+            "egg"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-151808"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 589.0957662130002 217.85275819262853 1050.2545702664854 951.278575151611> in <TIME 00:01:10.067 video 1>?",
+        "choices": [
+            "Nothing",
+            "spoon holder",
+            "frying pan, spoon, drain cover",
+            "baking tray, drain protector, bowl of grapes",
+            "pan, laundry conditioner cap"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-152537"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 601.8873830860088 580.3629269784612 1005.1451908421939 757.8545236761732> in <TIME 00:01:17.667 video 1>?",
+        "choices": [
+            "saucepan lid, third bowl, teaspoon",
+            "three spoons",
+            "bowl, third bowl",
+            "spoon",
+            "Nothing"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_50": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 702.1345485019262 745.7243596693535 1107.6395557240126 1288.3534037521217> in <TIME 00:10:38.333 video 1>?",
+        "choices": [
+            "scissors, small spoon, fork",
+            "more cutlery, bowl, knife",
+            "phone",
+            "tin of soup, more cutlery, frying pan",
+            "more cutlery, pan gripper, tea towel"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_51": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 99.60957601005202 783.3947701137137 1408> in <TIME 00:19:9.9 video 1>?",
+        "choices": [
+            "glass, bottle of soap",
+            "bottle of sriracha sauce, jars of salt, spice jar",
+            "plate, napkin",
+            "towel, bottle of soap",
+            "plate, bowl, fork"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_52": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-153253"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 534.7119659442351 365.8247940546017 1068.4141319178016 793.4694812907093> in <TIME 00:02:23.933 video 1>?",
+        "choices": [
+            "mug",
+            "stack of plastic boxes",
+            "Nothing",
+            "towel",
+            "knife"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_53": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111219"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 514.8724116653657 494.22367864196644 1126.1623642538125 1034.4922842103044> in <TIME 00:03:55.067 video 1>?",
+        "choices": [
+            "sink plug, scrubbing brush",
+            "lid of bottle, laundry conditioner cap",
+            "glass, spoon, cookbook",
+            "Nothing",
+            "steaming tray"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_54": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 0 1408 1408> in <TIME 00:19:10.5 video 1>?",
+        "choices": [
+            "bottle, plastic bag, packet of tomatoes",
+            "bag of lettuce",
+            "bottle, yellow box, cup of yogurt",
+            "vegetable drawer, bowl of egg white, yoghurt",
+            "packet of tomatoes, piece of cling film, bottle"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_55": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-194642"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 768.9205850324704 577.5821691832749 1060.493964529008 884.6111840315939> in <TIME 00:02:21.0 video 1>?",
+        "choices": [
+            "patterned bowl",
+            "weighing scale, knife, large white jug of dishwashing liquid",
+            "Nothing",
+            "towel",
+            "large white jug of dishwashing liquid"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_56": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-210126"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 799.5460574491287 279.1099181795047 1408 835.8278957986786> in <TIME 00:02:11.967 video 1>?",
+        "choices": [
+            "tea towel, saucepan, metal ring",
+            "baking tray, plastic box lid, foil",
+            "heat diffuser, mixing bowl, tea towel",
+            "heat diffuser, plastic box lid",
+            "Nothing"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_57": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 684.0407176951314 170.91332393933362 908.325218938425 765.7733327409107> in <TIME 00:22:27.7 video 1>?",
+        "choices": [
+            "cloth",
+            "white cloth, towel",
+            "white cloth",
+            "tea towel",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_58": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-082420"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 739.5109977196839 999.8174335918966 1408> in <TIME 00:00:48.7 video 1>?",
+        "choices": [
+            "Nothing",
+            "object in fridge, vegetable drawer, yellow box",
+            "yoghurt",
+            "vegetable drawer, cup of yogurt, butter paper",
+            "yellow box"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_59": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-223126"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 471.974523003998 559.4468168165045 1201.2704492629787 1374.726081381938> in <TIME 00:00:43.067 video 1>?",
+        "choices": [
+            "knife, bread and plate, garlic bulb",
+            "phone",
+            "lid",
+            "plate, piece of ginger, serrated knife",
+            "bread piece, fork"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_60": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-130119"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 624.9893710158466 369.9745194789696 1075.592608844049 1120.4963867419324> in <TIME 00:04:24.967 video 1>?",
+        "choices": [
+            "laundry conditioner cap, pan, scrubbing brush",
+            "dish cloth",
+            "sponge",
+            "sink plug, spoon holder, scrubbing brush",
+            "baking tray"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_61": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162242"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 329.0963915379205 0 964.604365770789 793.3466230373601> in <TIME 00:02:47.9 video 1>?",
+        "choices": [
+            "jar of salt, lid",
+            "fork",
+            "large white jug of dishwashing liquid",
+            "lid of jar of sugar, large white jug of dishwashing liquid, bottle of soap",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_62": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-121517"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 283.441060084885 934.0640860794074 1223.3452989634957> in <TIME 00:05:43.667 video 1>?",
+        "choices": [
+            "glass, mug",
+            "Nothing",
+            "plate, bottle of soap",
+            "green bag of flour, large bowl",
+            "bottle of soap"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_63": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-154652"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 729.0357099283053 435.22601599122953 1408 1102.1392184337942> in <TIME 00:04:35.833 video 1>?",
+        "choices": [
+            "Nothing",
+            "lid of bottle, lid",
+            "pan, spoon holder",
+            "frying pan, white bowl, sponge",
+            "drain protector, scourer, scrubbing brush"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_64": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 757.763010054196 614.0431547068754 1030.90610546836 831.2703847403276> in <TIME 00:05:0.8 video 1>?",
+        "choices": [
+            "tea towel, towel",
+            "pot cover, pot",
+            "carrier bag, whisk",
+            "plastic box lid, bottle of soap, lid of jar of sugar",
+            "weighing scale, bottle of soap"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_65": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 676.1729502860586 782.6071456010897 1198.1779498758272 877.3928474876301> in <TIME 00:12:17.667 video 1>?",
+        "choices": [
+            "Nothing",
+            "towel, egg",
+            "silver foil, egg",
+            "silver foil, egg, mug",
+            "towel"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_66": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 335.8727641758635 381.287480718702 940.9305818021417 808.235863878933> in <TIME 00:30:39.233 video 1>?",
+        "choices": [
+            "bottle of soap",
+            "Nothing",
+            "salt bottle, folded carrier bag, jar of salt",
+            "plate, weighing scale",
+            "large white jug of dishwashing liquid, stack of plastic boxes, cloth"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_67": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 408.09852144704683 298.56716303787147 1212.523637510495 766.5410329131167> in <TIME 00:00:19.6 video 1>?",
+        "choices": [
+            "vegetable drawer, packet of tomatoes, cup of yogurt",
+            "cup of yogurt",
+            "packet of ghee",
+            "packet of tomatoes, butter paper",
+            "Nothing"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_68": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-110250"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 640.7910943591364 685.188123158288 1270.2359637189402 1408> in <TIME 00:05:8.5 video 1>?",
+        "choices": [
+            "Nothing",
+            "glass, tin of cocoa powder",
+            "lid of food processor, tupperware",
+            "glass, new packet of biscuits, food processor",
+            "top lid of food processor"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_69": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 666.3623876637465 1408 1408> in <TIME 00:07:11.8 video 1>?",
+        "choices": [
+            "vegetable drawer, plastic bag, cup of yogurt",
+            "pouch of food",
+            "Nothing",
+            "cup of yogurt",
+            "plastic bag, yellow box"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_70": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 791.8372153032782 667.7201533215983 1349.4283158996109> in <TIME 00:00:10.7 video 1>?",
+        "choices": [
+            "mug",
+            "tea towel, glass, lid of jar of sugar",
+            "bowl, salt bottle",
+            "Nothing",
+            "napkin, stack of plastic boxes"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_71": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 600.4892214765562 0 1408 1408> in <TIME 00:02:32.3 video 1>?",
+        "choices": [
+            "phone",
+            "small object, glass jar, digital scales",
+            "bowl of grapes, spoon",
+            "baking paper, garlic bulb",
+            "Nothing"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_72": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-122334"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 542.7623833792188 538.201894424285 1031.5739550428075 1092.3382823413588> in <TIME 00:08:52.167 video 1>?",
+        "choices": [
+            "folded white cloth",
+            "white cloth, folded white cloth, tea towel",
+            "Nothing",
+            "tea towel, towel, white cloth",
+            "tea towel, folded white cloth"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_73": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 669.5424085807475 730.3887848248053 1129.3143085905622 1408> in <TIME 00:01:50.633 video 1>?",
+        "choices": [
+            "Nothing",
+            "tin of soup, pan gripper, scales",
+            "more cutlery, pan gripper, saucepan",
+            "tongs",
+            "chicken breast packet"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_74": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 575.6374716729308 1059.9689530621054 1408> in <TIME 00:09:7.167 video 1>?",
+        "choices": [
+            "butter packaging, other lemon half",
+            "Nothing",
+            "butter packaging, can of yeast, bag of coriander",
+            "plastic package of salad",
+            "chicken stock cube packaging, can of yeast"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_75": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-195538"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 695.6553360313368 523.1157709158642 1408 1408> in <TIME 00:04:23.367 video 1>?",
+        "choices": [
+            "Nothing",
+            "glass, spoon",
+            "frying pan, coffee jug",
+            "baking tray, sink plug, steaming tray",
+            "steaming tray"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_76": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 610.9263672942282 587.7885968220188 1195.4485659159036 1245.554397037611> in <TIME 00:00:23.0 video 1>?",
+        "choices": [
+            "baking tray, tea towel",
+            "hand blender cup, ramekin, shelf",
+            "ramekin, hand blender cup",
+            "ramekin",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_77": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-090759"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 536.7815662452499 516.7111055666458 846.3554864789608 1123.1796369329963> in <TIME 00:03:27.2 video 1>?",
+        "choices": [
+            "three spoons, third bowl, glass",
+            "tablespoon",
+            "more cutlery, bowl, fork",
+            "tablespoon, second bowl",
+            "Nothing"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_78": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-152537"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 826.1765744745753 223.1486777554403 1322.801483299152 1408> in <TIME 00:03:14.9 video 1>?",
+        "choices": [
+            "lid of food processor, tin of cocoa powder",
+            "food processor's motor, notepad",
+            "glass, food processor bowl",
+            "Nothing",
+            "top lid of food processor, tupperware"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_79": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-101357"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 700.266019403497 499.90348532996927 817.2896332102688 1136.4043633979618> in <TIME 00:00:12.9 video 1>?",
+        "choices": [
+            "dish scrubber, wooden scrubbing brush, scourer",
+            "mixing bowl, glass, scrubbing brush",
+            "orange sponge",
+            "dish brush, orange sponge",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_80": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 53.10004813737817 355.5187662585949 1408 1408> in <TIME 00:03:45.0 video 1>?",
+        "choices": [
+            "packet of tomatoes",
+            "cup of yogurt, yoghurt",
+            "avocado, bag of veg",
+            "vegetable drawer, piece of cling film",
+            "plastic bag, yellow box, bowl of egg white"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_81": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-082420"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 884.6202772563782 803.7313340789066 1332.6568077962495> in <TIME 00:02:14.033 video 1>?",
+        "choices": [
+            "packet of tomatoes, bowl of egg white",
+            "plastic bag",
+            "yellow box, bottle",
+            "bowl of egg white, bottle",
+            "bottle of milk"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_82": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 450.6630882539207 569.0757484608775 1132.7135975737528 970.430978849128> in <TIME 00:18:49.733 video 1>?",
+        "choices": [
+            "different bottle of vanilla extract",
+            "spoon, large white jug of dishwashing liquid, glass",
+            "mug, napkin, third spoon",
+            "cloth, teapot",
+            "weighing scale"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_83": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-195538"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 192.0491307000201 606.1512791658243 1408 1408> in <TIME 00:01:38.967 video 1>?",
+        "choices": [
+            "bowl",
+            "carrier bag",
+            "weighing scale, glass, cloth",
+            "whisk, stack of plastic boxes",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_84": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-152956"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 190.51078528924415 828.5057182256556 995.4282407863325 1408> in <TIME 00:00:54.567 video 1>?",
+        "choices": [
+            "whisk",
+            "plate",
+            "knife, cloth, glass",
+            "Nothing",
+            "spoon"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_85": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 731.337592863221 537.6133435216229 1408 1228.241387109102> in <TIME 00:05:51.133 video 1>?",
+        "choices": [
+            "sink plug, drain protector, coffee jug",
+            "baking tray",
+            "egg carton, spoon holder",
+            "sink plug, laundry conditioner cap, scourer",
+            "sink plug, steaming tray"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_86": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 281.98463108747836 1408 1386.3081388066007> in <TIME 00:00:14.733 video 1>?",
+        "choices": [
+            "object in fridge, plastic bag, cup of yogurt",
+            "yellow box",
+            "bottle",
+            "back of lettuce, carton of eggs, vegetables",
+            "Nothing"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_87": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-172534"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 711.1586415751982 424.28118355242924 1361.8168662350013 1086.3863708439844> in <TIME 00:01:3.167 video 1>?",
+        "choices": [
+            "lid of bottle, coffee jug, sponge",
+            "cap",
+            "drain protector, drain cover",
+            "Nothing",
+            "baking tray, bowl of grapes, cap"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_88": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-072251"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 568.6654706316276 208.80702629345524 990.1245079644837 736.2546108460732> in <TIME 00:19:53.467 video 1>?",
+        "choices": [
+            "Nothing",
+            "sink plug, cap, scourer",
+            "laundry conditioner cap, drain cover, lid",
+            "baking tray, lid of bottle, drain cover",
+            "bowl, mug"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_89": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 680.2899480780102 757.7915877144877 883.7151454733942 921.8924643256414> in <TIME 00:06:45.3 video 1>?",
+        "choices": [
+            "Nothing",
+            "baking paper",
+            "large bowl",
+            "hand blender cup",
+            "tea towel, orange towel, hand blender cup"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_90": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-165332"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 728.4959954706779 402.9973691857743 1408 1036.3079653137154> in <TIME 00:12:8.9 video 1>?",
+        "choices": [
+            "laundry conditioner cap",
+            "pan",
+            "baking tray, tea towel",
+            "drain protector, steaming tray",
+            "Nothing"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_91": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 316.6613420641708 402.2919789233841 1014.3808763189512 956.7314131534404> in <TIME 00:04:53.033 video 1>?",
+        "choices": [
+            "spoon, bottle of soap",
+            "bottle of soap, napkin",
+            "knife, towel, whisk",
+            "Nothing",
+            "cup"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_92": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 208.01139885446162 199.2109958177192 977.2651613878288 770.9529564690507> in <TIME 00:01:15.233 video 1>?",
+        "choices": [
+            "Nothing",
+            "lid of jar of sugar, whisk, mug",
+            "tea towel, salt bottle, napkin",
+            "mug, jar of salt",
+            "white serving bowl"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_93": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240426-092000"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 787.0824026019966 716.5426995828997 1353.7231329241604 1116.8343687460483> in <TIME 00:00:35.3 video 1>?",
+        "choices": [
+            "egg, mug",
+            "egg, towel",
+            "other oven glove, egg, oven glove",
+            "towel",
+            "Nothing"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_94": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 585.6423201313819 0 1408 1281.8735195091658> in <TIME 00:18:24.667 video 1>?",
+        "choices": [
+            "salt bottle, cloth, jar of salt",
+            "weighing scale",
+            "large white jug of dishwashing liquid, cloth",
+            "Track , pack of kidney beans, packet",
+            "Nothing"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_95": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-223126"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 463.3626419560082 988.398179264334 1408> in <TIME 00:00:25.7 video 1>?",
+        "choices": [
+            "tea towel, saucepan, stack of plastic boxes",
+            "tea towel",
+            "Nothing",
+            "carrier bag",
+            "plate, carrier bag, whisk"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_96": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-154652"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 938.6461859731633 985.4496570181684 1408> in <TIME 00:08:47.9 video 1>?",
+        "choices": [
+            "bowl, glass, stack of plastic boxes",
+            "Nothing",
+            "bottle of soap",
+            "plate, teaspoon, saucepan",
+            "plate, towel, large white jug of dishwashing liquid"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_97": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 800.051235963 375.2687849056617 930.633020046081 823.509979493432> in <TIME 00:01:31.833 video 1>?",
+        "choices": [
+            "Nothing",
+            "bowl, scale instructions",
+            "multivitamin pill, kitchen roll",
+            "kitchen roll",
+            "pack of tomatoes"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_98": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-104948"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 532.8854650822893 977.4036976485501 1408 1408> in <TIME 00:03:38.733 video 1>?",
+        "choices": [
+            "frying pan, spatula",
+            "pan gripper, saucepan",
+            "spoon, serrated knife",
+            "tin of soup, spatula",
+            "Nothing"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_99": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-202148"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 639.2184453823205 16.58790981077766 963.8582971203665 823.5849266293495> in <TIME 00:13:14.633 video 1>?",
+        "choices": [
+            "Nothing",
+            "tea towel, bread piece, garlic bulb",
+            "knife",
+            "glass, fork, phone",
+            "tea towel"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_100": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-223126"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 695.250531284195 675.8581600051649 1250.3799792008672 1156.234349912036> in <TIME 00:02:14.967 video 1>?",
+        "choices": [
+            "something",
+            "Nothing",
+            "plate blue",
+            "plastic box, one tube of biscuits",
+            "one tube of biscuits"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_101": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 719.335421938131 577.3372747877136 1005.8125203911598 1195.1901948562297> in <TIME 00:25:58.533 video 1>?",
+        "choices": [
+            "knife, spoon",
+            "more cutlery, glass, third bowl",
+            "teaspoon, third bowl, second bowl",
+            "tablespoon",
+            "more cutlery, three spoons, glass"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_102": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-152323"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 67.5972801971891 628.3391006686668 776.3286786189818 1408> in <TIME 00:02:1.167 video 1>?",
+        "choices": [
+            "baking tray, orange towel, baking paper",
+            "hand blender cup",
+            "baking tray, baking paper, hand blender cup",
+            "tray of food",
+            "Nothing"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_103": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 565.921105913546 712.9452341336876 1120.0201676927095 1273.3065732711548> in <TIME 00:42:29.367 video 1>?",
+        "choices": [
+            "lid of jar of sugar, whisk",
+            "plastic box lid, jar of salt, third spoon",
+            "Track , pressure cooker",
+            "Nothing",
+            "weighing scale, spoon, napkin"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_104": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 617.6838910638113 652.8143450433099 779.9708639854259 902.2964588043787> in <TIME 00:04:57.633 video 1>?",
+        "choices": [
+            "sriracha sauce bottle, soy sauce bottle",
+            "glass",
+            "Nothing",
+            "bowl",
+            "tea towel, saucepan, whisk"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_105": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-202148"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 49.30922801200688 368.25192460816504 1408 1408> in <TIME 00:03:31.733 video 1>?",
+        "choices": [
+            "three spoons, glass, second bowl",
+            "metal colander, dishwasher tablet, fork",
+            "Nothing",
+            "cutlery, glass, tablespoon",
+            "tablespoon"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_106": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-084005"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 617.1084262025821 774.0367100793953 1249.937766196703> in <TIME 00:05:21.233 video 1>?",
+        "choices": [
+            "coffee beans bag, tea filter, clip",
+            "Nothing",
+            "stack of plastic boxes",
+            "tea towel, third spoon",
+            "spoon"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_107": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-121517"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 452.47311938164995 1004.2230904399728 981.0711881178793> in <TIME 00:07:18.867 video 1>?",
+        "choices": [
+            "plate, glass",
+            "bottle of salt",
+            "plate, fork, third spoon",
+            "fork",
+            "tea towel, plastic box lid, mug"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_108": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-202148"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 453.4599117960359 433.9927566957977 1218.6895549035712 954.6713310872879> in <TIME 00:14:1.733 video 1>?",
+        "choices": [
+            "tea towel",
+            "lid of jar of sugar, bottle of soap, mug",
+            "weighing scale, plastic box lid",
+            "jar of salt",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_109": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162750"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 651.0794984469903 339.69803159407263 1234.7766011442982 1035.548927144892> in <TIME 00:02:0.367 video 1>?",
+        "choices": [
+            "new packet of biscuits, food processor, tupperware",
+            "tupperware, lid",
+            "new packet of biscuits, tin of cocoa powder",
+            "Nothing",
+            "notebook, bag of dal"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_110": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-194642"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 939.0493933180414 706.787511698245 1408 1021.8687116276699> in <TIME 00:01:20.067 video 1>?",
+        "choices": [
+            "Nothing",
+            "whisk, fork, jar of salt",
+            "pan lid",
+            "spoon, large white jug of dishwashing liquid, towel",
+            "cloth"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_111": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 196.9748359560415 0 1408 1408> in <TIME 00:13:33.4 video 1>?",
+        "choices": [
+            "whisk, third spoon",
+            "spoon, large white jug of dishwashing liquid",
+            "garlic bulb",
+            "Nothing",
+            "bottle of soap, whisk"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_112": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 676.580000404142 614.3904593577165 1061.9779231932025 1213.6802710097145> in <TIME 00:40:34.1 video 1>?",
+        "choices": [
+            "broken piece of pancake, lid of peanut butter",
+            "baking tray, oven mitt",
+            "heat diffuser, metal ring",
+            "Nothing",
+            "bowl, wooden spoon, packet"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_113": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 757.763010054196 614.0431547068754 1030.90610546836 831.2703847403276> in <TIME 00:05:0.8 video 1>?",
+        "choices": [
+            "lid",
+            "folded carrier bag, mug, cloth",
+            "stack of plastic boxes, jar of salt",
+            "salt bottle, glass, folded carrier bag",
+            "tea towel, saucepan, whisk"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_114": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-100448"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 356.0835489304997 1408 1394.1060677478904> in <TIME 00:04:25.9 video 1>?",
+        "choices": [
+            "teaspoon, bottle of soap, folded carrier bag",
+            "teaspoon, mug",
+            "carrier bag, stack of plastic boxes, mug",
+            "basket",
+            "jar of salt"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_115": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-161354"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 77.94733960845588 599.2912337559792 942.0838899439254 1012.0226878328651> in <TIME 00:03:29.667 video 1>?",
+        "choices": [
+            "large white jug of dishwashing liquid",
+            "jar of black pepper, salt bottle",
+            "spoon",
+            "plastic box lid, napkin",
+            "bowl, cloth"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_116": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-110250"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 716.2222799675732 424.01427512700593 1021.9791931983639 978.6489008249133> in <TIME 00:05:50.2 video 1>?",
+        "choices": [
+            "tea towel, hand blender cup",
+            "tea towel, baking paper",
+            "baking tray, orange towel",
+            "Nothing",
+            "baking tray, baking paper, orange towel"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_117": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 627.0367289140928 1408 1408> in <TIME 00:18:42.5 video 1>?",
+        "choices": [
+            "teapot",
+            "Nothing",
+            "jar of cinnamon powder",
+            "plate, teapot",
+            "jar of salt"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_118": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 522.2976897082492 0 1408 1139.5753238734999> in <TIME 00:00:38.633 video 1>?",
+        "choices": [
+            "plastic bag",
+            "plastic bag, bottle",
+            "object in fridge, butter paper",
+            "cup of yogurt",
+            "pack of salted butter"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_119": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 600.1969309558451 614.2922486938012 1159.4874991554907 1138.155172216276> in <TIME 00:00:38.633 video 1>?",
+        "choices": [
+            "plate blue, one tube of biscuits",
+            "Nothing",
+            "ginger, plastic box, package of biscuits",
+            "ginger, towel, plate blue",
+            "something, tiramisu pot"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_120": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-165332"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 182.3511399525754 551.2285700530351 907.5018367061452 961.0327511813739> in <TIME 00:18:28.167 video 1>?",
+        "choices": [
+            "saucepan, fork",
+            "jar of sugar, lid of jar of sugar",
+            "plate, spoon, cloth",
+            "bowl, tea towel, fork",
+            "Nothing"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_121": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 431.55114932009167 354.67525968798026 771.9439829723533 1314.142669127455> in <TIME 00:11:32.833 video 1>?",
+        "choices": [
+            "orange towel, tea towel, baking paper",
+            "baking paper",
+            "baking tray",
+            "shelf",
+            "Nothing"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_122": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-180658"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 535.2704017118093 631.2618849781182 707.7550406448212 974.5270079581175> in <TIME 00:01:38.0 video 1>?",
+        "choices": [
+            "tea towel, spoon, glass",
+            "bottle of soap",
+            "packet of rich teas",
+            "carrier bag, glass",
+            "Nothing"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_123": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-115307"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 685.7530501721808 716.5535359338677 1033.941305112203 1399.8221861872885> in <TIME 00:15:38.467 video 1>?",
+        "choices": [
+            "Nothing",
+            "plastic box lid",
+            "tea towel, metal ring, plastic box lid",
+            "broken piece of pancake, lid of peanut butter",
+            "pressure cooker"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_124": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 758.8729881306738 567.7291176038045 1191.6641572271824 896.5302843537688> in <TIME 00:00:23.8 video 1>?",
+        "choices": [
+            "Nothing",
+            "plate, carrier bag, mug",
+            "towel, mug, third spoon",
+            "chopping board, pack of lentils",
+            "plate, knife, mug"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_125": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 701.9760754786757 78.95666564411567 1344.6701324922064 1269.6628806282763> in <TIME 00:27:22.933 video 1>?",
+        "choices": [
+            "sink plug, lid of bottle, bowl of grapes",
+            "drain cover",
+            "baking tray, teaspoon, scrubbing brush",
+            "sink plug, coffee jug, spoon holder",
+            "bowl of grapes"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_126": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 816.8659469523643 536.2086004777858 1235.7948578241537 992.8475891940179> in <TIME 00:06:0.9 video 1>?",
+        "choices": [
+            "place mat, microwave oven",
+            "place mat, cardboard box",
+            "Nothing",
+            "glass jug",
+            "cardboard box"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_127": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 899.3282593223322 465.458447738676 1250.7418252611844 758.8668276385675> in <TIME 00:00:26.667 video 1>?",
+        "choices": [
+            "stack of plastic boxes",
+            "knife, carrier bag",
+            "plastic box lid",
+            "carrier bag, towel",
+            "Nothing"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_128": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240625-103827"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 602.1747269576649 405.37077672403336 1029.7969853718173 837.386506937077> in <TIME 00:02:36.033 video 1>?",
+        "choices": [
+            "tea towel, baking paper, hand blender cup",
+            "baking tray",
+            "shelf, baking paper, hand blender cup",
+            "orange towel, shelf",
+            "Nothing"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_129": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-072251"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 752.0012174435202 0 1408 802.6959130487534> in <TIME 00:21:13.367 video 1>?",
+        "choices": [
+            "top lid of food processor, food processor bowl, lid",
+            "metal bowl",
+            "orange, top lid of food processor, lid of food processor",
+            "Nothing",
+            "notebook, orange cloth"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_130": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-170021"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 283.7267896581167 0 791.4539198858312 1408> in <TIME 00:11:3.067 video 1>?",
+        "choices": [
+            "other oven glove, egg, oven glove",
+            "towel",
+            "silver foil, mug",
+            "Nothing",
+            "egg"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_131": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 227.50228761013244 624.9236425829484 878.9429197500937 968.352210971776> in <TIME 00:01:19.3 video 1>?",
+        "choices": [
+            "third spoon",
+            "spoon",
+            "plate",
+            "coffee cup",
+            "Nothing"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_132": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 341.3043827408073 465.92711301224267 935.2830820200736 864.8566646788684> in <TIME 00:23:36.767 video 1>?",
+        "choices": [
+            "third spoon",
+            "glass, whisk",
+            "large white jug of dishwashing liquid, fork",
+            "Nothing",
+            "napkin"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_133": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-072251"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 351.86348222210376 799.0649280725501 898.4494994049303> in <TIME 00:14:13.267 video 1>?",
+        "choices": [
+            "towel, saucepan, third spoon",
+            "bottle of soap",
+            "Nothing",
+            "saucepan",
+            "mug"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_134": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-132938"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 641.5513688697928 319.94459306986624 1230.9087482858524 825.9687622697243> in <TIME 00:00:14.8 video 1>?",
+        "choices": [
+            "tea towel",
+            "Nothing",
+            "baking tray, orange towel, hand blender cup",
+            "orange towel, baking paper",
+            "hand blender cup"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_135": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-152537"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 713.3153383407791 0 1408 1235.630818357638> in <TIME 00:05:45.1 video 1>?",
+        "choices": [
+            "heat diffuser, plastic box lid",
+            "lid of pan, broken piece of pancake",
+            "saucepan",
+            "wooden spoon",
+            "pan, oven mitt, metal ring"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_136": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-082420"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 677.4047614661004 674.2646675101727 847.2423040549226 1066.2576393147415> in <TIME 00:04:12.0 video 1>?",
+        "choices": [
+            "bowl",
+            "scale",
+            "place mat",
+            "wooden chopping board",
+            "cardboard box, scale"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_137": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-094713"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 516.6089496949786 535.9920260632691 1078.2732526219788 1281.312912450507> in <TIME 00:02:31.1 video 1>?",
+        "choices": [
+            "knife",
+            "Nothing",
+            "butter, bread piece, jam jar",
+            "tea towel, phone, box",
+            "knife, glass"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_138": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-154652"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 679.5651263967769 510.33217336814096 1187.9515457781383 1050.1018077582312> in <TIME 00:07:49.833 video 1>?",
+        "choices": [
+            "tea towel, saucepan, tupperware lid",
+            "sink plug, lid of bottle",
+            "bowl of grapes",
+            "Nothing",
+            "frying pan"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_139": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-132938"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 1046.2173383564655 618.3847313290378 1408 1408> in <TIME 00:02:33.633 video 1>?",
+        "choices": [
+            "glass, spoon",
+            "more cutlery, third bowl, tablespoon",
+            "Nothing",
+            "third bowl",
+            "fork"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_140": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 548.2374881165415 608.4389931550627 1242.3416125520814 1171.6591005284927> in <TIME 00:03:52.933 video 1>?",
+        "choices": [
+            "third spoon, mug",
+            "salt bottle, stack of plastic boxes, jar of salt",
+            "knife",
+            "packet",
+            "plastic box lid, folded carrier bag"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_141": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 847.8055121114794 331.1002203304088 1214.240234917353 894.661418261391> in <TIME 00:20:56.167 video 1>?",
+        "choices": [
+            "baking tray",
+            "hand blender cup, orange towel, shelf",
+            "Nothing",
+            "tea towel",
+            "hand blender cup, tea towel, shelf"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_142": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-121517"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 854.0089493447251 738.4378921010517 1408 1408> in <TIME 00:00:21.467 video 1>?",
+        "choices": [
+            "cap, spoon holder",
+            "sink plug",
+            "bowl of grapes, scourer",
+            "teaspoon",
+            "spoon, cap, scrubbing brush"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_143": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-172243"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 589.5209016443722 420.19086913105883 809.2263433295302 1196.8677232353443> in <TIME 00:00:11.467 video 1>?",
+        "choices": [
+            "baking tray",
+            "baking tray, tea towel, orange towel",
+            "baking tray, baking paper",
+            "Nothing",
+            "pan"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_144": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-184003"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 596.0643815304128 545.8023908395943 1272.158905230427 1205.555312980748> in <TIME 00:01:36.867 video 1>?",
+        "choices": [
+            "plate, mug, wooden spatula",
+            "steaming tray, cap",
+            "lid",
+            "scrubbing brush",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_145": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-084005"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 549.0868779639623 1309.6631099442186 1408> in <TIME 00:00:12.267 video 1>?",
+        "choices": [
+            "plate, plastic box lid",
+            "tea towel, third spoon",
+            "plate, lid of jar of sugar, carrier bag",
+            "spoon, mug",
+            "saucepan, fork"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_146": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-152323"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 0 306.2321310570728 871.093033118255 856.7774487004117> in <TIME 00:02:9.467 video 1>?",
+        "choices": [
+            "plate",
+            "tea towel, mug",
+            "Nothing",
+            "plastic box lid",
+            "knife, napkin"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_147": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-194642"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 569.0769353841591 304.69481349468043 1408 1065.183771400737> in <TIME 00:05:20.433 video 1>?",
+        "choices": [
+            "bottle of hibiscus drink",
+            "object in fridge, plastic bag, yoghurt",
+            "object in fridge, yoghurt",
+            "yellow box, piece of cling film, cup of yogurt",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_148": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-090812"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 274.60018575671546 618.4455898710271 523.1005390848509 1224.652774213962> in <TIME 00:01:23.733 video 1>?",
+        "choices": [
+            "scale instructions",
+            "cardboard insert",
+            "multivitamin pill",
+            "salt, cardboard insert",
+            "Nothing"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_149": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 467.68038075537095 639.877278426355 876.4869583008849 1017.8483574755116> in <TIME 00:10:18.167 video 1>?",
+        "choices": [
+            "bottle of oil",
+            "notebook, lid",
+            "notebook, glass, top lid of food processor",
+            "orange, oranges mesh, glass",
+            "metal bowl, tin of cocoa powder"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_150": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-175627"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 836.5875609185407 283.39896225602325 1408 1201.8654907923874> in <TIME 00:01:27.5 video 1>?",
+        "choices": [
+            "sponge",
+            "lid of bottle, bowl of grapes, cap",
+            "baking tray",
+            "sink plug, scrubbing brush",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_151": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 743.0621381841953 0 1408 1408> in <TIME 00:44:17.4 video 1>?",
+        "choices": [
+            "food processor bowl",
+            "food processor bowl, lid",
+            "lid of food processor, tupperware, lid",
+            "pot cover",
+            "Nothing"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_152": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 606.45972770011 649.161432723328 1147.542456490156 1269.6895088864444> in <TIME 00:43:10.367 video 1>?",
+        "choices": [
+            "Nothing",
+            "scrubbing brush",
+            "spoon holder",
+            "frying pan",
+            "knife, chopping board"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_153": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-084005"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 259.76453016622514 1114.1130789365375 1021.8387635652325> in <TIME 00:02:58.267 video 1>?",
+        "choices": [
+            "lid of jar of sugar, whisk",
+            "bottle of soap",
+            "jar of salt",
+            "Nothing",
+            "black plastic spoon, plastic spatula"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_154": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 38.130008976717704 740.536874055046 991.195587972559 1178.0619817071993> in <TIME 00:07:10.9 video 1>?",
+        "choices": [
+            "glass, second large bowl",
+            "carrier bag",
+            "Nothing",
+            "folded carrier bag",
+            "napkin, drinking glass, mug"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_155": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 614.0645531454226 609.0599851607568 1408 1408> in <TIME 00:03:18.233 video 1>?",
+        "choices": [
+            "object in fridge, packet of tomatoes, yoghurt",
+            "packet of tomatoes, bottle, yoghurt",
+            "Nothing",
+            "cup of yogurt, yoghurt",
+            "lettuce, packet of bacon, packet of eggs"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_156": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-084005"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 99.76307858029463 588.7455657437333 1251.9435776883188 1408> in <TIME 00:08:31.3 video 1>?",
+        "choices": [
+            "saucepan lid, three spoons",
+            "metal colander, red coffee beans spoon",
+            "other plate",
+            "teaspoon, fork",
+            "more cutlery, teaspoon, fork"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_157": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 507.3926358954185 591.6703046783992 1408 1408> in <TIME 00:03:5.767 video 1>?",
+        "choices": [
+            "bottle",
+            "piece of cling film",
+            "Nothing",
+            "object in fridge, cup of yogurt",
+            "box of food, meat"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_158": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111219"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 550.1293835428726 475.2466977821495 1125.6130088286536 1009.5821925830044> in <TIME 00:03:38.4 video 1>?",
+        "choices": [
+            "pan",
+            "spoon, sponge",
+            "baking tray, lid of bottle",
+            "lid",
+            "sink plug, bowl of grapes, scrubbing brush"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_159": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-094713"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 87.60594222678696 495.5312017414557 979.7066911475963 1044.4872983475693> in <TIME 00:00:17.5 video 1>?",
+        "choices": [
+            "tea towel, third spoon",
+            "bowl",
+            "Nothing",
+            "plate, fork",
+            "stack of plastic boxes"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_160": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-115653"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 476.90008445779154 0 1408 922.1158928006756> in <TIME 00:01:7.933 video 1>?",
+        "choices": [
+            "other packet of cheese, block of cheddar cheese, puff pastry",
+            "packet of tomatoes, bottle",
+            "Nothing",
+            "piece of cling film, bottle",
+            "plastic bag, bowl of egg white"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_161": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-115653"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 547.1490113684671 552.4233727339929 1183.4605374205437 1005.3463303107732> in <TIME 00:01:1.433 video 1>?",
+        "choices": [
+            "tea towel",
+            "Nothing",
+            "lid of jar of sugar, fork",
+            "lid of jar of sugar, bottle of soap",
+            "tupperware box"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_162": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 681.2545582812465 453.4857778362494 1379.1951500547702 1184.1664547654307> in <TIME 00:12:29.9 video 1>?",
+        "choices": [
+            "lid",
+            "spoon holder",
+            "bowl, plastic bottle",
+            "baking tray, laundry conditioner cap, steaming tray",
+            "Nothing"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_163": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-172534"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 691.6842966627942 513.9675276262705 1408 1175.5677145436923> in <TIME 00:01:1.167 video 1>?",
+        "choices": [
+            "lid of bottle, frying pan, sponge",
+            "frying pan",
+            "baking tray, drain protector, lid",
+            "sponge",
+            "Nothing"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_164": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-180658"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 446.0214677140783 694.7397632086645 1016.3477814716595 1408> in <TIME 00:01:44.833 video 1>?",
+        "choices": [
+            "scales, lids",
+            "frying pan",
+            "more cutlery",
+            "Nothing",
+            "scales"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_165": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 10.668927726603556 334.48302817019055 839.4951872577225 924.3676906132154> in <TIME 00:08:33.867 video 1>?",
+        "choices": [
+            "salt bottle, glass",
+            "Nothing",
+            "glass, napkin",
+            "jar, new jar",
+            "towel"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_166": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 309.9156671485529 600.2867099571805 1113.6258194049442 965.2729726731502> in <TIME 00:13:32.633 video 1>?",
+        "choices": [
+            "coffee beans bag, coffee mug",
+            "spoon, towel, lid of jar of sugar",
+            "glass, teapot",
+            "knife, stack of plastic boxes",
+            "Nothing"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_167": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-122221"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 820.918622878768 161.23593336255863 1408 1408> in <TIME 00:00:17.4 video 1>?",
+        "choices": [
+            "lid of bottle, drain protector, scrubbing brush",
+            "sponge, lid",
+            "spoon holder",
+            "plate, plastic box",
+            "scourer"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_168": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 301.9828362039336 398.69252311468534 1021.501187953046 951.0430922491728> in <TIME 00:02:51.067 video 1>?",
+        "choices": [
+            "object in fridge, cup of yogurt",
+            "piece of cling film",
+            "plate of food",
+            "plastic bag",
+            "Nothing"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_169": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-150506"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 335.6834772674048 851.0311294594005 679.95073290224> in <TIME 00:11:47.367 video 1>?",
+        "choices": [
+            "other lemon half, bowl",
+            "butter packaging, bowl",
+            "other lemon half, milk bottle, chicken",
+            "milk bottle",
+            "can of yeast, bag of coriander"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_170": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-195538"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 784.1619767706426 558.6880540794043 874.520770869294 992.6390342620438> in <TIME 00:07:46.767 video 1>?",
+        "choices": [
+            "bowl",
+            "Nothing",
+            "place mat, white plate, wooden chopping board",
+            "microwave oven",
+            "place mat, white plate"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_171": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 478.88495195733356 0 851.9310879715804 1408> in <TIME 00:34:50.8 video 1>?",
+        "choices": [
+            "tea towel",
+            "hand blender cup",
+            "hand blender cup, shelf",
+            "Nothing",
+            "baking tray, baking paper"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_172": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 359.5334626213187 0 1352.9073835333447 957.1087489284608> in <TIME 00:16:29.5 video 1>?",
+        "choices": [
+            "garlic bulb",
+            "packets of cherry tomatoes",
+            "Nothing",
+            "baking paper, fork",
+            "plate, spoon"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_173": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 772.7811225525195 480.54543331673943 869.590548056485 1114.0038588773134> in <TIME 00:03:54.033 video 1>?",
+        "choices": [
+            "baking tray, baking paper",
+            "Nothing",
+            "tea towel, hand blender cup",
+            "tea towel",
+            "pan"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_174": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-161354"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 867.3610866114299 296.42344804466416 1408 1343.7731246745116> in <TIME 00:01:5.767 video 1>?",
+        "choices": [
+            "steaming tray",
+            "right hand glove, left glove",
+            "coffee jug, spoon holder",
+            "frying pan, spoon holder",
+            "baking tray, coffee jug, scourer"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_175": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-072251"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 710.6440226850506 433.646425107015 1408 1133.6686495346753> in <TIME 00:00:16.8 video 1>?",
+        "choices": [
+            "baking tray",
+            "rubber spatula, bowl, whisk",
+            "Nothing",
+            "cap, scourer",
+            "scourer"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_176": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 674.0926840031896 483.7801008923544 834.8796820818495 997.5017847886343> in <TIME 00:20:53.933 video 1>?",
+        "choices": [
+            "colander, glass jug, digital weighing scale",
+            "Nothing",
+            "tongs, bowl, tea towel",
+            "tongs, glass, tea towel",
+            "bowl"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_177": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-130448"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 0 1145.256235359403 1330.1961175266047> in <TIME 00:08:17.033 video 1>?",
+        "choices": [
+            "Nothing",
+            "butter packaging, bag of coriander",
+            "mesh, tupperware",
+            "chicken stock cube packaging, plastic container, other lemon half",
+            "chicken stock cube packaging, bowl"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_178": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-170021"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 130.4230181377352 584.6606800137303 940.2155207912276 1408> in <TIME 00:15:0.433 video 1>?",
+        "choices": [
+            "carrier bag, third spoon, teapot",
+            "box of spices, pot of spice",
+            "third spoon",
+            "towel",
+            "Nothing"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_179": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-153748"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 693.6834922048267 537.4886441108613 1408 1254.1767504799789> in <TIME 00:00:58.733 video 1>?",
+        "choices": [
+            "pan",
+            "baking tray",
+            "washing up liquid, green bowl",
+            "drain protector, lid, spoon holder",
+            "Nothing"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_180": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 225.0845936533761 299.8312226413249 1002.1446880058799 957.7452659301828> in <TIME 00:04:31.233 video 1>?",
+        "choices": [
+            "Nothing",
+            "bowl",
+            "large white jug of dishwashing liquid",
+            "lid of jar of sugar, folded carrier bag",
+            "carrier bag, fork"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_181": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 785.8535422678749 464.83636891268964 966.4303768467041 904.3257712684667> in <TIME 00:06:9.067 video 1>?",
+        "choices": [
+            "more cutlery",
+            "plate, bowl",
+            "tea towel, saucepan, frying pan",
+            "Nothing",
+            "pan gripper, frying pan"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_182": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-064514"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 671.8947381278988 254.14916578480364 1165.4882224533749 1009.5178602829454> in <TIME 00:00:25.7 video 1>?",
+        "choices": [
+            "lid of food processor, metal bowl",
+            "lid of food processor, notebook, lid",
+            "Nothing",
+            "top lid of food processor, lid",
+            "glass, tupperware, lid"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_183": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-084005"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 186.61332446420852 526.3721880623864 975.5932071478203 1235.5510956035898> in <TIME 00:14:42.2 video 1>?",
+        "choices": [
+            "large white jug of dishwashing liquid",
+            "knife, saucepan",
+            "lid of jar of sugar, cloth, fork",
+            "glass, two plates",
+            "Nothing"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_184": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-202148"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 538.5494748695725 583.1571914292199 964.3850121179511 767.7921173276054> in <TIME 00:08:13.767 video 1>?",
+        "choices": [
+            "Nothing",
+            "plate, other tea towel",
+            "plate, lid, box",
+            "plate, kitchen towel, other tea towel",
+            "one tissue"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_185": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 590.0135376595529 415.17738597499266 1408 1408> in <TIME 00:51:38.633 video 1>?",
+        "choices": [
+            "tea towel, baking paper, phone",
+            "phone",
+            "empty packaging",
+            "bread knife, large bowl, third spoon",
+            "phone, garlic bulb"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_186": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-194141"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 758.1140227195147 671.5355335826953 921.727819383957 1181.8923011036234> in <TIME 00:15:0.433 video 1>?",
+        "choices": [
+            "piece of cling film, butter paper",
+            "object in fridge",
+            "bottle, yoghurt",
+            "vegetable drawer, plastic bag, butter paper",
+            "Nothing"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_187": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-101357"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 627.7456078046382 616.6016685316009 1408 1408> in <TIME 00:00:51.367 video 1>?",
+        "choices": [
+            "Nothing",
+            "glass, bread piece, baking paper",
+            "drip coffee apparatus cover, drip coffee apparatus",
+            "bread piece",
+            "box"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_188": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 0 539.1115609250255 1117.9961510304647 1142.1909120416044> in <TIME 00:00:37.833 video 1>?",
+        "choices": [
+            "towel",
+            "Nothing",
+            "bag of rice",
+            "third spoon",
+            "knife, salt bottle"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_189": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 555.6751716304924 582.8317956198953 1408 1226.8756929851652> in <TIME 00:07:20.533 video 1>?",
+        "choices": [
+            "bowl of egg white, bottle",
+            "vegetable drawer, yoghurt",
+            "lid of box",
+            "Nothing",
+            "cup of yogurt, yoghurt"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_190": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 634.3427879699757 801.883394084176 1339.4452044936565 1408> in <TIME 00:24:30.033 video 1>?",
+        "choices": [
+            "saucepan",
+            "towel, bottle of soap, glass",
+            "plate",
+            "spoon",
+            "knife, towel, teapot"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_191": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 584.5387476644182 749.9616028090346 1094.8821457271233 1294.1066053954723> in <TIME 00:26:46.867 video 1>?",
+        "choices": [
+            "Nothing",
+            "baking tray, lid of bottle, bowl of grapes",
+            "sink plug, drain protector",
+            "spatula, mushroom",
+            "baking tray, drain cover"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_192": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 250.84065723645256 567.9020816633391 975.0052724012174 914.9617570407374> in <TIME 00:13:0.0 video 1>?",
+        "choices": [
+            "orange towel",
+            "Nothing",
+            "tea towel",
+            "baking tray",
+            "baking tray, orange towel"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_193": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-090812"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 571.6637929195265 476.59192161967644 784.8575977221292 863.2485887475434> in <TIME 00:00:17.0 video 1>?",
+        "choices": [
+            "bowl",
+            "white plate, microwave oven",
+            "cardboard box, scale",
+            "Nothing",
+            "wooden chopping board"
+        ],
+        "correct_idx": 0
+    },
+    "3d_perception_object_contents_retrieval_194": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 785.8535422678749 464.83636891268964 966.4303768467041 904.3257712684667> in <TIME 00:06:9.067 video 1>?",
+        "choices": [
+            "knife, pan gripper, bowl",
+            "more cutlery, phone",
+            "Nothing",
+            "small plate",
+            "frying pan, fork"
+        ],
+        "correct_idx": 3
+    },
+    "3d_perception_object_contents_retrieval_195": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-064514"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 706.1054269628954 191.60188245847115 1187.081107269013 1010.5157901397309> in <TIME 00:00:26.367 video 1>?",
+        "choices": [
+            "lid of food processor",
+            "kitchen rag",
+            "top lid of food processor, tin of cocoa powder, tupperware",
+            "oranges mesh, glass",
+            "food processor bowl"
+        ],
+        "correct_idx": 1
+    },
+    "3d_perception_object_contents_retrieval_196": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-152537"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 703.2178445131702 16.349830541831693 1408 1123.1859250370665> in <TIME 00:06:35.767 video 1>?",
+        "choices": [
+            "lid of pan, oven mitt",
+            "mixing bowl, metal ring",
+            "saucepan",
+            "Nothing",
+            "glass lid, pan"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_197": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 752.2528855880412 666.8805874538446 1065.7382817759337 948.3624436926152> in <TIME 00:16:36.9 video 1>?",
+        "choices": [
+            "spatula, lids",
+            "bowl",
+            "flask, oven mitt",
+            "tin of soup",
+            "glass, saucepan"
+        ],
+        "correct_idx": 2
+    },
+    "3d_perception_object_contents_retrieval_198": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            }
+        },
+        "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 530.6596255300863 727.5787922182244 901.2996618471354 1293.3799371635696> in <TIME 00:00:15.267 video 1>?",
+        "choices": [
+            "metal bowl",
+            "food processor bowl, food processor",
+            "food processor, tupperware",
+            "lid of food processor, notebook",
+            "Nothing"
+        ],
+        "correct_idx": 4
+    },
+    "3d_perception_object_contents_retrieval_199": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these objects did the person take from the item indicated by bounding box <BBOX 890.4673565267383 542.918649871026 1268.4418468339559 860.4904405682516> in <TIME 00:30:15.767 video 1>?",
+        "choices": [
+            "Nothing",
+            "large white jug of dishwashing liquid",
+            "blender jar, blender",
+            "salt bottle, towel, spoon",
+            "tea towel"
+        ],
+        "correct_idx": 2
+    }
+}

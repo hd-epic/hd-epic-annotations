@@ -1,0 +1,4002 @@
+{
+    "object_motion_stationary_object_localization_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047"
+            },
+            "image 1": {
+                "id": "P06-20240510-100047",
+                "time": "00:13:51.966"
+            }
+        },
+        "question": "After the object <BBOX 924.22564 758.15385 1054.195 1001.244> seen at <TIME 00:13:51.966 video 1> is first moved, from which of the following starting times does the object remain static for more than 150 seconds?",
+        "choices": [
+            "<TIME 00:10:03.693 video 1>",
+            "<TIME 00:12:51.326 video 1>",
+            "<TIME 00:17:45.732 video 1>",
+            "<TIME 00:16:17.226 video 1>",
+            "<TIME 00:16:56.983 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "id": "P05-20240423-180529",
+                "time": "00:00:26.699"
+            }
+        },
+        "question": "After the object <BBOX 962.73504 642.626 1075.856 770.18803> seen at <TIME 00:00:26.699 video 1> is first moved, from which of the following starting times does the object remain static for more than 97 seconds?",
+        "choices": [
+            "<TIME 00:02:08.799 video 1>",
+            "<TIME 00:01:04.899 video 1>",
+            "<TIME 00:02:10.223 video 1>",
+            "<TIME 00:01:03.754 video 1>",
+            "<TIME 00:03:46.015 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            },
+            "image 1": {
+                "id": "P03-20240218-190556",
+                "time": "00:52:10.900"
+            }
+        },
+        "question": "After the object <BBOX 858.13 0.0 1121.9569999999999 236.055> seen at <TIME 00:52:10.900 video 1> is first moved, from which of the following starting times does the object remain static for more than 68 seconds?",
+        "choices": [
+            "<TIME 00:06:05.065 video 1>",
+            "<TIME 00:49:12.140 video 1>",
+            "<TIME 00:42:22.049 video 1>",
+            "<TIME 00:10:05.803 video 1>",
+            "<TIME 00:07:01.740 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            },
+            "image 1": {
+                "time": "00:33:16.866",
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "After the object <BBOX 762.96752 512.65641 1126.4 878.4960000000001> seen at <TIME 00:33:16.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 32 seconds?",
+        "choices": [
+            "<TIME 00:27:43.857 video 1>",
+            "<TIME 00:21:55.111 video 1>",
+            "<TIME 00:28:30.322 video 1>",
+            "<TIME 00:22:51.808 video 1>",
+            "<TIME 00:32:23.358 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-084005"
+            },
+            "image 1": {
+                "id": "P03-20240216-084005",
+                "time": "00:09:34.299"
+            }
+        },
+        "question": "After the object <BBOX 1170.506 602.217 1337.317 805.783> seen at <TIME 00:09:34.299 video 1> is first moved, from which of the following starting times does the object remain static for more than 218 seconds?",
+        "choices": [
+            "<TIME 00:11:11.453 video 1>",
+            "<TIME 00:11:52.803 video 1>",
+            "<TIME 00:07:29.620 video 1>",
+            "<TIME 00:07:12.607 video 1>",
+            "<TIME 00:07:16.726 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:11:51.933"
+            }
+        },
+        "question": "After the object <BBOX 673.915 779.815 914.598 888.123> seen at <TIME 00:11:51.933 video 1> is first moved, from which of the following starting times does the object remain static for more than 77 seconds?",
+        "choices": [
+            "<TIME 00:07:29.833 video 1>",
+            "<TIME 00:10:23.998 video 1>",
+            "<TIME 00:01:08.417 video 1>",
+            "<TIME 00:01:41.858 video 1>",
+            "<TIME 00:02:40.342 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-100448"
+            },
+            "image 1": {
+                "id": "P03-20240217-100448",
+                "time": "00:01:16.599"
+            }
+        },
+        "question": "After the object <BBOX 787.0359 796.66325 969.9559999999999 888.12308> seen at <TIME 00:01:16.599 video 1> is first moved, from which of the following starting times does the object remain static for more than 51 seconds?",
+        "choices": [
+            "<TIME 00:00:46.159 video 1>",
+            "<TIME 00:00:04.760 video 1>",
+            "<TIME 00:01:22.900 video 1>",
+            "<TIME 00:00:20.567 video 1>",
+            "<TIME 00:00:50.246 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-165332"
+            },
+            "image 1": {
+                "id": "P09-20240624-165332",
+                "time": "00:23:27.299"
+            }
+        },
+        "question": "After the object <BBOX 960.813 687.39 1060.472 769.162> seen at <TIME 00:23:27.299 video 1> is first moved, from which of the following starting times does the object remain static for more than 696 seconds?",
+        "choices": [
+            "<TIME 00:12:07.151 video 1>",
+            "<TIME 00:13:27.129 video 1>",
+            "<TIME 00:09:53.461 video 1>",
+            "<TIME 00:00:44.938 video 1>",
+            "<TIME 00:10:49.081 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111219"
+            },
+            "image 1": {
+                "id": "P02-20240211-111219",
+                "time": "00:03:13.333"
+            }
+        },
+        "question": "After the object <BBOX 924.226 669.101 979.583 856.8340000000001> seen at <TIME 00:03:13.333 video 1> is first moved, from which of the following starting times does the object remain static for more than 57 seconds?",
+        "choices": [
+            "<TIME 00:00:10.421 video 1>",
+            "<TIME 00:01:42.755 video 1>",
+            "<TIME 00:00:02.385 video 1>",
+            "<TIME 00:03:04.956 video 1>",
+            "<TIME 00:03:53.607 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-195538"
+            },
+            "image 1": {
+                "id": "P01-20240202-195538",
+                "time": "00:05:25.166"
+            }
+        },
+        "question": "After the object <BBOX 943.48 741.306 1080.67 866.462> seen at <TIME 00:05:25.166 video 1> is first moved, from which of the following starting times does the object remain static for more than 203 seconds?",
+        "choices": [
+            "<TIME 00:02:16.174 video 1>",
+            "<TIME 00:02:01.786 video 1>",
+            "<TIME 00:02:34.395 video 1>",
+            "<TIME 00:02:11.445 video 1>",
+            "<TIME 00:03:17.262 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            },
+            "image 1": {
+                "id": "P06-20240510-090328",
+                "time": "00:27:59.299"
+            }
+        },
+        "question": "After the object <BBOX 895.34359 758.15385 1092.704 864.0550000000001> seen at <TIME 00:27:59.299 video 1> is first moved, from which of the following starting times does the object remain static for more than 170 seconds?",
+        "choices": [
+            "<TIME 00:05:27.311 video 1>",
+            "<TIME 00:13:32.061 video 1>",
+            "<TIME 00:13:07.585 video 1>",
+            "<TIME 00:25:04.257 video 1>",
+            "<TIME 00:15:00.074 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-194141"
+            },
+            "image 1": {
+                "id": "P02-20240209-194141",
+                "time": "00:12:26.966"
+            }
+        },
+        "question": "After the object <BBOX 748.526 204.5812 989.2099999999999 469.33299999999997> seen at <TIME 00:12:26.966 video 1> is first moved, from which of the following starting times does the object remain static for more than 510 seconds?",
+        "choices": [
+            "<TIME 00:10:40.498 video 1>",
+            "<TIME 00:04:30.971 video 1>",
+            "<TIME 00:04:22.447 video 1>",
+            "<TIME 00:02:24.208 video 1>",
+            "<TIME 00:01:21.638 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            },
+            "image 1": {
+                "time": "00:01:01.299",
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "After the object <BBOX 770.188 755.747 1133.621 1022.906> seen at <TIME 00:01:01.299 video 1> is first moved, from which of the following starting times does the object remain static for more than 650 seconds?",
+        "choices": [
+            "<TIME 00:16:38.268 video 1>",
+            "<TIME 00:10:22.549 video 1>",
+            "<TIME 00:05:39.574 video 1>",
+            "<TIME 00:04:50.029 video 1>",
+            "<TIME 00:13:05.837 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            },
+            "image 1": {
+                "time": "00:09:21.299",
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "After the object <BBOX 873.682 1003.651 1073.45 1107.145> seen at <TIME 00:09:21.299 video 1> is first moved, from which of the following starting times does the object remain static for more than 107 seconds?",
+        "choices": [
+            "<TIME 00:05:36.101 video 1>",
+            "<TIME 00:06:56.138 video 1>",
+            "<TIME 00:15:56.451 video 1>",
+            "<TIME 00:05:15.014 video 1>",
+            "<TIME 00:11:53.427 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:02:20.866"
+            }
+        },
+        "question": "After the object <BBOX 799.07 1034.94 1085.484 1215.453> seen at <TIME 00:02:20.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 285 seconds?",
+        "choices": [
+            "<TIME 00:11:04.930 video 1>",
+            "<TIME 00:08:32.199 video 1>",
+            "<TIME 00:02:21.005 video 1>",
+            "<TIME 00:12:14.803 video 1>",
+            "<TIME 00:10:55.885 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            },
+            "image 1": {
+                "id": "P08-20240617-130401",
+                "time": "00:28:08.333"
+            }
+        },
+        "question": "After the object <BBOX 1095.111 632.998 1217.8600000000001 750.933> seen at <TIME 00:28:08.333 video 1> is first moved, from which of the following starting times does the object remain static for more than 251 seconds?",
+        "choices": [
+            "<TIME 00:24:09.492 video 1>",
+            "<TIME 00:18:19.648 video 1>",
+            "<TIME 00:24:12.052 video 1>",
+            "<TIME 00:23:56.694 video 1>",
+            "<TIME 00:26:14.660 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            },
+            "image 1": {
+                "id": "P08-20240617-130401",
+                "time": "00:19:06.799"
+            }
+        },
+        "question": "After the object <BBOX 1061.415 738.899 1256.369 919.412> seen at <TIME 00:19:06.799 video 1> is first moved, from which of the following starting times does the object remain static for more than 32 seconds?",
+        "choices": [
+            "<TIME 00:20:27.637 video 1>",
+            "<TIME 00:11:30.062 video 1>",
+            "<TIME 00:19:11.875 video 1>",
+            "<TIME 00:02:23.618 video 1>",
+            "<TIME 00:02:49.486 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-161948"
+            },
+            "image 1": {
+                "id": "P01-20240202-161948",
+                "time": "00:01:38.666"
+            }
+        },
+        "question": "After the object <BBOX 935.579 750.316 1076.8419999999999 822.105> seen at <TIME 00:01:38.666 video 1> is first moved, from which of the following starting times does the object remain static for more than 194 seconds?",
+        "choices": [
+            "<TIME 00:02:16.208 video 1>",
+            "<TIME 00:05:09.639 video 1>",
+            "<TIME 00:07:10.556 video 1>",
+            "<TIME 00:02:23.430 video 1>",
+            "<TIME 00:06:50.053 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-184003"
+            },
+            "image 1": {
+                "id": "P04-20240415-184003",
+                "time": "00:13:44.666"
+            }
+        },
+        "question": "After the object <BBOX 866.46154 527.09744 1179.35043 972.36239> seen at <TIME 00:13:44.666 video 1> is first moved, from which of the following starting times does the object remain static for more than 257 seconds?",
+        "choices": [
+            "<TIME 00:06:25.294 video 1>",
+            "<TIME 00:02:50.233 video 1>",
+            "<TIME 00:10:49.537 video 1>",
+            "<TIME 00:12:32.030 video 1>",
+            "<TIME 00:09:08.844 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-072251"
+            },
+            "image 1": {
+                "id": "P04-20240414-072251",
+                "time": "00:05:25.699"
+            }
+        },
+        "question": "After the object <BBOX 856.834 406.75556 1174.5369999999998 632.998> seen at <TIME 00:05:25.699 video 1> is first moved, from which of the following starting times does the object remain static for more than 403 seconds?",
+        "choices": [
+            "<TIME 00:04:00.099 video 1>",
+            "<TIME 00:07:14.108 video 1>",
+            "<TIME 00:01:24.451 video 1>",
+            "<TIME 00:15:48.511 video 1>",
+            "<TIME 00:18:02.441 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-195538"
+            },
+            "image 1": {
+                "id": "P01-20240202-195538",
+                "time": "00:00:17.566"
+            }
+        },
+        "question": "After the object <BBOX 994.024 741.306 1095.111 842.393> seen at <TIME 00:00:17.566 video 1> is first moved, from which of the following starting times does the object remain static for more than 144 seconds?",
+        "choices": [
+            "<TIME 00:00:10.851 video 1>",
+            "<TIME 00:01:22.881 video 1>",
+            "<TIME 00:04:37.273 video 1>",
+            "<TIME 00:04:48.435 video 1>",
+            "<TIME 00:03:01.370 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-091657"
+            },
+            "image 1": {
+                "id": "P03-20240217-091657",
+                "time": "00:09:30.000"
+            }
+        },
+        "question": "After the object <BBOX 801.477 1010.872 960.328 1111.959> seen at <TIME 00:09:30.000 video 1> is first moved, from which of the following starting times does the object remain static for more than 227 seconds?",
+        "choices": [
+            "<TIME 00:05:06.677 video 1>",
+            "<TIME 00:05:31.841 video 1>",
+            "<TIME 00:09:14.144 video 1>",
+            "<TIME 00:02:45.177 video 1>",
+            "<TIME 00:05:44.310 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-085204"
+            },
+            "image 1": {
+                "id": "P05-20240424-085204",
+                "time": "00:01:39.900"
+            }
+        },
+        "question": "After the object <BBOX 731.679 712.424 789.443 856.834> seen at <TIME 00:01:39.900 video 1> is first moved, from which of the following starting times does the object remain static for more than 120 seconds?",
+        "choices": [
+            "<TIME 00:01:54.760 video 1>",
+            "<TIME 00:04:08.069 video 1>",
+            "<TIME 00:03:04.545 video 1>",
+            "<TIME 00:00:21.918 video 1>",
+            "<TIME 00:03:29.980 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            },
+            "image 1": {
+                "id": "P06-20240510-121619",
+                "time": "00:11:38.733"
+            }
+        },
+        "question": "After the object <BBOX 811.10427 401.94188 1121.586 734.08547> seen at <TIME 00:11:38.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 269 seconds?",
+        "choices": [
+            "<TIME 00:07:16.887 video 1>",
+            "<TIME 00:09:18.615 video 1>",
+            "<TIME 00:02:23.137 video 1>",
+            "<TIME 00:07:02.615 video 1>",
+            "<TIME 00:05:57.294 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-090812"
+            },
+            "image 1": {
+                "id": "P05-20240424-090812",
+                "time": "00:00:18.533"
+            }
+        },
+        "question": "After the object <BBOX 762.968 671.508 868.8679999999999 825.5450000000001> seen at <TIME 00:00:18.533 video 1> is first moved, from which of the following starting times does the object remain static for more than 61 seconds?",
+        "choices": [
+            "<TIME 00:02:03.476 video 1>",
+            "<TIME 00:00:43.011 video 1>",
+            "<TIME 00:02:15.885 video 1>",
+            "<TIME 00:00:39.173 video 1>",
+            "<TIME 00:00:22.111 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            },
+            "image 1": {
+                "id": "P05-20240427-143353",
+                "time": "00:08:46.233"
+            }
+        },
+        "question": "After the object <BBOX 683.54188 811.10427 919.412 1066.229> seen at <TIME 00:08:46.233 video 1> is first moved, from which of the following starting times does the object remain static for more than 324 seconds?",
+        "choices": [
+            "<TIME 00:11:05.184 video 1>",
+            "<TIME 00:17:12.887 video 1>",
+            "<TIME 00:06:03.498 video 1>",
+            "<TIME 00:17:32.718 video 1>",
+            "<TIME 00:12:32.840 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-142301"
+            },
+            "image 1": {
+                "id": "P01-20240204-142301",
+                "time": "00:21:04.599"
+            }
+        },
+        "question": "After the object <BBOX 837.57949 623.37094 1403.186 1251.556> seen at <TIME 00:21:04.599 video 1> is first moved, from which of the following starting times does the object remain static for more than 420 seconds?",
+        "choices": [
+            "<TIME 00:06:51.596 video 1>",
+            "<TIME 00:01:59.072 video 1>",
+            "<TIME 00:17:48.779 video 1>",
+            "<TIME 00:02:55.383 video 1>",
+            "<TIME 00:18:59.019 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            },
+            "image 1": {
+                "id": "P07-20240531-201703",
+                "time": "00:17:10.033"
+            }
+        },
+        "question": "After the object <BBOX 806.2906 697.98291 1087.891 938.6669999999999> seen at <TIME 00:17:10.033 video 1> is first moved, from which of the following starting times does the object remain static for more than 573 seconds?",
+        "choices": [
+            "<TIME 00:02:49.852 video 1>",
+            "<TIME 00:12:32.797 video 1>",
+            "<TIME 00:15:52.379 video 1>",
+            "<TIME 00:06:20.512 video 1>",
+            "<TIME 00:10:53.304 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-210958"
+            },
+            "image 1": {
+                "id": "P03-20240217-210958",
+                "time": "00:13:15.466"
+            }
+        },
+        "question": "After the object <BBOX 779.81538 707.61026 900.157 782.22222> seen at <TIME 00:13:15.466 video 1> is first moved, from which of the following starting times does the object remain static for more than 94 seconds?",
+        "choices": [
+            "<TIME 00:01:35.960 video 1>",
+            "<TIME 00:05:36.654 video 1>",
+            "<TIME 00:11:07.651 video 1>",
+            "<TIME 00:06:06.893 video 1>",
+            "<TIME 00:11:28.392 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-082420"
+            },
+            "image 1": {
+                "id": "P05-20240425-082420",
+                "time": "00:04:57.266"
+            }
+        },
+        "question": "After the object <BBOX 825.545 714.831 883.309 849.614> seen at <TIME 00:04:57.266 video 1> is first moved, from which of the following starting times does the object remain static for more than 156 seconds?",
+        "choices": [
+            "<TIME 00:01:13.191 video 1>",
+            "<TIME 00:04:54.111 video 1>",
+            "<TIME 00:01:37.972 video 1>",
+            "<TIME 00:04:19.589 video 1>",
+            "<TIME 00:01:49.314 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            },
+            "image 1": {
+                "id": "P05-20240427-143353",
+                "time": "00:19:20.666"
+            }
+        },
+        "question": "After the object <BBOX 873.68205 803.88376 1179.35 1102.332> seen at <TIME 00:19:20.666 video 1> is first moved, from which of the following starting times does the object remain static for more than 66 seconds?",
+        "choices": [
+            "<TIME 00:05:28.321 video 1>",
+            "<TIME 00:05:06.265 video 1>",
+            "<TIME 00:18:14.082 video 1>",
+            "<TIME 00:09:56.598 video 1>",
+            "<TIME 00:06:37.838 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-142301"
+            },
+            "image 1": {
+                "id": "P01-20240204-142301",
+                "time": "00:28:37.000"
+            }
+        },
+        "question": "After the object <BBOX 673.915 577.641 967.54872 868.8679999999999> seen at <TIME 00:28:37.000 video 1> is first moved, from which of the following starting times does the object remain static for more than 412 seconds?",
+        "choices": [
+            "<TIME 00:19:28.159 video 1>",
+            "<TIME 00:12:49.536 video 1>",
+            "<TIME 00:25:39.424 video 1>",
+            "<TIME 00:12:13.712 video 1>",
+            "<TIME 00:06:59.777 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            },
+            "image 1": {
+                "id": "P09-20240623-120359",
+                "time": "00:30:42.933"
+            }
+        },
+        "question": "After the object <BBOX 965.14188 488.588 1150.468 606.523> seen at <TIME 00:30:42.933 video 1> is first moved, from which of the following starting times does the object remain static for more than 275 seconds?",
+        "choices": [
+            "<TIME 00:01:30.009 video 1>",
+            "<TIME 00:32:04.712 video 1>",
+            "<TIME 00:02:16.377 video 1>",
+            "<TIME 00:22:33.802 video 1>",
+            "<TIME 00:27:43.984 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-104948"
+            },
+            "image 1": {
+                "time": "00:02:23.900",
+                "id": "P02-20240211-104948"
+            }
+        },
+        "question": "After the object <BBOX 849.61384 697.98291 1203.41884 799.0699999999999> seen at <TIME 00:02:23.900 video 1> is first moved, from which of the following starting times does the object remain static for more than 50 seconds?",
+        "choices": [
+            "<TIME 00:02:06.494 video 1>",
+            "<TIME 00:00:47.075 video 1>",
+            "<TIME 00:01:12.250 video 1>",
+            "<TIME 00:00:34.463 video 1>",
+            "<TIME 00:01:25.931 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722"
+            },
+            "image 1": {
+                "id": "P04-20240413-151722",
+                "time": "00:04:19.600"
+            }
+        },
+        "question": "After the object <BBOX 847.207 659.474 996.431 777.4090000000001> seen at <TIME 00:04:19.600 video 1> is first moved, from which of the following starting times does the object remain static for more than 147 seconds?",
+        "choices": [
+            "<TIME 00:04:15.413 video 1>",
+            "<TIME 00:04:23.103 video 1>",
+            "<TIME 00:03:47.688 video 1>",
+            "<TIME 00:03:54.187 video 1>",
+            "<TIME 00:06:17.891 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "time": "00:18:56.766",
+                "id": "P05-20240423-180529"
+            }
+        },
+        "question": "After the object <BBOX 738.899 994.024 888.123 1056.602> seen at <TIME 00:18:56.766 video 1> is first moved, from which of the following starting times does the object remain static for more than 80 seconds?",
+        "choices": [
+            "<TIME 00:05:18.315 video 1>",
+            "<TIME 00:18:50.727 video 1>",
+            "<TIME 00:19:17.139 video 1>",
+            "<TIME 00:15:37.594 video 1>",
+            "<TIME 00:17:25.724 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:09:52.233"
+            }
+        },
+        "question": "After the object <BBOX 837.579 717.238 1109.552 796.663> seen at <TIME 00:09:52.233 video 1> is first moved, from which of the following starting times does the object remain static for more than 56 seconds?",
+        "choices": [
+            "<TIME 00:05:06.176 video 1>",
+            "<TIME 00:09:31.132 video 1>",
+            "<TIME 00:12:24.985 video 1>",
+            "<TIME 00:04:03.947 video 1>",
+            "<TIME 00:10:38.222 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-072251"
+            },
+            "image 1": {
+                "id": "P04-20240414-072251",
+                "time": "00:15:03.533"
+            }
+        },
+        "question": "After the object <BBOX 885.71624 659.474 1030.126 719.644> seen at <TIME 00:15:03.533 video 1> is first moved, from which of the following starting times does the object remain static for more than 273 seconds?",
+        "choices": [
+            "<TIME 00:07:30.621 video 1>",
+            "<TIME 00:15:44.370 video 1>",
+            "<TIME 00:00:34.176 video 1>",
+            "<TIME 00:14:55.036 video 1>",
+            "<TIME 00:02:06.043 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            },
+            "image 1": {
+                "id": "P03-20240216-185832",
+                "time": "01:09:07.133"
+            }
+        },
+        "question": "After the object <BBOX 839.986 712.424 1042.161 839.986> seen at <TIME 01:09:07.133 video 1> is first moved, from which of the following starting times does the object remain static for more than 532 seconds?",
+        "choices": [
+            "<TIME 00:59:52.534 video 1>",
+            "<TIME 00:08:46.223 video 1>",
+            "<TIME 00:47:03.820 video 1>",
+            "<TIME 00:44:10.226 video 1>",
+            "<TIME 00:49:42.941 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            },
+            "image 1": {
+                "id": "P07-20240529-194518",
+                "time": "00:21:37.833"
+            }
+        },
+        "question": "After the object <BBOX 927.59347 769.16152 1216.348 1004.2540799999999> seen at <TIME 00:21:37.833 video 1> is first moved, from which of the following starting times does the object remain static for more than 378 seconds?",
+        "choices": [
+            "<TIME 00:13:42.335 video 1>",
+            "<TIME 00:01:49.118 video 1>",
+            "<TIME 00:08:41.445 video 1>",
+            "<TIME 00:14:46.511 video 1>",
+            "<TIME 00:09:25.417 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "id": "P05-20240423-180529",
+                "time": "00:13:42.399"
+            }
+        },
+        "question": "After the object <BBOX 1188.978 1102.332 1302.0990000000002 1203.419> seen at <TIME 00:13:42.399 video 1> is first moved, from which of the following starting times does the object remain static for more than 299 seconds?",
+        "choices": [
+            "<TIME 00:00:53.536 video 1>",
+            "<TIME 00:05:13.254 video 1>",
+            "<TIME 00:08:39.541 video 1>",
+            "<TIME 00:12:43.334 video 1>",
+            "<TIME 00:07:25.144 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            },
+            "image 1": {
+                "id": "P07-20240531-201703",
+                "time": "00:11:45.933"
+            }
+        },
+        "question": "After the object <BBOX 883.12426 599.858 1019.2030000000001 724.828> seen at <TIME 00:11:45.933 video 1> is first moved, from which of the following starting times does the object remain static for more than 571 seconds?",
+        "choices": [
+            "<TIME 00:12:02.599 video 1>",
+            "<TIME 00:04:12.883 video 1>",
+            "<TIME 00:02:14.375 video 1>",
+            "<TIME 00:21:56.445 video 1>",
+            "<TIME 00:08:44.154 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-131737"
+            },
+            "image 1": {
+                "id": "P07-20240529-131737",
+                "time": "00:00:16.699"
+            }
+        },
+        "question": "After the object <BBOX 969.956 536.72479 1184.164 700.39> seen at <TIME 00:00:16.699 video 1> is first moved, from which of the following starting times does the object remain static for more than 324 seconds?",
+        "choices": [
+            "<TIME 00:05:19.143 video 1>",
+            "<TIME 00:05:02.544 video 1>",
+            "<TIME 00:02:46.391 video 1>",
+            "<TIME 00:06:44.022 video 1>",
+            "<TIME 00:01:20.743 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            },
+            "image 1": {
+                "id": "P06-20240510-104642",
+                "time": "00:32:05.466"
+            }
+        },
+        "question": "After the object <BBOX 1034.94 1121.58632 1249.1490000000001 1338.2017099999998> seen at <TIME 00:32:05.466 video 1> is first moved, from which of the following starting times does the object remain static for more than 269 seconds?",
+        "choices": [
+            "<TIME 00:20:15.923 video 1>",
+            "<TIME 00:35:45.641 video 1>",
+            "<TIME 00:08:43.001 video 1>",
+            "<TIME 00:03:25.572 video 1>",
+            "<TIME 00:32:24.233 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            },
+            "image 1": {
+                "id": "P07-20240531-201703",
+                "time": "00:07:23.066"
+            }
+        },
+        "question": "After the object <BBOX 749.822 608.18935 852.576 680.394> seen at <TIME 00:07:23.066 video 1> is first moved, from which of the following starting times does the object remain static for more than 85 seconds?",
+        "choices": [
+            "<TIME 00:06:34.011 video 1>",
+            "<TIME 00:01:44.897 video 1>",
+            "<TIME 00:07:27.850 video 1>",
+            "<TIME 00:00:33.748 video 1>",
+            "<TIME 00:05:42.878 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            },
+            "image 1": {
+                "id": "P07-20240531-201703",
+                "time": "00:09:04.399"
+            }
+        },
+        "question": "After the object <BBOX 1261.1829 377.8735 1374.3041600000001 478.961> seen at <TIME 00:09:04.399 video 1> is first moved, from which of the following starting times does the object remain static for more than 55 seconds?",
+        "choices": [
+            "<TIME 00:09:14.939 video 1>",
+            "<TIME 00:02:03.942 video 1>",
+            "<TIME 00:07:48.047 video 1>",
+            "<TIME 00:05:20.640 video 1>",
+            "<TIME 00:03:47.304 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:10:50.700"
+            }
+        },
+        "question": "After the object <BBOX 932.70417 551.95644 1063.027 682.279> seen at <TIME 00:10:50.700 video 1> is first moved, from which of the following starting times does the object remain static for more than 79 seconds?",
+        "choices": [
+            "<TIME 00:04:13.436 video 1>",
+            "<TIME 00:13:36.238 video 1>",
+            "<TIME 00:19:19.679 video 1>",
+            "<TIME 00:04:33.247 video 1>",
+            "<TIME 00:10:43.218 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            },
+            "image 1": {
+                "id": "P06-20240510-104642",
+                "time": "00:12:58.100"
+            }
+        },
+        "question": "After the object <BBOX 1092.70427 416.38291 1237.115 560.793> seen at <TIME 00:12:58.100 video 1> is first moved, from which of the following starting times does the object remain static for more than 145 seconds?",
+        "choices": [
+            "<TIME 00:10:27.612 video 1>",
+            "<TIME 00:02:20.292 video 1>",
+            "<TIME 00:02:20.368 video 1>",
+            "<TIME 00:10:14.184 video 1>",
+            "<TIME 00:08:43.648 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            },
+            "image 1": {
+                "id": "P03-20240218-144430",
+                "time": "00:11:14.066"
+            }
+        },
+        "question": "After the object <BBOX 876.381 726.37 1029.024 894.804> seen at <TIME 00:11:14.066 video 1> is first moved, from which of the following starting times does the object remain static for more than 110 seconds?",
+        "choices": [
+            "<TIME 00:12:08.456 video 1>",
+            "<TIME 00:08:42.963 video 1>",
+            "<TIME 00:07:46.716 video 1>",
+            "<TIME 00:11:34.251 video 1>",
+            "<TIME 00:09:18.451 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "id": "P05-20240423-180529",
+                "time": "00:03:14.900"
+            }
+        },
+        "question": "After the object <BBOX 755.747 890.53 861.6479999999999 981.99> seen at <TIME 00:03:14.900 video 1> is first moved, from which of the following starting times does the object remain static for more than 470 seconds?",
+        "choices": [
+            "<TIME 00:12:36.984 video 1>",
+            "<TIME 00:10:39.239 video 1>",
+            "<TIME 00:07:51.321 video 1>",
+            "<TIME 00:01:50.516 video 1>",
+            "<TIME 00:05:11.215 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_50": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:02:05.099"
+            }
+        },
+        "question": "After the object <BBOX 880.90232 695.57648 1126.40032 936.25983> seen at <TIME 00:02:05.099 video 1> is first moved, from which of the following starting times does the object remain static for more than 809 seconds?",
+        "choices": [
+            "<TIME 00:08:51.271 video 1>",
+            "<TIME 00:08:27.058 video 1>",
+            "<TIME 00:09:20.582 video 1>",
+            "<TIME 00:00:41.845 video 1>",
+            "<TIME 00:02:24.000 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_51": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            },
+            "image 1": {
+                "id": "P03-20240216-205923",
+                "time": "00:09:59.000"
+            }
+        },
+        "question": "After the object <BBOX 736.49231 678.72821 948.294 900.15726> seen at <TIME 00:09:59.000 video 1> is first moved, from which of the following starting times does the object remain static for more than 209 seconds?",
+        "choices": [
+            "<TIME 00:04:00.671 video 1>",
+            "<TIME 00:19:14.915 video 1>",
+            "<TIME 00:00:41.195 video 1>",
+            "<TIME 00:08:14.171 video 1>",
+            "<TIME 00:16:11.918 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_52": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722"
+            },
+            "image 1": {
+                "id": "P04-20240413-151722",
+                "time": "00:06:55.000"
+            }
+        },
+        "question": "After the object <BBOX 897.75043 905.341 1244.33504 988.65483> seen at <TIME 00:06:55.000 video 1> is first moved, from which of the following starting times does the object remain static for more than 456 seconds?",
+        "choices": [
+            "<TIME 00:01:07.494 video 1>",
+            "<TIME 00:10:18.953 video 1>",
+            "<TIME 00:15:37.062 video 1>",
+            "<TIME 00:11:56.711 video 1>",
+            "<TIME 00:06:46.831 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_53": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-170021"
+            },
+            "image 1": {
+                "id": "P05-20240423-170021",
+                "time": "00:15:07.366"
+            }
+        },
+        "question": "After the object <BBOX 1013.27863 158.85128 1155.28205 310.48205> seen at <TIME 00:15:07.366 video 1> is first moved, from which of the following starting times does the object remain static for more than 38 seconds?",
+        "choices": [
+            "<TIME 00:15:50.540 video 1>",
+            "<TIME 00:15:36.384 video 1>",
+            "<TIME 00:06:53.051 video 1>",
+            "<TIME 00:06:36.586 video 1>",
+            "<TIME 00:00:31.989 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_54": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            },
+            "image 1": {
+                "id": "P03-20240218-190556",
+                "time": "00:50:39.099"
+            }
+        },
+        "question": "After the object <BBOX 699.83432 627.62919 894.2330000000001 1005.318> seen at <TIME 00:50:39.099 video 1> is first moved, from which of the following starting times does the object remain static for more than 716 seconds?",
+        "choices": [
+            "<TIME 00:34:33.618 video 1>",
+            "<TIME 00:47:48.343 video 1>",
+            "<TIME 00:36:31.583 video 1>",
+            "<TIME 00:20:54.219 video 1>",
+            "<TIME 00:33:37.353 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_55": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            },
+            "image 1": {
+                "id": "P05-20240425-201444",
+                "time": "00:16:11.600"
+            }
+        },
+        "question": "After the object <BBOX 741.306 666.694 936.26 844.8> seen at <TIME 00:16:11.600 video 1> is first moved, from which of the following starting times does the object remain static for more than 140 seconds?",
+        "choices": [
+            "<TIME 00:13:02.818 video 1>",
+            "<TIME 00:00:29.237 video 1>",
+            "<TIME 00:01:32.462 video 1>",
+            "<TIME 00:11:03.605 video 1>",
+            "<TIME 00:07:13.550 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_56": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            },
+            "image 1": {
+                "id": "P08-20240614-125650",
+                "time": "00:13:01.700"
+            }
+        },
+        "question": "After the object <BBOX 927.558 769.262 1144.174 946.9979999999999> seen at <TIME 00:13:01.700 video 1> is first moved, from which of the following starting times does the object remain static for more than 392 seconds?",
+        "choices": [
+            "<TIME 00:03:29.920 video 1>",
+            "<TIME 00:10:09.815 video 1>",
+            "<TIME 00:01:43.597 video 1>",
+            "<TIME 00:04:09.032 video 1>",
+            "<TIME 00:09:17.867 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_57": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            },
+            "image 1": {
+                "id": "P08-20240618-171546",
+                "time": "00:08:43.700"
+            }
+        },
+        "question": "After the object <BBOX 1025.31282 941.0735 1285.2510000000002 1253.96239> seen at <TIME 00:08:43.700 video 1> is first moved, from which of the following starting times does the object remain static for more than 98 seconds?",
+        "choices": [
+            "<TIME 00:00:22.145 video 1>",
+            "<TIME 00:05:51.662 video 1>",
+            "<TIME 00:07:15.049 video 1>",
+            "<TIME 00:01:52.062 video 1>",
+            "<TIME 00:03:48.517 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_58": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:00:05.599"
+            }
+        },
+        "question": "After the object <BBOX 686.70604 1099.925 840.7430400000001 1203.4189999999999> seen at <TIME 00:00:05.599 video 1> is first moved, from which of the following starting times does the object remain static for more than 1127 seconds?",
+        "choices": [
+            "<TIME 00:18:49.152 video 1>",
+            "<TIME 00:10:27.583 video 1>",
+            "<TIME 00:05:24.128 video 1>",
+            "<TIME 00:06:50.958 video 1>",
+            "<TIME 00:28:58.614 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_59": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            },
+            "image 1": {
+                "id": "P07-20240531-201703",
+                "time": "00:23:54.733"
+            }
+        },
+        "question": "After the object <BBOX 955.51453 574.86391 1143.248 645.032> seen at <TIME 00:23:54.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 276 seconds?",
+        "choices": [
+            "<TIME 00:15:28.845 video 1>",
+            "<TIME 00:21:13.367 video 1>",
+            "<TIME 00:19:12.761 video 1>",
+            "<TIME 00:04:55.604 video 1>",
+            "<TIME 00:21:23.564 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_60": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "image 1": {
+                "id": "P05-20240425-173353",
+                "time": "00:05:54.466"
+            }
+        },
+        "question": "After the object <BBOX 801.477 767.781 1027.72 979.583> seen at <TIME 00:05:54.466 video 1> is first moved, from which of the following starting times does the object remain static for more than 50 seconds?",
+        "choices": [
+            "<TIME 00:05:11.670 video 1>",
+            "<TIME 00:03:44.156 video 1>",
+            "<TIME 00:01:20.422 video 1>",
+            "<TIME 00:04:35.964 video 1>",
+            "<TIME 00:00:41.838 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_61": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            },
+            "image 1": {
+                "id": "P03-20240217-131219",
+                "time": "00:04:01.233"
+            }
+        },
+        "question": "After the object <BBOX 861.64786 859.24103 1032.5330000000001 1008.46496> seen at <TIME 00:04:01.233 video 1> is first moved, from which of the following starting times does the object remain static for more than 993 seconds?",
+        "choices": [
+            "<TIME 00:37:44.375 video 1>",
+            "<TIME 00:27:13.785 video 1>",
+            "<TIME 00:34:14.876 video 1>",
+            "<TIME 00:35:43.305 video 1>",
+            "<TIME 00:16:29.944 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_62": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-162302"
+            },
+            "image 1": {
+                "id": "P09-20240622-162302",
+                "time": "00:05:22.066"
+            }
+        },
+        "question": "After the object <BBOX 1056.602 767.781 1176.9440000000002 859.241> seen at <TIME 00:05:22.066 video 1> is first moved, from which of the following starting times does the object remain static for more than 130 seconds?",
+        "choices": [
+            "<TIME 00:03:34.767 video 1>",
+            "<TIME 00:04:56.384 video 1>",
+            "<TIME 00:12:00.248 video 1>",
+            "<TIME 00:07:07.834 video 1>",
+            "<TIME 00:04:55.236 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_63": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:08:06.866"
+            }
+        },
+        "question": "After the object <BBOX 731.64955 591.27492 957.0997 791.20242> seen at <TIME 00:08:06.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 299 seconds?",
+        "choices": [
+            "<TIME 00:02:26.387 video 1>",
+            "<TIME 00:08:36.336 video 1>",
+            "<TIME 00:00:22.174 video 1>",
+            "<TIME 00:06:04.011 video 1>",
+            "<TIME 00:02:04.307 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_64": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "image 1": {
+                "time": "00:16:29.733",
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "After the object <BBOX 852.021 418.79 962.7350399999999 510.24957> seen at <TIME 00:16:29.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 59 seconds?",
+        "choices": [
+            "<TIME 00:16:31.098 video 1>",
+            "<TIME 00:01:26.724 video 1>",
+            "<TIME 00:15:54.488 video 1>",
+            "<TIME 00:08:56.765 video 1>",
+            "<TIME 00:03:53.045 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_65": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            },
+            "image 1": {
+                "id": "P03-20240218-190556",
+                "time": "00:40:43.699"
+            }
+        },
+        "question": "After the object <BBOX 760.931 733.16 830.359 799.8109999999999> seen at <TIME 00:40:43.699 video 1> is first moved, from which of the following starting times does the object remain static for more than 641 seconds?",
+        "choices": [
+            "<TIME 00:29:55.687 video 1>",
+            "<TIME 00:39:26.583 video 1>",
+            "<TIME 00:32:50.059 video 1>",
+            "<TIME 00:20:11.674 video 1>",
+            "<TIME 00:38:26.329 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_66": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-165332"
+            },
+            "image 1": {
+                "id": "P09-20240624-165332",
+                "time": "00:22:39.733"
+            }
+        },
+        "question": "After the object <BBOX 978.70054 940.37 1333.895 1247.0127> seen at <TIME 00:22:39.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 439 seconds?",
+        "choices": [
+            "<TIME 00:20:06.898 video 1>",
+            "<TIME 00:15:06.805 video 1>",
+            "<TIME 00:11:32.832 video 1>",
+            "<TIME 00:16:59.034 video 1>",
+            "<TIME 00:04:45.439 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_67": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "image 1": {
+                "id": "P05-20240425-173353",
+                "time": "00:08:07.533"
+            }
+        },
+        "question": "After the object <BBOX 794.25641 823.138 945.887 991.6170000000001> seen at <TIME 00:08:07.533 video 1> is first moved, from which of the following starting times does the object remain static for more than 203 seconds?",
+        "choices": [
+            "<TIME 00:07:57.546 video 1>",
+            "<TIME 00:02:13.627 video 1>",
+            "<TIME 00:06:18.409 video 1>",
+            "<TIME 00:06:02.874 video 1>",
+            "<TIME 00:05:50.318 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_68": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            },
+            "image 1": {
+                "time": "00:37:33.199",
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "After the object <BBOX 669.286 710.943 785.925 799.8109999999999> seen at <TIME 00:37:33.199 video 1> is first moved, from which of the following starting times does the object remain static for more than 720 seconds?",
+        "choices": [
+            "<TIME 00:38:00.407 video 1>",
+            "<TIME 00:03:59.856 video 1>",
+            "<TIME 00:38:44.184 video 1>",
+            "<TIME 00:04:05.412 video 1>",
+            "<TIME 00:23:59.039 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_69": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            },
+            "image 1": {
+                "id": "P08-20240614-085000",
+                "time": "00:09:47.666"
+            }
+        },
+        "question": "After the object <BBOX 991.43195 652.623 1119.179 785.9250000000001> seen at <TIME 00:09:47.666 video 1> is first moved, from which of the following starting times does the object remain static for more than 222 seconds?",
+        "choices": [
+            "<TIME 00:00:16.418 video 1>",
+            "<TIME 00:06:53.257 video 1>",
+            "<TIME 00:06:24.255 video 1>",
+            "<TIME 00:00:29.526 video 1>",
+            "<TIME 00:11:19.564 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_70": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:20:39.133"
+            }
+        },
+        "question": "After the object <BBOX 512.656 888.123 777.4089999999999 1174.537> seen at <TIME 00:20:39.133 video 1> is first moved, from which of the following starting times does the object remain static for more than 882 seconds?",
+        "choices": [
+            "<TIME 00:05:53.296 video 1>",
+            "<TIME 00:07:40.891 video 1>",
+            "<TIME 00:18:08.196 video 1>",
+            "<TIME 00:17:27.273 video 1>",
+            "<TIME 00:15:32.715 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_71": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047"
+            },
+            "image 1": {
+                "id": "P06-20240510-100047",
+                "time": "00:16:28.533"
+            }
+        },
+        "question": "After the object <BBOX 979.583 683.54188 1155.282 852.021> seen at <TIME 00:16:28.533 video 1> is first moved, from which of the following starting times does the object remain static for more than 47 seconds?",
+        "choices": [
+            "<TIME 00:04:33.700 video 1>",
+            "<TIME 00:08:39.006 video 1>",
+            "<TIME 00:00:07.861 video 1>",
+            "<TIME 00:02:19.716 video 1>",
+            "<TIME 00:17:28.593 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_72": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            },
+            "image 1": {
+                "id": "P03-20240218-140054",
+                "time": "00:03:22.400"
+            }
+        },
+        "question": "After the object <BBOX 883.309 890.53 1225.08 1109.552> seen at <TIME 00:03:22.400 video 1> is first moved, from which of the following starting times does the object remain static for more than 98 seconds?",
+        "choices": [
+            "<TIME 00:02:59.997 video 1>",
+            "<TIME 00:01:06.378 video 1>",
+            "<TIME 00:02:07.108 video 1>",
+            "<TIME 00:00:30.125 video 1>",
+            "<TIME 00:13:40.572 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_73": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-154652"
+            },
+            "image 1": {
+                "id": "P09-20240622-154652",
+                "time": "00:03:21.433"
+            }
+        },
+        "question": "After the object <BBOX 1268.403 356.212 1388.7450000000001 601.7090000000001> seen at <TIME 00:03:21.433 video 1> is first moved, from which of the following starting times does the object remain static for more than 183 seconds?",
+        "choices": [
+            "<TIME 00:02:41.087 video 1>",
+            "<TIME 00:04:21.805 video 1>",
+            "<TIME 00:08:02.784 video 1>",
+            "<TIME 00:08:29.133 video 1>",
+            "<TIME 00:07:10.037 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_74": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            },
+            "image 1": {
+                "id": "P03-20240218-190556",
+                "time": "00:00:42.266"
+            }
+        },
+        "question": "After the object <BBOX 618.39564 723.165 779.38294 909.7059899999999> seen at <TIME 00:00:42.266 video 1> is first moved, from which of the following starting times does the object remain static for more than 454 seconds?",
+        "choices": [
+            "<TIME 00:08:19.139 video 1>",
+            "<TIME 00:12:28.947 video 1>",
+            "<TIME 00:02:22.733 video 1>",
+            "<TIME 00:12:53.297 video 1>",
+            "<TIME 00:08:24.472 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_75": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-150310"
+            },
+            "image 1": {
+                "id": "P03-20240217-150310",
+                "time": "00:00:06.366"
+            }
+        },
+        "question": "After the object <BBOX 938.667 666.694 1092.704 823.1379999999999> seen at <TIME 00:00:06.366 video 1> is first moved, from which of the following starting times does the object remain static for more than 38 seconds?",
+        "choices": [
+            "<TIME 00:00:52.646 video 1>",
+            "<TIME 00:00:00.604 video 1>",
+            "<TIME 00:00:13.327 video 1>",
+            "<TIME 00:01:45.210 video 1>",
+            "<TIME 00:00:28.627 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_76": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-131737"
+            },
+            "image 1": {
+                "id": "P07-20240529-131737",
+                "time": "00:06:27.866"
+            }
+        },
+        "question": "After the object <BBOX 1039.754 693.16923 1172.1299999999999 770.188> seen at <TIME 00:06:27.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 21 seconds?",
+        "choices": [
+            "<TIME 00:06:40.468 video 1>",
+            "<TIME 00:06:06.686 video 1>",
+            "<TIME 00:02:55.641 video 1>",
+            "<TIME 00:01:27.801 video 1>",
+            "<TIME 00:00:39.058 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_77": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            },
+            "image 1": {
+                "id": "P05-20240427-143353",
+                "time": "00:20:22.099"
+            }
+        },
+        "question": "After the object <BBOX 779.815 548.75897 873.682 630.591> seen at <TIME 00:20:22.099 video 1> is first moved, from which of the following starting times does the object remain static for more than 496 seconds?",
+        "choices": [
+            "<TIME 00:11:59.033 video 1>",
+            "<TIME 00:06:02.441 video 1>",
+            "<TIME 00:01:55.917 video 1>",
+            "<TIME 00:04:37.780 video 1>",
+            "<TIME 00:20:10.970 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_78": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:04:31.133"
+            }
+        },
+        "question": "After the object <BBOX 1144.799 1057.91652 1270.01089 1234.2359999999999> seen at <TIME 00:04:31.133 video 1> is first moved, from which of the following starting times does the object remain static for more than 151 seconds?",
+        "choices": [
+            "<TIME 00:01:09.872 video 1>",
+            "<TIME 00:18:39.344 video 1>",
+            "<TIME 00:06:05.537 video 1>",
+            "<TIME 00:04:08.257 video 1>",
+            "<TIME 00:03:57.774 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_79": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:17:50.733"
+            }
+        },
+        "question": "After the object <BBOX 727.39577 706.12689 935.8309999999999 927.323> seen at <TIME 00:17:50.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 336 seconds?",
+        "choices": [
+            "<TIME 00:31:36.632 video 1>",
+            "<TIME 00:09:09.692 video 1>",
+            "<TIME 00:23:17.789 video 1>",
+            "<TIME 00:08:01.522 video 1>",
+            "<TIME 00:31:19.435 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_80": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            },
+            "image 1": {
+                "id": "P03-20240217-131219",
+                "time": "00:39:50.633"
+            }
+        },
+        "question": "After the object <BBOX 1063.82222 736.49231 1210.6390000000001 962.735> seen at <TIME 00:39:50.633 video 1> is first moved, from which of the following starting times does the object remain static for more than 90 seconds?",
+        "choices": [
+            "<TIME 00:11:26.593 video 1>",
+            "<TIME 00:27:01.129 video 1>",
+            "<TIME 00:15:42.924 video 1>",
+            "<TIME 00:25:56.585 video 1>",
+            "<TIME 00:39:56.599 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_81": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-101357"
+            },
+            "image 1": {
+                "time": "00:42:45.500",
+                "id": "P07-20240531-101357"
+            }
+        },
+        "question": "After the object <BBOX 1037.34701 664.28718 1186.571 796.663> seen at <TIME 00:42:45.500 video 1> is first moved, from which of the following starting times does the object remain static for more than 76 seconds?",
+        "choices": [
+            "<TIME 00:11:59.088 video 1>",
+            "<TIME 00:40:29.079 video 1>",
+            "<TIME 00:10:50.151 video 1>",
+            "<TIME 00:39:11.994 video 1>",
+            "<TIME 00:08:26.517 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_82": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722"
+            },
+            "image 1": {
+                "id": "P04-20240413-151722",
+                "time": "00:18:01.866"
+            }
+        },
+        "question": "After the object <BBOX 838.69 533.207 938.667 705.389> seen at <TIME 00:18:01.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 518 seconds?",
+        "choices": [
+            "<TIME 00:13:04.156 video 1>",
+            "<TIME 00:16:05.301 video 1>",
+            "<TIME 00:08:56.088 video 1>",
+            "<TIME 00:01:02.905 video 1>",
+            "<TIME 00:08:23.698 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_83": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            },
+            "image 1": {
+                "id": "P08-20240614-184945",
+                "time": "00:09:28.466"
+            }
+        },
+        "question": "After the object <BBOX 957.921 469.333 1020.499 710.017> seen at <TIME 00:09:28.466 video 1> is first moved, from which of the following starting times does the object remain static for more than 273 seconds?",
+        "choices": [
+            "<TIME 00:05:40.508 video 1>",
+            "<TIME 00:05:58.391 video 1>",
+            "<TIME 00:09:25.806 video 1>",
+            "<TIME 00:10:04.747 video 1>",
+            "<TIME 00:04:01.549 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_84": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            },
+            "image 1": {
+                "id": "P08-20240614-085000",
+                "time": "00:05:33.899"
+            }
+        },
+        "question": "After the object <BBOX 1080.3 236.055 1388.56 458.225> seen at <TIME 00:05:33.899 video 1> is first moved, from which of the following starting times does the object remain static for more than 656 seconds?",
+        "choices": [
+            "<TIME 00:06:48.937 video 1>",
+            "<TIME 00:06:27.606 video 1>",
+            "<TIME 00:13:26.171 video 1>",
+            "<TIME 00:01:11.204 video 1>",
+            "<TIME 00:00:09.482 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_85": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            },
+            "image 1": {
+                "id": "P02-20240211-175138",
+                "time": "00:05:47.533"
+            }
+        },
+        "question": "After the object <BBOX 700.38974 315.29573 924.226 555.979> seen at <TIME 00:05:47.533 video 1> is first moved, from which of the following starting times does the object remain static for more than 283 seconds?",
+        "choices": [
+            "<TIME 00:05:05.537 video 1>",
+            "<TIME 00:03:16.134 video 1>",
+            "<TIME 00:08:13.941 video 1>",
+            "<TIME 00:01:01.959 video 1>",
+            "<TIME 00:02:50.517 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_86": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-172243"
+            },
+            "image 1": {
+                "id": "P05-20240423-172243",
+                "time": "00:02:04.500"
+            }
+        },
+        "question": "After the object <BBOX 883.3094 849.61368 1015.68547 957.92137> seen at <TIME 00:02:04.500 video 1> is first moved, from which of the following starting times does the object remain static for more than 118 seconds?",
+        "choices": [
+            "<TIME 00:04:42.985 video 1>",
+            "<TIME 00:01:02.240 video 1>",
+            "<TIME 00:04:30.360 video 1>",
+            "<TIME 00:01:00.652 video 1>",
+            "<TIME 00:02:20.372 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_87": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            },
+            "image 1": {
+                "id": "P05-20240425-201444",
+                "time": "00:22:38.900"
+            }
+        },
+        "question": "After the object <BBOX 794.25641 743.713 955.515 936.26> seen at <TIME 00:22:38.900 video 1> is first moved, from which of the following starting times does the object remain static for more than 108 seconds?",
+        "choices": [
+            "<TIME 00:04:40.592 video 1>",
+            "<TIME 00:23:01.789 video 1>",
+            "<TIME 00:18:05.445 video 1>",
+            "<TIME 00:17:54.331 video 1>",
+            "<TIME 00:13:31.247 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_88": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            },
+            "image 1": {
+                "id": "P05-20240424-171038",
+                "time": "00:21:30.766"
+            }
+        },
+        "question": "After the object <BBOX 758.154 286.414 1039.754 452.485> seen at <TIME 00:21:30.766 video 1> is first moved, from which of the following starting times does the object remain static for more than 60 seconds?",
+        "choices": [
+            "<TIME 00:21:20.241 video 1>",
+            "<TIME 00:15:07.000 video 1>",
+            "<TIME 00:01:28.419 video 1>",
+            "<TIME 00:12:36.693 video 1>",
+            "<TIME 00:19:53.807 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_89": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-162302"
+            },
+            "image 1": {
+                "time": "00:10:32.466",
+                "id": "P09-20240622-162302"
+            }
+        },
+        "question": "After the object <BBOX 1090.29756 430.82393 1352.64274 743.71282> seen at <TIME 00:10:32.466 video 1> is first moved, from which of the following starting times does the object remain static for more than 53 seconds?",
+        "choices": [
+            "<TIME 00:15:05.172 video 1>",
+            "<TIME 00:00:30.921 video 1>",
+            "<TIME 00:00:50.960 video 1>",
+            "<TIME 00:04:28.861 video 1>",
+            "<TIME 00:14:25.037 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_90": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-084005"
+            },
+            "image 1": {
+                "id": "P03-20240216-084005",
+                "time": "00:03:35.233"
+            }
+        },
+        "question": "After the object <BBOX 851.02 605.044 1094.1689999999999 822.747> seen at <TIME 00:03:35.233 video 1> is first moved, from which of the following starting times does the object remain static for more than 19 seconds?",
+        "choices": [
+            "<TIME 00:03:10.864 video 1>",
+            "<TIME 00:02:57.881 video 1>",
+            "<TIME 00:01:07.660 video 1>",
+            "<TIME 00:01:47.734 video 1>",
+            "<TIME 00:04:29.715 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_91": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-152537"
+            },
+            "image 1": {
+                "id": "P01-20240204-152537",
+                "time": "00:00:33.133"
+            }
+        },
+        "question": "After the object <BBOX 849.614 714.831 1037.347 955.515> seen at <TIME 00:00:33.133 video 1> is first moved, from which of the following starting times does the object remain static for more than 213 seconds?",
+        "choices": [
+            "<TIME 00:00:04.827 video 1>",
+            "<TIME 00:06:54.793 video 1>",
+            "<TIME 00:04:02.399 video 1>",
+            "<TIME 00:06:54.822 video 1>",
+            "<TIME 00:01:51.553 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_92": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            },
+            "image 1": {
+                "id": "P06-20240510-104642",
+                "time": "00:00:52.433"
+            }
+        },
+        "question": "After the object <BBOX 1046.97436 625.77778 1299.692 827.95214> seen at <TIME 00:00:52.433 video 1> is first moved, from which of the following starting times does the object remain static for more than 581 seconds?",
+        "choices": [
+            "<TIME 00:09:27.486 video 1>",
+            "<TIME 00:12:20.911 video 1>",
+            "<TIME 00:13:50.275 video 1>",
+            "<TIME 00:02:05.660 video 1>",
+            "<TIME 00:08:30.650 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_93": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "image 1": {
+                "id": "P06-20240510-135423",
+                "time": "00:00:55.566"
+            }
+        },
+        "question": "After the object <BBOX 955.51453 580.04787 1145.65516 808.69744> seen at <TIME 00:00:55.566 video 1> is first moved, from which of the following starting times does the object remain static for more than 14 seconds?",
+        "choices": [
+            "<TIME 00:02:06.712 video 1>",
+            "<TIME 00:00:43.333 video 1>",
+            "<TIME 00:01:05.260 video 1>",
+            "<TIME 00:00:19.854 video 1>",
+            "<TIME 00:00:38.392 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_94": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            },
+            "image 1": {
+                "id": "P08-20240618-171546",
+                "time": "00:05:21.433"
+            }
+        },
+        "question": "After the object <BBOX 1077.523 724.828 1274.6979999999999 791.4789999999999> seen at <TIME 00:05:21.433 video 1> is first moved, from which of the following starting times does the object remain static for more than 124 seconds?",
+        "choices": [
+            "<TIME 00:01:51.654 video 1>",
+            "<TIME 00:07:18.673 video 1>",
+            "<TIME 00:05:27.773 video 1>",
+            "<TIME 00:02:41.055 video 1>",
+            "<TIME 00:10:02.618 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_95": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240620-180825"
+            },
+            "image 1": {
+                "id": "P08-20240620-180825",
+                "time": "00:05:39.600"
+            }
+        },
+        "question": "After the object <BBOX 820.73162 490.99487 1063.8220000000001 813.511> seen at <TIME 00:05:39.600 video 1> is first moved, from which of the following starting times does the object remain static for more than 142 seconds?",
+        "choices": [
+            "<TIME 00:01:18.842 video 1>",
+            "<TIME 00:05:16.492 video 1>",
+            "<TIME 00:03:43.635 video 1>",
+            "<TIME 00:04:15.575 video 1>",
+            "<TIME 00:00:28.499 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_96": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            },
+            "image 1": {
+                "id": "P06-20240510-121619",
+                "time": "00:05:03.733"
+            }
+        },
+        "question": "After the object <BBOX 811.10427 584.86154 924.226 654.6598299999999> seen at <TIME 00:05:03.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 120 seconds?",
+        "choices": [
+            "<TIME 00:06:11.350 video 1>",
+            "<TIME 00:04:00.332 video 1>",
+            "<TIME 00:02:30.252 video 1>",
+            "<TIME 00:01:08.807 video 1>",
+            "<TIME 00:00:32.391 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_97": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-132938"
+            },
+            "image 1": {
+                "id": "P08-20240614-132938",
+                "time": "00:02:31.633"
+            }
+        },
+        "question": "After the object <BBOX 969.956 837.579 1162.503 1018.092> seen at <TIME 00:02:31.633 video 1> is first moved, from which of the following starting times does the object remain static for more than 45 seconds?",
+        "choices": [
+            "<TIME 00:00:05.712 video 1>",
+            "<TIME 00:00:06.252 video 1>",
+            "<TIME 00:01:32.042 video 1>",
+            "<TIME 00:00:24.513 video 1>",
+            "<TIME 00:00:52.855 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_98": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-141313"
+            },
+            "image 1": {
+                "id": "P02-20240211-141313",
+                "time": "00:08:54.166"
+            }
+        },
+        "question": "After the object <BBOX 873.68205 926.63248 1054.19487 1018.09231> seen at <TIME 00:08:54.166 video 1> is first moved, from which of the following starting times does the object remain static for more than 292 seconds?",
+        "choices": [
+            "<TIME 00:01:40.833 video 1>",
+            "<TIME 00:12:33.942 video 1>",
+            "<TIME 00:10:47.657 video 1>",
+            "<TIME 00:01:49.856 video 1>",
+            "<TIME 00:06:36.798 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_99": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-150310"
+            },
+            "image 1": {
+                "id": "P03-20240217-150310",
+                "time": "00:03:59.599"
+            }
+        },
+        "question": "After the object <BBOX 876.089 787.036 1143.248 1061.415> seen at <TIME 00:03:59.599 video 1> is first moved, from which of the following starting times does the object remain static for more than 464 seconds?",
+        "choices": [
+            "<TIME 00:06:14.234 video 1>",
+            "<TIME 00:13:58.979 video 1>",
+            "<TIME 00:12:36.223 video 1>",
+            "<TIME 00:07:18.595 video 1>",
+            "<TIME 00:10:45.571 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_100": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-100308"
+            },
+            "image 1": {
+                "id": "P02-20240210-100308",
+                "time": "00:02:59.800"
+            }
+        },
+        "question": "After the object <BBOX 746.12 789.443 897.75 1006.058> seen at <TIME 00:02:59.800 video 1> is first moved, from which of the following starting times does the object remain static for more than 115 seconds?",
+        "choices": [
+            "<TIME 00:01:46.347 video 1>",
+            "<TIME 00:01:15.823 video 1>",
+            "<TIME 00:00:49.958 video 1>",
+            "<TIME 00:01:22.144 video 1>",
+            "<TIME 00:02:05.954 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_101": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "image 1": {
+                "id": "P05-20240425-173353",
+                "time": "00:04:20.866"
+            }
+        },
+        "question": "After the object <BBOX 510.24916 685.949 623.37116 933.853> seen at <TIME 00:04:20.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 68 seconds?",
+        "choices": [
+            "<TIME 00:01:36.013 video 1>",
+            "<TIME 00:04:24.426 video 1>",
+            "<TIME 00:04:21.515 video 1>",
+            "<TIME 00:04:51.787 video 1>",
+            "<TIME 00:04:09.033 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_102": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            },
+            "image 1": {
+                "id": "P08-20240614-184945",
+                "time": "00:16:04.100"
+            }
+        },
+        "question": "After the object <BBOX 965.142 255.125 1323.761 503.029> seen at <TIME 00:16:04.100 video 1> is first moved, from which of the following starting times does the object remain static for more than 31 seconds?",
+        "choices": [
+            "<TIME 00:05:18.786 video 1>",
+            "<TIME 00:16:01.327 video 1>",
+            "<TIME 00:12:05.992 video 1>",
+            "<TIME 00:15:16.475 video 1>",
+            "<TIME 00:05:46.862 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_103": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-184214"
+            },
+            "image 1": {
+                "id": "P01-20240203-184214",
+                "time": "00:02:55.099"
+            }
+        },
+        "question": "After the object <BBOX 1186.57094 659.47384 1393.559 1010.87184> seen at <TIME 00:02:55.099 video 1> is first moved, from which of the following starting times does the object remain static for more than 37 seconds?",
+        "choices": [
+            "<TIME 00:00:50.169 video 1>",
+            "<TIME 00:00:40.415 video 1>",
+            "<TIME 00:01:37.751 video 1>",
+            "<TIME 00:02:11.534 video 1>",
+            "<TIME 00:02:49.928 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_104": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-170520"
+            },
+            "image 1": {
+                "id": "P04-20240414-170520",
+                "time": "00:07:40.133"
+            }
+        },
+        "question": "After the object <BBOX 815.91795 661.88034 1116.7726499999999 921.8186800000001> seen at <TIME 00:07:40.133 video 1> is first moved, from which of the following starting times does the object remain static for more than 202 seconds?",
+        "choices": [
+            "<TIME 00:06:13.052 video 1>",
+            "<TIME 00:00:20.296 video 1>",
+            "<TIME 00:01:00.942 video 1>",
+            "<TIME 00:02:56.098 video 1>",
+            "<TIME 00:01:10.474 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_105": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            },
+            "image 1": {
+                "id": "P03-20240216-185832",
+                "time": "00:51:50.233"
+            }
+        },
+        "question": "After the object <BBOX 692.786 558.216 984.3539799999999 872.21239> seen at <TIME 00:51:50.233 video 1> is first moved, from which of the following starting times does the object remain static for more than 625 seconds?",
+        "choices": [
+            "<TIME 00:31:05.039 video 1>",
+            "<TIME 00:50:44.343 video 1>",
+            "<TIME 00:48:40.338 video 1>",
+            "<TIME 00:12:52.644 video 1>",
+            "<TIME 00:56:17.694 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_106": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            },
+            "image 1": {
+                "id": "P02-20240211-175138",
+                "time": "00:13:45.733"
+            }
+        },
+        "question": "After the object <BBOX 866.46154 719.64444 919.412 844.8000000000001> seen at <TIME 00:13:45.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 73 seconds?",
+        "choices": [
+            "<TIME 00:03:15.232 video 1>",
+            "<TIME 00:07:15.219 video 1>",
+            "<TIME 00:11:03.531 video 1>",
+            "<TIME 00:05:46.089 video 1>",
+            "<TIME 00:08:50.008 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_107": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            },
+            "image 1": {
+                "id": "P03-20240217-192543",
+                "time": "00:06:23.566"
+            }
+        },
+        "question": "After the object <BBOX 1102.33162 736.49231 1297.2849999999999 902.5640999999999> seen at <TIME 00:06:23.566 video 1> is first moved, from which of the following starting times does the object remain static for more than 851 seconds?",
+        "choices": [
+            "<TIME 00:14:15.441 video 1>",
+            "<TIME 00:03:01.397 video 1>",
+            "<TIME 00:29:28.529 video 1>",
+            "<TIME 00:26:13.376 video 1>",
+            "<TIME 00:29:34.321 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_108": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-141313"
+            },
+            "image 1": {
+                "id": "P02-20240211-141313",
+                "time": "00:25:07.733"
+            }
+        },
+        "question": "After the object <BBOX 1075.85641 789.44274 1179.3500000000001 866.462> seen at <TIME 00:25:07.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 284 seconds?",
+        "choices": [
+            "<TIME 00:08:40.479 video 1>",
+            "<TIME 00:17:23.320 video 1>",
+            "<TIME 00:24:08.499 video 1>",
+            "<TIME 00:21:24.479 video 1>",
+            "<TIME 00:12:40.615 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_109": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "time": "00:14:23.366",
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "After the object <BBOX 764.05082 659.28131 1017.0310000000001 825.3789999999999> seen at <TIME 00:14:23.366 video 1> is first moved, from which of the following starting times does the object remain static for more than 256 seconds?",
+        "choices": [
+            "<TIME 00:05:53.550 video 1>",
+            "<TIME 00:14:31.554 video 1>",
+            "<TIME 00:11:53.682 video 1>",
+            "<TIME 00:02:38.597 video 1>",
+            "<TIME 00:01:05.485 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_110": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            },
+            "image 1": {
+                "id": "P08-20240614-125650",
+                "time": "00:15:20.266"
+            }
+        },
+        "question": "After the object <BBOX 994.209 405.46 1049.751 472.11> seen at <TIME 00:15:20.266 video 1> is first moved, from which of the following starting times does the object remain static for more than 175 seconds?",
+        "choices": [
+            "<TIME 00:10:08.820 video 1>",
+            "<TIME 00:01:54.336 video 1>",
+            "<TIME 00:04:21.755 video 1>",
+            "<TIME 00:01:10.245 video 1>",
+            "<TIME 00:14:09.614 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_111": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047"
+            },
+            "image 1": {
+                "id": "P06-20240510-100047",
+                "time": "00:13:16.266"
+            }
+        },
+        "question": "After the object <BBOX 921.8188 681.13504 1042.161 779.81538> seen at <TIME 00:13:16.266 video 1> is first moved, from which of the following starting times does the object remain static for more than 155 seconds?",
+        "choices": [
+            "<TIME 00:11:00.221 video 1>",
+            "<TIME 00:12:19.729 video 1>",
+            "<TIME 00:10:27.901 video 1>",
+            "<TIME 00:11:57.808 video 1>",
+            "<TIME 00:04:06.633 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_112": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-184214"
+            },
+            "image 1": {
+                "id": "P01-20240203-184214",
+                "time": "00:10:39.799"
+            }
+        },
+        "question": "After the object <BBOX 794.256 753.34017 969.9559999999999 926.632> seen at <TIME 00:10:39.799 video 1> is first moved, from which of the following starting times does the object remain static for more than 325 seconds?",
+        "choices": [
+            "<TIME 00:21:10.774 video 1>",
+            "<TIME 00:15:34.988 video 1>",
+            "<TIME 00:04:24.557 video 1>",
+            "<TIME 00:18:01.367 video 1>",
+            "<TIME 00:03:48.570 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_113": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            },
+            "image 1": {
+                "id": "P06-20240510-121619",
+                "time": "00:01:00.066"
+            }
+        },
+        "question": "After the object <BBOX 919.41196 697.98291 1061.41538 866.46154> seen at <TIME 00:01:00.066 video 1> is first moved, from which of the following starting times does the object remain static for more than 274 seconds?",
+        "choices": [
+            "<TIME 00:11:41.922 video 1>",
+            "<TIME 00:10:22.010 video 1>",
+            "<TIME 00:03:29.924 video 1>",
+            "<TIME 00:01:57.250 video 1>",
+            "<TIME 00:05:52.914 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_114": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:37:13.633"
+            }
+        },
+        "question": "After the object <BBOX 712.42393 500.62222 1371.897 1133.621> seen at <TIME 00:37:13.633 video 1> is first moved, from which of the following starting times does the object remain static for more than 12 seconds?",
+        "choices": [
+            "<TIME 00:10:19.519 video 1>",
+            "<TIME 00:26:00.269 video 1>",
+            "<TIME 00:05:54.574 video 1>",
+            "<TIME 00:17:00.900 video 1>",
+            "<TIME 00:36:45.262 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_115": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            },
+            "image 1": {
+                "id": "P05-20240424-171038",
+                "time": "00:18:16.933"
+            }
+        },
+        "question": "After the object <BBOX 811.104 731.679 1015.6850000000001 880.903> seen at <TIME 00:18:16.933 video 1> is first moved, from which of the following starting times does the object remain static for more than 85 seconds?",
+        "choices": [
+            "<TIME 00:06:45.111 video 1>",
+            "<TIME 00:04:30.613 video 1>",
+            "<TIME 00:02:29.910 video 1>",
+            "<TIME 00:16:40.447 video 1>",
+            "<TIME 00:00:48.177 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_116": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-223126"
+            },
+            "image 1": {
+                "id": "P03-20240216-223126",
+                "time": "00:02:31.666"
+            }
+        },
+        "question": "After the object <BBOX 775.002 808.697 900.1569999999999 945.887> seen at <TIME 00:02:31.666 video 1> is first moved, from which of the following starting times does the object remain static for more than 37 seconds?",
+        "choices": [
+            "<TIME 00:01:20.074 video 1>",
+            "<TIME 00:01:08.485 video 1>",
+            "<TIME 00:00:39.981 video 1>",
+            "<TIME 00:00:22.498 video 1>",
+            "<TIME 00:02:29.716 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_117": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-141313"
+            },
+            "image 1": {
+                "id": "P02-20240211-141313",
+                "time": "00:08:49.733"
+            }
+        },
+        "question": "After the object <BBOX 738.89915 678.72821 1099.925 977.17607> seen at <TIME 00:08:49.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 420 seconds?",
+        "choices": [
+            "<TIME 00:03:09.825 video 1>",
+            "<TIME 00:07:41.484 video 1>",
+            "<TIME 00:05:39.402 video 1>",
+            "<TIME 00:14:21.485 video 1>",
+            "<TIME 00:09:07.652 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_118": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042"
+            },
+            "image 1": {
+                "id": "P01-20240204-121042",
+                "time": "00:12:51.066"
+            }
+        },
+        "question": "After the object <BBOX 917.00513 741.30598 1092.704 885.716> seen at <TIME 00:12:51.066 video 1> is first moved, from which of the following starting times does the object remain static for more than 33 seconds?",
+        "choices": [
+            "<TIME 00:11:54.089 video 1>",
+            "<TIME 00:00:20.991 video 1>",
+            "<TIME 00:09:04.584 video 1>",
+            "<TIME 00:08:58.368 video 1>",
+            "<TIME 00:05:52.902 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_119": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-100250"
+            },
+            "image 1": {
+                "id": "P02-20240211-100250",
+                "time": "00:01:58.799"
+            }
+        },
+        "question": "After the object <BBOX 806.291 604.116 1032.5330000000001 844.8> seen at <TIME 00:01:58.799 video 1> is first moved, from which of the following starting times does the object remain static for more than 58 seconds?",
+        "choices": [
+            "<TIME 00:00:09.932 video 1>",
+            "<TIME 00:03:19.954 video 1>",
+            "<TIME 00:04:50.262 video 1>",
+            "<TIME 00:05:06.459 video 1>",
+            "<TIME 00:00:06.935 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_120": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-102652"
+            },
+            "image 1": {
+                "id": "P07-20240529-102652",
+                "time": "00:08:20.100"
+            }
+        },
+        "question": "After the object <BBOX 1116.773 912.191 1350.2359999999999 1075.856> seen at <TIME 00:08:20.100 video 1> is first moved, from which of the following starting times does the object remain static for more than 65 seconds?",
+        "choices": [
+            "<TIME 00:07:10.925 video 1>",
+            "<TIME 00:04:59.356 video 1>",
+            "<TIME 00:02:21.931 video 1>",
+            "<TIME 00:04:09.214 video 1>",
+            "<TIME 00:01:45.077 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_121": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-150310"
+            },
+            "image 1": {
+                "id": "P03-20240217-150310",
+                "time": "00:10:06.899"
+            }
+        },
+        "question": "After the object <BBOX 847.207 868.868 991.617 1032.5330000000001> seen at <TIME 00:10:06.899 video 1> is first moved, from which of the following starting times does the object remain static for more than 37 seconds?",
+        "choices": [
+            "<TIME 00:05:02.974 video 1>",
+            "<TIME 00:10:19.566 video 1>",
+            "<TIME 00:14:10.691 video 1>",
+            "<TIME 00:10:15.091 video 1>",
+            "<TIME 00:06:56.576 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_122": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:23:45.166"
+            }
+        },
+        "question": "After the object <BBOX 1042.58439 659.281 1300.675 840.71143> seen at <TIME 00:23:45.166 video 1> is first moved, from which of the following starting times does the object remain static for more than 408 seconds?",
+        "choices": [
+            "<TIME 00:25:24.373 video 1>",
+            "<TIME 00:27:52.367 video 1>",
+            "<TIME 00:13:47.992 video 1>",
+            "<TIME 00:15:14.543 video 1>",
+            "<TIME 00:26:41.443 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_123": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            },
+            "image 1": {
+                "id": "P02-20240211-120927",
+                "time": "00:05:21.500"
+            }
+        },
+        "question": "After the object <BBOX 1034.94 726.865 1150.468 924.226> seen at <TIME 00:05:21.500 video 1> is first moved, from which of the following starting times does the object remain static for more than 324 seconds?",
+        "choices": [
+            "<TIME 00:05:22.300 video 1>",
+            "<TIME 00:00:01.599 video 1>",
+            "<TIME 00:15:42.622 video 1>",
+            "<TIME 00:05:34.282 video 1>",
+            "<TIME 00:01:49.873 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_124": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-202148"
+            },
+            "image 1": {
+                "id": "P03-20240218-202148",
+                "time": "00:02:42.000"
+            }
+        },
+        "question": "After the object <BBOX 652.25299 784.62906 832.18606 1027.15432> seen at <TIME 00:02:42.000 video 1> is first moved, from which of the following starting times does the object remain static for more than 54 seconds?",
+        "choices": [
+            "<TIME 00:04:43.620 video 1>",
+            "<TIME 00:04:05.555 video 1>",
+            "<TIME 00:00:01.896 video 1>",
+            "<TIME 00:05:13.356 video 1>",
+            "<TIME 00:01:02.749 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_125": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            },
+            "image 1": {
+                "id": "P08-20240617-130401",
+                "time": "00:00:23.833"
+            }
+        },
+        "question": "After the object <BBOX 948.29384 582.45452 1285.2508400000002 912.1915200000001> seen at <TIME 00:00:23.833 video 1> is first moved, from which of the following starting times does the object remain static for more than 600 seconds?",
+        "choices": [
+            "<TIME 00:04:04.296 video 1>",
+            "<TIME 00:04:43.548 video 1>",
+            "<TIME 00:12:05.822 video 1>",
+            "<TIME 00:27:32.105 video 1>",
+            "<TIME 00:31:40.294 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_126": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-090812"
+            },
+            "image 1": {
+                "id": "P05-20240424-090812",
+                "time": "00:01:53.633"
+            }
+        },
+        "question": "After the object <BBOX 649.84615 736.49231 888.1229999999999 876.08889> seen at <TIME 00:01:53.633 video 1> is first moved, from which of the following starting times does the object remain static for more than 22 seconds?",
+        "choices": [
+            "<TIME 00:00:48.856 video 1>",
+            "<TIME 00:00:07.987 video 1>",
+            "<TIME 00:00:24.610 video 1>",
+            "<TIME 00:01:53.724 video 1>",
+            "<TIME 00:00:36.967 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_127": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            },
+            "image 1": {
+                "id": "P08-20240617-130401",
+                "time": "00:02:45.500"
+            }
+        },
+        "question": "After the object <BBOX 1148.062 734.085 1359.8629999999998 1059.009> seen at <TIME 00:02:45.500 video 1> is first moved, from which of the following starting times does the object remain static for more than 85 seconds?",
+        "choices": [
+            "<TIME 00:04:41.744 video 1>",
+            "<TIME 00:04:53.858 video 1>",
+            "<TIME 00:02:15.276 video 1>",
+            "<TIME 00:04:56.432 video 1>",
+            "<TIME 00:03:12.562 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_128": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            },
+            "image 1": {
+                "id": "P07-20240529-134410",
+                "time": "00:13:23.533"
+            }
+        },
+        "question": "After the object <BBOX 866.462 173.292 1343.0149999999999 507.84299999999996> seen at <TIME 00:13:23.533 video 1> is first moved, from which of the following starting times does the object remain static for more than 134 seconds?",
+        "choices": [
+            "<TIME 00:11:16.531 video 1>",
+            "<TIME 00:09:08.819 video 1>",
+            "<TIME 00:14:43.441 video 1>",
+            "<TIME 00:08:25.216 video 1>",
+            "<TIME 00:15:52.982 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_129": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-100308"
+            },
+            "image 1": {
+                "id": "P02-20240210-100308",
+                "time": "00:03:29.199"
+            }
+        },
+        "question": "After the object <BBOX 815.918 770.18803 962.735 890.53> seen at <TIME 00:03:29.199 video 1> is first moved, from which of the following starting times does the object remain static for more than 65 seconds?",
+        "choices": [
+            "<TIME 00:02:26.085 video 1>",
+            "<TIME 00:01:29.147 video 1>",
+            "<TIME 00:02:37.531 video 1>",
+            "<TIME 00:03:29.332 video 1>",
+            "<TIME 00:02:20.432 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_130": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-091657"
+            },
+            "image 1": {
+                "id": "P03-20240217-091657",
+                "time": "00:07:07.033"
+            }
+        },
+        "question": "After the object <BBOX 869.23866 469.333 1094.185 683.172> seen at <TIME 00:07:07.033 video 1> is first moved, from which of the following starting times does the object remain static for more than 293 seconds?",
+        "choices": [
+            "<TIME 00:04:09.185 video 1>",
+            "<TIME 00:14:01.809 video 1>",
+            "<TIME 00:08:43.930 video 1>",
+            "<TIME 00:10:40.096 video 1>",
+            "<TIME 00:03:31.987 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_131": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-194642"
+            },
+            "image 1": {
+                "id": "P09-20240622-194642",
+                "time": "00:02:15.166"
+            }
+        },
+        "question": "After the object <BBOX 1015.68547 604.11624 1126.4 736.49231> seen at <TIME 00:02:15.166 video 1> is first moved, from which of the following starting times does the object remain static for more than 13 seconds?",
+        "choices": [
+            "<TIME 00:02:11.535 video 1>",
+            "<TIME 00:00:10.555 video 1>",
+            "<TIME 00:01:22.882 video 1>",
+            "<TIME 00:02:14.229 video 1>",
+            "<TIME 00:02:01.506 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_132": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            },
+            "image 1": {
+                "id": "P03-20240216-205923",
+                "time": "00:22:40.233"
+            }
+        },
+        "question": "After the object <BBOX 1032.53333 806.2906 1176.944 924.22564> seen at <TIME 00:22:40.233 video 1> is first moved, from which of the following starting times does the object remain static for more than 455 seconds?",
+        "choices": [
+            "<TIME 00:21:44.744 video 1>",
+            "<TIME 00:02:08.268 video 1>",
+            "<TIME 00:12:47.433 video 1>",
+            "<TIME 00:21:44.533 video 1>",
+            "<TIME 00:09:51.877 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_133": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "id": "P05-20240423-180529",
+                "time": "00:09:24.299"
+            }
+        },
+        "question": "After the object <BBOX 808.69744 789.443 953.1080000000001 945.887> seen at <TIME 00:09:24.299 video 1> is first moved, from which of the following starting times does the object remain static for more than 169 seconds?",
+        "choices": [
+            "<TIME 00:11:55.276 video 1>",
+            "<TIME 00:08:43.342 video 1>",
+            "<TIME 00:00:33.530 video 1>",
+            "<TIME 00:10:37.031 video 1>",
+            "<TIME 00:03:29.443 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_134": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            },
+            "image 1": {
+                "id": "P09-20240623-120359",
+                "time": "00:25:30.766"
+            }
+        },
+        "question": "After the object <BBOX 1030.1265 669.10085 1364.6770000000001 1027.71966> seen at <TIME 00:25:30.766 video 1> is first moved, from which of the following starting times does the object remain static for more than 620 seconds?",
+        "choices": [
+            "<TIME 00:14:14.098 video 1>",
+            "<TIME 00:27:18.987 video 1>",
+            "<TIME 00:36:38.056 video 1>",
+            "<TIME 00:17:44.711 video 1>",
+            "<TIME 00:17:51.643 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_135": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-153748"
+            },
+            "image 1": {
+                "id": "P09-20240623-153748",
+                "time": "00:02:48.133"
+            }
+        },
+        "question": "After the object <BBOX 1196.19829 981.98974 1362.27 1133.621> seen at <TIME 00:02:48.133 video 1> is first moved, from which of the following starting times does the object remain static for more than 21 seconds?",
+        "choices": [
+            "<TIME 00:02:55.000 video 1>",
+            "<TIME 00:02:29.300 video 1>",
+            "<TIME 00:02:45.376 video 1>",
+            "<TIME 00:01:44.167 video 1>",
+            "<TIME 00:02:39.190 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_136": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            },
+            "image 1": {
+                "id": "P07-20240531-201703",
+                "time": "00:24:24.566"
+            }
+        },
+        "question": "After the object <BBOX 991.61709 712.42393 1143.248 835.173> seen at <TIME 00:24:24.566 video 1> is first moved, from which of the following starting times does the object remain static for more than 434 seconds?",
+        "choices": [
+            "<TIME 00:20:19.490 video 1>",
+            "<TIME 00:05:20.355 video 1>",
+            "<TIME 00:10:23.852 video 1>",
+            "<TIME 00:19:15.646 video 1>",
+            "<TIME 00:00:05.356 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_137": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-194141"
+            },
+            "image 1": {
+                "time": "00:12:01.799",
+                "id": "P02-20240209-194141"
+            }
+        },
+        "question": "After the object <BBOX 717.23761 515.06325 1181.757 1006.058> seen at <TIME 00:12:01.799 video 1> is first moved, from which of the following starting times does the object remain static for more than 36 seconds?",
+        "choices": [
+            "<TIME 00:07:18.366 video 1>",
+            "<TIME 00:08:39.453 video 1>",
+            "<TIME 00:11:23.673 video 1>",
+            "<TIME 00:02:37.098 video 1>",
+            "<TIME 00:02:46.802 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_138": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            },
+            "image 1": {
+                "id": "P06-20240510-121619",
+                "time": "00:13:10.266"
+            }
+        },
+        "question": "After the object <BBOX 953.10769 738.89915 1143.248 873.68205> seen at <TIME 00:13:10.266 video 1> is first moved, from which of the following starting times does the object remain static for more than 314 seconds?",
+        "choices": [
+            "<TIME 00:10:22.889 video 1>",
+            "<TIME 00:01:52.943 video 1>",
+            "<TIME 00:01:46.883 video 1>",
+            "<TIME 00:03:41.509 video 1>",
+            "<TIME 00:09:57.534 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_139": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-141313"
+            },
+            "image 1": {
+                "id": "P02-20240211-141313",
+                "time": "00:00:14.300"
+            }
+        },
+        "question": "After the object <BBOX 818.32479 762.96752 1109.5520000000001 1027.71966> seen at <TIME 00:00:14.300 video 1> is first moved, from which of the following starting times does the object remain static for more than 644 seconds?",
+        "choices": [
+            "<TIME 00:02:34.675 video 1>",
+            "<TIME 00:09:48.588 video 1>",
+            "<TIME 00:13:23.189 video 1>",
+            "<TIME 00:06:49.618 video 1>",
+            "<TIME 00:13:35.371 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_140": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            },
+            "image 1": {
+                "id": "P03-20240218-190556",
+                "time": "00:43:33.866"
+            }
+        },
+        "question": "After the object <BBOX 900.157 661.88 986.803 741.306> seen at <TIME 00:43:33.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 290 seconds?",
+        "choices": [
+            "<TIME 00:07:03.757 video 1>",
+            "<TIME 00:43:19.507 video 1>",
+            "<TIME 00:27:40.498 video 1>",
+            "<TIME 00:33:22.722 video 1>",
+            "<TIME 00:12:38.362 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_141": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            },
+            "image 1": {
+                "time": "00:23:23.000",
+                "id": "P02-20240211-175138"
+            }
+        },
+        "question": "After the object <BBOX 885.716 685.949 1056.602 806.2909999999999> seen at <TIME 00:23:23.000 video 1> is first moved, from which of the following starting times does the object remain static for more than 603 seconds?",
+        "choices": [
+            "<TIME 00:23:52.834 video 1>",
+            "<TIME 00:26:57.420 video 1>",
+            "<TIME 00:11:44.863 video 1>",
+            "<TIME 00:09:38.219 video 1>",
+            "<TIME 00:25:10.517 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_142": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            },
+            "image 1": {
+                "id": "P01-20240203-123350",
+                "time": "00:18:47.000"
+            }
+        },
+        "question": "After the object <BBOX 808.69744 457.299 1133.621 743.713> seen at <TIME 00:18:47.000 video 1> is first moved, from which of the following starting times does the object remain static for more than 371 seconds?",
+        "choices": [
+            "<TIME 00:17:18.997 video 1>",
+            "<TIME 00:23:25.232 video 1>",
+            "<TIME 00:16:07.175 video 1>",
+            "<TIME 00:17:38.456 video 1>",
+            "<TIME 00:12:12.834 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_143": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-170021"
+            },
+            "image 1": {
+                "time": "00:14:33.399",
+                "id": "P05-20240423-170021"
+            }
+        },
+        "question": "After the object <BBOX 801.47692 1037.347 986.80342 1244.33504> seen at <TIME 00:14:33.399 video 1> is first moved, from which of the following starting times does the object remain static for more than 33 seconds?",
+        "choices": [
+            "<TIME 00:00:01.753 video 1>",
+            "<TIME 00:02:13.943 video 1>",
+            "<TIME 00:03:10.329 video 1>",
+            "<TIME 00:14:59.859 video 1>",
+            "<TIME 00:03:26.895 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_144": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            },
+            "image 1": {
+                "id": "P05-20240425-201444",
+                "time": "00:24:23.200"
+            }
+        },
+        "question": "After the object <BBOX 1205.27 863.684 1371.897 1077.523> seen at <TIME 00:24:23.200 video 1> is first moved, from which of the following starting times does the object remain static for more than 243 seconds?",
+        "choices": [
+            "<TIME 00:24:09.195 video 1>",
+            "<TIME 00:10:39.113 video 1>",
+            "<TIME 00:01:48.376 video 1>",
+            "<TIME 00:16:52.574 video 1>",
+            "<TIME 00:17:52.819 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_145": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455"
+            },
+            "image 1": {
+                "id": "P05-20240425-171455",
+                "time": "00:04:30.333"
+            }
+        },
+        "question": "After the object <BBOX 750.933 808.69744 921.819 996.431> seen at <TIME 00:04:30.333 video 1> is first moved, from which of the following starting times does the object remain static for more than 29 seconds?",
+        "choices": [
+            "<TIME 00:02:57.857 video 1>",
+            "<TIME 00:00:20.988 video 1>",
+            "<TIME 00:00:40.889 video 1>",
+            "<TIME 00:00:25.769 video 1>",
+            "<TIME 00:03:49.568 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_146": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            },
+            "image 1": {
+                "id": "P03-20240217-131219",
+                "time": "00:40:33.666"
+            }
+        },
+        "question": "After the object <BBOX 645.03248 842.39317 897.75 1104.73868> seen at <TIME 00:40:33.666 video 1> is first moved, from which of the following starting times does the object remain static for more than 271 seconds?",
+        "choices": [
+            "<TIME 00:02:29.749 video 1>",
+            "<TIME 00:21:11.251 video 1>",
+            "<TIME 00:32:04.382 video 1>",
+            "<TIME 00:22:37.613 video 1>",
+            "<TIME 00:36:33.287 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_147": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            },
+            "image 1": {
+                "id": "P03-20240218-144430",
+                "time": "00:05:16.500"
+            }
+        },
+        "question": "After the object <BBOX 913.226 684.262 1029.024 834.2729999999999> seen at <TIME 00:05:16.500 video 1> is first moved, from which of the following starting times does the object remain static for more than 57 seconds?",
+        "choices": [
+            "<TIME 00:04:02.514 video 1>",
+            "<TIME 00:03:04.525 video 1>",
+            "<TIME 00:04:34.335 video 1>",
+            "<TIME 00:04:06.012 video 1>",
+            "<TIME 00:02:16.281 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_148": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-084005"
+            },
+            "image 1": {
+                "id": "P03-20240216-084005",
+                "time": "00:09:23.299"
+            }
+        },
+        "question": "After the object <BBOX 556.98 1337.31728 675.727 1430.61872> seen at <TIME 00:09:23.299 video 1> is first moved, from which of the following starting times does the object remain static for more than 90 seconds?",
+        "choices": [
+            "<TIME 00:08:16.147 video 1>",
+            "<TIME 00:03:43.851 video 1>",
+            "<TIME 00:13:03.716 video 1>",
+            "<TIME 00:14:21.633 video 1>",
+            "<TIME 00:04:28.270 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_149": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "image 1": {
+                "id": "P05-20240425-173353",
+                "time": "00:07:41.866"
+            }
+        },
+        "question": "After the object <BBOX 830.359 705.203 1099.925 900.1569999999999> seen at <TIME 00:07:41.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 48 seconds?",
+        "choices": [
+            "<TIME 00:09:54.595 video 1>",
+            "<TIME 00:09:02.339 video 1>",
+            "<TIME 00:03:18.517 video 1>",
+            "<TIME 00:04:47.349 video 1>",
+            "<TIME 00:04:15.314 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_150": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            },
+            "image 1": {
+                "id": "P03-20240218-190556",
+                "time": "00:51:21.566"
+            }
+        },
+        "question": "After the object <BBOX 760.561 789.443 854.427 852.021> seen at <TIME 00:51:21.566 video 1> is first moved, from which of the following starting times does the object remain static for more than 693 seconds?",
+        "choices": [
+            "<TIME 00:00:06.694 video 1>",
+            "<TIME 00:17:33.034 video 1>",
+            "<TIME 00:38:57.201 video 1>",
+            "<TIME 00:49:19.658 video 1>",
+            "<TIME 00:30:49.105 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_151": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            },
+            "image 1": {
+                "id": "P03-20240218-190556",
+                "time": "00:52:08.233"
+            }
+        },
+        "question": "After the object <BBOX 794.256 752.6 908.1179999999999 835.913> seen at <TIME 00:52:08.233 video 1> is first moved, from which of the following starting times does the object remain static for more than 1366 seconds?",
+        "choices": [
+            "<TIME 00:30:48.327 video 1>",
+            "<TIME 00:25:33.301 video 1>",
+            "<TIME 00:02:55.197 video 1>",
+            "<TIME 00:51:45.180 video 1>",
+            "<TIME 00:29:42.294 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_152": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-195833"
+            },
+            "image 1": {
+                "id": "P02-20240210-195833",
+                "time": "00:01:40.666"
+            }
+        },
+        "question": "After the object <BBOX 957.92137 534.318 1092.704 669.101> seen at <TIME 00:01:40.666 video 1> is first moved, from which of the following starting times does the object remain static for more than 19 seconds?",
+        "choices": [
+            "<TIME 00:01:32.527 video 1>",
+            "<TIME 00:00:24.113 video 1>",
+            "<TIME 00:01:40.833 video 1>",
+            "<TIME 00:00:00.232 video 1>",
+            "<TIME 00:01:05.465 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_153": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            },
+            "image 1": {
+                "id": "P05-20240427-143353",
+                "time": "00:11:38.200"
+            }
+        },
+        "question": "After the object <BBOX 652.253 835.17265 815.918 957.92137> seen at <TIME 00:11:38.200 video 1> is first moved, from which of the following starting times does the object remain static for more than 386 seconds?",
+        "choices": [
+            "<TIME 00:07:50.062 video 1>",
+            "<TIME 00:03:01.916 video 1>",
+            "<TIME 00:04:37.242 video 1>",
+            "<TIME 00:05:05.705 video 1>",
+            "<TIME 00:03:34.465 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_154": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-102652"
+            },
+            "image 1": {
+                "id": "P07-20240529-102652",
+                "time": "00:00:34.266"
+            }
+        },
+        "question": "After the object <BBOX 717.238 534.318 837.5790000000001 685.949> seen at <TIME 00:00:34.266 video 1> is first moved, from which of the following starting times does the object remain static for more than 610 seconds?",
+        "choices": [
+            "<TIME 00:07:51.037 video 1>",
+            "<TIME 00:11:59.818 video 1>",
+            "<TIME 00:01:37.567 video 1>",
+            "<TIME 00:13:38.235 video 1>",
+            "<TIME 00:04:25.896 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_155": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:19:53.066"
+            }
+        },
+        "question": "After the object <BBOX 775.002 741.306 1046.974 1054.1950000000002> seen at <TIME 00:19:53.066 video 1> is first moved, from which of the following starting times does the object remain static for more than 517 seconds?",
+        "choices": [
+            "<TIME 00:18:06.356 video 1>",
+            "<TIME 00:16:53.949 video 1>",
+            "<TIME 00:19:03.362 video 1>",
+            "<TIME 00:09:51.604 video 1>",
+            "<TIME 00:15:45.256 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_156": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-165332"
+            },
+            "image 1": {
+                "id": "P09-20240624-165332",
+                "time": "00:12:44.566"
+            }
+        },
+        "question": "After the object <BBOX 1078.35934 1009.36479 1303.23035 1221.459> seen at <TIME 00:12:44.566 video 1> is first moved, from which of the following starting times does the object remain static for more than 56 seconds?",
+        "choices": [
+            "<TIME 00:12:51.101 video 1>",
+            "<TIME 00:10:41.051 video 1>",
+            "<TIME 00:06:47.336 video 1>",
+            "<TIME 00:07:58.638 video 1>",
+            "<TIME 00:00:56.621 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_157": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            },
+            "image 1": {
+                "id": "P08-20240614-184945",
+                "time": "00:12:19.899"
+            }
+        },
+        "question": "After the object <BBOX 1049.381 560.793 1162.5030000000002 676.321> seen at <TIME 00:12:19.899 video 1> is first moved, from which of the following starting times does the object remain static for more than 11 seconds?",
+        "choices": [
+            "<TIME 00:03:22.153 video 1>",
+            "<TIME 00:11:52.460 video 1>",
+            "<TIME 00:05:02.617 video 1>",
+            "<TIME 00:12:20.247 video 1>",
+            "<TIME 00:09:53.143 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_158": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-154652"
+            },
+            "image 1": {
+                "id": "P09-20240622-154652",
+                "time": "00:04:35.300"
+            }
+        },
+        "question": "After the object <BBOX 972.362 738.89915 1123.993 883.30917> seen at <TIME 00:04:35.300 video 1> is first moved, from which of the following starting times does the object remain static for more than 36 seconds?",
+        "choices": [
+            "<TIME 00:03:30.284 video 1>",
+            "<TIME 00:04:42.670 video 1>",
+            "<TIME 00:04:47.653 video 1>",
+            "<TIME 00:00:15.586 video 1>",
+            "<TIME 00:01:46.139 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_159": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-145526"
+            },
+            "image 1": {
+                "id": "P05-20240427-145526",
+                "time": "00:01:32.766"
+            }
+        },
+        "question": "After the object <BBOX 830.359 84.23932 1196.198 329.73675000000003> seen at <TIME 00:01:32.766 video 1> is first moved, from which of the following starting times does the object remain static for more than 20 seconds?",
+        "choices": [
+            "<TIME 00:02:15.446 video 1>",
+            "<TIME 00:02:20.805 video 1>",
+            "<TIME 00:01:32.781 video 1>",
+            "<TIME 00:01:19.647 video 1>",
+            "<TIME 00:00:30.603 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_160": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            },
+            "image 1": {
+                "id": "P03-20240218-144430",
+                "time": "00:10:30.700"
+            }
+        },
+        "question": "After the object <BBOX 934.28 702.684 1121.136 910.5939999999999> seen at <TIME 00:10:30.700 video 1> is first moved, from which of the following starting times does the object remain static for more than 90 seconds?",
+        "choices": [
+            "<TIME 00:04:56.172 video 1>",
+            "<TIME 00:12:38.200 video 1>",
+            "<TIME 00:04:31.276 video 1>",
+            "<TIME 00:00:19.267 video 1>",
+            "<TIME 00:13:41.027 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_161": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-094452"
+            },
+            "image 1": {
+                "id": "P03-20240218-094452",
+                "time": "00:16:53.200"
+            }
+        },
+        "question": "After the object <BBOX 729.272 654.66 880.903 839.986> seen at <TIME 00:16:53.200 video 1> is first moved, from which of the following starting times does the object remain static for more than 291 seconds?",
+        "choices": [
+            "<TIME 00:06:29.149 video 1>",
+            "<TIME 00:10:04.836 video 1>",
+            "<TIME 00:16:17.550 video 1>",
+            "<TIME 00:00:27.984 video 1>",
+            "<TIME 00:03:51.232 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_162": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-210958"
+            },
+            "image 1": {
+                "id": "P03-20240217-210958",
+                "time": "00:02:35.633"
+            }
+        },
+        "question": "After the object <BBOX 876.466 364.723 1348.627 658.763> seen at <TIME 00:02:35.633 video 1> is first moved, from which of the following starting times does the object remain static for more than 69 seconds?",
+        "choices": [
+            "<TIME 00:02:46.589 video 1>",
+            "<TIME 00:04:12.508 video 1>",
+            "<TIME 00:01:00.394 video 1>",
+            "<TIME 00:00:20.849 video 1>",
+            "<TIME 00:03:20.808 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_163": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-170520"
+            },
+            "image 1": {
+                "time": "00:07:19.266",
+                "id": "P04-20240414-170520"
+            }
+        },
+        "question": "After the object <BBOX 892.93675 632.998 1164.9089999999999 871.2750000000001> seen at <TIME 00:07:19.266 video 1> is first moved, from which of the following starting times does the object remain static for more than 48 seconds?",
+        "choices": [
+            "<TIME 00:03:53.898 video 1>",
+            "<TIME 00:01:48.298 video 1>",
+            "<TIME 00:04:28.220 video 1>",
+            "<TIME 00:05:04.657 video 1>",
+            "<TIME 00:03:25.427 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_164": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-194642"
+            },
+            "image 1": {
+                "id": "P09-20240622-194642",
+                "time": "00:01:53.733"
+            }
+        },
+        "question": "After the object <BBOX 1006.05784 601.7094 1176.9438400000001 710.0169999999999> seen at <TIME 00:01:53.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 13 seconds?",
+        "choices": [
+            "<TIME 00:01:26.581 video 1>",
+            "<TIME 00:00:46.451 video 1>",
+            "<TIME 00:01:21.076 video 1>",
+            "<TIME 00:00:41.215 video 1>",
+            "<TIME 00:02:00.790 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_165": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "image 1": {
+                "id": "P07-20240530-111344",
+                "time": "00:00:50.666"
+            }
+        },
+        "question": "After the object <BBOX 927.59347 684.83529 1137.13249 866.26497> seen at <TIME 00:00:50.666 video 1> is first moved, from which of the following starting times does the object remain static for more than 20 seconds?",
+        "choices": [
+            "<TIME 00:00:31.576 video 1>",
+            "<TIME 00:02:32.981 video 1>",
+            "<TIME 00:00:30.066 video 1>",
+            "<TIME 00:01:13.023 video 1>",
+            "<TIME 00:00:01.544 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_166": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "image 1": {
+                "id": "P06-20240510-135423",
+                "time": "00:03:59.533"
+            }
+        },
+        "question": "After the object <BBOX 994.02393 529.50427 1239.52137 657.06667> seen at <TIME 00:03:59.533 video 1> is first moved, from which of the following starting times does the object remain static for more than 184 seconds?",
+        "choices": [
+            "<TIME 00:04:17.925 video 1>",
+            "<TIME 00:00:12.091 video 1>",
+            "<TIME 00:02:58.475 video 1>",
+            "<TIME 00:00:48.635 video 1>",
+            "<TIME 00:02:41.673 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_167": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            },
+            "image 1": {
+                "id": "P08-20240614-125650",
+                "time": "00:14:44.966"
+            }
+        },
+        "question": "After the object <BBOX 822.028 866.462 949.775 999.76331> seen at <TIME 00:14:44.966 video 1> is first moved, from which of the following starting times does the object remain static for more than 128 seconds?",
+        "choices": [
+            "<TIME 00:15:00.016 video 1>",
+            "<TIME 00:16:25.937 video 1>",
+            "<TIME 00:04:13.179 video 1>",
+            "<TIME 00:13:07.674 video 1>",
+            "<TIME 00:12:53.743 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_168": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            },
+            "image 1": {
+                "id": "P07-20240529-134410",
+                "time": "00:17:34.966"
+            }
+        },
+        "question": "After the object <BBOX 657.067 589.675 912.191 909.7846199999999> seen at <TIME 00:17:34.966 video 1> is first moved, from which of the following starting times does the object remain static for more than 393 seconds?",
+        "choices": [
+            "<TIME 00:07:47.849 video 1>",
+            "<TIME 00:09:07.144 video 1>",
+            "<TIME 00:09:06.162 video 1>",
+            "<TIME 00:12:26.460 video 1>",
+            "<TIME 00:04:04.998 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_169": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            },
+            "image 1": {
+                "id": "P03-20240216-185832",
+                "time": "00:33:14.099"
+            }
+        },
+        "question": "After the object <BBOX 746.11966 758.15385 895.3439999999999 897.75043> seen at <TIME 00:33:14.099 video 1> is first moved, from which of the following starting times does the object remain static for more than 59 seconds?",
+        "choices": [
+            "<TIME 00:07:34.121 video 1>",
+            "<TIME 00:26:46.618 video 1>",
+            "<TIME 00:30:28.119 video 1>",
+            "<TIME 00:02:14.050 video 1>",
+            "<TIME 00:09:00.595 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_170": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-130208"
+            },
+            "image 1": {
+                "id": "P03-20240217-130208",
+                "time": "00:00:34.899"
+            }
+        },
+        "question": "After the object <BBOX 796.66325 849.61368 1013.279 1078.26325> seen at <TIME 00:00:34.899 video 1> is first moved, from which of the following starting times does the object remain static for more than 33 seconds?",
+        "choices": [
+            "<TIME 00:00:34.461 video 1>",
+            "<TIME 00:01:51.781 video 1>",
+            "<TIME 00:00:21.491 video 1>",
+            "<TIME 00:01:19.011 video 1>",
+            "<TIME 00:00:33.480 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_171": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "time": "00:02:32.466",
+                "id": "P04-20240414-181030"
+            }
+        },
+        "question": "After the object <BBOX 890.53 746.12 1157.6889999999999 827.952> seen at <TIME 00:02:32.466 video 1> is first moved, from which of the following starting times does the object remain static for more than 491 seconds?",
+        "choices": [
+            "<TIME 00:11:23.893 video 1>",
+            "<TIME 00:10:37.650 video 1>",
+            "<TIME 00:10:03.834 video 1>",
+            "<TIME 00:04:16.480 video 1>",
+            "<TIME 00:04:45.143 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_172": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-083515"
+            },
+            "image 1": {
+                "id": "P05-20240425-083515",
+                "time": "00:03:12.633"
+            }
+        },
+        "question": "After the object <BBOX 707.83303 753.829 876.486 912.261> seen at <TIME 00:03:12.633 video 1> is first moved, from which of the following starting times does the object remain static for more than 67 seconds?",
+        "choices": [
+            "<TIME 00:02:47.905 video 1>",
+            "<TIME 00:01:25.364 video 1>",
+            "<TIME 00:02:27.650 video 1>",
+            "<TIME 00:01:56.916 video 1>",
+            "<TIME 00:01:45.631 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_173": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-102652"
+            },
+            "image 1": {
+                "time": "00:00:39.766",
+                "id": "P07-20240529-102652"
+            }
+        },
+        "question": "After the object <BBOX 1010.872 690.762 1294.879 806.2909999999999> seen at <TIME 00:00:39.766 video 1> is first moved, from which of the following starting times does the object remain static for more than 201 seconds?",
+        "choices": [
+            "<TIME 00:04:34.112 video 1>",
+            "<TIME 00:02:17.955 video 1>",
+            "<TIME 00:00:54.618 video 1>",
+            "<TIME 00:03:46.672 video 1>",
+            "<TIME 00:03:26.106 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_174": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            },
+            "image 1": {
+                "id": "P01-20240203-123350",
+                "time": "00:00:14.966"
+            }
+        },
+        "question": "After the object <BBOX 582.4547 859.24103 892.937 960.328> seen at <TIME 00:00:14.966 video 1> is first moved, from which of the following starting times does the object remain static for more than 449 seconds?",
+        "choices": [
+            "<TIME 00:06:28.603 video 1>",
+            "<TIME 00:11:48.590 video 1>",
+            "<TIME 00:05:35.621 video 1>",
+            "<TIME 00:07:33.752 video 1>",
+            "<TIME 00:11:07.284 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_175": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-102652"
+            },
+            "image 1": {
+                "id": "P07-20240529-102652",
+                "time": "00:05:15.966"
+            }
+        },
+        "question": "After the object <BBOX 936.25983 820.732 1080.67 900.15726> seen at <TIME 00:05:15.966 video 1> is first moved, from which of the following starting times does the object remain static for more than 36 seconds?",
+        "choices": [
+            "<TIME 00:05:02.024 video 1>",
+            "<TIME 00:01:06.996 video 1>",
+            "<TIME 00:05:32.647 video 1>",
+            "<TIME 00:00:14.537 video 1>",
+            "<TIME 00:01:49.984 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_176": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            },
+            "image 1": {
+                "id": "P07-20240529-194518",
+                "time": "00:22:20.466"
+            }
+        },
+        "question": "After the object <BBOX 912.26134 664.39201 1103.91289 866.265> seen at <TIME 00:22:20.466 video 1> is first moved, from which of the following starting times does the object remain static for more than 90 seconds?",
+        "choices": [
+            "<TIME 00:16:59.485 video 1>",
+            "<TIME 00:24:25.479 video 1>",
+            "<TIME 00:16:36.377 video 1>",
+            "<TIME 00:07:09.725 video 1>",
+            "<TIME 00:26:27.465 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_177": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-094452"
+            },
+            "image 1": {
+                "id": "P03-20240218-094452",
+                "time": "00:03:16.699"
+            }
+        },
+        "question": "After the object <BBOX 926.632 748.526 1049.3809999999999 861.6479999999999> seen at <TIME 00:03:16.699 video 1> is first moved, from which of the following starting times does the object remain static for more than 96 seconds?",
+        "choices": [
+            "<TIME 00:02:47.073 video 1>",
+            "<TIME 00:02:00.002 video 1>",
+            "<TIME 00:03:42.954 video 1>",
+            "<TIME 00:01:04.343 video 1>",
+            "<TIME 00:05:10.096 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_178": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-101509"
+            },
+            "image 1": {
+                "id": "P03-20240218-101509",
+                "time": "00:04:42.000"
+            }
+        },
+        "question": "After the object <BBOX 678.72821 683.542 943.4803400000001 871.27521> seen at <TIME 00:04:42.000 video 1> is first moved, from which of the following starting times does the object remain static for more than 11 seconds?",
+        "choices": [
+            "<TIME 00:04:11.197 video 1>",
+            "<TIME 00:01:16.619 video 1>",
+            "<TIME 00:04:15.838 video 1>",
+            "<TIME 00:04:15.213 video 1>",
+            "<TIME 00:00:01.860 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_179": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            },
+            "image 1": {
+                "time": "00:15:33.233",
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "After the object <BBOX 914.598 998.838 1181.7572599999999 1121.586> seen at <TIME 00:15:33.233 video 1> is first moved, from which of the following starting times does the object remain static for more than 146 seconds?",
+        "choices": [
+            "<TIME 00:03:24.260 video 1>",
+            "<TIME 00:09:36.352 video 1>",
+            "<TIME 00:12:19.203 video 1>",
+            "<TIME 00:05:12.820 video 1>",
+            "<TIME 00:01:02.753 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_180": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:22:37.900"
+            }
+        },
+        "question": "After the object <BBOX 1115.8729 421.084 1273.779 518.4598100000001> seen at <TIME 00:22:37.900 video 1> is first moved, from which of the following starting times does the object remain static for more than 413 seconds?",
+        "choices": [
+            "<TIME 00:33:28.489 video 1>",
+            "<TIME 00:23:05.139 video 1>",
+            "<TIME 00:16:39.162 video 1>",
+            "<TIME 00:17:35.779 video 1>",
+            "<TIME 00:05:23.202 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_181": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-121517"
+            },
+            "image 1": {
+                "id": "P01-20240203-121517",
+                "time": "00:05:50.466"
+            }
+        },
+        "question": "After the object <BBOX 917.005 671.50769 1164.909 900.157> seen at <TIME 00:05:50.466 video 1> is first moved, from which of the following starting times does the object remain static for more than 11 seconds?",
+        "choices": [
+            "<TIME 00:06:09.797 video 1>",
+            "<TIME 00:05:58.410 video 1>",
+            "<TIME 00:03:21.888 video 1>",
+            "<TIME 00:01:55.686 video 1>",
+            "<TIME 00:00:46.757 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_182": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-120411"
+            },
+            "image 1": {
+                "id": "P01-20240204-120411",
+                "time": "00:02:16.866"
+            }
+        },
+        "question": "After the object <BBOX 989.21025 580.048 1172.12948 731.679> seen at <TIME 00:02:16.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 34 seconds?",
+        "choices": [
+            "<TIME 00:00:08.061 video 1>",
+            "<TIME 00:02:40.422 video 1>",
+            "<TIME 00:03:01.240 video 1>",
+            "<TIME 00:01:02.054 video 1>",
+            "<TIME 00:02:17.729 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_183": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:20:35.033"
+            }
+        },
+        "question": "After the object <BBOX 827.952 748.526 965.142 917.005> seen at <TIME 00:20:35.033 video 1> is first moved, from which of the following starting times does the object remain static for more than 362 seconds?",
+        "choices": [
+            "<TIME 00:13:21.954 video 1>",
+            "<TIME 00:15:10.017 video 1>",
+            "<TIME 00:15:08.222 video 1>",
+            "<TIME 00:16:24.142 video 1>",
+            "<TIME 00:16:16.617 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_184": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:07:45.266"
+            }
+        },
+        "question": "After the object <BBOX 765.67976 531.72178 969.86103 816.7250799999999> seen at <TIME 00:07:45.266 video 1> is first moved, from which of the following starting times does the object remain static for more than 884 seconds?",
+        "choices": [
+            "<TIME 00:03:20.542 video 1>",
+            "<TIME 00:10:39.915 video 1>",
+            "<TIME 00:34:59.405 video 1>",
+            "<TIME 00:08:05.417 video 1>",
+            "<TIME 00:12:00.078 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_185": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:14:44.866"
+            }
+        },
+        "question": "After the object <BBOX 832.766 652.253 1042.161 799.07> seen at <TIME 00:14:44.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 53 seconds?",
+        "choices": [
+            "<TIME 00:12:41.330 video 1>",
+            "<TIME 00:00:26.302 video 1>",
+            "<TIME 00:01:24.418 video 1>",
+            "<TIME 00:05:20.618 video 1>",
+            "<TIME 00:13:21.944 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_186": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "id": "P05-20240423-180529",
+                "time": "00:15:10.866"
+            }
+        },
+        "question": "After the object <BBOX 746.11966 736.49231 1010.872 1027.72> seen at <TIME 00:15:10.866 video 1> is first moved, from which of the following starting times does the object remain static for more than 308 seconds?",
+        "choices": [
+            "<TIME 00:03:44.331 video 1>",
+            "<TIME 00:11:59.746 video 1>",
+            "<TIME 00:06:04.142 video 1>",
+            "<TIME 00:03:44.457 video 1>",
+            "<TIME 00:12:47.111 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_187": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-184214"
+            },
+            "image 1": {
+                "id": "P01-20240203-184214",
+                "time": "00:00:26.466"
+            }
+        },
+        "question": "After the object <BBOX 1201.01197 416.38291 1287.65812 592.082> seen at <TIME 00:00:26.466 video 1> is first moved, from which of the following starting times does the object remain static for more than 511 seconds?",
+        "choices": [
+            "<TIME 00:02:33.652 video 1>",
+            "<TIME 00:04:12.221 video 1>",
+            "<TIME 00:00:41.985 video 1>",
+            "<TIME 00:10:33.526 video 1>",
+            "<TIME 00:03:30.547 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_188": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-170021"
+            },
+            "image 1": {
+                "time": "00:17:27.933",
+                "id": "P05-20240423-170021"
+            }
+        },
+        "question": "After the object <BBOX 697.983 705.20342 967.549 871.2750000000001> seen at <TIME 00:17:27.933 video 1> is first moved, from which of the following starting times does the object remain static for more than 166 seconds?",
+        "choices": [
+            "<TIME 00:02:01.282 video 1>",
+            "<TIME 00:14:06.950 video 1>",
+            "<TIME 00:13:28.716 video 1>",
+            "<TIME 00:06:38.677 video 1>",
+            "<TIME 00:14:33.612 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_189": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "image 1": {
+                "id": "P06-20240510-135423",
+                "time": "00:03:53.733"
+            }
+        },
+        "question": "After the object <BBOX 649.84615 685.94872 945.887 837.57949> seen at <TIME 00:03:53.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 41 seconds?",
+        "choices": [
+            "<TIME 00:02:09.784 video 1>",
+            "<TIME 00:03:24.702 video 1>",
+            "<TIME 00:02:46.413 video 1>",
+            "<TIME 00:01:04.228 video 1>",
+            "<TIME 00:03:02.163 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_190": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            },
+            "image 1": {
+                "id": "P02-20240211-175138",
+                "time": "00:24:04.233"
+            }
+        },
+        "question": "After the object <BBOX 767.781 765.374 1157.6889999999999 1227.487> seen at <TIME 00:24:04.233 video 1> is first moved, from which of the following starting times does the object remain static for more than 371 seconds?",
+        "choices": [
+            "<TIME 00:23:10.213 video 1>",
+            "<TIME 00:19:04.150 video 1>",
+            "<TIME 00:20:59.990 video 1>",
+            "<TIME 00:05:45.127 video 1>",
+            "<TIME 00:13:38.205 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_191": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:04:08.733"
+            }
+        },
+        "question": "After the object <BBOX 784.49365 672.058 1047.695 896.92922> seen at <TIME 00:04:08.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 554 seconds?",
+        "choices": [
+            "<TIME 00:12:01.493 video 1>",
+            "<TIME 00:00:19.398 video 1>",
+            "<TIME 00:18:22.075 video 1>",
+            "<TIME 00:03:18.574 video 1>",
+            "<TIME 00:04:25.297 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_192": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:17:42.166"
+            }
+        },
+        "question": "After the object <BBOX 789.443 777.409 1034.94 1025.313> seen at <TIME 00:17:42.166 video 1> is first moved, from which of the following starting times does the object remain static for more than 547 seconds?",
+        "choices": [
+            "<TIME 00:00:34.126 video 1>",
+            "<TIME 00:06:33.971 video 1>",
+            "<TIME 00:15:23.456 video 1>",
+            "<TIME 00:16:08.797 video 1>",
+            "<TIME 00:14:20.443 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_stationary_object_localization_193": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            },
+            "image 1": {
+                "id": "P09-20240623-120359",
+                "time": "00:04:03.266"
+            }
+        },
+        "question": "After the object <BBOX 955.51453 570.42051 1164.909 772.595> seen at <TIME 00:04:03.266 video 1> is first moved, from which of the following starting times does the object remain static for more than 32 seconds?",
+        "choices": [
+            "<TIME 00:01:34.182 video 1>",
+            "<TIME 00:03:53.642 video 1>",
+            "<TIME 00:04:03.968 video 1>",
+            "<TIME 00:04:38.154 video 1>",
+            "<TIME 00:03:53.367 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_194": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-091657"
+            },
+            "image 1": {
+                "id": "P03-20240217-091657",
+                "time": "00:13:30.799"
+            }
+        },
+        "question": "After the object <BBOX 876.089 871.275 1003.6510000000001 1008.4649999999999> seen at <TIME 00:13:30.799 video 1> is first moved, from which of the following starting times does the object remain static for more than 183 seconds?",
+        "choices": [
+            "<TIME 00:10:22.232 video 1>",
+            "<TIME 00:00:34.048 video 1>",
+            "<TIME 00:01:03.175 video 1>",
+            "<TIME 00:11:52.459 video 1>",
+            "<TIME 00:09:51.356 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_195": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            },
+            "image 1": {
+                "id": "P09-20240623-120359",
+                "time": "00:09:58.700"
+            }
+        },
+        "question": "After the object <BBOX 618.55726 647.43932 912.19145 746.11966> seen at <TIME 00:09:58.700 video 1> is first moved, from which of the following starting times does the object remain static for more than 294 seconds?",
+        "choices": [
+            "<TIME 00:03:41.274 video 1>",
+            "<TIME 00:11:22.233 video 1>",
+            "<TIME 00:14:07.436 video 1>",
+            "<TIME 00:10:41.122 video 1>",
+            "<TIME 00:02:12.006 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_stationary_object_localization_196": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            },
+            "image 1": {
+                "time": "00:09:45.700",
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "After the object <BBOX 1127.511 874.793 1199.716 1113.625> seen at <TIME 00:09:45.700 video 1> is first moved, from which of the following starting times does the object remain static for more than 208 seconds?",
+        "choices": [
+            "<TIME 00:05:50.351 video 1>",
+            "<TIME 00:08:29.374 video 1>",
+            "<TIME 00:12:34.994 video 1>",
+            "<TIME 00:16:38.069 video 1>",
+            "<TIME 00:04:29.933 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_stationary_object_localization_197": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-194141"
+            },
+            "image 1": {
+                "id": "P02-20240209-194141",
+                "time": "00:11:38.733"
+            }
+        },
+        "question": "After the object <BBOX 695.57607 64.98462 1099.92479 584.8620000000001> seen at <TIME 00:11:38.733 video 1> is first moved, from which of the following starting times does the object remain static for more than 17 seconds?",
+        "choices": [
+            "<TIME 00:10:25.129 video 1>",
+            "<TIME 00:03:08.047 video 1>",
+            "<TIME 00:03:42.932 video 1>",
+            "<TIME 00:06:46.357 video 1>",
+            "<TIME 00:11:42.786 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_stationary_object_localization_198": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            },
+            "image 1": {
+                "id": "P06-20240510-090328",
+                "time": "00:14:34.666"
+            }
+        },
+        "question": "After the object <BBOX 1059.00855 1099.92479 1191.38462 1198.60513> seen at <TIME 00:14:34.666 video 1> is first moved, from which of the following starting times does the object remain static for more than 554 seconds?",
+        "choices": [
+            "<TIME 00:18:17.026 video 1>",
+            "<TIME 00:21:34.105 video 1>",
+            "<TIME 00:10:33.792 video 1>",
+            "<TIME 00:06:03.594 video 1>",
+            "<TIME 00:10:40.667 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_stationary_object_localization_199": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-202148"
+            },
+            "image 1": {
+                "id": "P03-20240218-202148",
+                "time": "00:05:23.633"
+            }
+        },
+        "question": "After the object <BBOX 743.58233 831.22892 992.386 918.876> seen at <TIME 00:05:23.633 video 1> is first moved, from which of the following starting times does the object remain static for more than 67 seconds?",
+        "choices": [
+            "<TIME 00:00:23.649 video 1>",
+            "<TIME 00:03:17.698 video 1>",
+            "<TIME 00:00:09.980 video 1>",
+            "<TIME 00:04:59.297 video 1>",
+            "<TIME 00:01:51.741 video 1>"
+        ],
+        "correct_idx": 1
+    }
+}

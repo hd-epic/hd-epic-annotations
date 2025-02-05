@@ -1,0 +1,802 @@
+{
+    "recipe_multi_step_localization_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Chopped Salad and Bread recipe steps: \"Toss to combine, then pour the dressing on top and toss once more until the salad ingredients are fully coated in the dressing\", \"To make this salad, start by preparing the dressing. Whisk the dressing ingredients together, in a small bowl, until they're fully combined. Taste and add additional seasonings, if desired\", \"Slice piece of sourdough bread and place on side of bowl\"?",
+        "choices": [
+            "<TIME 00:13:23.639 video 1> to <TIME 00:13:48.475 video 1>, <TIME 00:01:26.709 video 1> to <TIME 00:01:37.709 video 1>, <TIME 00:15:18.443 video 1> to <TIME 00:15:23.959 video 1>",
+            "<TIME 00:04:39.490 video 1> to <TIME 00:04:47.350 video 1>, <TIME 00:00:16.850 video 1> to <TIME 00:00:32.475 video 1>, <TIME 00:16:43.578 video 1> to <TIME 00:16:46.044 video 1>",
+            "<TIME 00:06:32.599 video 1> to <TIME 00:06:40.631 video 1>, <TIME 00:07:30.225 video 1> to <TIME 00:07:34.506 video 1>, <TIME 00:05:17.546 video 1> to <TIME 00:06:06.412 video 1>",
+            "<TIME 00:01:51.974 video 1> to <TIME 00:01:56.303 video 1>, <TIME 00:09:55.489 video 1> to <TIME 00:10:08.193 video 1>, <TIME 00:09:22.571 video 1> to <TIME 00:09:23.928 video 1>",
+            "<TIME 00:07:00.418 video 1> to <TIME 00:07:01.975 video 1>, <TIME 00:03:51.661 video 1> to <TIME 00:03:54.521 video 1>, <TIME 00:08:35.068 video 1> to <TIME 00:08:46.912 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_step_localization_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Southwestern Salad recipe steps: \"Check the sweet potatoes and roast for another 10-15 minutes\", \"Add the sweet potatoes\", \"Remove the sweet potatoes from the oven\"?",
+        "choices": [
+            "<TIME 00:14:24.882 video 1> to <TIME 00:14:27.078 video 1>, <TIME 00:23:11.811 video 1> to <TIME 00:23:17.489 video 1>, <TIME 00:20:50.477 video 1> to <TIME 00:21:04.382 video 1>",
+            "<TIME 00:12:22.000 video 1> to <TIME 00:12:33.990 video 1>, <TIME 00:19:32.974 video 1> to <TIME 00:19:34.757 video 1>, <TIME 00:14:15.000 video 1> to <TIME 00:14:18.990 video 1>",
+            "<TIME 00:15:38.473 video 1> to <TIME 00:16:20.390 video 1>, <TIME 00:05:11.483 video 1> to <TIME 00:05:16.971 video 1>, <TIME 00:07:34.953 video 1> to <TIME 00:08:26.453 video 1>",
+            "<TIME 00:13:11.025 video 1> to <TIME 00:14:08.103 video 1>, <TIME 00:12:05.000 video 1> to <TIME 00:12:09.990 video 1>, <TIME 00:21:32.073 video 1> to <TIME 00:21:41.954 video 1>",
+            "<TIME 00:07:12.940 video 1> to <TIME 00:07:15.042 video 1>, <TIME 00:17:55.535 video 1> to <TIME 00:17:57.399 video 1>, <TIME 00:06:55.643 video 1> to <TIME 00:07:12.973 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_step_localization_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Crispy Cucumber Salad recipe steps: \"Salt 30 minutes - Put them in a bowl then toss with salt. Leave for 30 minutes. The salt will draw out water from the cucumbers which dilutes flavour when you eat them. It also seasons the cucumbers all the way though\", \"Add 2 teaspoons of chilli crisp - or more if you dare! You want to get a mound of the crispy chilli - it will be well soaked with the red chilli oil that colours this salad. You can always add more after you toss. Taste and add, taste and add!\", \"Whisk the soy sauce and sesame oil in a bowl until it combines properly. You'll know because it becomes murky and thicker, rather than clear and split\"?",
+        "choices": [
+            "<TIME 00:09:01.660 video 1> to <TIME 00:09:06.542 video 1>, <TIME 00:04:27.370 video 1> to <TIME 00:04:28.185 video 1>, <TIME 00:00:57.750 video 1> to <TIME 00:00:58.364 video 1>",
+            "<TIME 00:05:26.263 video 1> to <TIME 00:05:31.471 video 1>, <TIME 00:12:28.810 video 1> to <TIME 00:12:46.846 video 1>, <TIME 00:10:44.697 video 1> to <TIME 00:10:57.024 video 1>",
+            "<TIME 00:03:41.576 video 1> to <TIME 00:03:42.132 video 1>, <TIME 00:03:42.504 video 1> to <TIME 00:04:21.614 video 1>, <TIME 00:09:22.509 video 1> to <TIME 00:09:30.739 video 1>",
+            "<TIME 00:02:52.296 video 1> to <TIME 00:03:38.864 video 1>, <TIME 00:08:46.645 video 1> to <TIME 00:08:50.382 video 1>, <TIME 00:00:09.389 video 1> to <TIME 00:00:13.614 video 1>",
+            "<TIME 00:14:18.489 video 1> to <TIME 00:14:22.078 video 1>, <TIME 00:12:04.625 video 1> to <TIME 00:12:11.239 video 1>, <TIME 00:08:52.111 video 1> to <TIME 00:08:57.382 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_step_localization_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Peas Pulao recipe steps: \"Add the chilli, garlic and ginger into a kitchen mortar and crush them together into a paste using a pestle\", \"Cover the pressure cooker and place the whistle. Pressure cook for 2 whistles on a medium high flame. Turn off and remove from the stove. Leaving it on the hot burner will further cook the rice\", \"Pour 5 tbsp of olive oil, and 1 tbsp of ghee into to a pressure cooker placed on medium heat. When the oil/ghee mixture becomes hot, add the spices (bay leaf, cardamom, cloves, anise flower etc) and cashew nuts to it and saute for a few minutes allowing them to fry. Once the cashews turn slightly golden brown, add chopped onions and fry it for a while. Then add the spice paste from the mortar into the cooker and saute the mixture\"?",
+        "choices": [
+            "<TIME 00:02:42.083 video 1> to <TIME 00:03:40.274 video 1>, <TIME 00:23:06.239 video 1> to <TIME 00:23:11.810 video 1>, <TIME 00:14:34.401 video 1> to <TIME 00:15:42.792 video 1>",
+            "<TIME 00:16:59.033 video 1> to <TIME 00:17:03.374 video 1>, <TIME 00:18:54.114 video 1> to <TIME 00:19:09.185 video 1>, <TIME 00:18:08.915 video 1> to <TIME 00:18:10.685 video 1>",
+            "<TIME 00:22:11.742 video 1> to <TIME 00:22:15.774 video 1>, <TIME 00:22:18.846 video 1> to <TIME 00:22:58.060 video 1>, <TIME 00:20:17.986 video 1> to <TIME 00:20:26.292 video 1>",
+            "<TIME 00:08:20.347 video 1> to <TIME 00:08:29.007 video 1>, <TIME 00:18:49.148 video 1> to <TIME 00:18:52.739 video 1>, <TIME 00:21:29.948 video 1> to <TIME 00:21:45.614 video 1>",
+            "<TIME 00:20:31.473 video 1> to <TIME 00:20:39.971 video 1>, <TIME 00:19:26.812 video 1> to <TIME 00:19:28.399 video 1>, <TIME 00:04:51.274 video 1> to <TIME 00:05:25.774 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_step_localization_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Sfesiha (Lebanese Meat Pies) recipe steps: \"Leave the stuffing to cool, then add a spoonful of yoghurt and another spoonful of tahini and a generous amount of sumac\", \"STUFFING. Start preparing the meat stuffing. Sweat one chopped onion in a pot, for a few minutes and then add minced garlic, then place the meat in the pot and on high heat while continuing stirring let the meat cook until the red color turns into more brownish, the idea here is not to fully cook the meat, but perhaps to get all the water out, this will help to get rid of all the water residue that comes out of the meat so it can help the meat stick to the dough while baking\", \"In a large bowl mix together flour, salt and then add oil. In a separate cup mix yeast with sugar in warm water. Pour over everything else and start kneading until the mix gets doughy and easy to work with. Using your hands rub the bowl with some oil and also rub some on the dough itself while keeping it as a big round shape then cover the bowl with plastic wrapping and a blanket and let it rest for about an hour\"?",
+        "choices": [
+            "<TIME 00:21:58.578 video 1> to <TIME 00:22:27.184 video 1>, <TIME 00:22:53.992 video 1> to <TIME 00:23:35.630 video 1>, <TIME 00:19:43.467 video 1> to <TIME 00:19:45.245 video 1>",
+            "<TIME 00:13:48.005 video 1> to <TIME 00:14:31.603 video 1>, <TIME 00:07:12.572 video 1> to <TIME 00:07:28.067 video 1>, <TIME 00:21:18.569 video 1> to <TIME 00:21:25.214 video 1>",
+            "<TIME 00:02:04.996 video 1> to <TIME 00:02:20.692 video 1>, <TIME 00:10:33.808 video 1> to <TIME 00:11:06.100 video 1>, <TIME 00:21:57.415 video 1> to <TIME 00:21:58.415 video 1>",
+            "<TIME 00:06:34.480 video 1> to <TIME 00:06:36.907 video 1>, <TIME 00:36:56.058 video 1> to <TIME 00:37:15.165 video 1>, <TIME 00:10:15.667 video 1> to <TIME 00:10:21.014 video 1>",
+            "<TIME 00:38:00.129 video 1> to <TIME 00:40:14.218 video 1>, <TIME 00:14:35.175 video 1> to <TIME 00:14:48.639 video 1>, <TIME 00:19:40.151 video 1> to <TIME 00:19:43.517 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_step_localization_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Pizza Dough recipe steps: \"Once the ingredients are roughly mixed, transfer the mixture onto the kitchen top and knead the dough by hand. This is done by rolling the dough on itself several times. Once the dough starts tearing, flatten the dough and fold the 4 edges to form a ball. Let the ball rest for a few minutes between repetitions\", \"Repeat the previous step several times until the dough is uniform and no longer sticks to the hands\", \"Mix the flour with yeast, salt and water in a large bowl using a wooden spoon\"?",
+        "choices": [
+            "<TIME 00:51:29.844 video 1> to <TIME 00:51:32.816 video 1>, <TIME 00:49:56.788 video 1> to <TIME 00:51:07.233 video 1>, <TIME 00:24:03.845 video 1> to <TIME 00:24:55.703 video 1>",
+            "<TIME 00:51:50.668 video 1> to <TIME 00:51:58.614 video 1>, <TIME 01:01:47.033 video 1> to <TIME 01:02:19.066 video 1>, <TIME 00:25:49.076 video 1> to <TIME 00:25:56.935 video 1>",
+            "<TIME 00:26:20.033 video 1> to <TIME 00:27:00.238 video 1>, <TIME 00:30:29.286 video 1> to <TIME 00:30:56.733 video 1>, <TIME 00:45:58.227 video 1> to <TIME 00:46:18.871 video 1>",
+            "<TIME 00:51:12.232 video 1> to <TIME 00:51:26.344 video 1>, <TIME 00:54:56.887 video 1> to <TIME 00:54:59.274 video 1>, <TIME 00:29:03.925 video 1> to <TIME 00:29:32.649 video 1>",
+            "<TIME 00:39:16.298 video 1> to <TIME 00:42:54.310 video 1>, <TIME 01:11:53.683 video 1> to <TIME 01:12:27.649 video 1>, <TIME 00:36:59.078 video 1> to <TIME 00:37:44.042 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_step_localization_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Carbonara with Side Salad recipe steps: \"Pour the Parmesan eggs into the pan, and keep everything moving, loosening with splashes of the pasta cooking water until you have a silky sauce. Make sure the pan isn't too hot otherwise the eggs will scramble\", \"Mix salad ingredients with oil and vinegar\", \"Meanwhile, beat the eggs in a bowl, then finely grate in the Parmesan and mix well\"?",
+        "choices": [
+            "<TIME 00:05:06.323 video 1> to <TIME 00:05:12.586 video 1>, <TIME 00:03:06.800 video 1> to <TIME 00:03:33.504 video 1>, <TIME 00:01:37.853 video 1> to <TIME 00:01:39.488 video 1>",
+            "<TIME 00:08:25.882 video 1> to <TIME 00:09:11.586 video 1>, <TIME 00:04:43.488 video 1> to <TIME 00:04:59.718 video 1>, <TIME 00:00:53.637 video 1> to <TIME 00:01:06.067 video 1>",
+            "<TIME 00:09:17.713 video 1> to <TIME 00:09:31.832 video 1>, <TIME 00:01:51.613 video 1> to <TIME 00:02:11.636 video 1>, <TIME 00:06:03.897 video 1> to <TIME 00:07:00.898 video 1>",
+            "<TIME 00:03:37.718 video 1> to <TIME 00:03:43.586 video 1>, <TIME 00:03:49.701 video 1> to <TIME 00:03:52.209 video 1>, <TIME 00:01:29.780 video 1> to <TIME 00:01:33.783 video 1>",
+            "<TIME 00:04:40.013 video 1> to <TIME 00:04:43.488 video 1>, <TIME 00:10:24.410 video 1> to <TIME 00:10:42.086 video 1>, <TIME 00:09:31.832 video 1> to <TIME 00:10:03.924 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_step_localization_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Carbonara with Side Salad recipe steps: \"Meanwhile, beat the eggs in a bowl, then finely grate in the Parmesan and mix well\", \"Slice the bacon and place in a non-stick frying pan on a medium heat with half a tablespoon of olive oil and a really good pinch of black pepper. Leave it to get super-golden and crispy, tossing occasionally, then add the peas\", \"Cook the pasta in a pan of boiling salted water according to the packet instructions\"?",
+        "choices": [
+            "<TIME 00:07:41.660 video 1> to <TIME 00:07:43.657 video 1>, <TIME 00:10:16.182 video 1> to <TIME 00:10:19.236 video 1>, <TIME 00:03:17.700 video 1> to <TIME 00:03:29.094 video 1>",
+            "<TIME 00:08:39.140 video 1> to <TIME 00:08:46.244 video 1>, <TIME 00:14:16.132 video 1> to <TIME 00:14:18.629 video 1>, <TIME 00:15:37.951 video 1> to <TIME 00:15:41.891 video 1>",
+            "<TIME 00:08:46.244 video 1> to <TIME 00:09:25.974 video 1>, <TIME 00:05:43.954 video 1> to <TIME 00:06:33.292 video 1>, <TIME 00:10:01.679 video 1> to <TIME 00:10:13.121 video 1>",
+            "<TIME 00:02:53.112 video 1> to <TIME 00:03:07.621 video 1>, <TIME 00:04:36.452 video 1> to <TIME 00:05:19.196 video 1>, <TIME 00:07:02.458 video 1> to <TIME 00:07:08.085 video 1>",
+            "<TIME 00:07:11.206 video 1> to <TIME 00:07:14.069 video 1>, <TIME 00:03:39.271 video 1> to <TIME 00:03:47.091 video 1>, <TIME 00:04:27.455 video 1> to <TIME 00:04:32.434 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_step_localization_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-173337"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Masala Dosa recipe steps: \"Gently stir until completely blended and set aside for a few minutes\", \"Pour sufficient dosa batter on the hot pan and then spread the batter evenly in an outward spiral motion using a dosa ladle. Coat the sides of the dosa with oil and ghee while cooking\", \"Take a flat non-stick pan, grease it with oil and place on high heat\"?",
+        "choices": [
+            "<TIME 00:08:06.815 video 1> to <TIME 00:08:10.257 video 1>, <TIME 00:12:50.520 video 1> to <TIME 00:13:00.757 video 1>, <TIME 00:07:41.574 video 1> to <TIME 00:07:47.435 video 1>",
+            "<TIME 00:11:15.033 video 1> to <TIME 00:11:31.516 video 1>, <TIME 00:08:57.324 video 1> to <TIME 00:09:04.328 video 1>, <TIME 00:09:19.691 video 1> to <TIME 00:09:26.239 video 1>",
+            "<TIME 00:04:20.638 video 1> to <TIME 00:04:32.540 video 1>, <TIME 00:08:10.087 video 1> to <TIME 00:08:25.114 video 1>, <TIME 00:12:26.524 video 1> to <TIME 00:12:48.399 video 1>",
+            "<TIME 00:11:37.494 video 1> to <TIME 00:11:52.578 video 1>, <TIME 00:13:51.404 video 1> to <TIME 00:14:00.733 video 1>, <TIME 00:14:01.025 video 1> to <TIME 00:15:00.767 video 1>",
+            "<TIME 00:13:29.185 video 1> to <TIME 00:13:30.774 video 1>, <TIME 00:04:16.927 video 1> to <TIME 00:04:19.287 video 1>, <TIME 00:09:33.685 video 1> to <TIME 00:11:15.633 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_step_localization_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Scrambled Eggs recipe steps: \"Add chopped red onions and finger chillies to a pan and saute until soft\", \"Continue cooking over medium-low heat, folding and stirring the eggs every few seconds. Scrape the spatula along the bottom and sides of the pan often to form more curds and to prevent any part of the eggs from drying out\", \"Spray olive oil in a small nonstick skillet. Bring to medium heat\"?",
+        "choices": [
+            "<TIME 00:04:34.684 video 1> to <TIME 00:04:36.334 video 1>, <TIME 00:05:14.072 video 1> to <TIME 00:05:24.607 video 1>, <TIME 00:13:39.723 video 1> to <TIME 00:13:52.484 video 1>",
+            "<TIME 00:08:33.000 video 1> to <TIME 00:09:45.990 video 1>, <TIME 00:12:00.604 video 1> to <TIME 00:12:33.284 video 1>, <TIME 00:04:28.659 video 1> to <TIME 00:04:34.203 video 1>",
+            "<TIME 00:11:43.084 video 1> to <TIME 00:12:00.634 video 1>, <TIME 00:03:18.000 video 1> to <TIME 00:03:26.990 video 1>, <TIME 00:11:37.580 video 1> to <TIME 00:11:43.084 video 1>",
+            "<TIME 00:07:22.484 video 1> to <TIME 00:07:26.159 video 1>, <TIME 00:08:53.234 video 1> to <TIME 00:09:13.034 video 1>, <TIME 00:07:26.159 video 1> to <TIME 00:07:41.759 video 1>",
+            "<TIME 00:05:34.000 video 1> to <TIME 00:05:39.990 video 1>, <TIME 00:09:24.884 video 1> to <TIME 00:09:31.192 video 1>, <TIME 00:09:46.384 video 1> to <TIME 00:09:47.734 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_step_localization_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Tuna Pasta Salad recipe steps: \"Add the tuna, coriander, beans, spinach, bell peppers, carrots, celery, onion, cherry tomatoes, cucumbers, and spinach. At this point, you can cover the bowl and refrigerate it until you're ready to serve, up to 6 hours\", \"Cook the pasta according to the package directions. Drain and rinse in warm water, then transfer to a large bowl. Season with salt and pepper and let cool\", \"Pour the dressing over the top of the salad and toss everything together to coat. Season with salt and pepper to taste. Give the salad a taste - if you think it could use a splash more oil or vinegar, then go for it! Serve the pasta salad immediately, or let it sit at room temperature for up to 2 hours\"?",
+        "choices": [
+            "<TIME 00:03:11.203 video 1> to <TIME 00:03:22.263 video 1>, <TIME 00:14:29.024 video 1> to <TIME 00:14:29.884 video 1>, <TIME 00:11:39.859 video 1> to <TIME 00:11:45.185 video 1>",
+            "<TIME 00:31:15.628 video 1> to <TIME 00:31:16.383 video 1>, <TIME 00:21:14.825 video 1> to <TIME 00:21:30.531 video 1>, <TIME 00:07:09.627 video 1> to <TIME 00:07:29.490 video 1>",
+            "<TIME 00:08:24.672 video 1> to <TIME 00:08:47.445 video 1>, <TIME 00:10:31.069 video 1> to <TIME 00:10:36.812 video 1>, <TIME 00:00:53.864 video 1> to <TIME 00:01:01.748 video 1>",
+            "<TIME 00:17:51.170 video 1> to <TIME 00:17:58.859 video 1>, <TIME 00:01:26.233 video 1> to <TIME 00:01:50.097 video 1>, <TIME 00:30:02.870 video 1> to <TIME 00:30:32.055 video 1>",
+            "<TIME 00:05:17.187 video 1> to <TIME 00:05:19.521 video 1>, <TIME 00:07:46.127 video 1> to <TIME 00:07:48.339 video 1>, <TIME 00:03:49.263 video 1> to <TIME 00:04:02.157 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Pizza with Aubergine and Egg recipe steps: \"When the aubergine is ready, move it to a plate with kitchen towel to absorb the oil\", \"Wash the aubergine and chop it in 2cm cubes\", \"Peel the egg and slice it in 4 slices\"?",
+        "choices": [
+            "<TIME 00:32:52.218 video 1> to <TIME 00:33:20.780 video 1>, <TIME 00:18:08.812 video 1> to <TIME 00:18:27.239 video 1>, <TIME 00:44:07.453 video 1> to <TIME 00:44:24.774 video 1>",
+            "<TIME 00:43:45.007 video 1> to <TIME 00:44:01.971 video 1>, <TIME 00:06:26.033 video 1> to <TIME 00:06:26.824 video 1>, <TIME 00:41:52.000 video 1> to <TIME 00:42:00.990 video 1>",
+            "<TIME 00:35:14.025 video 1> to <TIME 00:35:23.846 video 1>, <TIME 00:16:26.066 video 1> to <TIME 00:16:30.167 video 1>, <TIME 00:16:38.097 video 1> to <TIME 00:16:53.953 video 1>",
+            "<TIME 00:31:31.713 video 1> to <TIME 00:31:52.060 video 1>, <TIME 00:05:47.231 video 1> to <TIME 00:06:08.578 video 1>, <TIME 00:23:17.416 video 1> to <TIME 00:23:19.024 video 1>",
+            "<TIME 00:15:51.334 video 1> to <TIME 00:16:12.810 video 1>, <TIME 00:03:23.910 video 1> to <TIME 00:04:29.114 video 1>, <TIME 00:26:06.667 video 1> to <TIME 00:27:35.567 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_step_localization_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Pesto recipe steps: \"Drizzle in some oil - you need just enough to bind the sauce and get it to an oozy consistency\", \"Combine the salad ingredients in a bowl with the oil and vinegar\", \"Put a large pan of salted water on to boil, and add the pasta\"?",
+        "choices": [
+            "<TIME 00:15:51.040 video 1> to <TIME 00:15:57.023 video 1>, <TIME 00:14:29.823 video 1> to <TIME 00:14:33.590 video 1>, <TIME 00:01:05.642 video 1> to <TIME 00:01:17.989 video 1>",
+            "<TIME 00:02:14.684 video 1> to <TIME 00:02:22.142 video 1>, <TIME 00:17:33.739 video 1> to <TIME 00:17:37.236 video 1>, <TIME 00:17:42.313 video 1> to <TIME 00:17:44.636 video 1>",
+            "<TIME 00:16:43.129 video 1> to <TIME 00:17:11.190 video 1>, <TIME 00:18:45.114 video 1> to <TIME 00:18:50.944 video 1>, <TIME 00:09:02.549 video 1> to <TIME 00:09:14.871 video 1>",
+            "<TIME 00:04:17.272 video 1> to <TIME 00:04:21.074 video 1>, <TIME 00:02:27.006 video 1> to <TIME 00:02:42.633 video 1>, <TIME 00:17:39.345 video 1> to <TIME 00:17:42.313 video 1>",
+            "<TIME 00:08:02.093 video 1> to <TIME 00:08:05.057 video 1>, <TIME 00:06:22.701 video 1> to <TIME 00:06:27.718 video 1>, <TIME 00:10:23.741 video 1> to <TIME 00:10:32.206 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_step_localization_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Dumplings with Soy Sauce and Sesame Oil recipe steps: \"Bring a large saucepan of water to boil\", \"Cut the garlic in large chunks and add them to the sauce\", \"Once the water is boiling, add the dumplings to the pan to cook them. Wait for 5 minutes or until the dumplings float\"?",
+        "choices": [
+            "<TIME 00:06:56.148 video 1> to <TIME 00:06:59.364 video 1>, <TIME 00:08:17.425 video 1> to <TIME 00:08:26.793 video 1>, <TIME 00:02:43.766 video 1> to <TIME 00:03:05.364 video 1>",
+            "<TIME 00:08:30.355 video 1> to <TIME 00:08:35.274 video 1>, <TIME 00:07:27.388 video 1> to <TIME 00:07:29.310 video 1>, <TIME 00:03:22.364 video 1> to <TIME 00:03:24.400 video 1>",
+            "<TIME 00:07:06.989 video 1> to <TIME 00:07:13.150 video 1>, <TIME 00:07:51.321 video 1> to <TIME 00:07:56.274 video 1>, <TIME 00:07:44.861 video 1> to <TIME 00:07:47.542 video 1>",
+            "<TIME 00:03:24.755 video 1> to <TIME 00:03:43.757 video 1>, <TIME 00:08:35.622 video 1> to <TIME 00:09:24.167 video 1>, <TIME 00:10:46.035 video 1> to <TIME 00:11:09.703 video 1>",
+            "<TIME 00:07:44.861 video 1> to <TIME 00:08:09.274 video 1>, <TIME 00:07:56.274 video 1> to <TIME 00:08:09.274 video 1>, <TIME 00:03:12.310 video 1> to <TIME 00:03:16.185 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Cappuccino recipe steps: \"Fill a cup with whole milk and heat it in the microwave for 3-4 minutes. Stir the heated milk with a milk frother to make the cappuccino frothier\", \"Pour the heated milk in the golden-brown paste and stir it well until all ingredients are uniformly mixed. Heat the cappuccino again in microwave for 30 seconds and it is ready to drink\", \"Take another empty cup and put 2 teaspoons of sugar and coffee in the cup. Add 2 teaspoons of water and slowly add more until the ingredients are just wet so that you can beat the mixture\"?",
+        "choices": [
+            "<TIME 00:04:17.661 video 1> to <TIME 00:04:25.171 video 1>, <TIME 00:03:16.168 video 1> to <TIME 00:03:30.514 video 1>, <TIME 00:03:08.476 video 1> to <TIME 00:03:15.476 video 1>",
+            "<TIME 00:00:31.703 video 1> to <TIME 00:00:45.952 video 1>, <TIME 00:07:12.987 video 1> to <TIME 00:07:15.067 video 1>, <TIME 00:08:24.071 video 1> to <TIME 00:08:28.681 video 1>",
+            "<TIME 00:00:04.774 video 1> to <TIME 00:00:10.474 video 1>, <TIME 00:03:33.245 video 1> to <TIME 00:03:37.014 video 1>, <TIME 00:07:15.033 video 1> to <TIME 00:07:24.716 video 1>",
+            "<TIME 00:03:51.935 video 1> to <TIME 00:03:55.239 video 1>, <TIME 00:00:59.161 video 1> to <TIME 00:01:07.461 video 1>, <TIME 00:02:48.721 video 1> to <TIME 00:02:57.098 video 1>",
+            "<TIME 00:09:40.033 video 1> to <TIME 00:09:53.157 video 1>, <TIME 00:10:02.926 video 1> to <TIME 00:10:42.355 video 1>, <TIME 00:04:48.518 video 1> to <TIME 00:05:58.865 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_step_localization_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Red Lentils Squash Curry recipe steps: \"Add the coconut milk and the ginger lentil stock pot along with 100ml of water and bring to the boil\", \"Add the spicy garlic & coconut paste to the pan and mix well\", \"Stir in the spring greens and then put the lid back on and cook for 5 more mins\"?",
+        "choices": [
+            "<TIME 00:33:00.550 video 1> to <TIME 00:33:29.919 video 1>, <TIME 00:26:00.358 video 1> to <TIME 00:26:02.006 video 1>, <TIME 00:31:44.746 video 1> to <TIME 00:31:48.142 video 1>",
+            "<TIME 00:28:56.769 video 1> to <TIME 00:29:29.735 video 1>, <TIME 00:22:17.462 video 1> to <TIME 00:22:23.396 video 1>, <TIME 00:41:01.866 video 1> to <TIME 00:41:14.421 video 1>",
+            "<TIME 00:09:42.536 video 1> to <TIME 00:09:51.133 video 1>, <TIME 00:17:16.134 video 1> to <TIME 00:18:09.549 video 1>, <TIME 00:00:57.823 video 1> to <TIME 00:01:04.866 video 1>",
+            "<TIME 00:33:29.919 video 1> to <TIME 00:33:50.849 video 1>, <TIME 00:29:29.735 video 1> to <TIME 00:30:26.057 video 1>, <TIME 00:48:17.494 video 1> to <TIME 00:48:51.357 video 1>",
+            "<TIME 00:21:28.983 video 1> to <TIME 00:21:54.300 video 1>, <TIME 00:25:35.033 video 1> to <TIME 00:25:54.809 video 1>, <TIME 00:30:35.451 video 1> to <TIME 00:30:38.955 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Thai Red Curry recipe steps: \"Stir and mix and wait until it begins to boil\", \"Add in some Thai basil and turn off the cooker\", \"Add the chicken chunks in (they should have been cooked 80%)\"?",
+        "choices": [
+            "<TIME 00:06:48.033 video 1> to <TIME 00:07:14.077 video 1>, <TIME 00:23:36.033 video 1> to <TIME 00:23:51.855 video 1>, <TIME 00:18:48.933 video 1> to <TIME 00:19:09.822 video 1>",
+            "<TIME 00:20:54.007 video 1> to <TIME 00:21:16.174 video 1>, <TIME 00:36:08.081 video 1> to <TIME 00:36:14.637 video 1>, <TIME 00:16:54.488 video 1> to <TIME 00:17:07.377 video 1>",
+            "<TIME 00:16:46.033 video 1> to <TIME 00:16:47.411 video 1>, <TIME 00:25:33.062 video 1> to <TIME 00:25:47.618 video 1>, <TIME 00:11:23.033 video 1> to <TIME 00:11:29.762 video 1>",
+            "<TIME 00:09:07.033 video 1> to <TIME 00:09:08.781 video 1>, <TIME 00:14:08.240 video 1> to <TIME 00:15:01.544 video 1>, <TIME 00:24:36.655 video 1> to <TIME 00:24:47.248 video 1>",
+            "<TIME 00:29:58.173 video 1> to <TIME 00:30:18.155 video 1>, <TIME 00:15:29.581 video 1> to <TIME 00:15:30.599 video 1>, <TIME 00:26:06.179 video 1> to <TIME 00:26:06.896 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_step_localization_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Bacon and Egg Sandwich recipe steps: \"In another pan, add remaining oil, crack eggs into a measuring jug, add some milk and beat them. Add pepper to taste\", \"Season the eggs with salt and add paprika if desired\", \"Whilst the eggs and bacon continue cooking, shred cheddar cheese into a bowl\"?",
+        "choices": [
+            "<TIME 00:04:43.551 video 1> to <TIME 00:04:45.150 video 1>, <TIME 00:04:11.069 video 1> to <TIME 00:04:11.783 video 1>, <TIME 00:03:41.012 video 1> to <TIME 00:03:57.375 video 1>",
+            "<TIME 00:01:19.806 video 1> to <TIME 00:01:20.990 video 1>, <TIME 00:12:15.018 video 1> to <TIME 00:12:22.031 video 1>, <TIME 00:07:25.098 video 1> to <TIME 00:07:25.879 video 1>",
+            "<TIME 00:09:19.129 video 1> to <TIME 00:09:24.554 video 1>, <TIME 00:04:29.331 video 1> to <TIME 00:04:36.028 video 1>, <TIME 00:06:00.033 video 1> to <TIME 00:06:06.379 video 1>",
+            "<TIME 00:03:57.375 video 1> to <TIME 00:04:08.477 video 1>, <TIME 00:09:24.554 video 1> to <TIME 00:09:44.258 video 1>, <TIME 00:07:26.046 video 1> to <TIME 00:07:52.446 video 1>",
+            "<TIME 00:04:11.783 video 1> to <TIME 00:04:23.681 video 1>, <TIME 00:06:06.496 video 1> to <TIME 00:06:20.203 video 1>, <TIME 00:06:48.033 video 1> to <TIME 00:06:49.336 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Pizza Dough recipe steps: \"Coat a plastic container with a little olive oil and place the dough balls in the container\", \"Split the dough in 2, then flatten and fold each chunk to form a ball\", \"Let the pizza dough mature and rise for 24 hours in the fridge\"?",
+        "choices": [
+            "<TIME 00:10:53.757 video 1> to <TIME 00:11:06.703 video 1>, <TIME 00:10:53.757 video 1> to <TIME 00:13:15.007 video 1>, <TIME 00:01:36.746 video 1> to <TIME 00:11:32.264 video 1>",
+            "<TIME 00:13:21.435 video 1> to <TIME 00:13:44.721 video 1>, <TIME 00:02:09.864 video 1> to <TIME 00:02:14.703 video 1>, <TIME 00:12:20.632 video 1> to <TIME 00:12:22.096 video 1>",
+            "<TIME 00:11:32.264 video 1> to <TIME 00:11:33.185 video 1>, <TIME 00:12:53.525 video 1> to <TIME 00:12:55.203 video 1>, <TIME 00:01:36.746 video 1> to <TIME 00:02:05.578 video 1>",
+            "<TIME 00:12:55.167 video 1> to <TIME 00:12:56.846 video 1>, <TIME 00:11:33.185 video 1> to <TIME 00:12:20.453 video 1>, <TIME 00:13:45.476 video 1> to <TIME 00:13:48.292 video 1>",
+            "<TIME 00:02:05.578 video 1> to <TIME 00:12:53.525 video 1>, <TIME 00:02:14.703 video 1> to <TIME 00:11:06.703 video 1>, <TIME 00:12:57.470 video 1> to <TIME 00:13:15.007 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Mushroom Risotto recipe steps: \"Grate the cheese\", \"Season with salt and pepper and continue to cook, stirring regularly, for 8 mins until the fresh mushrooms have softened\", \"Tip risotto rice into the pan and cook for 1 min. Pour over a glass of white wine and let it bubble to nothing so the alcohol evaporates\"?",
+        "choices": [
+            "<TIME 00:23:03.238 video 1> to <TIME 00:23:27.769 video 1>, <TIME 00:21:29.821 video 1> to <TIME 00:21:46.837 video 1>, <TIME 00:11:29.583 video 1> to <TIME 00:11:34.701 video 1>",
+            "<TIME 00:10:17.837 video 1> to <TIME 00:10:39.108 video 1>, <TIME 00:13:23.560 video 1> to <TIME 00:13:50.633 video 1>, <TIME 00:25:46.616 video 1> to <TIME 00:26:00.820 video 1>",
+            "<TIME 00:01:01.741 video 1> to <TIME 00:01:04.532 video 1>, <TIME 00:21:11.001 video 1> to <TIME 00:21:21.837 video 1>, <TIME 00:00:03.720 video 1> to <TIME 00:00:52.244 video 1>",
+            "<TIME 00:11:34.701 video 1> to <TIME 00:13:22.210 video 1>, <TIME 00:01:26.865 video 1> to <TIME 00:01:56.981 video 1>, <TIME 00:03:32.726 video 1> to <TIME 00:05:59.922 video 1>",
+            "<TIME 00:10:15.413 video 1> to <TIME 00:10:17.837 video 1>, <TIME 00:24:12.659 video 1> to <TIME 00:24:20.328 video 1>, <TIME 00:28:01.846 video 1> to <TIME 00:28:15.379 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Mushroom, Tomato, Sweetcorn and Onion Saute recipe steps: \"Add more oil if necessary and add mushrooms. Do not raise heat. Cook an additional 5minutes\", \"Preheat the pan over medium low heat then add 2 tablespoons olive oil\", \"Add the tomato puree and cook out for 5 minutes\"?",
+        "choices": [
+            "<TIME 00:20:28.000 video 1> to <TIME 00:20:37.990 video 1>, <TIME 00:25:51.853 video 1> to <TIME 00:26:01.589 video 1>, <TIME 00:24:43.062 video 1> to <TIME 00:25:12.186 video 1>",
+            "<TIME 00:07:48.940 video 1> to <TIME 00:07:50.033 video 1>, <TIME 00:01:21.736 video 1> to <TIME 00:07:22.394 video 1>, <TIME 00:13:49.727 video 1> to <TIME 00:13:54.686 video 1>",
+            "<TIME 00:25:14.000 video 1> to <TIME 00:25:27.990 video 1>, <TIME 00:00:25.734 video 1> to <TIME 00:00:28.667 video 1>, <TIME 00:08:56.174 video 1> to <TIME 00:08:57.436 video 1>",
+            "<TIME 00:27:56.000 video 1> to <TIME 00:27:58.990 video 1>, <TIME 00:22:36.436 video 1> to <TIME 00:23:01.825 video 1>, <TIME 00:23:13.240 video 1> to <TIME 00:23:18.436 video 1>",
+            "<TIME 00:19:16.445 video 1> to <TIME 00:19:37.436 video 1>, <TIME 00:07:50.033 video 1> to <TIME 00:07:52.158 video 1>, <TIME 00:18:44.665 video 1> to <TIME 00:18:49.533 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_step_localization_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-115307"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Dal Makhani with Rice recipe steps: \"Add chopped onions to the pan. Cook the onion for around 6 to 7 minutes or until it turns light golden brown. Keep stirring it continuously so that it doesn't burn and keep heat on medium. Add chopped tomato to the pan and saute them with onions\", \"Let the pressure release naturally. The dal and rajma should be completely cooked, and you should be able to mash them with your fingers. If using the Instant pot, pressure cook the lentils on high pressure for 30 minutes with natural pressure release\", \"Add turmeric powder, coriander powder, garam masala powder, red chilli powder, and salt to the mixture and saute the mixture uniformly. Cook for 2 minutes or until the puree mixes well with masala and oil starts oozing out from the sides\"?",
+        "choices": [
+            "<TIME 00:01:15.416 video 1> to <TIME 00:01:31.537 video 1>, <TIME 00:09:19.439 video 1> to <TIME 00:09:24.007 video 1>, <TIME 00:16:28.388 video 1> to <TIME 00:16:33.651 video 1>",
+            "<TIME 00:08:43.901 video 1> to <TIME 00:08:48.654 video 1>, <TIME 00:09:17.802 video 1> to <TIME 00:09:19.439 video 1>, <TIME 00:11:07.164 video 1> to <TIME 00:11:27.140 video 1>",
+            "<TIME 00:14:14.809 video 1> to <TIME 00:14:55.398 video 1>, <TIME 00:11:27.004 video 1> to <TIME 00:11:38.610 video 1>, <TIME 00:17:26.704 video 1> to <TIME 00:17:57.599 video 1>",
+            "<TIME 00:00:54.033 video 1> to <TIME 00:00:57.038 video 1>, <TIME 00:15:47.230 video 1> to <TIME 00:15:54.020 video 1>, <TIME 00:11:40.198 video 1> to <TIME 00:11:54.140 video 1>",
+            "<TIME 00:00:35.743 video 1> to <TIME 00:00:46.145 video 1>, <TIME 00:09:26.927 video 1> to <TIME 00:09:34.367 video 1>, <TIME 00:02:11.151 video 1> to <TIME 00:02:35.596 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_step_localization_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-150155"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Chicken Cheese Balls recipe steps: \"In separate pots, boil the chicken and potatoes until cooked through\", \"Once boiled, shred the chicken\", \"Dredge each Chicken-cheese ball into flour, then dip into egg and roll in the breadcrumbs, ensuring the entire surface of the chicken ball is covered in breadcrumbs\"?",
+        "choices": [
+            "<TIME 00:05:42.497 video 1> to <TIME 00:05:46.136 video 1>, <TIME 00:15:35.557 video 1> to <TIME 00:15:44.029 video 1>, <TIME 00:12:56.379 video 1> to <TIME 00:13:12.067 video 1>",
+            "<TIME 00:40:36.250 video 1> to <TIME 00:40:43.757 video 1>, <TIME 00:12:54.742 video 1> to <TIME 00:12:55.033 video 1>, <TIME 00:32:50.359 video 1> to <TIME 00:32:53.229 video 1>",
+            "<TIME 00:03:00.599 video 1> to <TIME 00:03:01.978 video 1>, <TIME 00:05:11.033 video 1> to <TIME 00:05:13.537 video 1>, <TIME 00:32:40.033 video 1> to <TIME 00:32:48.618 video 1>",
+            "<TIME 00:22:15.998 video 1> to <TIME 00:22:44.224 video 1>, <TIME 00:26:05.752 video 1> to <TIME 00:28:54.867 video 1>, <TIME 00:37:19.988 video 1> to <TIME 00:37:52.738 video 1>",
+            "<TIME 00:37:55.031 video 1> to <TIME 00:38:06.392 video 1>, <TIME 00:06:16.028 video 1> to <TIME 00:06:40.300 video 1>, <TIME 00:37:12.430 video 1> to <TIME 00:37:19.988 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Stir Fry recipe steps: \"Next, add in the vegetables and nuts and fry for 2 minutes. Cook in batches so as not to overload the pan and boil them\", \"Wash the starch out of the jasmine rice. Add to a pan with cold water and salt and bring to the boil. Once boiling, cook for 20 minutes on low with the lid on\", \"Heat a wok over high heat for 1 to 2 minutes or until it begins to slightly smoke and then add in the oil\"?",
+        "choices": [
+            "<TIME 00:15:35.696 video 1> to <TIME 00:15:46.953 video 1>, <TIME 00:10:03.788 video 1> to <TIME 00:10:49.185 video 1>, <TIME 00:02:32.100 video 1> to <TIME 00:02:40.174 video 1>",
+            "<TIME 00:01:20.522 video 1> to <TIME 00:01:25.971 video 1>, <TIME 00:11:48.739 video 1> to <TIME 00:11:59.239 video 1>, <TIME 00:05:45.653 video 1> to <TIME 00:05:51.132 video 1>",
+            "<TIME 00:00:27.215 video 1> to <TIME 00:00:33.150 video 1>, <TIME 00:05:12.194 video 1> to <TIME 00:05:14.810 video 1>, <TIME 00:16:26.827 video 1> to <TIME 00:16:39.417 video 1>",
+            "<TIME 00:18:13.576 video 1> to <TIME 00:18:47.810 video 1>, <TIME 00:01:29.150 video 1> to <TIME 00:02:12.328 video 1>, <TIME 00:16:45.805 video 1> to <TIME 00:16:51.489 video 1>",
+            "<TIME 00:00:37.885 video 1> to <TIME 00:01:15.578 video 1>, <TIME 00:04:57.855 video 1> to <TIME 00:05:05.667 video 1>, <TIME 00:03:12.133 video 1> to <TIME 00:03:13.346 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Kadhai Paneer recipe steps: \"In a large kadai or any other pan, now melt butter with oil on medium heat. Add cumin seeds to the melted butter\", \"Add the chopped onion and saute for 3 minutes until softened. Then add the sliced green chili and ginger garlic paste and saute for another 1 to 2 minutes\", \"Add turmeric powder, coriander powder, garam masala powder, red chilli powder, and salt to the mixture and saute the mixture uniformly. Then add 1/2 cup water and stir. Wait for the whole mixture to homogenise\"?",
+        "choices": [
+            "<TIME 00:32:10.968 video 1> to <TIME 00:32:38.380 video 1>, <TIME 00:03:13.950 video 1> to <TIME 00:03:20.525 video 1>, <TIME 00:17:42.125 video 1> to <TIME 00:17:54.639 video 1>",
+            "<TIME 00:19:28.011 video 1> to <TIME 00:19:33.570 video 1>, <TIME 00:26:38.419 video 1> to <TIME 00:27:00.419 video 1>, <TIME 00:23:31.243 video 1> to <TIME 00:24:01.465 video 1>",
+            "<TIME 00:37:23.810 video 1> to <TIME 00:38:14.869 video 1>, <TIME 00:02:16.060 video 1> to <TIME 00:02:24.024 video 1>, <TIME 00:39:42.919 video 1> to <TIME 00:40:06.269 video 1>",
+            "<TIME 00:10:43.096 video 1> to <TIME 00:10:50.239 video 1>, <TIME 00:28:29.162 video 1> to <TIME 00:28:48.819 video 1>, <TIME 00:12:51.268 video 1> to <TIME 00:12:56.039 video 1>",
+            "<TIME 00:14:16.068 video 1> to <TIME 00:14:18.753 video 1>, <TIME 00:14:07.811 video 1> to <TIME 00:14:16.068 video 1>, <TIME 00:11:21.125 video 1> to <TIME 00:11:36.411 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_step_localization_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-115653"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Cheese Straws recipe steps: \"heat oven to 220c/fan 200c/gas 7\", \"On a lightly floured surface, roll out to the thickness of a 1 pound coin. Cut into 1cm strips, then twist the strips 3-4 times\", \"Unroll a puff pastry, scatter over a couple of handfuls of grated Parmesan and then grate over the cheddar cheese, then fold in half\"?",
+        "choices": [
+            "<TIME 00:00:06.822 video 1> to <TIME 00:00:13.654 video 1>, <TIME 00:05:10.844 video 1> to <TIME 00:05:14.042 video 1>, <TIME 00:03:23.280 video 1> to <TIME 00:03:42.935 video 1>",
+            "<TIME 00:06:17.872 video 1> to <TIME 00:06:29.332 video 1>, <TIME 00:06:44.237 video 1> to <TIME 00:06:50.433 video 1>, <TIME 00:04:20.033 video 1> to <TIME 00:04:20.572 video 1>",
+            "<TIME 00:02:24.409 video 1> to <TIME 00:02:41.067 video 1>, <TIME 00:08:50.118 video 1> to <TIME 00:08:55.507 video 1>, <TIME 00:01:00.918 video 1> to <TIME 00:01:03.417 video 1>",
+            "<TIME 00:10:20.591 video 1> to <TIME 00:10:22.989 video 1>, <TIME 00:06:50.458 video 1> to <TIME 00:07:52.739 video 1>, <TIME 00:04:21.647 video 1> to <TIME 00:05:01.007 video 1>",
+            "<TIME 00:05:57.475 video 1> to <TIME 00:06:15.904 video 1>, <TIME 00:01:48.313 video 1> to <TIME 00:02:12.172 video 1>, <TIME 00:04:17.828 video 1> to <TIME 00:04:20.167 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Salmon Teriyaki Skewers with Vegetables recipe steps: \"Add broccoli and salmon skewers to plate ontop of salad. Serve and enjoy!\", \"Place salmon teriyaki skewers on a baking sheet. Roast for 11 to 15 minutes, until just cooked. Set aside until cool enough to handle\", \"Preheat the oven to 180 degrees C/gas mark 4\"?",
+        "choices": [
+            "<TIME 00:13:33.380 video 1> to <TIME 00:13:36.108 video 1>, <TIME 00:12:51.876 video 1> to <TIME 00:13:03.006 video 1>, <TIME 00:03:28.899 video 1> to <TIME 00:03:52.969 video 1>",
+            "<TIME 00:00:23.275 video 1> to <TIME 00:00:28.917 video 1>, <TIME 00:08:00.363 video 1> to <TIME 00:08:01.725 video 1>, <TIME 00:11:44.924 video 1> to <TIME 00:11:46.549 video 1>",
+            "<TIME 00:08:12.818 video 1> to <TIME 00:08:18.098 video 1>, <TIME 00:11:57.591 video 1> to <TIME 00:12:09.118 video 1>, <TIME 00:10:53.475 video 1> to <TIME 00:11:03.540 video 1>",
+            "<TIME 00:15:06.670 video 1> to <TIME 00:15:48.413 video 1>, <TIME 00:01:38.050 video 1> to <TIME 00:02:15.182 video 1>, <TIME 00:00:17.605 video 1> to <TIME 00:00:23.241 video 1>",
+            "<TIME 00:02:53.800 video 1> to <TIME 00:02:55.270 video 1>, <TIME 00:07:43.063 video 1> to <TIME 00:07:43.947 video 1>, <TIME 00:00:08.917 video 1> to <TIME 00:00:12.476 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Chopped Chickpea Salad recipe steps: \"Preheat the oven to 425 degrees F\", \"Take apart the head of lettuce. Wash the lettuce leaves and squeeze to dry\", \"Place the chickpeas on a baking sheet and drizzle with the olive oil. Toss to coat, then sprinkle with the paprika, garlic powder, oregano, salt and pepper. Stir the chickpeas and shake the pan a few times to distribute the seasoning. Put the tray in the oven and roast the chickpeas for 15 minutes\"?",
+        "choices": [
+            "<TIME 00:06:27.867 video 1> to <TIME 00:06:32.107 video 1>, <TIME 00:01:16.461 video 1> to <TIME 00:01:54.079 video 1>, <TIME 00:04:09.754 video 1> to <TIME 00:04:22.934 video 1>",
+            "<TIME 00:02:16.970 video 1> to <TIME 00:03:12.443 video 1>, <TIME 00:00:29.845 video 1> to <TIME 00:01:03.079 video 1>, <TIME 00:02:02.195 video 1> to <TIME 00:02:06.552 video 1>",
+            "<TIME 00:00:04.921 video 1> to <TIME 00:00:08.793 video 1>, <TIME 00:08:12.172 video 1> to <TIME 00:09:51.095 video 1>, <TIME 00:07:03.988 video 1> to <TIME 00:07:51.064 video 1>",
+            "<TIME 00:06:07.527 video 1> to <TIME 00:06:12.787 video 1>, <TIME 00:07:58.224 video 1> to <TIME 00:08:12.064 video 1>, <TIME 00:01:08.894 video 1> to <TIME 00:01:16.461 video 1>",
+            "<TIME 00:02:06.934 video 1> to <TIME 00:02:07.934 video 1>, <TIME 00:03:19.643 video 1> to <TIME 00:03:46.243 video 1>, <TIME 00:04:56.026 video 1> to <TIME 00:05:44.307 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_step_localization_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-184214"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Marinated Chicken with Soy Sauce recipe steps: \"Marinate in the fridge for at least 1 hour or overnight\", \"Mix all the ingredients except for the chicken. Pour into a large container and add the chicken thighs\", \"Add water to cover\"?",
+        "choices": [
+            "<TIME 00:00:20.429 video 1> to <TIME 00:00:25.182 video 1>, <TIME 00:03:52.180 video 1> to <TIME 00:03:56.334 video 1>, <TIME 00:08:14.962 video 1> to <TIME 00:09:10.693 video 1>",
+            "<TIME 00:00:27.932 video 1> to <TIME 00:01:33.476 video 1>, <TIME 00:03:03.940 video 1> to <TIME 00:03:21.953 video 1>, <TIME 00:02:16.850 video 1> to <TIME 00:02:25.943 video 1>",
+            "<TIME 00:07:20.287 video 1> to <TIME 00:07:25.537 video 1>, <TIME 00:09:32.312 video 1> to <TIME 00:09:37.193 video 1>, <TIME 00:11:27.080 video 1> to <TIME 00:11:43.928 video 1>",
+            "<TIME 00:05:21.578 video 1> to <TIME 00:05:36.615 video 1>, <TIME 00:10:48.574 video 1> to <TIME 00:11:16.818 video 1>, <TIME 00:07:47.849 video 1> to <TIME 00:08:01.912 video 1>",
+            "<TIME 00:11:54.805 video 1> to <TIME 00:12:05.428 video 1>, <TIME 00:03:56.334 video 1> to <TIME 00:05:17.959 video 1>, <TIME 00:09:37.193 video 1> to <TIME 00:09:57.959 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_step_localization_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Pizza with Plant-Based Mince and Mushrooms recipe steps: \"Add some semolina flour to the pizza peel, then add the dough on top of it and add all toppings to the pizza: tomato sauce first, then mozzarella, finally mushrooms and the pre-cooked plant-based mince\", \"Wash the mushrooms and slice them thinly\", \"Stir fry the mushrooms in a pan with sunflower oil. Add black pepper and garlic powder while cooking\"?",
+        "choices": [
+            "<TIME 00:35:34.945 video 1> to <TIME 00:35:36.882 video 1>, <TIME 00:15:51.334 video 1> to <TIME 00:16:12.810 video 1>, <TIME 00:13:49.252 video 1> to <TIME 00:13:53.885 video 1>",
+            "<TIME 00:45:17.868 video 1> to <TIME 00:45:38.989 video 1>, <TIME 00:09:14.094 video 1> to <TIME 00:09:51.007 video 1>, <TIME 00:20:20.581 video 1> to <TIME 00:21:15.042 video 1>",
+            "<TIME 00:24:56.046 video 1> to <TIME 00:24:57.257 video 1>, <TIME 00:04:35.230 video 1> to <TIME 00:04:43.453 video 1>, <TIME 00:43:22.377 video 1> to <TIME 00:43:22.757 video 1>",
+            "<TIME 00:25:50.202 video 1> to <TIME 00:25:51.913 video 1>, <TIME 00:37:46.846 video 1> to <TIME 00:37:48.882 video 1>, <TIME 00:12:50.115 video 1> to <TIME 00:13:39.917 video 1>",
+            "<TIME 00:01:49.297 video 1> to <TIME 00:01:54.507 video 1>, <TIME 00:07:53.766 video 1> to <TIME 00:08:10.149 video 1>, <TIME 00:26:06.066 video 1> to <TIME 00:26:06.667 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_step_localization_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Chicken Tabbouleh Salad recipe steps: \"Preheat the oven to 180 degrees C/gas mark 4\", \"Chop carrot, coriander and avocado and add to bowl with tabbouleh salad\", \"Place pre-made tabbouleh salad into bowl and add salad nuts to bowl\"?",
+        "choices": [
+            "<TIME 00:09:02.839 video 1> to <TIME 00:09:36.639 video 1>, <TIME 00:03:46.256 video 1> to <TIME 00:03:50.789 video 1>, <TIME 00:02:30.846 video 1> to <TIME 00:02:32.137 video 1>",
+            "<TIME 00:00:09.581 video 1> to <TIME 00:00:21.470 video 1>, <TIME 00:09:36.611 video 1> to <TIME 00:10:50.634 video 1>, <TIME 00:06:41.982 video 1> to <TIME 00:06:52.525 video 1>",
+            "<TIME 00:01:43.655 video 1> to <TIME 00:01:44.792 video 1>, <TIME 00:01:30.025 video 1> to <TIME 00:01:32.729 video 1>, <TIME 00:01:46.126 video 1> to <TIME 00:01:47.303 video 1>",
+            "<TIME 00:05:58.805 video 1> to <TIME 00:06:29.382 video 1>, <TIME 00:03:42.865 video 1> to <TIME 00:03:50.766 video 1>, <TIME 00:04:36.158 video 1> to <TIME 00:04:44.134 video 1>",
+            "<TIME 00:00:44.859 video 1> to <TIME 00:00:49.155 video 1>, <TIME 00:01:26.229 video 1> to <TIME 00:01:29.988 video 1>, <TIME 00:01:47.303 video 1> to <TIME 00:01:56.137 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_step_localization_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Uttapam Pancake recipe steps: \"When the pan is hot enough, pour a ladle full of batter in the centre of the pan. At this stage the pan has to be hot otherwise the batter won't rise and the uttapams will be flat\", \"Take a frying pan and place it on gas stove to heat it up. Place some butter on the heated pan and spread it on the whole pan in a circular motion\", \"Wash tomato, coriander, and onions in fresh running water and chop tomato and onion into small pieces\"?",
+        "choices": [
+            "<TIME 00:20:16.071 video 1> to <TIME 00:20:25.074 video 1>, <TIME 00:24:23.098 video 1> to <TIME 00:24:42.261 video 1>, <TIME 00:01:24.541 video 1> to <TIME 00:01:30.568 video 1>",
+            "<TIME 00:17:54.364 video 1> to <TIME 00:18:37.798 video 1>, <TIME 00:17:17.525 video 1> to <TIME 00:17:26.611 video 1>, <TIME 00:06:44.950 video 1> to <TIME 00:08:50.869 video 1>",
+            "<TIME 00:18:01.036 video 1> to <TIME 00:18:39.839 video 1>, <TIME 00:28:04.134 video 1> to <TIME 00:28:12.825 video 1>, <TIME 00:27:24.884 video 1> to <TIME 00:27:26.043 video 1>",
+            "<TIME 00:18:42.904 video 1> to <TIME 00:18:45.725 video 1>, <TIME 00:05:09.462 video 1> to <TIME 00:05:33.547 video 1>, <TIME 00:24:20.951 video 1> to <TIME 00:24:23.098 video 1>",
+            "<TIME 00:12:06.998 video 1> to <TIME 00:12:08.611 video 1>, <TIME 00:32:19.414 video 1> to <TIME 00:32:20.544 video 1>, <TIME 00:25:59.806 video 1> to <TIME 00:26:01.225 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_step_localization_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Fish Cakes and Vegetables recipe steps: \"Add broccoli and green beans to pan and stir\", \"Add couscous and boiling water to pot (no flame needed), leave until water has been absorbed\", \"Preheat the oven to 180 degrees C\"?",
+        "choices": [
+            "<TIME 00:18:22.762 video 1> to <TIME 00:18:57.479 video 1>, <TIME 00:09:15.673 video 1> to <TIME 00:09:31.656 video 1>, <TIME 00:00:19.973 video 1> to <TIME 00:00:22.060 video 1>",
+            "<TIME 00:11:21.239 video 1> to <TIME 00:11:31.933 video 1>, <TIME 00:05:57.219 video 1> to <TIME 00:06:03.090 video 1>, <TIME 00:28:06.686 video 1> to <TIME 00:28:48.215 video 1>",
+            "<TIME 00:12:29.334 video 1> to <TIME 00:12:49.025 video 1>, <TIME 00:27:33.309 video 1> to <TIME 00:27:36.460 video 1>, <TIME 00:30:27.053 video 1> to <TIME 00:30:42.309 video 1>",
+            "<TIME 00:15:50.986 video 1> to <TIME 00:16:41.913 video 1>, <TIME 00:09:48.891 video 1> to <TIME 00:09:51.927 video 1>, <TIME 00:14:20.185 video 1> to <TIME 00:14:28.347 video 1>",
+            "<TIME 00:06:20.214 video 1> to <TIME 00:06:22.452 video 1>, <TIME 00:08:06.459 video 1> to <TIME 00:08:15.190 video 1>, <TIME 00:17:12.511 video 1> to <TIME 00:17:16.334 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_step_localization_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following French Fries and Beef Skewers recipe steps: \"Slice the onion, tomato and peppers into preferred size\", \"Cook in the oven for 15 minutes or more based on your oven settings, turn them over halfway through\", \"Drizzle skewers with oil\"?",
+        "choices": [
+            "<TIME 00:15:37.632 video 1> to <TIME 00:15:39.399 video 1>, <TIME 00:04:15.596 video 1> to <TIME 00:04:48.453 video 1>, <TIME 00:21:21.471 video 1> to <TIME 00:21:27.328 video 1>",
+            "<TIME 00:28:43.033 video 1> to <TIME 00:28:43.239 video 1>, <TIME 00:19:29.742 video 1> to <TIME 00:19:33.346 video 1>, <TIME 00:16:41.507 video 1> to <TIME 00:16:51.300 video 1>",
+            "<TIME 00:03:30.375 video 1> to <TIME 00:03:34.417 video 1>, <TIME 00:28:17.757 video 1> to <TIME 00:28:30.873 video 1>, <TIME 00:06:41.897 video 1> to <TIME 00:06:44.310 video 1>",
+            "<TIME 00:14:33.129 video 1> to <TIME 00:14:38.739 video 1>, <TIME 00:21:31.326 video 1> to <TIME 00:21:56.600 video 1>, <TIME 00:09:59.596 video 1> to <TIME 00:10:10.078 video 1>",
+            "<TIME 00:02:21.471 video 1> to <TIME 00:02:39.203 video 1>, <TIME 00:35:17.991 video 1> to <TIME 00:35:32.378 video 1>, <TIME 00:10:43.341 video 1> to <TIME 00:10:58.078 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_step_localization_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Raspberry and Lemon Curd Tarts recipe steps: \"Prepare the Lemon Curd. Heat a bainmarie on medium-low heat. Add butter and wait for it to melt. Then add lemon juice, zest, raspberry juice, sugar, and eggs and whisk together until sugar melts into the mix and stir continuously. The lemon curd should begin to thicken and small bubbles will begin to form on the surface, about 40 minutes. Remove from heat once the lemon curd is thick enough for the whisk to leave marks on the surface\", \"In the meantime, prepare the puff pastry. Roll out the puff pastry to about 10 inches by 14 inches, then cut into squares\", \"Layer the cooled raspberry lemon curd onto the top of the tart. Serve immediately. Store any leftovers in the refrigerator\"?",
+        "choices": [
+            "<TIME 00:23:22.225 video 1> to <TIME 00:25:46.029 video 1>, <TIME 00:11:16.376 video 1> to <TIME 00:12:15.707 video 1>, <TIME 00:36:22.271 video 1> to <TIME 00:39:20.234 video 1>",
+            "<TIME 00:27:33.765 video 1> to <TIME 00:27:35.279 video 1>, <TIME 00:51:14.373 video 1> to <TIME 00:51:18.067 video 1>, <TIME 00:08:58.806 video 1> to <TIME 00:09:05.761 video 1>",
+            "<TIME 00:50:38.778 video 1> to <TIME 00:50:42.033 video 1>, <TIME 00:50:52.417 video 1> to <TIME 00:51:02.024 video 1>, <TIME 00:49:17.283 video 1> to <TIME 00:49:44.324 video 1>",
+            "<TIME 00:49:14.444 video 1> to <TIME 00:49:15.596 video 1>, <TIME 00:50:42.033 video 1> to <TIME 00:50:51.170 video 1>, <TIME 00:36:02.742 video 1> to <TIME 00:36:04.047 video 1>",
+            "<TIME 00:07:36.191 video 1> to <TIME 00:07:36.779 video 1>, <TIME 00:00:33.589 video 1> to <TIME 00:01:07.229 video 1>, <TIME 00:09:57.557 video 1> to <TIME 00:10:37.172 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_step_localization_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Tomato Sauce recipe steps: \"Chop the garlic in large chunks and stir fry it in a saucepan with olive oil at medium heat\", \"Remove garlic from the sauce\", \"Lower the heat and add the tomato passata to the pan. Cook for 5 minutes, stirring occasionally\"?",
+        "choices": [
+            "<TIME 00:10:40.989 video 1> to <TIME 00:11:13.024 video 1>, <TIME 00:06:42.770 video 1> to <TIME 00:06:46.185 video 1>, <TIME 00:44:31.915 video 1> to <TIME 00:44:33.649 video 1>",
+            "<TIME 00:32:33.650 video 1> to <TIME 00:32:42.792 video 1>, <TIME 00:44:05.014 video 1> to <TIME 00:44:07.453 video 1>, <TIME 00:14:08.343 video 1> to <TIME 00:14:19.433 video 1>",
+            "<TIME 00:44:07.453 video 1> to <TIME 00:44:24.774 video 1>, <TIME 00:00:26.099 video 1> to <TIME 00:00:29.221 video 1>, <TIME 00:31:31.713 video 1> to <TIME 00:31:52.060 video 1>",
+            "<TIME 00:12:50.115 video 1> to <TIME 00:13:39.917 video 1>, <TIME 00:31:31.457 video 1> to <TIME 00:31:58.399 video 1>, <TIME 00:07:10.754 video 1> to <TIME 00:07:39.703 video 1>",
+            "<TIME 00:24:13.498 video 1> to <TIME 00:24:51.774 video 1>, <TIME 00:29:55.170 video 1> to <TIME 00:30:28.882 video 1>, <TIME 00:25:14.669 video 1> to <TIME 00:25:25.417 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_step_localization_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Banana Bread Chocolate Chip Cookies recipe steps: \"Add vanilla extract. Mix well\", \"Measure and add the flour, salt, baking soda, and cinnamon. Stir until combined and no streaks of flour remain\", \"Place the banana into a microwavable container, and heat it in the microwave. Stir\"?",
+        "choices": [
+            "<TIME 00:07:43.435 video 1> to <TIME 00:07:46.078 video 1>, <TIME 00:26:31.622 video 1> to <TIME 00:26:32.167 video 1>, <TIME 00:26:57.275 video 1> to <TIME 00:26:57.775 video 1>",
+            "<TIME 00:17:57.184 video 1> to <TIME 00:17:57.864 video 1>, <TIME 00:24:23.421 video 1> to <TIME 00:25:13.096 video 1>, <TIME 00:08:24.795 video 1> to <TIME 00:08:27.471 video 1>",
+            "<TIME 00:13:08.402 video 1> to <TIME 00:13:39.953 video 1>, <TIME 00:15:22.600 video 1> to <TIME 00:16:37.792 video 1>, <TIME 00:08:58.802 video 1> to <TIME 00:09:19.685 video 1>",
+            "<TIME 00:23:19.995 video 1> to <TIME 00:23:35.739 video 1>, <TIME 00:30:45.006 video 1> to <TIME 00:30:56.542 video 1>, <TIME 00:09:20.864 video 1> to <TIME 00:10:28.524 video 1>",
+            "<TIME 00:25:21.517 video 1> to <TIME 00:25:29.248 video 1>, <TIME 00:14:35.216 video 1> to <TIME 00:14:47.792 video 1>, <TIME 00:14:54.700 video 1> to <TIME 00:15:09.614 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_step_localization_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Roasted Kale recipe steps: \"Wash the kale, dry it and spread it evenly in a baking tray\", \"Add the oil and the salt, mixing everything well. The quantities are fairly loose: just make sure the leaves are coated and sprinkle with a bit of salt\", \"Cook for 15 minutes in an oven preheated at 180 degrees with the fan on (200 if the oven does not have a fan). Once it's mainly wilted but crisp at the edges, it's ready\"?",
+        "choices": [
+            "<TIME 00:36:59.078 video 1> to <TIME 00:37:44.042 video 1>, <TIME 00:27:48.250 video 1> to <TIME 00:28:09.177 video 1>, <TIME 00:37:46.439 video 1> to <TIME 00:38:18.899 video 1>",
+            "<TIME 00:52:55.188 video 1> to <TIME 00:54:04.078 video 1>, <TIME 00:55:23.900 video 1> to <TIME 00:55:34.007 video 1>, <TIME 00:55:50.227 video 1> to <TIME 00:56:06.020 video 1>",
+            "<TIME 00:13:41.164 video 1> to <TIME 00:13:45.040 video 1>, <TIME 01:11:53.683 video 1> to <TIME 01:12:27.649 video 1>, <TIME 00:26:12.805 video 1> to <TIME 00:26:14.927 video 1>",
+            "<TIME 00:56:30.502 video 1> to <TIME 00:57:04.221 video 1>, <TIME 00:51:12.232 video 1> to <TIME 00:51:26.344 video 1>, <TIME 00:21:27.038 video 1> to <TIME 00:23:48.114 video 1>",
+            "<TIME 01:07:44.835 video 1> to <TIME 01:08:25.906 video 1>, <TIME 01:00:20.549 video 1> to <TIME 01:01:22.733 video 1>, <TIME 00:29:03.925 video 1> to <TIME 00:29:32.649 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_step_localization_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Spanish Tortilla recipe steps: \"Add the onion to the pan and fry it together with the potatoes, adding oil if necessary\", \"Peel the potatoes and chop them into small chunks\", \"Peel and finely slice the onion\"?",
+        "choices": [
+            "<TIME 00:54:59.477 video 1> to <TIME 00:55:03.546 video 1>, <TIME 00:35:27.624 video 1> to <TIME 00:36:00.594 video 1>, <TIME 00:51:50.668 video 1> to <TIME 00:51:58.614 video 1>",
+            "<TIME 01:04:32.549 video 1> to <TIME 01:05:59.728 video 1>, <TIME 00:26:00.566 video 1> to <TIME 00:26:08.371 video 1>, <TIME 01:08:46.192 video 1> to <TIME 01:08:57.120 video 1>",
+            "<TIME 00:38:33.703 video 1> to <TIME 00:38:34.971 video 1>, <TIME 00:52:40.511 video 1> to <TIME 00:52:52.633 video 1>, <TIME 00:36:26.326 video 1> to <TIME 00:36:30.285 video 1>",
+            "<TIME 01:00:20.549 video 1> to <TIME 01:01:22.733 video 1>, <TIME 00:14:04.006 video 1> to <TIME 00:18:24.614 video 1>, <TIME 00:57:36.733 video 1> to <TIME 00:58:43.121 video 1>",
+            "<TIME 00:49:56.788 video 1> to <TIME 00:51:07.233 video 1>, <TIME 01:07:34.087 video 1> to <TIME 01:07:39.900 video 1>, <TIME 00:25:29.149 video 1> to <TIME 00:25:37.060 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Beef Stroganoff recipe steps: \"Peel and finely chop the onion\", \"Heat a wide pan on high heat, add 2 tsps oil and sear the beef quickly on all sides. Remove and keep aside\", \"Reduce the heat, add a knob of butter, the onion and the rest of the stroganoff seasoning.  Cook for 5 mins until soft\"?",
+        "choices": [
+            "<TIME 00:30:34.200 video 1> to <TIME 00:30:35.274 video 1>, <TIME 00:41:33.036 video 1> to <TIME 00:41:44.923 video 1>, <TIME 00:36:29.808 video 1> to <TIME 00:36:45.479 video 1>",
+            "<TIME 00:35:59.200 video 1> to <TIME 00:36:24.279 video 1>, <TIME 00:03:46.948 video 1> to <TIME 00:09:04.834 video 1>, <TIME 00:38:50.658 video 1> to <TIME 00:40:14.893 video 1>",
+            "<TIME 00:37:36.088 video 1> to <TIME 00:38:03.687 video 1>, <TIME 00:00:42.231 video 1> to <TIME 00:00:48.905 video 1>, <TIME 00:34:48.189 video 1> to <TIME 00:35:31.674 video 1>",
+            "<TIME 00:17:11.063 video 1> to <TIME 00:18:12.221 video 1>, <TIME 00:29:26.025 video 1> to <TIME 00:29:42.132 video 1>, <TIME 00:30:50.024 video 1> to <TIME 00:31:53.757 video 1>",
+            "<TIME 00:12:02.925 video 1> to <TIME 00:12:21.291 video 1>, <TIME 00:02:33.281 video 1> to <TIME 00:02:39.220 video 1>, <TIME 00:43:25.687 video 1> to <TIME 00:43:29.217 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Bread Omelette recipe steps: \"Take a bread slice dip in the egg then flip over and place it. Repeat this for the other egg too. So, the dipped side should come on top. Drizzle oil or butter\", \"Chop an onion into smaller pieces and add it to the whisked eggs\", \"Heat a pan with butter when it is hot - pour the egg mixture on it. Tilt it so that the egg mixture is even on all the edges\"?",
+        "choices": [
+            "<TIME 00:11:24.667 video 1> to <TIME 00:11:30.578 video 1>, <TIME 00:03:10.441 video 1> to <TIME 00:04:18.400 video 1>, <TIME 00:10:51.917 video 1> to <TIME 00:11:07.989 video 1>",
+            "<TIME 00:19:21.828 video 1> to <TIME 00:19:42.417 video 1>, <TIME 00:22:10.884 video 1> to <TIME 00:22:20.417 video 1>, <TIME 00:19:58.560 video 1> to <TIME 00:20:02.185 video 1>",
+            "<TIME 00:07:15.900 video 1> to <TIME 00:07:20.078 video 1>, <TIME 00:25:05.578 video 1> to <TIME 00:25:09.033 video 1>, <TIME 00:26:08.087 video 1> to <TIME 00:26:10.149 video 1>",
+            "<TIME 00:02:14.917 video 1> to <TIME 00:02:19.703 video 1>, <TIME 00:29:43.873 video 1> to <TIME 00:29:56.989 video 1>, <TIME 00:23:04.672 video 1> to <TIME 00:23:24.346 video 1>",
+            "<TIME 00:21:38.935 video 1> to <TIME 00:22:10.614 video 1>, <TIME 00:01:40.709 video 1> to <TIME 00:01:42.859 video 1>, <TIME 00:26:17.382 video 1> to <TIME 00:27:12.721 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_step_localization_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Chopped Chickpea Salad recipe steps: \"Add the tomatoes to the bowl\", \"Stir the chickpeas and roast for 10 to 15 more minutes\", \"Wash the tomatoes and then cut them in half\"?",
+        "choices": [
+            "<TIME 00:12:59.461 video 1> to <TIME 00:13:15.079 video 1>, <TIME 00:16:37.856 video 1> to <TIME 00:17:32.506 video 1>, <TIME 00:00:04.623 video 1> to <TIME 00:00:15.008 video 1>",
+            "<TIME 00:05:02.392 video 1> to <TIME 00:05:03.789 video 1>, <TIME 00:02:52.640 video 1> to <TIME 00:02:53.989 video 1>, <TIME 00:06:57.128 video 1> to <TIME 00:07:00.061 video 1>",
+            "<TIME 00:13:21.098 video 1> to <TIME 00:13:23.879 video 1>, <TIME 00:06:44.953 video 1> to <TIME 00:06:50.952 video 1>, <TIME 00:06:50.999 video 1> to <TIME 00:06:56.898 video 1>",
+            "<TIME 00:03:57.843 video 1> to <TIME 00:04:00.825 video 1>, <TIME 00:01:20.373 video 1> to <TIME 00:01:22.355 video 1>, <TIME 00:09:23.166 video 1> to <TIME 00:10:03.498 video 1>",
+            "<TIME 00:05:03.789 video 1> to <TIME 00:05:04.516 video 1>, <TIME 00:00:15.008 video 1> to <TIME 00:00:32.477 video 1>, <TIME 00:04:00.825 video 1> to <TIME 00:04:41.167 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_step_localization_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Sfesiha (Lebanese Meat Pies) recipe steps: \"In a large bowl mix together flour, salt and then add oil. In a separate cup mix yeast with sugar in warm water. Pour over everything else and start kneading until the mix gets doughy and easy to work with. Using your hands rub the bowl with some oil and also rub some on the dough itself while keeping it as a big round shape then cover the bowl with plastic wrapping and a blanket and let it rest for about an hour\", \"STUFFING. Start preparing the meat stuffing. Sweat one chopped onion in a pot, for a few minutes and then add minced garlic, then place the meat in the pot and on high heat while continuing stirring let the meat cook until the red color turns into more brownish, the idea here is not to fully cook the meat, but perhaps to get all the water out, this will help to get rid of all the water residue that comes out of the meat so it can help the meat stick to the dough while baking\", \"Lower the heat, add some water if needed and a stock cube and leave for a total of 15 minutes\"?",
+        "choices": [
+            "<TIME 00:00:35.825 video 1> to <TIME 00:03:19.311 video 1>, <TIME 00:15:37.063 video 1> to <TIME 00:18:40.346 video 1>, <TIME 00:26:48.006 video 1> to <TIME 00:26:51.467 video 1>",
+            "<TIME 00:07:52.024 video 1> to <TIME 00:08:22.225 video 1>, <TIME 00:11:50.800 video 1> to <TIME 00:12:26.625 video 1>, <TIME 00:22:22.114 video 1> to <TIME 00:22:25.757 video 1>",
+            "<TIME 00:19:28.499 video 1> to <TIME 00:19:47.809 video 1>, <TIME 00:20:06.878 video 1> to <TIME 00:21:13.809 video 1>, <TIME 00:15:35.735 video 1> to <TIME 00:15:37.396 video 1>",
+            "<TIME 00:05:42.673 video 1> to <TIME 00:05:44.053 video 1>, <TIME 00:07:31.425 video 1> to <TIME 00:07:49.653 video 1>, <TIME 00:10:50.376 video 1> to <TIME 00:10:53.825 video 1>",
+            "<TIME 00:22:12.759 video 1> to <TIME 00:22:14.820 video 1>, <TIME 00:27:35.033 video 1> to <TIME 00:28:49.741 video 1>, <TIME 00:14:43.718 video 1> to <TIME 00:14:49.299 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_step_localization_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Spaghetti Bolognese recipe steps: \"Heat the oil in a frying pan over a medium-high heat. Add the onion and cook for 5 minutes, stirring often, until the onion softens\", \"Add the carrot, celery, bell peppers, and mushrooms and cook for a further 2-3 minutes\", \"Add the minced beef and cook for 5-6 minutes, until browned. Stir often, breaking up any large chunks of meat with a spatula\"?",
+        "choices": [
+            "<TIME 00:02:11.832 video 1> to <TIME 00:02:12.243 video 1>, <TIME 00:17:54.811 video 1> to <TIME 00:17:55.600 video 1>, <TIME 00:04:40.208 video 1> to <TIME 00:04:42.011 video 1>",
+            "<TIME 00:12:16.905 video 1> to <TIME 00:12:19.422 video 1>, <TIME 00:14:43.707 video 1> to <TIME 00:15:00.368 video 1>, <TIME 00:00:06.279 video 1> to <TIME 00:00:07.029 video 1>",
+            "<TIME 00:00:07.029 video 1> to <TIME 00:00:15.493 video 1>, <TIME 00:08:21.261 video 1> to <TIME 00:08:53.082 video 1>, <TIME 00:00:52.932 video 1> to <TIME 00:01:41.797 video 1>",
+            "<TIME 00:18:55.769 video 1> to <TIME 00:19:12.940 video 1>, <TIME 00:14:42.782 video 1> to <TIME 00:14:43.707 video 1>, <TIME 00:19:32.190 video 1> to <TIME 00:19:35.815 video 1>",
+            "<TIME 00:04:39.411 video 1> to <TIME 00:04:40.118 video 1>, <TIME 00:11:23.535 video 1> to <TIME 00:11:27.154 video 1>, <TIME 00:02:00.850 video 1> to <TIME 00:02:02.529 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_multi_step_localization_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-161948"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Cacio e Pepe recipe steps: \"Toast the grounded peppercorns until fragrant in a frying pan (with little butter) over medium heat, about 2 minutes. Keep them moving to prevent them from burning\", \"cook your choice of pasta in a large pot of generously salted boiling water until al dente\", \"Once your cacio e pepe has become a creamy, silky sauce, add your piping hot pasta to the bowl and toss vigorously to coat\"?",
+        "choices": [
+            "<TIME 00:05:19.437 video 1> to <TIME 00:05:20.668 video 1>, <TIME 00:07:06.384 video 1> to <TIME 00:07:15.948 video 1>, <TIME 00:00:16.833 video 1> to <TIME 00:00:47.388 video 1>",
+            "<TIME 00:02:07.709 video 1> to <TIME 00:02:47.179 video 1>, <TIME 00:01:49.536 video 1> to <TIME 00:01:56.289 video 1>, <TIME 00:11:34.117 video 1> to <TIME 00:11:35.597 video 1>",
+            "<TIME 00:05:41.334 video 1> to <TIME 00:05:45.545 video 1>, <TIME 00:07:57.790 video 1> to <TIME 00:08:22.475 video 1>, <TIME 00:05:50.299 video 1> to <TIME 00:05:58.948 video 1>",
+            "<TIME 00:10:38.457 video 1> to <TIME 00:10:44.387 video 1>, <TIME 00:06:00.001 video 1> to <TIME 00:06:22.176 video 1>, <TIME 00:04:24.599 video 1> to <TIME 00:04:26.089 video 1>",
+            "<TIME 00:02:00.907 video 1> to <TIME 00:02:07.475 video 1>, <TIME 00:07:16.579 video 1> to <TIME 00:07:17.958 video 1>, <TIME 00:01:39.145 video 1> to <TIME 00:01:44.866 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_multi_step_localization_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-191007"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Mushroom Risotto recipe steps: \"Crumble vegetable stock cube into the mushroom liquid, then squeeze the mushrooms gently with a fork to remove any liquid\", \"Measure out the risotto rice\", \"Wash and chop the fresh chestnut and shiitake mushrooms\"?",
+        "choices": [
+            "<TIME 00:00:30.525 video 1> to <TIME 00:00:42.081 video 1>, <TIME 00:07:12.681 video 1> to <TIME 00:07:26.906 video 1>, <TIME 00:22:51.932 video 1> to <TIME 00:23:00.369 video 1>",
+            "<TIME 00:24:41.769 video 1> to <TIME 00:24:42.871 video 1>, <TIME 00:06:24.441 video 1> to <TIME 00:06:28.314 video 1>, <TIME 00:07:37.031 video 1> to <TIME 00:07:46.742 video 1>",
+            "<TIME 00:00:19.408 video 1> to <TIME 00:00:26.748 video 1>, <TIME 00:09:29.796 video 1> to <TIME 00:09:35.171 video 1>, <TIME 00:23:14.869 video 1> to <TIME 00:23:24.419 video 1>",
+            "<TIME 00:20:30.662 video 1> to <TIME 00:20:51.644 video 1>, <TIME 00:27:15.871 video 1> to <TIME 00:27:39.244 video 1>, <TIME 00:10:42.006 video 1> to <TIME 00:15:36.565 video 1>",
+            "<TIME 00:24:54.193 video 1> to <TIME 00:25:13.396 video 1>, <TIME 00:30:08.976 video 1> to <TIME 00:30:13.583 video 1>, <TIME 00:00:42.081 video 1> to <TIME 00:00:46.211 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Cappuccino recipe steps: \"Add more water if needed, about 1/2 teaspoon at a time, whipping it vigorously with the spoon\", \"Take another empty cup and put 2 teaspoons of sugar and coffee in the cup. Add about a half tablespoon of water and slowly add more until the ingredients are just wet so that you can beat the mixture\", \"Pour the heated milk in the golden-brown paste and stir it well until all ingredients are uniformly mixed. Heat the cappuccino again in microwave for 30 seconds and it is ready to drink\"?",
+        "choices": [
+            "<TIME 00:18:27.655 video 1> to <TIME 00:18:53.399 video 1>, <TIME 00:12:39.272 video 1> to <TIME 00:12:49.913 video 1>, <TIME 00:15:51.660 video 1> to <TIME 00:15:52.524 video 1>",
+            "<TIME 00:02:14.917 video 1> to <TIME 00:02:19.703 video 1>, <TIME 00:14:35.076 video 1> to <TIME 00:14:46.971 video 1>, <TIME 00:26:17.033 video 1> to <TIME 00:26:17.297 video 1>",
+            "<TIME 00:37:10.577 video 1> to <TIME 00:37:20.667 video 1>, <TIME 00:29:10.289 video 1> to <TIME 00:29:31.792 video 1>, <TIME 00:26:05.220 video 1> to <TIME 00:26:06.792 video 1>",
+            "<TIME 00:11:24.667 video 1> to <TIME 00:11:30.578 video 1>, <TIME 00:17:04.140 video 1> to <TIME 00:17:07.141 video 1>, <TIME 00:06:02.914 video 1> to <TIME 00:06:42.239 video 1>",
+            "<TIME 00:27:23.553 video 1> to <TIME 00:29:04.471 video 1>, <TIME 00:23:50.238 video 1> to <TIME 00:24:00.810 video 1>, <TIME 00:37:21.042 video 1> to <TIME 00:38:42.114 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_multi_step_localization_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Sauteed Potatoes recipe steps: \"Cut the potatoes into chunks\", \"Turn the heat to medium-high, so that the potatoes sizzle, but don't stir until they start to brown underneath\", \"Microwave potatoes for 4-6 minutes until just soft\"?",
+        "choices": [
+            "<TIME 00:07:47.503 video 1> to <TIME 00:07:48.503 video 1>, <TIME 00:15:48.792 video 1> to <TIME 00:15:52.133 video 1>, <TIME 00:00:10.220 video 1> to <TIME 00:00:15.277 video 1>",
+            "<TIME 00:17:25.172 video 1> to <TIME 00:17:25.267 video 1>, <TIME 00:16:42.685 video 1> to <TIME 00:16:47.274 video 1>, <TIME 00:11:17.533 video 1> to <TIME 00:11:18.838 video 1>",
+            "<TIME 00:08:56.174 video 1> to <TIME 00:08:57.436 video 1>, <TIME 00:13:37.144 video 1> to <TIME 00:13:44.283 video 1>, <TIME 00:15:47.785 video 1> to <TIME 00:15:48.703 video 1>",
+            "<TIME 00:14:08.846 video 1> to <TIME 00:15:06.096 video 1>, <TIME 00:19:53.000 video 1> to <TIME 00:19:57.990 video 1>, <TIME 00:01:15.033 video 1> to <TIME 00:01:22.117 video 1>",
+            "<TIME 00:17:59.236 video 1> to <TIME 00:18:02.408 video 1>, <TIME 00:23:57.025 video 1> to <TIME 00:24:00.811 video 1>, <TIME 00:14:06.977 video 1> to <TIME 00:14:08.810 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_multi_step_localization_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Date Balls recipe steps: \"Remove from heat and quickly mix with crushed biscuts\", \"Place butter and pitted dates in a pan and heat until dates are soft\", \"Wait for the mixture to cool on touch then and mix well\"?",
+        "choices": [
+            "<TIME 00:22:33.691 video 1> to <TIME 00:22:40.403 video 1>, <TIME 00:18:36.860 video 1> to <TIME 00:19:03.800 video 1>, <TIME 00:22:46.796 video 1> to <TIME 00:23:57.873 video 1>",
+            "<TIME 00:07:10.508 video 1> to <TIME 00:07:12.903 video 1>, <TIME 00:05:16.933 video 1> to <TIME 00:06:00.270 video 1>, <TIME 00:12:24.400 video 1> to <TIME 00:12:38.167 video 1>",
+            "<TIME 00:10:06.803 video 1> to <TIME 00:10:59.300 video 1>, <TIME 00:02:04.077 video 1> to <TIME 00:04:06.646 video 1>, <TIME 00:11:08.880 video 1> to <TIME 00:11:51.461 video 1>",
+            "<TIME 00:00:55.777 video 1> to <TIME 00:01:57.521 video 1>, <TIME 00:06:44.523 video 1> to <TIME 00:06:49.358 video 1>, <TIME 00:08:39.180 video 1> to <TIME 00:09:00.270 video 1>",
+            "<TIME 00:00:50.894 video 1> to <TIME 00:00:52.186 video 1>, <TIME 00:00:18.117 video 1> to <TIME 00:00:37.826 video 1>, <TIME 00:12:51.288 video 1> to <TIME 00:12:53.888 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_multi_step_localization_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-142301"
+            }
+        },
+        "question": "In this video, when did the participant perform each of the following Vermicelli Rice with Meat recipe steps: \"The rice: start by soaking the rice in some room temperature tap water, with some salt, for at least 2 hours. Once soaking period is over, rinse the rice well until water runs clear to get rid of any excess starchiness\", \"The meat: Sweat one chopped onion in a pot, for a few minutes and then add minced garlic, then place the meat in the pot and on high heat while continuing stirring let the meat cook until the red color turns into more brownish, the idea here is not to fully cook the meat, but perhaps to get all the water out, this will help to get rid of all the water residue that comes out of the meat\", \"Lower the heat, add some water if needed, a stock cube, cinamon, and additional pepper and leave for a total of 15 minutes\"?",
+        "choices": [
+            "<TIME 00:12:36.128 video 1> to <TIME 00:12:40.267 video 1>, <TIME 00:05:17.402 video 1> to <TIME 00:05:21.936 video 1>, <TIME 00:21:37.874 video 1> to <TIME 00:21:44.275 video 1>",
+            "<TIME 00:02:23.222 video 1> to <TIME 00:02:28.454 video 1>, <TIME 00:01:05.722 video 1> to <TIME 00:01:28.954 video 1>, <TIME 00:12:47.508 video 1> to <TIME 00:13:05.829 video 1>",
+            "<TIME 00:05:06.516 video 1> to <TIME 00:05:35.968 video 1>, <TIME 00:22:24.779 video 1> to <TIME 00:23:10.668 video 1>, <TIME 00:07:01.758 video 1> to <TIME 00:07:07.829 video 1>",
+            "<TIME 00:02:42.868 video 1> to <TIME 00:03:08.936 video 1>, <TIME 00:17:52.072 video 1> to <TIME 00:20:51.686 video 1>, <TIME 00:27:23.846 video 1> to <TIME 00:27:26.704 video 1>",
+            "<TIME 00:21:32.657 video 1> to <TIME 00:21:37.097 video 1>, <TIME 00:05:35.968 video 1> to <TIME 00:06:17.609 video 1>, <TIME 00:13:10.905 video 1> to <TIME 00:13:13.650 video 1>"
+        ],
+        "correct_idx": 3
+    }
+}

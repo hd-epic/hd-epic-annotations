@@ -1,0 +1,2302 @@
+{
+    "ingredient_ingredient_adding_localization_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "When was ingredient salt added to recipe pizza with aubergine and egg?",
+        "choices": [
+            "From <TIME 00:31:17.290 video 1> to <TIME 00:31:18.040 video 1>",
+            "From <TIME 00:31:01.660 video 1> to <TIME 00:31:02.570 video 1>",
+            "From <TIME 00:06:40.000 video 1> to <TIME 00:06:46.990 video 1>",
+            "From <TIME 00:16:41.000 video 1> to <TIME 00:16:41.620 video 1>",
+            "From <TIME 00:07:17.780 video 1> to <TIME 00:07:23.470 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R07_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "When was ingredient red onions added to recipe tuna pasta salad?",
+        "choices": [
+            "From <TIME 00:07:30.067 video 1> to <TIME 00:07:44.014 video 1>",
+            "From <TIME 00:13:26.160 video 1> to <TIME 00:13:28.010 video 1>",
+            "From <TIME 00:14:12.260 video 1> to <TIME 00:14:28.260 video 1>",
+            "From <TIME 00:06:15.540 video 1> to <TIME 00:06:16.620 video 1>",
+            "From <TIME 00:20:20.370 video 1> to <TIME 00:20:23.820 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P08_R06_I13)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient coconut milk added to recipe mango lassi?",
+        "choices": [
+            "From <TIME 00:21:28.480 video 1> to <TIME 00:21:29.010 video 1>",
+            "From <TIME 00:21:56.090 video 1> to <TIME 00:21:57.740 video 1>",
+            "From <TIME 00:22:40.094 video 1> to <TIME 00:22:44.027 video 1>",
+            "From <TIME 00:21:52.180 video 1> to <TIME 00:21:53.040 video 1>",
+            "From <TIME 00:23:41.970 video 1> to <TIME 00:23:42.990 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P09_R05_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "When was ingredient broccoli added to recipe fish cakes and vegetables?",
+        "choices": [
+            "From <TIME 00:18:22.087 video 1> to <TIME 00:18:26.094 video 1>",
+            "From <TIME 00:16:21.470 video 1> to <TIME 00:16:22.230 video 1>",
+            "From <TIME 00:16:11.360 video 1> to <TIME 00:16:13.070 video 1>",
+            "From <TIME 00:05:33.000 video 1> to <TIME 00:05:34.230 video 1>",
+            "From <TIME 00:16:07.670 video 1> to <TIME 00:16:08.490 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P08_R07_I10)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "When was ingredient baby spinach added to recipe tuna pasta salad?",
+        "choices": [
+            "From <TIME 00:22:55.870 video 1> to <TIME 00:22:59.240 video 1>",
+            "From <TIME 00:17:41.710 video 1> to <TIME 00:17:44.680 video 1>",
+            "From <TIME 00:17:52.052 video 1> to <TIME 00:18:00.072 video 1>",
+            "From <TIME 00:17:44.930 video 1> to <TIME 00:17:46.340 video 1>",
+            "From <TIME 00:16:25.220 video 1> to <TIME 00:16:28.840 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R06_I05)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            }
+        },
+        "question": "When was ingredient sugar added to recipe chocolate pudding?",
+        "choices": [
+            "From <TIME 00:07:25.570 video 1> to <TIME 00:07:28.540 video 1>",
+            "From <TIME 00:05:30.000 video 1> to <TIME 00:05:30.760 video 1>",
+            "From <TIME 00:04:35.800 video 1> to <TIME 00:04:37.720 video 1>",
+            "From <TIME 00:05:30.860 video 1> to <TIME 00:05:33.390 video 1>",
+            "From <TIME 00:04:02.039 video 1> to <TIME 00:04:11.001 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P05_R05_I04)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            }
+        },
+        "question": "When was ingredient soy sauce added to recipe dumplings with soy sauce and sesame oil?",
+        "choices": [
+            "From <TIME 00:07:56.038 video 1> to <TIME 00:08:00.049 video 1>",
+            "From <TIME 00:08:55.550 video 1> to <TIME 00:09:04.770 video 1>",
+            "From <TIME 00:11:49.690 video 1> to <TIME 00:11:51.400 video 1>",
+            "From <TIME 00:08:01.710 video 1> to <TIME 00:08:02.780 video 1>",
+            "From <TIME 00:18:21.280 video 1> to <TIME 00:18:22.750 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P03_R10_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "When was ingredient tomatoes added to recipe kadhai paneer?",
+        "choices": [
+            "From <TIME 00:06:21.920 video 1> to <TIME 00:06:23.340 video 1>",
+            "From <TIME 00:08:00.000 video 1> to <TIME 00:12:22.990 video 1>",
+            "From <TIME 00:07:07.690 video 1> to <TIME 00:07:09.260 video 1>",
+            "From <TIME 00:06:30.370 video 1> to <TIME 00:06:31.790 video 1>",
+            "From <TIME 00:00:58.700 video 1> to <TIME 00:00:59.690 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R03_I01)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "When was ingredient mixed bean salad added to recipe chopped salad and bread?",
+        "choices": [
+            "From <TIME 00:09:15.080 video 1> to <TIME 00:09:17.170 video 1>",
+            "From <TIME 00:10:30.066 video 1> to <TIME 00:10:34.001 video 1>",
+            "From <TIME 00:12:58.280 video 1> to <TIME 00:13:00.330 video 1>",
+            "From <TIME 00:06:57.310 video 1> to <TIME 00:06:59.990 video 1>",
+            "From <TIME 00:01:15.770 video 1> to <TIME 00:01:17.570 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R02_I08)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "When was ingredient butter added to recipe cheese baguette?",
+        "choices": [
+            "From <TIME 00:09:56.040 video 1> to <TIME 00:09:58.120 video 1>",
+            "From <TIME 00:50:20.850 video 1> to <TIME 00:50:21.500 video 1>",
+            "From <TIME 00:11:09.570 video 1> to <TIME 00:11:11.520 video 1>",
+            "From <TIME 00:49:14.620 video 1> to <TIME 00:49:15.180 video 1>",
+            "From <TIME 00:49:45.066 video 1> to <TIME 00:49:51.064 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P02_R08_I03)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "When was ingredient salt added to recipe spanish tortilla?",
+        "choices": [
+            "From <TIME 00:26:41.530 video 1> to <TIME 00:26:44.760 video 1>",
+            "From <TIME 00:54:58.130 video 1> to <TIME 00:55:03.510 video 1>",
+            "From <TIME 00:51:29.000 video 1> to <TIME 00:51:32.990 video 1>",
+            "From <TIME 00:26:44.750 video 1> to <TIME 00:26:45.610 video 1>",
+            "From <TIME 00:26:19.950 video 1> to <TIME 00:26:27.200 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R04_I05)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "When was ingredient worcestershire sauce added to recipe mushroom, tomato, sweetcorn and onion saute?",
+        "choices": [
+            "From <TIME 00:23:42.150 video 1> to <TIME 00:23:42.720 video 1>",
+            "From <TIME 00:23:44.470 video 1> to <TIME 00:23:52.440 video 1>",
+            "From <TIME 00:23:38.093 video 1> to <TIME 00:23:40.047 video 1>",
+            "From <TIME 00:23:35.290 video 1> to <TIME 00:23:36.390 video 1>",
+            "From <TIME 00:18:44.000 video 1> to <TIME 00:18:48.990 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P02_R01_I06)",
+            "different real segment from same ingredient",
+            "real segment from similar ingredient: tomato puree (0.6916322289513734)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "When was ingredient fusilli pasta added to recipe tuna pasta salad?",
+        "choices": [
+            "From <TIME 00:22:33.190 video 1> to <TIME 00:22:36.170 video 1>",
+            "From <TIME 00:22:12.740 video 1> to <TIME 00:22:13.940 video 1>",
+            "From <TIME 00:24:58.000 video 1> to <TIME 00:24:59.029 video 1>",
+            "From <TIME 00:22:23.550 video 1> to <TIME 00:22:25.840 video 1>",
+            "From <TIME 00:02:50.050 video 1> to <TIME 00:02:51.300 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R06_I16)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "When was ingredient broccoli added to recipe salmon teriyaki skewers with vegetables?",
+        "choices": [
+            "From <TIME 00:12:15.310 video 1> to <TIME 00:12:18.110 video 1>",
+            "From <TIME 00:08:01.130 video 1> to <TIME 00:08:02.630 video 1>",
+            "From <TIME 00:07:41.930 video 1> to <TIME 00:07:43.460 video 1>",
+            "From <TIME 00:13:36.072 video 1> to <TIME 00:13:39.090 video 1>",
+            "From <TIME 00:03:36.780 video 1> to <TIME 00:03:38.520 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R05_I02)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "When was ingredient olive oil added to recipe bacon and egg sandwich?",
+        "choices": [
+            "From <TIME 00:04:34.800 video 1> to <TIME 00:04:35.310 video 1>",
+            "From <TIME 00:06:04.640 video 1> to <TIME 00:06:05.280 video 1>",
+            "From <TIME 00:04:36.037 video 1> to <TIME 00:04:37.025 video 1>",
+            "From <TIME 00:01:19.380 video 1> to <TIME 00:01:19.910 video 1>",
+            "From <TIME 00:04:35.410 video 1> to <TIME 00:04:35.940 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P02_R04_I08)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            }
+        },
+        "question": "When was ingredient chocolate added to recipe chocolate pudding?",
+        "choices": [
+            "From <TIME 00:26:36.670 video 1> to <TIME 00:26:39.750 video 1>",
+            "From <TIME 00:08:22.045 video 1> to <TIME 00:09:10.052 video 1>",
+            "From <TIME 00:26:12.650 video 1> to <TIME 00:26:22.330 video 1>",
+            "From <TIME 00:03:00.720 video 1> to <TIME 00:03:01.910 video 1>",
+            "From <TIME 00:16:20.010 video 1> to <TIME 00:16:20.870 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P05_R05_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient garlic and ginger paste added to recipe mangsho bhuna?",
+        "choices": [
+            "From <TIME 00:21:05.680 video 1> to <TIME 00:21:07.830 video 1>",
+            "From <TIME 00:14:55.074 video 1> to <TIME 00:14:58.088 video 1>",
+            "From <TIME 00:21:12.080 video 1> to <TIME 00:21:12.850 video 1>",
+            "From <TIME 00:00:29.835 video 1> to <TIME 00:00:31.035 video 1>",
+            "From <TIME 00:46:15.700 video 1> to <TIME 00:46:17.370 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P09_R04_I15)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "When was ingredient fat free cottage cheese added to recipe scrambled eggs?",
+        "choices": [
+            "From <TIME 00:09:06.530 video 1> to <TIME 00:09:06.970 video 1>",
+            "From <TIME 00:09:24.089 video 1> to <TIME 00:09:31.072 video 1>",
+            "From <TIME 00:08:29.110 video 1> to <TIME 00:08:30.120 video 1>",
+            "From <TIME 00:08:23.720 video 1> to <TIME 00:08:24.610 video 1>",
+            "From <TIME 00:09:10.760 video 1> to <TIME 00:09:12.140 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R03_I05)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "When was ingredient tomato puree added to recipe mushroom, tomato, sweetcorn and onion saute?",
+        "choices": [
+            "From <TIME 00:02:01.670 video 1> to <TIME 00:02:02.340 video 1>",
+            "From <TIME 00:04:29.010 video 1> to <TIME 00:04:29.470 video 1>",
+            "From <TIME 00:18:44.000 video 1> to <TIME 00:18:48.990 video 1>",
+            "From <TIME 00:05:25.810 video 1> to <TIME 00:05:27.220 video 1>",
+            "From <TIME 00:02:09.800 video 1> to <TIME 00:02:11.270 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P02_R01_I11)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "When was ingredient red bell pepper added to recipe fish cakes and vegetables?",
+        "choices": [
+            "From <TIME 00:10:30.930 video 1> to <TIME 00:10:31.530 video 1>",
+            "From <TIME 00:08:43.640 video 1> to <TIME 00:08:44.990 video 1>",
+            "From <TIME 00:14:20.031 video 1> to <TIME 00:14:26.049 video 1>",
+            "From <TIME 00:10:07.790 video 1> to <TIME 00:10:08.350 video 1>",
+            "From <TIME 00:10:26.830 video 1> to <TIME 00:10:30.830 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R07_I06)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient onions added to recipe mangsho bhuna?",
+        "choices": [
+            "From <TIME 00:17:10.400 video 1> to <TIME 00:17:10.750 video 1>",
+            "From <TIME 00:11:08.095 video 1> to <TIME 00:11:29.012 video 1>",
+            "From <TIME 00:17:17.310 video 1> to <TIME 00:17:18.100 video 1>",
+            "From <TIME 00:07:15.430 video 1> to <TIME 00:08:45.633 video 1>",
+            "From <TIME 00:09:11.300 video 1> to <TIME 00:09:12.000 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P09_R04_I13)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "When was ingredient balsamic glaze added to recipe chopped salad and bread?",
+        "choices": [
+            "From <TIME 00:11:49.750 video 1> to <TIME 00:11:56.020 video 1>",
+            "From <TIME 00:12:20.040 video 1> to <TIME 00:12:21.053 video 1>",
+            "From <TIME 00:12:12.330 video 1> to <TIME 00:12:13.640 video 1>",
+            "From <TIME 00:11:55.590 video 1> to <TIME 00:12:00.640 video 1>",
+            "From <TIME 00:14:02.830 video 1> to <TIME 00:14:07.480 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R02_I10)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "When was ingredient cherry tomatoes added to recipe tuna pasta salad?",
+        "choices": [
+            "From <TIME 00:05:46.280 video 1> to <TIME 00:05:48.570 video 1>",
+            "From <TIME 00:06:11.030 video 1> to <TIME 00:06:13.066 video 1>",
+            "From <TIME 00:05:57.550 video 1> to <TIME 00:06:00.500 video 1>",
+            "From <TIME 00:05:16.670 video 1> to <TIME 00:05:18.500 video 1>",
+            "From <TIME 00:06:00.920 video 1> to <TIME 00:06:06.340 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R06_I14)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "When was ingredient crispy chilli oil added to recipe crispy cucumber salad?",
+        "choices": [
+            "From <TIME 00:12:11.065 video 1> to <TIME 00:12:14.091 video 1>",
+            "From <TIME 00:10:57.690 video 1> to <TIME 00:11:00.450 video 1>",
+            "From <TIME 00:12:04.620 video 1> to <TIME 00:12:09.980 video 1>",
+            "From <TIME 00:17:18.080 video 1> to <TIME 00:17:18.940 video 1>",
+            "From <TIME 00:15:45.930 video 1> to <TIME 00:15:48.180 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P08_R09_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "When was ingredient cheese added to recipe cheese baguette?",
+        "choices": [
+            "From <TIME 00:50:52.080 video 1> to <TIME 00:50:54.065 video 1>",
+            "From <TIME 00:33:51.720 video 1> to <TIME 00:33:52.110 video 1>",
+            "From <TIME 00:31:34.450 video 1> to <TIME 00:31:43.900 video 1>",
+            "From <TIME 00:02:48.490 video 1> to <TIME 00:02:50.110 video 1>",
+            "From <TIME 00:32:35.680 video 1> to <TIME 00:32:43.550 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P02_R08_I01)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "When was ingredient tomato passata added to recipe tomato sauce?",
+        "choices": [
+            "From <TIME 00:04:50.920 video 1> to <TIME 00:04:51.620 video 1>",
+            "From <TIME 00:30:59.430 video 1> to <TIME 00:31:00.480 video 1>",
+            "From <TIME 00:23:57.990 video 1> to <TIME 00:23:59.240 video 1>",
+            "From <TIME 00:24:57.076 video 1> to <TIME 00:25:06.099 video 1>",
+            "From <TIME 00:24:00.290 video 1> to <TIME 00:24:01.840 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R08_I01)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "When was ingredient coconut milk added to recipe thai red curry?",
+        "choices": [
+            "From <TIME 00:18:49.005 video 1> to <TIME 00:18:53.035 video 1>",
+            "From <TIME 00:07:34.800 video 1> to <TIME 00:07:36.260 video 1>",
+            "From <TIME 00:19:41.420 video 1> to <TIME 00:19:45.460 video 1>",
+            "From <TIME 00:26:01.250 video 1> to <TIME 00:26:04.210 video 1>",
+            "From <TIME 00:18:42.940 video 1> to <TIME 00:18:44.300 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P09_R01_I02)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            }
+        },
+        "question": "When was ingredient sesame oil added to recipe dumplings with soy sauce and sesame oil?",
+        "choices": [
+            "From <TIME 00:18:21.280 video 1> to <TIME 00:18:22.750 video 1>",
+            "From <TIME 00:09:07.170 video 1> to <TIME 00:09:11.310 video 1>",
+            "From <TIME 00:08:05.056 video 1> to <TIME 00:08:09.028 video 1>",
+            "From <TIME 00:11:58.610 video 1> to <TIME 00:11:59.870 video 1>",
+            "From <TIME 00:08:55.550 video 1> to <TIME 00:09:04.770 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R10_I04)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "When was ingredient cumin seeds added to recipe kadhai paneer?",
+        "choices": [
+            "From <TIME 00:20:22.020 video 1> to <TIME 00:20:23.130 video 1>",
+            "From <TIME 00:20:29.940 video 1> to <TIME 00:20:31.190 video 1>",
+            "From <TIME 00:20:50.050 video 1> to <TIME 00:20:54.220 video 1>",
+            "From <TIME 00:20:55.070 video 1> to <TIME 00:20:55.740 video 1>",
+            "From <TIME 00:20:32.885 video 1> to <TIME 00:20:46.833 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R03_I10)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "When was ingredient red bell pepper added to recipe tuna pasta salad?",
+        "choices": [
+            "From <TIME 00:15:32.218 video 1> to <TIME 00:15:41.932 video 1>",
+            "From <TIME 00:16:06.084 video 1> to <TIME 00:16:09.058 video 1>",
+            "From <TIME 00:15:42.748 video 1> to <TIME 00:15:51.004 video 1>",
+            "From <TIME 00:18:02.690 video 1> to <TIME 00:18:04.710 video 1>",
+            "From <TIME 00:15:51.573 video 1> to <TIME 00:15:55.111 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R06_I10)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "When was ingredient almond milk (unsweetened) added to recipe granola with almond milk and cinnamon?",
+        "choices": [
+            "From <TIME 00:23:21.880 video 1> to <TIME 00:23:25.420 video 1>",
+            "From <TIME 00:19:39.130 video 1> to <TIME 00:19:41.330 video 1>",
+            "From <TIME 00:22:12.000 video 1> to <TIME 00:22:19.012 video 1>",
+            "From <TIME 00:21:34.930 video 1> to <TIME 00:21:36.040 video 1>",
+            "From <TIME 00:22:09.030 video 1> to <TIME 00:22:10.240 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P04_R03_I02)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "When was ingredient olive oil added to recipe mushroom, tomato, sweetcorn and onion saute?",
+        "choices": [
+            "From <TIME 00:07:50.022 video 1> to <TIME 00:07:52.033 video 1>",
+            "From <TIME 00:22:20.540 video 1> to <TIME 00:22:21.210 video 1>",
+            "From <TIME 00:15:48.120 video 1> to <TIME 00:15:48.660 video 1>",
+            "From <TIME 00:22:19.040 video 1> to <TIME 00:22:19.440 video 1>",
+            "From <TIME 00:08:59.680 video 1> to <TIME 00:09:00.490 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P02_R01_I10)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "When was ingredient coffee added to recipe cappuccino?",
+        "choices": [
+            "From <TIME 00:37:20.720 video 1> to <TIME 00:37:22.120 video 1>",
+            "From <TIME 00:23:48.000 video 1> to <TIME 00:24:01.990 video 1>",
+            "From <TIME 00:30:17.530 video 1> to <TIME 00:30:27.050 video 1>",
+            "From <TIME 00:29:00.970 video 1> to <TIME 00:29:04.720 video 1>",
+            "From <TIME 00:28:24.970 video 1> to <TIME 00:28:32.170 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R07_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "When was ingredient sweetcorn added to recipe southwestern salad?",
+        "choices": [
+            "From <TIME 00:24:23.590 video 1> to <TIME 00:24:24.760 video 1>",
+            "From <TIME 00:17:48.230 video 1> to <TIME 00:17:49.970 video 1>",
+            "From <TIME 00:17:49.999 video 1> to <TIME 00:17:51.060 video 1>",
+            "From <TIME 00:17:39.450 video 1> to <TIME 00:17:42.320 video 1>",
+            "From <TIME 00:17:38.270 video 1> to <TIME 00:17:39.350 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P07_R07_I08)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient garam masala added to recipe mangsho bhuna?",
+        "choices": [
+            "From <TIME 00:27:45.660 video 1> to <TIME 00:27:45.980 video 1>",
+            "From <TIME 00:02:28.644 video 1> to <TIME 00:02:29.801 video 1>",
+            "From <TIME 00:27:55.000 video 1> to <TIME 00:27:58.990 video 1>",
+            "From <TIME 00:02:25.806 video 1> to <TIME 00:02:27.464 video 1>",
+            "From <TIME 00:27:52.150 video 1> to <TIME 00:27:54.790 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "real segment from similar ingredient: turmeric (0.5490936145085455)",
+            "Positive ingredient (P09_R04_I07)",
+            "real segment from similar ingredient: turmeric (0.5490936145085455)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "When was ingredient paprika added to recipe bacon and egg sandwich?",
+        "choices": [
+            "From <TIME 00:09:50.370 video 1> to <TIME 00:09:54.640 video 1>",
+            "From <TIME 00:10:00.570 video 1> to <TIME 00:10:01.730 video 1>",
+            "From <TIME 00:10:02.037 video 1> to <TIME 00:10:11.074 video 1>",
+            "From <TIME 00:10:11.940 video 1> to <TIME 00:10:12.640 video 1>",
+            "From <TIME 00:09:53.990 video 1> to <TIME 00:09:54.980 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P02_R04_I10)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "When was ingredient salted butter added to recipe kadhai paneer?",
+        "choices": [
+            "From <TIME 00:36:46.530 video 1> to <TIME 00:36:48.580 video 1>",
+            "From <TIME 00:19:27.854 video 1> to <TIME 00:19:28.919 video 1>",
+            "From <TIME 00:19:06.960 video 1> to <TIME 00:19:07.850 video 1>",
+            "From <TIME 00:20:50.050 video 1> to <TIME 00:20:54.220 video 1>",
+            "From <TIME 00:18:47.520 video 1> to <TIME 00:18:48.240 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R03_I05)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "When was ingredient butter added to recipe aloo paratha?",
+        "choices": [
+            "From <TIME 00:17:21.210 video 1> to <TIME 00:17:23.990 video 1>",
+            "From <TIME 00:18:11.340 video 1> to <TIME 00:18:11.830 video 1>",
+            "From <TIME 00:17:25.000 video 1> to <TIME 00:17:59.990 video 1>",
+            "From <TIME 00:15:24.100 video 1> to <TIME 00:15:25.730 video 1>",
+            "From <TIME 00:17:15.670 video 1> to <TIME 00:17:17.350 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R05_I05)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient yoghurt added to recipe mango lassi?",
+        "choices": [
+            "From <TIME 00:11:48.138 video 1> to <TIME 00:11:48.918 video 1>",
+            "From <TIME 00:11:44.564 video 1> to <TIME 00:11:45.652 video 1>",
+            "From <TIME 00:11:46.556 video 1> to <TIME 00:11:48.285 video 1>",
+            "From <TIME 00:23:33.040 video 1> to <TIME 00:23:39.008 video 1>",
+            "From <TIME 00:11:45.554 video 1> to <TIME 00:11:46.554 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P09_R05_I02)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "When was ingredient cucumber added to recipe crispy cucumber salad?",
+        "choices": [
+            "From <TIME 00:10:43.400 video 1> to <TIME 00:10:44.580 video 1>",
+            "From <TIME 00:15:13.370 video 1> to <TIME 00:15:18.170 video 1>",
+            "From <TIME 00:02:48.002 video 1> to <TIME 00:05:22.080 video 1>",
+            "From <TIME 00:00:37.200 video 1> to <TIME 00:00:40.610 video 1>",
+            "From <TIME 00:01:17.480 video 1> to <TIME 00:01:19.760 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R09_I01)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "When was ingredient potatoes added to recipe aloo paratha?",
+        "choices": [
+            "From <TIME 00:14:39.400 video 1> to <TIME 00:14:44.000 video 1>",
+            "From <TIME 00:12:53.873 video 1> to <TIME 00:13:00.850 video 1>",
+            "From <TIME 00:12:28.810 video 1> to <TIME 00:12:33.610 video 1>",
+            "From <TIME 00:11:12.040 video 1> to <TIME 00:11:18.090 video 1>",
+            "From <TIME 00:12:20.970 video 1> to <TIME 00:12:27.070 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R05_I04)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-182630"
+            }
+        },
+        "question": "When was ingredient sweetcorn added to recipe boiled sweetcorn?",
+        "choices": [
+            "From <TIME 00:05:21.340 video 1> to <TIME 00:05:21.760 video 1>",
+            "From <TIME 00:05:56.030 video 1> to <TIME 00:05:58.090 video 1>",
+            "From <TIME 00:06:04.030 video 1> to <TIME 00:06:04.360 video 1>",
+            "From <TIME 00:05:34.060 video 1> to <TIME 00:05:36.091 video 1>",
+            "From <TIME 00:05:53.010 video 1> to <TIME 00:05:54.370 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P02_R11_I01)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-194141"
+            }
+        },
+        "question": "When was ingredient concentrated fruit squash added to recipe squash?",
+        "choices": [
+            "From <TIME 00:14:54.043 video 1> to <TIME 00:14:58.059 video 1>",
+            "From <TIME 00:14:58.510 video 1> to <TIME 00:14:59.850 video 1>",
+            "From <TIME 00:15:08.260 video 1> to <TIME 00:15:08.690 video 1>",
+            "From <TIME 00:15:19.840 video 1> to <TIME 00:15:21.240 video 1>",
+            "From <TIME 00:15:02.280 video 1> to <TIME 00:15:03.050 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P02_R03_I02)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "When was ingredient water added to recipe cappuccino?",
+        "choices": [
+            "From <TIME 00:25:52.000 video 1> to <TIME 00:26:11.990 video 1>",
+            "From <TIME 00:35:00.780 video 1> to <TIME 00:35:08.180 video 1>",
+            "From <TIME 00:31:52.270 video 1> to <TIME 00:31:53.400 video 1>",
+            "From <TIME 00:05:19.300 video 1> to <TIME 00:05:24.540 video 1>",
+            "From <TIME 00:35:19.930 video 1> to <TIME 00:35:22.380 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P06_R07_I04)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "When was ingredient ground cinnamon added to recipe granola with almond milk and cinnamon?",
+        "choices": [
+            "From <TIME 00:22:57.080 video 1> to <TIME 00:22:57.530 video 1>",
+            "From <TIME 00:22:37.041 video 1> to <TIME 00:22:54.009 video 1>",
+            "From <TIME 00:23:47.790 video 1> to <TIME 00:24:13.410 video 1>",
+            "From <TIME 00:03:59.860 video 1> to <TIME 00:04:00.860 video 1>",
+            "From <TIME 00:18:50.240 video 1> to <TIME 00:18:52.290 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P04_R03_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "When was ingredient garlic added to recipe fish cakes and vegetables?",
+        "choices": [
+            "From <TIME 00:11:39.840 video 1> to <TIME 00:11:41.920 video 1>",
+            "From <TIME 00:14:21.000 video 1> to <TIME 00:14:25.990 video 1>",
+            "From <TIME 00:11:47.690 video 1> to <TIME 00:11:50.300 video 1>",
+            "From <TIME 00:12:21.140 video 1> to <TIME 00:12:23.510 video 1>",
+            "From <TIME 00:11:23.570 video 1> to <TIME 00:11:24.660 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R07_I05)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-231412"
+            }
+        },
+        "question": "When was ingredient concentrated fruit squash added to recipe squash?",
+        "choices": [
+            "From <TIME 00:00:08.716 video 1> to <TIME 00:00:10.529 video 1>",
+            "From <TIME 00:00:23.980 video 1> to <TIME 00:00:26.630 video 1>",
+            "From <TIME 00:00:16.740 video 1> to <TIME 00:00:17.490 video 1>",
+            "From <TIME 00:00:18.820 video 1> to <TIME 00:00:23.670 video 1>",
+            "From <TIME 00:00:27.190 video 1> to <TIME 00:00:30.570 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P02_R03_I02)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "When was ingredient potatoes added to recipe beef stroganoff?",
+        "choices": [
+            "From <TIME 00:01:47.550 video 1> to <TIME 00:01:48.190 video 1>",
+            "From <TIME 00:42:59.510 video 1> to <TIME 00:42:59.990 video 1>",
+            "From <TIME 00:10:12.043 video 1> to <TIME 00:10:59.033 video 1>",
+            "From <TIME 00:11:08.050 video 1> to <TIME 00:11:11.630 video 1>",
+            "From <TIME 00:46:32.190 video 1> to <TIME 00:46:34.270 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R02_I05)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "When was ingredient avocado added to recipe southwestern salad?",
+        "choices": [
+            "From <TIME 00:09:56.310 video 1> to <TIME 00:09:58.890 video 1>",
+            "From <TIME 00:10:42.090 video 1> to <TIME 00:10:42.960 video 1>",
+            "From <TIME 00:10:00.030 video 1> to <TIME 00:10:09.100 video 1>",
+            "From <TIME 00:23:30.160 video 1> to <TIME 00:23:30.960 video 1>",
+            "From <TIME 00:21:42.022 video 1> to <TIME 00:22:34.021 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P07_R07_I01)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient cinnamon sticks added to recipe mangsho bhuna?",
+        "choices": [
+            "From <TIME 00:02:04.395 video 1> to <TIME 00:02:05.395 video 1>",
+            "From <TIME 00:02:05.690 video 1> to <TIME 00:02:07.770 video 1>",
+            "From <TIME 00:02:09.880 video 1> to <TIME 00:02:10.770 video 1>",
+            "From <TIME 00:14:55.074 video 1> to <TIME 00:14:58.088 video 1>",
+            "From <TIME 00:11:59.000 video 1> to <TIME 00:12:01.500 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "real segment from similar ingredient: garlic and ginger paste (0.5801369898819142)",
+            "Positive ingredient (P09_R04_I10)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_50": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "When was ingredient split red lentils added to recipe red lentils squash curry?",
+        "choices": [
+            "From <TIME 00:38:11.860 video 1> to <TIME 00:38:12.790 video 1>",
+            "From <TIME 00:41:33.990 video 1> to <TIME 00:41:35.280 video 1>",
+            "From <TIME 00:00:02.390 video 1> to <TIME 00:00:04.330 video 1>",
+            "From <TIME 00:30:38.062 video 1> to <TIME 00:30:49.017 video 1>",
+            "From <TIME 00:53:10.120 video 1> to <TIME 00:53:13.180 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R01_I01)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_51": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient cardamom added to recipe mangsho bhuna?",
+        "choices": [
+            "From <TIME 00:02:28.644 video 1> to <TIME 00:02:29.801 video 1>",
+            "From <TIME 00:02:38.340 video 1> to <TIME 00:02:39.300 video 1>",
+            "From <TIME 00:01:52.023 video 1> to <TIME 00:01:53.601 video 1>",
+            "From <TIME 00:01:49.050 video 1> to <TIME 00:01:51.440 video 1>",
+            "From <TIME 00:11:59.000 video 1> to <TIME 00:12:01.500 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "real segment from similar ingredient: turmeric (0.6855841692894525)",
+            "real segment from similar ingredient: turmeric (0.6855841692894525)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P09_R04_I06)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_52": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "When was ingredient black beans added to recipe southwestern salad?",
+        "choices": [
+            "From <TIME 00:19:34.972 video 1> to <TIME 00:19:35.984 video 1>",
+            "From <TIME 00:18:58.560 video 1> to <TIME 00:19:04.740 video 1>",
+            "From <TIME 00:24:31.000 video 1> to <TIME 00:24:33.830 video 1>",
+            "From <TIME 00:24:29.610 video 1> to <TIME 00:24:30.950 video 1>",
+            "From <TIME 00:19:13.690 video 1> to <TIME 00:19:17.020 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P07_R07_I07)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_53": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "When was ingredient butternut squash added to recipe red lentils squash curry?",
+        "choices": [
+            "From <TIME 00:14:03.420 video 1> to <TIME 00:14:04.280 video 1>",
+            "From <TIME 00:10:41.790 video 1> to <TIME 00:10:42.450 video 1>",
+            "From <TIME 00:11:07.150 video 1> to <TIME 00:11:07.610 video 1>",
+            "From <TIME 00:09:25.560 video 1> to <TIME 00:09:26.020 video 1>",
+            "From <TIME 00:26:01.089 video 1> to <TIME 00:26:03.068 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R01_I03)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_54": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "When was ingredient sesame oil added to recipe fish cakes and vegetables?",
+        "choices": [
+            "From <TIME 00:19:28.560 video 1> to <TIME 00:19:29.390 video 1>",
+            "From <TIME 00:13:22.480 video 1> to <TIME 00:13:23.790 video 1>",
+            "From <TIME 00:15:46.830 video 1> to <TIME 00:15:48.460 video 1>",
+            "From <TIME 00:20:34.240 video 1> to <TIME 00:20:35.880 video 1>",
+            "From <TIME 00:19:37.000 video 1> to <TIME 00:19:43.990 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R07_I04)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_55": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "When was ingredient tuna added to recipe tuna pasta salad?",
+        "choices": [
+            "From <TIME 00:23:54.066 video 1> to <TIME 00:23:55.063 video 1>",
+            "From <TIME 00:23:19.620 video 1> to <TIME 00:23:22.590 video 1>",
+            "From <TIME 00:10:20.480 video 1> to <TIME 00:10:21.770 video 1>",
+            "From <TIME 00:23:10.240 video 1> to <TIME 00:23:12.300 video 1>",
+            "From <TIME 00:23:37.710 video 1> to <TIME 00:23:38.870 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P08_R06_I02)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_56": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "When was ingredient salted butter added to recipe bread omelette?",
+        "choices": [
+            "From <TIME 00:09:48.150 video 1> to <TIME 00:09:49.290 video 1>",
+            "From <TIME 00:09:15.090 video 1> to <TIME 00:09:16.290 video 1>",
+            "From <TIME 00:10:12.710 video 1> to <TIME 00:10:13.260 video 1>",
+            "From <TIME 00:10:50.898 video 1> to <TIME 00:16:38.990 video 1>",
+            "From <TIME 00:09:46.090 video 1> to <TIME 00:09:46.870 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R06_I04)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_57": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "When was ingredient salt added to recipe thai red curry?",
+        "choices": [
+            "From <TIME 00:13:38.000 video 1> to <TIME 00:13:43.990 video 1>",
+            "From <TIME 00:06:10.350 video 1> to <TIME 00:06:11.950 video 1>",
+            "From <TIME 00:07:26.810 video 1> to <TIME 00:07:29.030 video 1>",
+            "From <TIME 00:38:52.830 video 1> to <TIME 00:38:54.640 video 1>",
+            "From <TIME 00:20:07.350 video 1> to <TIME 00:20:07.980 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P09_R01_I09)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_58": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient turmeric added to recipe mangsho bhuna?",
+        "choices": [
+            "From <TIME 00:02:25.806 video 1> to <TIME 00:02:27.464 video 1>",
+            "From <TIME 00:11:59.000 video 1> to <TIME 00:12:01.500 video 1>",
+            "From <TIME 00:02:38.340 video 1> to <TIME 00:02:39.300 video 1>",
+            "From <TIME 00:02:28.644 video 1> to <TIME 00:02:29.801 video 1>",
+            "From <TIME 00:02:30.133 video 1> to <TIME 00:02:31.439 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P09_R04_I12)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_59": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "When was ingredient garlic powder added to recipe salmon teriyaki skewers with vegetables?",
+        "choices": [
+            "From <TIME 00:13:55.700 video 1> to <TIME 00:13:56.130 video 1>",
+            "From <TIME 00:12:21.500 video 1> to <TIME 00:12:30.780 video 1>",
+            "From <TIME 00:08:01.090 video 1> to <TIME 00:08:03.055 video 1>",
+            "From <TIME 00:12:12.070 video 1> to <TIME 00:12:14.610 video 1>",
+            "From <TIME 00:11:44.450 video 1> to <TIME 00:11:47.870 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R05_I08)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_60": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient chilli powder added to recipe mangsho bhuna?",
+        "choices": [
+            "From <TIME 00:02:15.342 video 1> to <TIME 00:02:16.342 video 1>",
+            "From <TIME 00:11:59.000 video 1> to <TIME 00:12:01.500 video 1>",
+            "From <TIME 00:02:13.006 video 1> to <TIME 00:02:15.414 video 1>",
+            "From <TIME 00:18:43.650 video 1> to <TIME 00:18:45.010 video 1>",
+            "From <TIME 00:38:03.220 video 1> to <TIME 00:38:04.070 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P09_R04_I11)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_61": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "When was ingredient olive oil added to recipe sauteed potatoes?",
+        "choices": [
+            "From <TIME 00:22:21.490 video 1> to <TIME 00:22:22.320 video 1>",
+            "From <TIME 00:15:49.001 video 1> to <TIME 00:15:50.091 video 1>",
+            "From <TIME 00:07:48.740 video 1> to <TIME 00:07:49.260 video 1>",
+            "From <TIME 00:22:19.040 video 1> to <TIME 00:22:19.440 video 1>",
+            "From <TIME 00:07:52.790 video 1> to <TIME 00:07:53.350 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P02_R02_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_62": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "When was ingredient whole milk added to recipe cappuccino?",
+        "choices": [
+            "From <TIME 00:36:58.550 video 1> to <TIME 00:36:59.070 video 1>",
+            "From <TIME 00:20:19.850 video 1> to <TIME 00:20:20.860 video 1>",
+            "From <TIME 00:36:09.650 video 1> to <TIME 00:36:11.840 video 1>",
+            "From <TIME 00:37:37.870 video 1> to <TIME 00:37:39.360 video 1>",
+            "From <TIME 00:29:43.000 video 1> to <TIME 00:29:58.990 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R07_I01)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_63": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "When was ingredient lettuce added to recipe southwestern salad?",
+        "choices": [
+            "From <TIME 00:15:56.360 video 1> to <TIME 00:15:57.890 video 1>",
+            "From <TIME 00:17:50.220 video 1> to <TIME 00:17:51.190 video 1>",
+            "From <TIME 00:15:21.990 video 1> to <TIME 00:15:23.490 video 1>",
+            "From <TIME 00:16:30.977 video 1> to <TIME 00:16:32.007 video 1>",
+            "From <TIME 00:15:57.560 video 1> to <TIME 00:16:02.820 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P07_R07_I09)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_64": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "When was ingredient olive oil added to recipe chopped salad and bread?",
+        "choices": [
+            "From <TIME 00:10:41.360 video 1> to <TIME 00:10:43.000 video 1>",
+            "From <TIME 00:10:56.038 video 1> to <TIME 00:11:09.002 video 1>",
+            "From <TIME 00:10:45.630 video 1> to <TIME 00:10:50.200 video 1>",
+            "From <TIME 00:11:09.130 video 1> to <TIME 00:11:11.230 video 1>",
+            "From <TIME 00:11:14.990 video 1> to <TIME 00:11:16.460 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R02_I09)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_65": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "When was ingredient greek yoghurt added to recipe southwestern salad?",
+        "choices": [
+            "From <TIME 00:11:20.090 video 1> to <TIME 00:11:24.810 video 1>",
+            "From <TIME 00:21:42.014 video 1> to <TIME 00:22:33.975 video 1>",
+            "From <TIME 00:11:39.000 video 1> to <TIME 00:11:40.860 video 1>",
+            "From <TIME 00:11:16.990 video 1> to <TIME 00:11:20.200 video 1>",
+            "From <TIME 00:11:37.520 video 1> to <TIME 00:11:38.900 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P07_R07_I02)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_66": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "When was ingredient kale added to recipe roasted kale?",
+        "choices": [
+            "From <TIME 00:54:58.130 video 1> to <TIME 00:55:03.510 video 1>",
+            "From <TIME 00:53:04.920 video 1> to <TIME 00:53:06.400 video 1>",
+            "From <TIME 00:53:55.010 video 1> to <TIME 00:54:04.004 video 1>",
+            "From <TIME 00:53:00.160 video 1> to <TIME 00:53:00.420 video 1>",
+            "From <TIME 00:55:33.200 video 1> to <TIME 00:55:34.730 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R06_I01)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_67": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-110250"
+            }
+        },
+        "question": "When was ingredient milk added to recipe nespresso?",
+        "choices": [
+            "From <TIME 00:02:38.370 video 1> to <TIME 00:02:39.530 video 1>",
+            "From <TIME 00:00:27.000 video 1> to <TIME 00:00:30.990 video 1>",
+            "From <TIME 00:02:37.910 video 1> to <TIME 00:02:38.570 video 1>",
+            "From <TIME 00:02:43.580 video 1> to <TIME 00:02:45.860 video 1>",
+            "From <TIME 00:02:54.120 video 1> to <TIME 00:02:55.540 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P01_R01_I02)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_68": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "When was ingredient olive oil cooking spray added to recipe salmon teriyaki skewers with vegetables?",
+        "choices": [
+            "From <TIME 00:08:03.350 video 1> to <TIME 00:08:04.610 video 1>",
+            "From <TIME 00:08:16.610 video 1> to <TIME 00:08:17.660 video 1>",
+            "From <TIME 00:12:20.110 video 1> to <TIME 00:12:21.400 video 1>",
+            "From <TIME 00:09:36.810 video 1> to <TIME 00:09:38.080 video 1>",
+            "From <TIME 00:08:12.096 video 1> to <TIME 00:08:14.069 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R05_I04)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_69": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "When was ingredient olive oil cooking spray added to recipe scrambled eggs?",
+        "choices": [
+            "From <TIME 00:10:03.830 video 1> to <TIME 00:10:04.440 video 1>",
+            "From <TIME 00:10:21.740 video 1> to <TIME 00:10:23.280 video 1>",
+            "From <TIME 00:10:23.840 video 1> to <TIME 00:10:24.920 video 1>",
+            "From <TIME 00:04:34.020 video 1> to <TIME 00:04:34.960 video 1>",
+            "From <TIME 00:04:36.085 video 1> to <TIME 00:06:36.097 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R03_I03)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_70": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "When was ingredient bamboo shoots added to recipe thai red curry?",
+        "choices": [
+            "From <TIME 00:23:54.650 video 1> to <TIME 00:23:55.540 video 1>",
+            "From <TIME 00:07:41.880 video 1> to <TIME 00:07:44.250 video 1>",
+            "From <TIME 00:24:37.025 video 1> to <TIME 00:25:49.080 video 1>",
+            "From <TIME 00:07:40.110 video 1> to <TIME 00:07:41.780 video 1>",
+            "From <TIME 00:23:58.240 video 1> to <TIME 00:24:07.200 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P09_R01_I01)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_71": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "When was ingredient coconut milk added to recipe red lentils squash curry?",
+        "choices": [
+            "From <TIME 00:29:29.700 video 1> to <TIME 00:29:32.110 video 1>",
+            "From <TIME 00:34:42.460 video 1> to <TIME 00:34:50.060 video 1>",
+            "From <TIME 00:29:24.850 video 1> to <TIME 00:29:29.600 video 1>",
+            "From <TIME 00:33:30.034 video 1> to <TIME 00:33:36.074 video 1>",
+            "From <TIME 00:36:42.840 video 1> to <TIME 00:36:47.880 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R01_I05)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_72": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "When was ingredient courgette added to recipe thai red curry?",
+        "choices": [
+            "From <TIME 00:09:45.240 video 1> to <TIME 00:09:46.030 video 1>",
+            "From <TIME 00:07:52.940 video 1> to <TIME 00:07:53.930 video 1>",
+            "From <TIME 00:08:04.150 video 1> to <TIME 00:08:05.040 video 1>",
+            "From <TIME 00:09:59.990 video 1> to <TIME 00:10:00.390 video 1>",
+            "From <TIME 00:24:14.042 video 1> to <TIME 00:24:22.036 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P09_R01_I05)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_73": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "When was ingredient sweet potatoes added to recipe southwestern salad?",
+        "choices": [
+            "From <TIME 00:01:22.000 video 1> to <TIME 00:01:24.100 video 1>",
+            "From <TIME 00:05:17.510 video 1> to <TIME 00:05:18.790 video 1>",
+            "From <TIME 00:02:04.210 video 1> to <TIME 00:02:13.880 video 1>",
+            "From <TIME 00:23:12.054 video 1> to <TIME 00:23:17.990 video 1>",
+            "From <TIME 00:00:41.460 video 1> to <TIME 00:00:42.270 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P07_R07_I04)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_74": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "When was ingredient mixed bean salad added to recipe tuna pasta salad?",
+        "choices": [
+            "From <TIME 00:17:57.200 video 1> to <TIME 00:17:58.570 video 1>",
+            "From <TIME 00:21:29.770 video 1> to <TIME 00:21:30.970 video 1>",
+            "From <TIME 00:19:47.023 video 1> to <TIME 00:19:50.044 video 1>",
+            "From <TIME 00:13:07.830 video 1> to <TIME 00:13:11.110 video 1>",
+            "From <TIME 00:05:01.830 video 1> to <TIME 00:05:02.200 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R06_I04)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_75": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "When was ingredient cheddar cheese added to recipe bacon and egg sandwich?",
+        "choices": [
+            "From <TIME 00:12:22.022 video 1> to <TIME 00:12:35.035 video 1>",
+            "From <TIME 00:12:37.110 video 1> to <TIME 00:12:37.890 video 1>",
+            "From <TIME 00:00:41.040 video 1> to <TIME 00:00:43.170 video 1>",
+            "From <TIME 00:12:37.930 video 1> to <TIME 00:12:40.310 video 1>",
+            "From <TIME 00:12:36.470 video 1> to <TIME 00:12:37.010 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P02_R04_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_76": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-095114"
+            }
+        },
+        "question": "When was ingredient milk added to recipe nespresso?",
+        "choices": [
+            "From <TIME 00:02:15.420 video 1> to <TIME 00:02:18.940 video 1>",
+            "From <TIME 00:01:31.780 video 1> to <TIME 00:01:40.600 video 1>",
+            "From <TIME 00:00:48.880 video 1> to <TIME 00:00:52.700 video 1>",
+            "From <TIME 00:00:32.200 video 1> to <TIME 00:00:33.310 video 1>",
+            "From <TIME 00:00:28.000 video 1> to <TIME 00:00:31.500 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P01_R01_I02)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_77": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "When was ingredient salt added to recipe bread omelette?",
+        "choices": [
+            "From <TIME 00:09:46.090 video 1> to <TIME 00:09:46.870 video 1>",
+            "From <TIME 00:06:42.000 video 1> to <TIME 00:06:46.990 video 1>",
+            "From <TIME 00:06:59.920 video 1> to <TIME 00:07:00.700 video 1>",
+            "From <TIME 00:09:21.750 video 1> to <TIME 00:09:24.050 video 1>",
+            "From <TIME 00:00:59.660 video 1> to <TIME 00:01:00.130 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "real segment from similar ingredient: salted butter (0.6590585675637676)",
+            "Positive ingredient (P06_R06_I05)",
+            "different real segment from same ingredient",
+            "real segment from similar ingredient: salted butter (0.6590585675637676)",
+            "real segment from similar ingredient: salted butter (0.6590585675637676)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_78": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "When was ingredient celery added to recipe tuna pasta salad?",
+        "choices": [
+            "From <TIME 00:08:32.720 video 1> to <TIME 00:08:33.960 video 1>",
+            "From <TIME 00:10:09.045 video 1> to <TIME 00:10:12.067 video 1>",
+            "From <TIME 00:09:22.690 video 1> to <TIME 00:09:23.140 video 1>",
+            "From <TIME 00:08:30.530 video 1> to <TIME 00:08:32.620 video 1>",
+            "From <TIME 00:20:11.740 video 1> to <TIME 00:20:12.540 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R06_I12)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_79": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "When was ingredient cottage cheese added to recipe kadhai paneer?",
+        "choices": [
+            "From <TIME 00:16:30.400 video 1> to <TIME 00:16:31.450 video 1>",
+            "From <TIME 00:16:43.100 video 1> to <TIME 00:16:43.490 video 1>",
+            "From <TIME 00:37:25.854 video 1> to <TIME 00:37:33.794 video 1>",
+            "From <TIME 00:16:15.680 video 1> to <TIME 00:16:17.020 video 1>",
+            "From <TIME 00:15:38.890 video 1> to <TIME 00:15:39.200 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R03_I04)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_80": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "When was ingredient plant-based burgers added to recipe beef stroganoff?",
+        "choices": [
+            "From <TIME 00:21:08.720 video 1> to <TIME 00:21:10.190 video 1>",
+            "From <TIME 00:23:48.570 video 1> to <TIME 00:23:50.130 video 1>",
+            "From <TIME 00:23:51.670 video 1> to <TIME 00:23:52.190 video 1>",
+            "From <TIME 00:48:10.350 video 1> to <TIME 00:48:12.920 video 1>",
+            "From <TIME 00:25:50.000 video 1> to <TIME 00:25:54.990 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R02_I03)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_81": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            }
+        },
+        "question": "When was ingredient coffee beans added to recipe drip coffee?",
+        "choices": [
+            "From <TIME 00:10:10.410 video 1> to <TIME 00:10:12.050 video 1>",
+            "From <TIME 00:10:23.770 video 1> to <TIME 00:10:24.870 video 1>",
+            "From <TIME 00:12:35.640 video 1> to <TIME 00:12:50.730 video 1>",
+            "From <TIME 00:09:10.000 video 1> to <TIME 00:09:19.990 video 1>",
+            "From <TIME 00:13:10.300 video 1> to <TIME 00:13:20.120 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R03_I02)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_82": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "When was ingredient coriander powder added to recipe kadhai paneer?",
+        "choices": [
+            "From <TIME 00:22:52.440 video 1> to <TIME 00:22:54.720 video 1>",
+            "From <TIME 00:22:17.530 video 1> to <TIME 00:22:21.750 video 1>",
+            "From <TIME 00:24:54.874 video 1> to <TIME 00:24:59.922 video 1>",
+            "From <TIME 00:22:20.650 video 1> to <TIME 00:22:23.100 video 1>",
+            "From <TIME 00:22:54.800 video 1> to <TIME 00:22:56.090 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R03_I13)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_83": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "When was ingredient red onions added to recipe scrambled eggs?",
+        "choices": [
+            "From <TIME 00:00:54.360 video 1> to <TIME 00:00:55.290 video 1>",
+            "From <TIME 00:05:37.054 video 1> to <TIME 00:05:40.043 video 1>",
+            "From <TIME 00:01:31.240 video 1> to <TIME 00:01:48.610 video 1>",
+            "From <TIME 00:01:50.180 video 1> to <TIME 00:01:51.000 video 1>",
+            "From <TIME 00:01:54.220 video 1> to <TIME 00:02:09.410 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R03_I01)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_84": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "When was ingredient red curry paste added to recipe thai red curry?",
+        "choices": [
+            "From <TIME 00:15:38.002 video 1> to <TIME 00:15:40.094 video 1>",
+            "From <TIME 00:14:39.880 video 1> to <TIME 00:14:43.830 video 1>",
+            "From <TIME 00:06:22.310 video 1> to <TIME 00:06:24.590 video 1>",
+            "From <TIME 00:06:33.140 video 1> to <TIME 00:06:35.420 video 1>",
+            "From <TIME 00:15:35.020 video 1> to <TIME 00:15:36.310 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P09_R01_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_85": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            }
+        },
+        "question": "When was ingredient eggs added to recipe chocolate pudding?",
+        "choices": [
+            "From <TIME 00:03:47.940 video 1> to <TIME 00:03:48.380 video 1>",
+            "From <TIME 00:01:19.079 video 1> to <TIME 00:01:32.067 video 1>",
+            "From <TIME 00:03:45.760 video 1> to <TIME 00:03:46.670 video 1>",
+            "From <TIME 00:06:01.400 video 1> to <TIME 00:07:27.130 video 1>",
+            "From <TIME 00:08:21.580 video 1> to <TIME 00:09:09.680 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P05_R05_I01)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_86": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "When was ingredient salt added to recipe kadhai paneer?",
+        "choices": [
+            "From <TIME 00:24:54.874 video 1> to <TIME 00:24:59.922 video 1>",
+            "From <TIME 00:19:39.530 video 1> to <TIME 00:19:44.410 video 1>",
+            "From <TIME 00:19:06.960 video 1> to <TIME 00:19:07.850 video 1>",
+            "From <TIME 00:19:12.020 video 1> to <TIME 00:19:12.610 video 1>",
+            "From <TIME 00:23:10.000 video 1> to <TIME 00:23:17.990 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "real segment from similar ingredient: coriander powder (0.6097894300125775)",
+            "real segment from similar ingredient: salted butter (0.6590585675637676)",
+            "real segment from similar ingredient: salted butter (0.6590585675637676)",
+            "real segment from similar ingredient: salted butter (0.6590585675637676)",
+            "Positive ingredient (P06_R03_I15)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_87": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "When was ingredient sweetcorn added to recipe mushroom, tomato, sweetcorn and onion saute?",
+        "choices": [
+            "From <TIME 00:24:41.200 video 1> to <TIME 00:24:42.090 video 1>",
+            "From <TIME 00:25:39.520 video 1> to <TIME 00:25:40.580 video 1>",
+            "From <TIME 00:24:42.930 video 1> to <TIME 00:25:05.020 video 1>",
+            "From <TIME 00:24:32.090 video 1> to <TIME 00:24:36.037 video 1>",
+            "From <TIME 00:25:35.420 video 1> to <TIME 00:25:36.560 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P02_R01_I05)",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_88": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "When was ingredient eggs added to recipe bread omelette?",
+        "choices": [
+            "From <TIME 00:06:42.250 video 1> to <TIME 00:06:45.940 video 1>",
+            "From <TIME 00:12:12.930 video 1> to <TIME 00:12:15.740 video 1>",
+            "From <TIME 00:00:25.030 video 1> to <TIME 00:00:27.580 video 1>",
+            "From <TIME 00:01:55.560 video 1> to <TIME 00:01:56.360 video 1>",
+            "From <TIME 00:04:36.028 video 1> to <TIME 00:05:13.026 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R06_I02)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_89": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            }
+        },
+        "question": "When was ingredient flour added to recipe chocolate pudding?",
+        "choices": [
+            "From <TIME 00:16:12.240 video 1> to <TIME 00:16:14.340 video 1>",
+            "From <TIME 00:16:11.640 video 1> to <TIME 00:16:12.040 video 1>",
+            "From <TIME 00:09:35.750 video 1> to <TIME 00:09:36.670 video 1>",
+            "From <TIME 00:09:20.910 video 1> to <TIME 00:09:21.940 video 1>",
+            "From <TIME 00:09:48.000 video 1> to <TIME 00:12:25.077 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P05_R05_I05)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_90": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient chilli added to recipe mangsho bhuna?",
+        "choices": [
+            "From <TIME 00:28:08.000 video 1> to <TIME 00:28:11.990 video 1>",
+            "From <TIME 00:02:18.377 video 1> to <TIME 00:02:19.377 video 1>",
+            "From <TIME 00:18:43.650 video 1> to <TIME 00:18:45.010 video 1>",
+            "From <TIME 00:28:08.950 video 1> to <TIME 00:28:09.700 video 1>",
+            "From <TIME 00:02:15.342 video 1> to <TIME 00:02:16.342 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P09_R04_I05)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_91": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "When was ingredient red onions added to recipe fish cakes and vegetables?",
+        "choices": [
+            "From <TIME 00:08:45.100 video 1> to <TIME 00:08:46.140 video 1>",
+            "From <TIME 00:10:32.670 video 1> to <TIME 00:10:35.230 video 1>",
+            "From <TIME 00:14:19.000 video 1> to <TIME 00:14:24.990 video 1>",
+            "From <TIME 00:10:26.830 video 1> to <TIME 00:10:30.830 video 1>",
+            "From <TIME 00:07:07.970 video 1> to <TIME 00:07:10.850 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R07_I08)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_92": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient yoghurt added to recipe mangsho bhuna?",
+        "choices": [
+            "From <TIME 00:11:44.564 video 1> to <TIME 00:11:45.652 video 1>",
+            "From <TIME 00:11:46.556 video 1> to <TIME 00:11:48.285 video 1>",
+            "From <TIME 00:13:37.065 video 1> to <TIME 00:13:44.056 video 1>",
+            "From <TIME 00:11:45.554 video 1> to <TIME 00:11:46.554 video 1>",
+            "From <TIME 00:11:48.138 video 1> to <TIME 00:11:48.918 video 1>"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P09_R04_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_93": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "When was ingredient garlic added to recipe kadhai paneer?",
+        "choices": [
+            "From <TIME 00:11:18.000 video 1> to <TIME 00:11:19.990 video 1>",
+            "From <TIME 00:10:40.580 video 1> to <TIME 00:10:41.590 video 1>",
+            "From <TIME 00:11:08.230 video 1> to <TIME 00:11:08.720 video 1>",
+            "From <TIME 00:11:15.950 video 1> to <TIME 00:11:17.830 video 1>",
+            "From <TIME 00:10:49.770 video 1> to <TIME 00:10:50.820 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P06_R03_I06)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_94": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "When was ingredient cherry tomatoes added to recipe chopped salad and bread?",
+        "choices": [
+            "From <TIME 00:04:28.048 video 1> to <TIME 00:04:30.051 video 1>",
+            "From <TIME 00:04:06.530 video 1> to <TIME 00:04:07.810 video 1>",
+            "From <TIME 00:04:08.060 video 1> to <TIME 00:04:10.540 video 1>",
+            "From <TIME 00:04:04.950 video 1> to <TIME 00:04:05.990 video 1>",
+            "From <TIME 00:04:10.800 video 1> to <TIME 00:04:12.030 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P08_R02_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_95": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "When was ingredient water added to recipe aloo paratha?",
+        "choices": [
+            "From <TIME 00:26:43.180 video 1> to <TIME 00:26:43.820 video 1>",
+            "From <TIME 00:02:08.000 video 1> to <TIME 00:02:13.990 video 1>",
+            "From <TIME 00:25:24.890 video 1> to <TIME 00:25:26.720 video 1>",
+            "From <TIME 00:01:55.670 video 1> to <TIME 00:01:56.040 video 1>",
+            "From <TIME 00:26:40.640 video 1> to <TIME 00:26:41.400 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P06_R05_I03)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_96": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "When was ingredient strawberry granola added to recipe granola with almond milk and cinnamon?",
+        "choices": [
+            "From <TIME 00:20:52.770 video 1> to <TIME 00:20:56.720 video 1>",
+            "From <TIME 00:21:02.058 video 1> to <TIME 00:21:15.039 video 1>",
+            "From <TIME 00:18:59.130 video 1> to <TIME 00:19:02.820 video 1>",
+            "From <TIME 00:23:05.320 video 1> to <TIME 00:23:05.980 video 1>",
+            "From <TIME 00:21:29.290 video 1> to <TIME 00:21:31.750 video 1>"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "different real segment from same ingredient",
+            "Positive ingredient (P04_R03_I01)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_97": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "When was ingredient salt added to recipe mangsho bhuna?",
+        "choices": [
+            "From <TIME 00:29:17.000 video 1> to <TIME 00:29:18.500 video 1>",
+            "From <TIME 00:29:10.030 video 1> to <TIME 00:29:10.490 video 1>",
+            "From <TIME 00:29:11.730 video 1> to <TIME 00:29:16.040 video 1>",
+            "From <TIME 00:29:25.850 video 1> to <TIME 00:29:26.240 video 1>",
+            "From <TIME 00:29:23.830 video 1> to <TIME 00:29:25.750 video 1>"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "Positive ingredient (P09_R04_I14)",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_98": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "When was ingredient sundried tomato couscous added to recipe fish cakes and vegetables?",
+        "choices": [
+            "From <TIME 00:26:02.910 video 1> to <TIME 00:26:04.230 video 1>",
+            "From <TIME 00:13:46.970 video 1> to <TIME 00:13:48.130 video 1>",
+            "From <TIME 00:09:35.540 video 1> to <TIME 00:09:39.140 video 1>",
+            "From <TIME 00:25:59.700 video 1> to <TIME 00:26:01.780 video 1>",
+            "From <TIME 00:09:06.000 video 1> to <TIME 00:09:11.990 video 1>"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P08_R07_I09)"
+        ]
+    },
+    "ingredient_ingredient_adding_localization_99": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "When was ingredient tomato puree added to recipe beef stroganoff?",
+        "choices": [
+            "From <TIME 00:18:56.720 video 1> to <TIME 00:18:57.860 video 1>",
+            "From <TIME 00:37:09.490 video 1> to <TIME 00:37:10.820 video 1>",
+            "From <TIME 00:37:33.770 video 1> to <TIME 00:37:35.270 video 1>",
+            "From <TIME 00:37:24.000 video 1> to <TIME 00:37:27.990 video 1>",
+            "From <TIME 00:37:10.860 video 1> to <TIME 00:37:13.000 video 1>"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "different real segment from same ingredient",
+            "Positive ingredient (P03_R02_I06)",
+            "different real segment from same ingredient"
+        ]
+    }
+}

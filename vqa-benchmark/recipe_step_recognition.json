@@ -1,0 +1,1602 @@
+{
+    "recipe_step_recognition_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:00:03.720 video 1> and <TIME 00:00:52.244 video 1> in this video?",
+        "choices": [
+            "When the rice is cooked take the pan off the heat, add butter and scatter over grated parmesan or Grana Padano cheese and tear and scatter a handful of parsley leaves. Chop the rest of the parsley and save for later",
+            "Stir in chopped chestnut mushrooms, chopped shiitake mushrooms, and the dried mushrooms",
+            "Give the risotto a final stir, add more parsley and taste",
+            "Season with salt and pepper and continue to cook, stirring regularly, for 8 mins until the fresh mushrooms have softened",
+            "Add about the same amount of stock again and continue to simmer and stir - it should start to become creamy, plump and tender. By the time the final quarter of stock is added, the rice should be almost cooked"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:31:11.288 video 1> and <TIME 00:34:04.703 video 1> in this video?",
+        "choices": [
+            "Put in the oven and bake for 10 to 11 minutes or until the edges are set and the cookies have puffed up, but the middles are still underbaked",
+            "Last, fold in the chocolate chips. Set aside to let the flour hydrate in the dough",
+            "Add the banana to the melted butter and sugar. Mix to combine",
+            "Add vanilla extract. Mix well",
+            "Use a cookie scoop or a spoon to scoop out about 1 inch dough balls. Place 2 inches apart on the prepared cookie sheet"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:06:22.443 video 1> and <TIME 00:06:40.130 video 1> in this video?",
+        "choices": [
+            "Whilst the eggs and bacon continue cooking, shred cheddar cheese into a bowl",
+            "To serve, cut the baguette in half and butter both sides. Add the bacon, scrambled eggs, and cheese",
+            "Heat half the oil in a large frying pan, add bacon and cook, turning occasionally, until browned and cooked to your liking (3-4 minutes for semi-crisp)",
+            "In another pan, add remaining oil, crack eggs into a measuring jug, add some milk and beat them. Add pepper to taste",
+            "Season the eggs with salt and add paprika if desired"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:08:25.882 video 1> and <TIME 00:09:11.586 video 1> in this video?",
+        "choices": [
+            "Pour the Parmesan eggs into the pan, and keep everything moving, loosening with splashes of the pasta cooking water until you have a silky sauce. Make sure the pan isn't too hot otherwise the eggs will scramble",
+            "Mix salad ingredients with oil and vinegar",
+            "Use tongs to transfer your pasta straight into the pan and toss with the bacon",
+            "Slice the bacon and place in a non-stick frying pan on a medium heat with half a tablespoon of olive oil and a really good pinch of black pepper. Leave it to get super-golden and crispy, tossing occasionally, then add the peas",
+            "Plate up the pasta, and finish with an extra grating of Parmesan"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:12:28.810 video 1> and <TIME 00:12:46.846 video 1> in this video?",
+        "choices": [
+            "Salt 30 minutes - Put them in a bowl then toss with salt. Leave for 30 minutes. The salt will draw out water from the cucumbers which dilutes flavour when you eat them. It also seasons the cucumbers all the way though",
+            "Whisk the soy sauce and sesame oil in a bowl until it combines properly. You'll know because it becomes murky and thicker, rather than clear and split",
+            "Drain and discard the cucumber water from the bowl (too salty to re-use for another purpose). Use a colander if you want to be thorough else just drain it out of the bowl, using your hand to hold the cucumbers in",
+            "Add 2 teaspoons of chilli crisp - or more if you dare! You want to get a mound of the crispy chilli - it will be well soaked with the red chilli oil that colours this salad. You can always add more after you toss. Taste and add, taste and add!",
+            "Finally grate and add ginger and garlic to bowl. Toss well then pile up high into a shallow bowl and serve!"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:12:29.334 video 1> and <TIME 00:12:49.025 video 1> in this video?",
+        "choices": [
+            "Place fishcakes on baking tray and place in over for 30 minutes",
+            "Preheat the oven to 180 degrees C",
+            "Add couscous and boiling water to pot (no flame needed), leave until water has been absorbed",
+            "Add broccoli and green beans to pan and stir",
+            "Season pan with salt, pepper, and sesame oil"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:07:46.078 video 1> and <TIME 00:08:23.328 video 1> in this video?",
+        "choices": [
+            "In a large bowl, combine the melted butter and sugar. Mix to combine",
+            "Turn the kettle on to boil",
+            "Separate an egg yolk and add",
+            "Dose your ground coffee into the portafilter",
+            "Put in the oven and bake for 10 to 11 minutes or until the edges are set and the cookies have puffed up, but the middles are still underbaked"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:32:10.968 video 1> and <TIME 00:32:38.380 video 1> in this video?",
+        "choices": [
+            "Add the tomato puree to the mixture in the pan and mix it thoroughly. Cook the puree for about 5 minutes on a low flame or until the butter separates out from the mixture",
+            "Add the chopped onion and saute for 3 minutes until softened. Then add the sliced green chili and ginger garlic paste and saute for another 1 to 2 minutes",
+            "Chop half of the onion into smaller pieces and other half into larger bits. Chop the tomatoes into smaller pieces and grind them in a grinder with fresh garlic and green chillies to make a smooth tomato puree. Chop some green chillies into pieces and add them into the puree",
+            "In the morning, drain the water in which the dal and rajma was soaked. Transfer the dal and rajma to a pressure cooker with 1 teaspoon salt. Add around 3.5 cups water. Cook in the pressure cooker on high-medium heat for 10 whistles, then lower the heat to low-medium and cook for another 10 minutes. In total around 15 to 20 whistles",
+            "Add turmeric powder, coriander powder, garam masala powder, red chilli powder, and salt to the mixture and saute the mixture uniformly. Then add 1/2 cup water and stir. Wait for the whole mixture to homogenise"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:10:53.475 video 1> and <TIME 00:11:03.540 video 1> in this video?",
+        "choices": [
+            "Preheat the oven to 180 degrees C/gas mark 4",
+            "Add broccoli and salmon skewers to plate ontop of salad. Serve and enjoy!",
+            "Pre-heat air fryer to 180 degrees C",
+            "Add pre-made Chickpea, Spinach & Quinoa salad to plate",
+            "Place broccoli in air fryer and roast for 15 minutes. Season with oil, salt, pepper, oregano, and garlic granules half-way through"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:09:23.166 video 1> and <TIME 00:10:03.498 video 1> in this video?",
+        "choices": [
+            "Tear the lettuce and place it in a large bowl",
+            "Crumble the blue cheese into the bowl",
+            "Stir the ingredients in the bowl together to mix",
+            "Drain the olives, tear them in half and add them to the bowl",
+            "Chop the cucumber into small pieces and add it to the bowl"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-172243"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:02:48.540 video 1> and <TIME 00:03:40.519 video 1> in this video?",
+        "choices": [
+            "Take the lid off and stir. If it looks a little dry add a splash of water. Add the Garam Masala. Stir in and put the lid back on. Leave to cook for another 15 minutes",
+            "Add the onions and when they start to sizzle add the whole spices and chillies. Cook on a low heat until the onions are starting to brown",
+            "Add the tomatoes, mango chutney and salt, stir in and bring to a simmer. Turn the heat to the lowest you can (a heat diffuser on gas works a treat) and put the lid on. Leave to cook for around 20 minutes",
+            "Add the curry Masala or ground spices to the pan and continue to cook on a low heat for 45 seconds",
+            "Heat the oil in a heavy bottomed pan; make sure you have a lid for it"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "What step did the participant do between <TIME 01:04:32.549 video 1> and <TIME 01:05:59.728 video 1> in this video?",
+        "choices": [
+            "When the onions and potatoes are cooked, carefully pour the eggs on top ensuring the eggs cover the potatoes and onions evenly. Cook the eggs with a low heat until there's almost no runny egg on top",
+            "Add the oil and the salt, mixing everything well. The quantities are fairly loose: just make sure the leaves are coated and sprinkle with a bit of salt",
+            "Fry the potatoes on a medium-heat pan with abundant oil turning the potatoes frequently so that they don't burn. Split larger chunks with a spatula as they soften while cooking to ensure an even size of chunks. Add a pinch of salt while frying the potatoes",
+            "Repeat the previous step several times until the dough is uniform and no longer sticks to the hands",
+            "Mix the flour with yeast, salt and water in a large bowl using a wooden spoon"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:20:29.199 video 1> and <TIME 00:20:48.605 video 1> in this video?",
+        "choices": [
+            "Place the chopped onions and tomato on the pancake in the pan and flip the sides of the pancake on the lower flame",
+            "Sprinkle little oil over the onions and turn to the other side. Put some more butter on the sides of the pancake in the pan, so that it does not stick to the sides of the pan",
+            "Make sure it is cooked well from inside. If you like caramelized onions, you may cook longer. To make the next uttapam, ensure the pan is hot enough",
+            "Do not spread the batter too much, uthappam has to be made thick. If the batter doesn't spread on its own, then you may lightly spread a bit. Lower the flame",
+            "When the pan is hot enough, pour a ladle full of batter in the centre of the pan. At this stage the pan has to be hot otherwise the batter won't rise and the uttapams will be flat"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:34:56.541 video 1> and <TIME 00:35:39.560 video 1> in this video?",
+        "choices": [
+            "Then add in the garlic and ginger paste, ghee, yoghurt and stir",
+            "Once the meat is cooked and tender, add the fried onion, cumin, garam masala, ghee and chili and cook through until the meat is tender",
+            "Cover and cook until the meat is cooked through and a bit tender (50 - 55mins), occasionally adding water and stirring to prevent burning and sticking to the pan",
+            "Peel and slice mangoes",
+            "Blend on high until smooth, approx. 2 - 3 min"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:23:14.311 video 1> and <TIME 00:24:44.367 video 1> in this video?",
+        "choices": [
+            "Stir in the red lentils and the dhal spice mix",
+            "Cut the squash into 2cm chunks and peel it",
+            "Fry the onion until golden (around 6-8 mins)",
+            "Add the spicy garlic & coconut paste to the pan and mix well",
+            "Chop the onion"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:01:39.488 video 1> and <TIME 00:01:47.193 video 1> in this video?",
+        "choices": [
+            "Mix salad ingredients with oil and vinegar",
+            "Use tongs to transfer your pasta straight into the pan and toss with the bacon",
+            "Plate up the pasta, and finish with an extra grating of Parmesan",
+            "Slice the bacon and place in a non-stick frying pan on a medium heat with half a tablespoon of olive oil and a really good pinch of black pepper. Leave it to get super-golden and crispy, tossing occasionally, then add the peas",
+            "Meanwhile, beat the eggs in a bowl, then finely grate in the Parmesan and mix well"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-150155"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:33:30.847 video 1> and <TIME 00:33:55.642 video 1> in this video?",
+        "choices": [
+            "Once boiled, shred the chicken",
+            "Dredge each Chicken-cheese ball into flour, then dip into egg and roll in the breadcrumbs, ensuring the entire surface of the chicken ball is covered in breadcrumbs",
+            "Once boiled, drain out any excess water from the potatoes and then mash them",
+            "In separate pots, boil the chicken and potatoes until cooked through",
+            "Cover the pot and bring to a boil for about 30 minutes, occasionally stirring"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:09:17.882 video 1> and <TIME 00:09:50.739 video 1> in this video?",
+        "choices": [
+            "In a large bowl, add 2 cups whole wheat flour (atta). Make a well in the centre. Add 1 tablespoon oil or ghee, and roughly 1/3 to 1/2 cup water",
+            "On one of the discs, place the potato stuffing in the centre, keeping about 1-inch empty space from the sides",
+            "Pinch two small balls from the dough. Flatten them and dust with whole wheat flour",
+            "With a rolling pin, roll them into rounds roughly 4 to 5 inches in diameter. Try making both the discs the same size",
+            "Spread some butter on the second side facing you. A well-made and well-roasted aloo paratha will always puff up when roasting"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:29:29.735 video 1> and <TIME 00:30:26.057 video 1> in this video?",
+        "choices": [
+            "Cover with a lid, turn the heat down and let it simmer for 10 mins",
+            "Fry the onion until golden (around 6-8 mins)",
+            "Add the spicy garlic & coconut paste to the pan and mix well",
+            "Stir in the red lentils and the dhal spice mix",
+            "Rinse lentils"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:03:10.441 video 1> and <TIME 00:04:18.400 video 1> in this video?",
+        "choices": [
+            "Take a bread slice dip in the egg then flip over and place it. Repeat this for the other egg too. So, the dipped side should come on top. Drizzle oil or butter",
+            "Chop an onion into smaller pieces and add it to the whisked eggs",
+            "Heat a pan with butter when it is hot - pour the egg mixture on it. Tilt it so that the egg mixture is even on all the edges",
+            "Take another empty cup and put 2 teaspoons of sugar and coffee in the cup. Add about a half tablespoon of water and slowly add more until the ingredients are just wet so that you can beat the mixture",
+            "Add more water if needed, about 1/2 teaspoon at a time, whipping it vigorously with the spoon"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:00:17.605 video 1> and <TIME 00:00:23.241 video 1> in this video?",
+        "choices": [
+            "Place salmon teriyaki skewers on a baking sheet. Roast for 11 to 15 minutes, until just cooked. Set aside until cool enough to handle",
+            "Pre-heat air fryer to 180 degrees C",
+            "Preheat the oven to 180 degrees C/gas mark 4",
+            "Place broccoli in air fryer and roast for 15 minutes. Season with oil, salt, pepper, oregano, and garlic granules half-way through",
+            "Add broccoli and salmon skewers to plate ontop of salad. Serve and enjoy!"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:30:38.955 video 1> and <TIME 00:31:41.261 video 1> in this video?",
+        "choices": [
+            "Chop the onion",
+            "Add the spicy garlic & coconut paste to the pan and mix well",
+            "Stir in the red lentils and the dhal spice mix",
+            "Wash the spring greens and slice them",
+            "Stir in the spring greens and then put the lid back on and cook for 5 more mins"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:05:33.225 video 1> and <TIME 00:05:52.757 video 1> in this video?",
+        "choices": [
+            "Stir the chickpeas and roast for 10 to 15 more minutes",
+            "Chop the cucumber into small pieces and add it to the bowl",
+            "Mix the salad and the chickpeas together in a bowl to serve",
+            "Drain the olives, tear them in half and add them to the bowl",
+            "Remove the chickpeas from the oven and discard any burnt chickpeas"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:14:49.773 video 1> and <TIME 00:15:03.723 video 1> in this video?",
+        "choices": [
+            "Stir the salad and add the dressing. Stir again",
+            "Add the sweetcorn and beans to the bowl. Chop the rest of the avocado and add",
+            "Pulse all the dressing ingredients in a food processor until mostly smooth",
+            "Check the sweet potatoes and roast for another 10-15 minutes",
+            "Add the sweet potatoes"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:13:22.132 video 1> and <TIME 00:14:12.221 video 1> in this video?",
+        "choices": [
+            "Flip again and you will see nice golden blisters on the second side. To clarify, the side which has been spread with ghee will be on the bottom",
+            "Gently place the second circle on top. Press and seal the edges with your fingertips. If you are not able to seal the edges, then brush or spread some water on the edges and then seal",
+            "Spread some butter on the partly cooked part",
+            "In a large bowl, add 2 cups whole wheat flour (atta). Make a well in the centre. Add 1 tablespoon oil or ghee, and roughly 1/3 to 1/2 cup water",
+            "Pinch two small balls from the dough. Flatten them and dust with whole wheat flour"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:18:13.125 video 1> and <TIME 00:18:44.649 video 1> in this video?",
+        "choices": [
+            "Add 300ml of water and 1tbsp of lemon juice followed by the drained basmati rice and fry on a slightly high flame for 2 to 3 minutes. Mix gently to evenly coat the rice with the cooked masala",
+            "Add the chilli, garlic and ginger into a kitchen mortar and crush them together into a paste using a pestle",
+            "Pour 5 tbsp of olive oil, and 1 tbsp of ghee into to a pressure cooker placed on medium heat. When the oil/ghee mixture becomes hot, add the spices (bay leaf, cardamom, cloves, anise flower etc) and cashew nuts to it and saute for a few minutes allowing them to fry. Once the cashews turn slightly golden brown, add chopped onions and fry it for a while. Then add the spice paste from the mortar into the cooker and saute the mixture",
+            "After a few minutes, add garam masala powder to the cooker and continue to saute until mixed well. Salt maybe added. Then add green peas into the cooker and stir fry for a few minutes under medium heat",
+            "Cover the pressure cooker and place the whistle. Pressure cook for 2 whistles on a medium high flame. Turn off and remove from the stove. Leaving it on the hot burner will further cook the rice"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:20:50.477 video 1> and <TIME 00:21:04.382 video 1> in this video?",
+        "choices": [
+            "Add the sweetcorn and beans to the bowl. Chop the rest of the avocado and add",
+            "Add the sweet potatoes",
+            "Remove the sweet potatoes from the oven",
+            "Pulse all the dressing ingredients in a food processor until mostly smooth",
+            "Check the sweet potatoes and roast for another 10-15 minutes"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:18:48.933 video 1> and <TIME 00:19:09.822 video 1> in this video?",
+        "choices": [
+            "Make sure all vegetables are beneath the liquid's surface. Stir and allow to boil",
+            "Add the chicken chunks in (they should have been cooked 80%)",
+            "Add coconut milk to the mix",
+            "Add in the chopped vegetables (courgette, bamboo shoots and chili. Chili is optional)",
+            "Mix all and stir and don't let it burn"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:09:31.832 video 1> and <TIME 00:10:03.924 video 1> in this video?",
+        "choices": [
+            "Mix salad ingredients with oil and vinegar",
+            "Plate up the pasta, and finish with an extra grating of Parmesan",
+            "Meanwhile, beat the eggs in a bowl, then finely grate in the Parmesan and mix well",
+            "Use tongs to transfer your pasta straight into the pan and toss with the bacon",
+            "Slice the bacon and place in a non-stick frying pan on a medium heat with half a tablespoon of olive oil and a really good pinch of black pepper. Leave it to get super-golden and crispy, tossing occasionally, then add the peas"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:49:44.081 video 1> and <TIME 00:50:18.917 video 1> in this video?",
+        "choices": [
+            "Layer the cooled raspberry lemon curd onto the top of the tart. Serve immediately. Store any leftovers in the refrigerator",
+            "In the meantime, prepare the puff pastry. Roll out the puff pastry to about 10 inches by 14 inches, then cut into squares",
+            "Liberally butter one side of each slice of bread",
+            "Bake at 200 degrees C for 15 minutes, until the pastry is puffed. Cool for 3 minutes",
+            "Top one side with cheese. Add crisps if using"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:07:50.033 video 1> and <TIME 00:07:52.158 video 1> in this video?",
+        "choices": [
+            "Preheat the pan over medium low heat then add 2 tablespoons olive oil",
+            "Microwave potatoes for 4-6 minutes until just soft",
+            "When ready to serve, heat 6-8 tbsp sunflower or olive oil in a large non-stick frying pan until you can feel a strong heat rising",
+            "Add the sweetcorn and season with Worcestershire sauce and apple cider vinegar. Cook for 5 more minutes",
+            "Add the de-seeded, chopped tomatoes and cook slowly until softened"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:20:38.311 video 1> and <TIME 00:21:05.345 video 1> in this video?",
+        "choices": [
+            "Rinse lentils",
+            "Chop the onion",
+            "Wash the spring greens and slice them",
+            "Stir in the red lentils and the dhal spice mix",
+            "Add the spicy garlic & coconut paste to the pan and mix well"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:26:02.905 video 1> and <TIME 00:27:09.447 video 1> in this video?",
+        "choices": [
+            "Grate the cheese",
+            "Give the risotto a final stir, add more parsley and taste",
+            "Add about the same amount of stock again and continue to simmer and stir - it should start to become creamy, plump and tender. By the time the final quarter of stock is added, the rice should be almost cooked",
+            "Stir in chopped chestnut mushrooms, chopped shiitake mushrooms, and the dried mushrooms",
+            "When the rice is cooked take the pan off the heat, add butter and scatter over grated parmesan or Grana Padano cheese and tear and scatter a handful of parsley leaves. Chop the rest of the parsley and save for later"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:19:43.467 video 1> and <TIME 00:19:45.245 video 1> in this video?",
+        "choices": [
+            "Puree the soup in batches in a blender until smooth. (Use caution when pureeing hot liquids.) Stir in spice mix and fresh coriander",
+            "Start by mixing the melted butter, sweetened condensed milk with the cocoa powder. Combine them really well together, but it's okay if there are a few small lumps",
+            "In a large bowl mix together flour, salt and then add oil. In a separate cup mix yeast with sugar in warm water. Pour over everything else and start kneading until the mix gets doughy and easy to work with. Using your hands rub the bowl with some oil and also rub some on the dough itself while keeping it as a big round shape then cover the bowl with plastic wrapping and a blanket and let it rest for about an hour",
+            "Heat butter in a pot over medium heat until the butter melts. Add onion; cook, stirring occasionally, until softened, 4 to 6 minutes. Stir in carrots and mix until properly coated. Add water and broth; bring to a lively simmer over high heat.  Reduce heat to maintain a lively simmer and cook until very tender, about 25 minutes",
+            "Leave the stuffing to cool, then add a spoonful of yoghurt and another spoonful of tahini and a generous amount of sumac"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:13:16.192 video 1> and <TIME 00:13:22.451 video 1> in this video?",
+        "choices": [
+            "Add couscous and boiling water to pot (no flame needed), leave until water has been absorbed",
+            "Preheat the oven to 180 degrees C",
+            "Add oil to a nonstick pan. Bring to medium heat",
+            "Place frozen broccoli and green beans to air fryer for 10 minutes. Season with salt and pepper half-way through",
+            "Place fishcakes on baking tray and place in over for 30 minutes"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:10:51.917 video 1> and <TIME 00:11:07.989 video 1> in this video?",
+        "choices": [
+            "Add more water if needed, about 1/2 teaspoon at a time, whipping it vigorously with the spoon",
+            "Pour the heated milk in the golden-brown paste and stir it well until all ingredients are uniformly mixed. Heat the cappuccino again in microwave for 30 seconds and it is ready to drink",
+            "Take a bread slice dip in the egg then flip over and place it. Repeat this for the other egg too. So, the dipped side should come on top. Drizzle oil or butter",
+            "Heat a pan with butter when it is hot - pour the egg mixture on it. Tilt it so that the egg mixture is even on all the edges",
+            "Chop an onion into smaller pieces and add it to the whisked eggs"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:17:48.665 video 1> and <TIME 00:18:12.790 video 1> in this video?",
+        "choices": [
+            "Add frozen peas to the pasta with 4 minutes left",
+            "Drain the pasta when al dente, and add the pesto",
+            "Pick, roughly chop and add the basil leaves, then bash to a paste (or pulse in a food processor)",
+            "Drizzle in some oil - you need just enough to bind the sauce and get it to an oozy consistency",
+            "Add most of the remaining cheese, then season to perfection with salt and black pepper. Have a taste, and keep adding a bit more cheese or oil until you are happy with the taste and consistency"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:17:54.507 video 1> and <TIME 00:18:11.149 video 1> in this video?",
+        "choices": [
+            "On a hot tawa (skillet or griddle), place the rolled paratha. The tawa should be quite hot; cooking parathas at a low flame will harden them. Ideally, the finished parathas are crisp as well as soft",
+            "Gently place the second circle on top. Press and seal the edges with your fingertips. If you are not able to seal the edges, then brush or spread some water on the edges and then seal",
+            "Flip again once or twice till both sides are cooked properly, with crisp brown spots. You should also press the aloo paratha edges down with a spatula or spoon so that they are fried well. Repeat, making all parathas this way",
+            "When the base is partly cooked, flip the paratha using a spatula. You will see some air pockets on this side",
+            "Spread some butter on the second side facing you. A well-made and well-roasted aloo paratha will always puff up when roasting"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:50:52.417 video 1> and <TIME 00:51:02.024 video 1> in this video?",
+        "choices": [
+            "On a lightly floured surface, roll out to the thickness of a 1 pound coin. Cut into 1cm strips, then twist the strips 3-4 times",
+            "Layer the cooled raspberry lemon curd onto the top of the tart. Serve immediately. Store any leftovers in the refrigerator",
+            "Top one side with cheese. Add crisps if using",
+            "Prepare the Lemon Curd. Heat a bainmarie on medium-low heat. Add butter and wait for it to melt. Then add lemon juice, zest, raspberry juice, sugar, and eggs and whisk together until sugar melts into the mix and stir continuously. The lemon curd should begin to thicken and small bubbles will begin to form on the surface, about 40 minutes. Remove from heat once the lemon curd is thick enough for the whisk to leave marks on the surface",
+            "Bake at 200 degrees C for 15 minutes, until the pastry is puffed. Cool for 3 minutes"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:13:49.849 video 1> and <TIME 00:14:15.024 video 1> in this video?",
+        "choices": [
+            "Add half of the sliced onion and fry until the onion begin to brown. Set aside the other half for later use",
+            "Heat oil in a pan and throw in some cinnamon sticks, cardamon, cloves, black peppercorn",
+            "Now add the meat to the mix and stir to mix evenly",
+            "Slice and peel remaining mango, add to the blender and blend to combine, approx. 30 secs-1 min. Enjoy",
+            "Fry the second half of the onions until browned. Once cooked, add to the rest of the mixture"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:07:26.159 video 1> and <TIME 00:07:41.759 video 1> in this video?",
+        "choices": [
+            "Add cottage cheese to plate and season to taste with salt, pepper, oregano and olive oil",
+            "Remove the pan from the heat when the eggs are mostly set, but a little liquid egg remains. Season to taste with salt and pepper",
+            "Add chopped red onions and finger chillies to a pan and saute until soft",
+            "Pour in the eggs, and let them cook for a few seconds without stirring. Pull a rubber spatula across the bottom of the pan to form large, soft curds of scrambled eggs",
+            "Crack the eggs into a medium bowl. Whisk until smooth and combined, with no streaks of egg white remaining"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:18:35.524 video 1> and <TIME 00:18:49.185 video 1> in this video?",
+        "choices": [
+            "Peel and finely chop the onion",
+            "Wash potatoes, peel and cut them into small cubes",
+            "Boil the potatoes for 15-20 mins or until soft, then drain",
+            "Stir in the mushroom stock pot and the cream. Gently bring to the boil then cook for 2 mins on low heat",
+            "Heat a wide pan on high heat, add 2 tsps oil and sear the beef quickly on all sides. Remove and keep aside"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:34:48.189 video 1> and <TIME 00:35:31.674 video 1> in this video?",
+        "choices": [
+            "Add the mushrooms and cook for 3 mins",
+            "Mix in the tomato puree",
+            "Heat a wide pan on high heat, add 2 tsps oil and sear the beef quickly on all sides. Remove and keep aside",
+            "Wash potatoes, peel and cut them into small cubes",
+            "Reduce the heat, add a knob of butter, the onion and the rest of the stroganoff seasoning.  Cook for 5 mins until soft"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:27:29.453 video 1> and <TIME 00:27:56.544 video 1> in this video?",
+        "choices": [
+            "Keep the pan over a medium heat and pour in a quarter of the mushroom stock. Simmer the rice, stirring often, until the rice has absorbed all the liquid",
+            "Stir in chopped chestnut mushrooms, chopped shiitake mushrooms, and the dried mushrooms",
+            "Grate the cheese",
+            "Give the risotto a final stir, add more parsley and taste",
+            "Continue stirring and add the rest of the stock"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:00:19.973 video 1> and <TIME 00:00:22.060 video 1> in this video?",
+        "choices": [
+            "Add couscous and boiling water to pot (no flame needed), leave until water has been absorbed",
+            "Once warm, add garlic, onions, red peppers and chilis to pan. Cook until browned",
+            "Place frozen broccoli and green beans to air fryer for 10 minutes. Season with salt and pepper half-way through",
+            "Serve fishcakes on top of couscous with side of vegetables",
+            "Preheat the oven to 180 degrees C"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:20:37.979 video 1> and <TIME 00:23:16.912 video 1> in this video?",
+        "choices": [
+            "Halve each kebab wrap and warm in a griddle pan",
+            "When the mushrooms are roasted drizzle them with the sugar syrup, garlic paste, and worcestershire sauce. Roast again for 15 minutes",
+            "Meanwhile, finely dice the tomatoes and finely slice the red onion. Mix with the zingy lemon juice and season well. Set aside",
+            "Sit the mushrooms stalk-side down and cover with another sheet of baking paper. Weigh down the mushrooms with another empty baking tray and roast for 30 minutes",
+            "Preheat the oven to 200 degrees C, fan 180 degrees C, gas 6. Line a large roasting tray with baking paper, remove the stalks from the mushrooms and place them on the tray"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:04:53.623 video 1> and <TIME 00:04:58.356 video 1> in this video?",
+        "choices": [
+            "Slice onion, chili pepper, and bell pepper and place to side",
+            "Add broccoli and green beans to pan and stir",
+            "Serve fishcakes on top of couscous with side of vegetables",
+            "Add oil to a nonstick pan. Bring to medium heat",
+            "Place frozen broccoli and green beans to air fryer for 10 minutes. Season with salt and pepper half-way through"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:13:07.239 video 1> and <TIME 00:13:41.468 video 1> in this video?",
+        "choices": [
+            "When the pan is hot enough, pour a ladle full of batter in the centre of the pan. At this stage the pan has to be hot otherwise the batter won't rise and the uttapams will be flat",
+            "Mix the uttapam pancake mix into water in a bowl until a smooth batter is prepared and set it aside for 10-15 minutes",
+            "Sprinkle little oil over the onions and turn to the other side. Put some more butter on the sides of the pancake in the pan, so that it does not stick to the sides of the pan",
+            "Place the chopped onions and tomato on the pancake in the pan and flip the sides of the pancake on the lower flame",
+            "Do not spread the batter too much, uthappam has to be made thick. If the batter doesn't spread on its own, then you may lightly spread a bit. Lower the flame"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:22:15.296 video 1> and <TIME 00:23:15.399 video 1> in this video?",
+        "choices": [
+            "Drizzle skewers with oil",
+            "Heat the oil in a pan, season it with salt, and add the potatoes in batches",
+            "Peel the potatoes and cut them onto strips",
+            "Slice the onion, tomato and peppers into preferred size",
+            "Once fried, transfer to a plate and season with peri-peri seasoning"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:15:51.334 video 1> and <TIME 00:16:12.810 video 1> in this video?",
+        "choices": [
+            "Wash the aubergine and chop it in 2cm cubes",
+            "Wash the mushrooms and slice them thinly",
+            "Stretch the pizza dough using the semolina flour to avoid the dough getting stuck on the hands and surfaces. To stretch the dough, first press it with the fingertips, starting from the centre towards the edges, rotating and repeating until it no longer stretches. Then transfer the dough to the back of both hands and slowly rotate and stretch the dough until it reaches the desired size",
+            "When the aubergine is ready, move it to a plate with kitchen towel to absorb the oil",
+            "Peel the egg and slice it in 4 slices"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_50": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:16:27.689 video 1> and <TIME 00:17:10.590 video 1> in this video?",
+        "choices": [
+            "Add the sweetcorn and beans to the bowl. Chop the rest of the avocado and add",
+            "Wash and then chop and tear the lettuce into a bowl",
+            "Pulse all the dressing ingredients in a food processor until mostly smooth",
+            "Add the sweet potatoes",
+            "Check the sweet potatoes and roast for another 10-15 minutes"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_51": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:04:43.488 video 1> and <TIME 00:04:59.718 video 1> in this video?",
+        "choices": [
+            "Meanwhile, beat the eggs in a bowl, then finely grate in the Parmesan and mix well",
+            "Pour the Parmesan eggs into the pan, and keep everything moving, loosening with splashes of the pasta cooking water until you have a silky sauce. Make sure the pan isn't too hot otherwise the eggs will scramble",
+            "Use tongs to transfer your pasta straight into the pan and toss with the bacon",
+            "Plate up the pasta, and finish with an extra grating of Parmesan",
+            "Mix salad ingredients with oil and vinegar"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_52": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:12:00.604 video 1> and <TIME 00:12:33.284 video 1> in this video?",
+        "choices": [
+            "Spray olive oil in a small nonstick skillet. Bring to medium heat",
+            "Add chopped red onions and finger chillies to a pan and saute until soft",
+            "Pour in the eggs, and let them cook for a few seconds without stirring. Pull a rubber spatula across the bottom of the pan to form large, soft curds of scrambled eggs",
+            "Add cottage cheese to plate and season to taste with salt, pepper, oregano and olive oil",
+            "Continue cooking over medium-low heat, folding and stirring the eggs every few seconds. Scrape the spatula along the bottom and sides of the pan often to form more curds and to prevent any part of the eggs from drying out"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_53": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:15:36.790 video 1> and <TIME 00:15:44.023 video 1> in this video?",
+        "choices": [
+            "Pick, roughly chop and add the basil leaves, then bash to a paste (or pulse in a food processor)",
+            "Add most of the remaining cheese, then season to perfection with salt and black pepper. Have a taste, and keep adding a bit more cheese or oil until you are happy with the taste and consistency",
+            "Put a large pan of salted water on to boil, and add the pasta",
+            "Combine the salad ingredients in a bowl with the oil and vinegar",
+            "Add frozen peas to the pasta with 4 minutes left"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_54": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:11:16.376 video 1> and <TIME 00:12:15.707 video 1> in this video?",
+        "choices": [
+            "Liberally butter one side of each slice of bread",
+            "Layer the cooled raspberry lemon curd onto the top of the tart. Serve immediately. Store any leftovers in the refrigerator",
+            "In the meantime, prepare the puff pastry. Roll out the puff pastry to about 10 inches by 14 inches, then cut into squares",
+            "On a lightly floured surface, roll out to the thickness of a 1 pound coin. Cut into 1cm strips, then twist the strips 3-4 times",
+            "Top one side with cheese. Add crisps if using"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_55": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:55:23.900 video 1> and <TIME 00:55:34.007 video 1> in this video?",
+        "choices": [
+            "Peel the potatoes and chop them into small chunks",
+            "Add the oil and the salt, mixing everything well. The quantities are fairly loose: just make sure the leaves are coated and sprinkle with a bit of salt",
+            "Peel and finely slice the onion",
+            "Fry the potatoes on a medium-heat pan with abundant oil turning the potatoes frequently so that they don't burn. Split larger chunks with a spatula as they soften while cooking to ensure an even size of chunks. Add a pinch of salt while frying the potatoes",
+            "Crack the eggs into a mixing bowl, season with a pinch of salt, then whisk together with a fork"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_56": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:17:17.525 video 1> and <TIME 00:17:26.611 video 1> in this video?",
+        "choices": [
+            "When the pan is hot enough, pour a ladle full of batter in the centre of the pan. At this stage the pan has to be hot otherwise the batter won't rise and the uttapams will be flat",
+            "Cook both the sides of the pancake on a lower flame until fully cooked. Garnish it with some coriander and tomato ketchup",
+            "Take a frying pan and place it on gas stove to heat it up. Place some butter on the heated pan and spread it on the whole pan in a circular motion",
+            "Cook until the onions are done. The color of the uthappam depends on the temperature of the batter & the pan. Usually batter straight away from fridge does not yield golden uthappam",
+            "Sprinkle little oil over the onions and turn to the other side. Put some more butter on the sides of the pancake in the pan, so that it does not stick to the sides of the pan"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_57": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:39:16.298 video 1> and <TIME 00:42:54.310 video 1> in this video?",
+        "choices": [
+            "Fry the potatoes on a medium-heat pan with abundant oil turning the potatoes frequently so that they don't burn. Split larger chunks with a spatula as they soften while cooking to ensure an even size of chunks. Add a pinch of salt while frying the potatoes",
+            "Cook for 15 minutes in an oven preheated at 180 degrees with the fan on (200 if the oven does not have a fan). Once it's mainly wilted but crisp at the edges, it's ready",
+            "Peel the potatoes and chop them into small chunks",
+            "Repeat the previous step several times until the dough is uniform and no longer sticks to the hands",
+            "Once the ingredients are roughly mixed, transfer the mixture onto the kitchen top and knead the dough by hand. This is done by rolling the dough on itself several times. Once the dough starts tearing, flatten the dough and fold the 4 edges to form a ball. Let the ball rest for a few minutes between repetitions"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_58": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:05:03.789 video 1> and <TIME 00:05:04.516 video 1> in this video?",
+        "choices": [
+            "Remove the chickpeas from the oven and discard any burnt chickpeas",
+            "Chop the cucumber into small pieces and add it to the bowl",
+            "Drain the olives, tear them in half and add them to the bowl",
+            "Add the tomatoes to the bowl",
+            "Stir the ingredients in the bowl together to mix"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_59": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:16:54.488 video 1> and <TIME 00:17:07.377 video 1> in this video?",
+        "choices": [
+            "Mix all and stir and don't let it burn",
+            "Add in some Thai basil and turn off the cooker",
+            "Heat some oil in a pan (any neutral oil will do) along with some salt and once heated, and red curry paste to the oil and allow to cook, ensuring it doesn't burn or darken",
+            "Add the chicken chunks in (they should have been cooked 80%)",
+            "Make sure all vegetables are beneath the liquid's surface. Stir and allow to boil"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_60": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:06:44.950 video 1> and <TIME 00:08:50.869 video 1> in this video?",
+        "choices": [
+            "Cook until the onions are done. The color of the uthappam depends on the temperature of the batter & the pan. Usually batter straight away from fridge does not yield golden uthappam",
+            "Make sure it is cooked well from inside. If you like caramelized onions, you may cook longer. To make the next uttapam, ensure the pan is hot enough",
+            "Place the chopped onions and tomato on the pancake in the pan and flip the sides of the pancake on the lower flame",
+            "Wash tomato, coriander, and onions in fresh running water and chop tomato and onion into small pieces",
+            "When the pan is hot enough, pour a ladle full of batter in the centre of the pan. At this stage the pan has to be hot otherwise the batter won't rise and the uttapams will be flat"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_61": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:37:01.470 video 1> and <TIME 00:37:39.435 video 1> in this video?",
+        "choices": [
+            "Wash the mushrooms and slice them thinly",
+            "Hard-boil the egg in a saucepan for 5 minutes",
+            "When the aubergine is ready, move it to a plate with kitchen towel to absorb the oil",
+            "Add some semolina flour to the pizza peel, then add the dough on top of it and add all toppings to the pizza: tomato sauce first, then mozzarella, finally aubergine and egg",
+            "Transfer the pizza to the pre-heated pizza oven and cook for 5 minutes. Rotate the pizza halfway through to ensure the pizza is cooked evenly"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_62": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:08:58.802 video 1> and <TIME 00:09:19.685 video 1> in this video?",
+        "choices": [
+            "Last, fold in the chocolate chips. Set aside to let the flour hydrate in the dough",
+            "Turn the kettle on to boil",
+            "Add the banana to the melted butter and sugar. Mix to combine",
+            "Line a cookie sheet with parchment paper",
+            "Place the banana into a microwavable container, and heat it in the microwave. Stir"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_63": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:13:30.073 video 1> and <TIME 00:15:13.073 video 1> in this video?",
+        "choices": [
+            "Leave the butter and chocolate to melt together, stirring now and then to encourage them along. Once you have a smooth, well-blended mixture, turn off the heat, lift the bowl off the pan (remember that it will be hot) and pour the mixture into a cold bowl or jug to cool slightly while you prepare the rest of the batter",
+            "Break the chocolate into fairly evenly sized pieces - I find the easiest and most satisfying way to start this process is to leave it in the packet, or put it in a resealable bag, give it a good whack against the work surface, then chop up any large pieces that remain. Cut the butter into chunky dice",
+            "Put the egg and egg yolk in a large bowl with the sugar and a pinch of salt. Vigorously whisk by hand or with electric beaters, until the mixture is pale yellow and voluminous. Very gently fold in the melted chocolate mixture with a large metal spoon, taking care not to knock too much air out of the batter. Repeat with the flour",
+            "Divide the batter between the two moulds, leaving a little room at the top for them to rise. If you'd like to eat them immediately, put them on the hot baking tray in the oven for 12 minutes, until the tops are set and the cake mix is just starting to come away from the sides of the moulds",
+            "Grease the insides of two small ramekins or pudding moulds with butter, put the cocoa in one, and turn and tip to coat the insides, holding it over the other ramekin to catch any powder. Tip the rest of the cocoa into the second ramekin and repeat"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_64": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:33:29.919 video 1> and <TIME 00:33:50.849 video 1> in this video?",
+        "choices": [
+            "Stir in the red lentils and the dhal spice mix",
+            "Stir in the spring greens and then put the lid back on and cook for 5 more mins",
+            "Rinse lentils",
+            "Wash the spring greens and slice them",
+            "Add the coconut milk and the ginger lentil stock pot along with 100ml of water and bring to the boil"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_65": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:10:43.341 video 1> and <TIME 00:10:58.078 video 1> in this video?",
+        "choices": [
+            "Peel the potatoes and cut them onto strips",
+            "Slice the onion, tomato and peppers into preferred size",
+            "Drizzle skewers with oil",
+            "Thread the beef and sliced vegetables (onion, tomato and scotch bonnet chilli) onto skewers and arrange them on a baking tray",
+            "Heat the oil in a pan, season it with salt, and add the potatoes in batches"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_66": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:37:23.810 video 1> and <TIME 00:38:14.869 video 1> in this video?",
+        "choices": [
+            "Add the chopped onion and saute for 3 minutes until softened. Then add the sliced green chili and ginger garlic paste and saute for another 1 to 2 minutes",
+            "Add the tomato puree to the mixture in the pan and mix it thoroughly. Cook the puree for about 5 minutes on a low flame or until the butter separates out from the mixture",
+            "Add the pieces of cottage cheese in the mixture and cook it for 5-10 minutes on a low flame. Cover the pan or kadai with a lid and cook for 5 to 6 minutes on medium heat",
+            "Chop half of the onion into smaller pieces and other half into larger bits. Chop the tomatoes into smaller pieces and grind them in a grinder with fresh garlic and green chillies to make a smooth tomato puree. Chop some green chillies into pieces and add them into the puree",
+            "Add turmeric powder, coriander powder, garam masala powder, red chilli powder, and salt to the mixture and saute the mixture uniformly. Then add 1/2 cup water and stir. Wait for the whole mixture to homogenise"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_67": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:02:54.631 video 1> and <TIME 00:03:49.631 video 1> in this video?",
+        "choices": [
+            "Slice piece of sourdough bread and place on side of bowl",
+            "To make this salad, start by preparing the dressing. Whisk the dressing ingredients together, in a small bowl, until they're fully combined. Taste and add additional seasonings, if desired",
+            "Toss to combine, then pour the dressing on top and toss once more until the salad ingredients are fully coated in the dressing",
+            "Serve immediately and enjoy!",
+            "Next, chop your cucumbers, cherry tomatoes, carrot, coriander, and red onion, and add them to a large bowl alongside the beans and diced tomatoes"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_68": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:19:28.011 video 1> and <TIME 00:19:33.570 video 1> in this video?",
+        "choices": [
+            "Add turmeric powder, coriander powder, garam masala powder, red chilli powder, and salt to the mixture and saute the mixture uniformly. Then add 1/2 cup water and stir. Wait for the whole mixture to homogenise",
+            "In a large kadai or any other pan, now melt butter with oil on medium heat. Add cumin seeds to the melted butter",
+            "In the morning, drain the water in which the dal and rajma was soaked. Transfer the dal and rajma to a pressure cooker with 1 teaspoon salt. Add around 3.5 cups water. Cook in the pressure cooker on high-medium heat for 10 whistles, then lower the heat to low-medium and cook for another 10 minutes. In total around 15 to 20 whistles",
+            "Add the tomato puree to the mixture in the pan and mix it thoroughly. Cook the puree for about 5 minutes on a low flame or until the butter separates out from the mixture",
+            "Add the chopped onion and saute for 3 minutes until softened. Then add the sliced green chili and ginger garlic paste and saute for another 1 to 2 minutes"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_69": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:36:59.078 video 1> and <TIME 00:37:44.042 video 1> in this video?",
+        "choices": [
+            "Repeat the previous step several times until the dough is uniform and no longer sticks to the hands",
+            "Peel the potatoes and chop them into small chunks",
+            "Once the ingredients are roughly mixed, transfer the mixture onto the kitchen top and knead the dough by hand. This is done by rolling the dough on itself several times. Once the dough starts tearing, flatten the dough and fold the 4 edges to form a ball. Let the ball rest for a few minutes between repetitions",
+            "Add the onion to the pan and fry it together with the potatoes, adding oil if necessary",
+            "Mix the flour with yeast, salt and water in a large bowl using a wooden spoon"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_70": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:13:03.494 video 1> and <TIME 00:13:09.697 video 1> in this video?",
+        "choices": [
+            "Add the tomatoes, mango chutney and salt, stir in and bring to a simmer. Turn the heat to the lowest you can (a heat diffuser on gas works a treat) and put the lid on. Leave to cook for around 20 minutes",
+            "Add the chickpeas and spinach, and later add the coconut milk and the juice of half a lemon. Season to taste",
+            "After 15 minutes remove the lid and stir. If you like a thick sauce you may want to turn the heat up now and let it reduce down. If the sauce looks a little oily for your taste you can use a ladle to skim some of the oil off",
+            "Add some coconut milk and a squeeze of lemon, to taste",
+            "Stir in the fresh coriander and serve over plain boiled rice with a chapatti or roti"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_71": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:04:25.488 video 1> and <TIME 00:04:27.024 video 1> in this video?",
+        "choices": [
+            "Add broccoli and salmon skewers to plate ontop of salad. Serve and enjoy!",
+            "Place salmon teriyaki skewers on a baking sheet. Roast for 11 to 15 minutes, until just cooked. Set aside until cool enough to handle",
+            "Pre-heat air fryer to 180 degrees C",
+            "Add pre-made Chickpea, Spinach & Quinoa salad to plate",
+            "Preheat the oven to 180 degrees C/gas mark 4"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_72": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:23:31.243 video 1> and <TIME 00:24:01.465 video 1> in this video?",
+        "choices": [
+            "Add the tomato puree to the mixture in the pan and mix it thoroughly. Cook the puree for about 5 minutes on a low flame or until the butter separates out from the mixture",
+            "In the morning, drain the water in which the dal and rajma was soaked. Transfer the dal and rajma to a pressure cooker with 1 teaspoon salt. Add around 3.5 cups water. Cook in the pressure cooker on high-medium heat for 10 whistles, then lower the heat to low-medium and cook for another 10 minutes. In total around 15 to 20 whistles",
+            "Add turmeric powder, coriander powder, garam masala powder, red chilli powder, and salt to the mixture and saute the mixture uniformly. Then add 1/2 cup water and stir. Wait for the whole mixture to homogenise",
+            "Add the pieces of cottage cheese in the mixture and cook it for 5-10 minutes on a low flame. Cover the pan or kadai with a lid and cook for 5 to 6 minutes on medium heat",
+            "Chop half of the onion into smaller pieces and other half into larger bits. Chop the tomatoes into smaller pieces and grind them in a grinder with fresh garlic and green chillies to make a smooth tomato puree. Chop some green chillies into pieces and add them into the puree"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_73": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:20:10.052 video 1> and <TIME 00:20:27.173 video 1> in this video?",
+        "choices": [
+            "Remove the sweet potatoes from the oven",
+            "Add the sweetcorn and beans to the bowl. Chop the rest of the avocado and add",
+            "Pulse all the dressing ingredients in a food processor until mostly smooth",
+            "Wash and peel the sweet potatoes and chop into bite-sized pieces. Put the sweet potatoes in a bowl and add the olive oil, cumin, and chili powder. Mix well and pour the mixture onto a baking tray. Roast for 10 minutes",
+            "Preheat the oven to 400 degrees"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_74": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:14:30.033 video 1> and <TIME 00:17:32.200 video 1> in this video?",
+        "choices": [
+            "Take a serving bowl, add granola of your choice and pour in almond milk over it",
+            "The bowl of granola with almond milk is ready to be served",
+            "Stir-fry for at least 5 minutes, or until the eggs are cooked as desired",
+            "Crack the eggs into a bowl, add salt and pepper and beat",
+            "Wash the vegetables. Next, slice the mushrooms and chop the bell pepper"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_75": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:25:19.425 video 1> and <TIME 00:25:40.989 video 1> in this video?",
+        "choices": [
+            "Wash tomato, coriander, and onions in fresh running water and chop tomato and onion into small pieces",
+            "When the pan is hot enough, pour a ladle full of batter in the centre of the pan. At this stage the pan has to be hot otherwise the batter won't rise and the uttapams will be flat",
+            "Mix the uttapam pancake mix into water in a bowl until a smooth batter is prepared and set it aside for 10-15 minutes",
+            "Make sure it is cooked well from inside. If you like caramelized onions, you may cook longer. To make the next uttapam, ensure the pan is hot enough",
+            "Place the chopped onions and tomato on the pancake in the pan and flip the sides of the pancake on the lower flame"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_step_recognition_76": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:09:15.673 video 1> and <TIME 00:09:31.656 video 1> in this video?",
+        "choices": [
+            "Add couscous and boiling water to pot (no flame needed), leave until water has been absorbed",
+            "Place fishcakes on baking tray and place in over for 30 minutes",
+            "Place frozen broccoli and green beans to air fryer for 10 minutes. Season with salt and pepper half-way through",
+            "Serve fishcakes on top of couscous with side of vegetables",
+            "Slice onion, chili pepper, and bell pepper and place to side"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_77": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:16:43.578 video 1> and <TIME 00:16:46.044 video 1> in this video?",
+        "choices": [
+            "Next, chop your cucumbers, cherry tomatoes, carrot, coriander, and red onion, and add them to a large bowl alongside the beans and diced tomatoes",
+            "Serve immediately and enjoy!",
+            "To make this salad, start by preparing the dressing. Whisk the dressing ingredients together, in a small bowl, until they're fully combined. Taste and add additional seasonings, if desired",
+            "Slice piece of sourdough bread and place on side of bowl",
+            "Toss to combine, then pour the dressing on top and toss once more until the salad ingredients are fully coated in the dressing"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_78": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:14:38.652 video 1> and <TIME 00:14:53.721 video 1> in this video?",
+        "choices": [
+            "Whisk the soy sauce and sesame oil in a bowl until it combines properly. You'll know because it becomes murky and thicker, rather than clear and split",
+            "Drain and discard the cucumber water from the bowl (too salty to re-use for another purpose). Use a colander if you want to be thorough else just drain it out of the bowl, using your hand to hold the cucumbers in",
+            "Finally grate and add ginger and garlic to bowl. Toss well then pile up high into a shallow bowl and serve!",
+            "Cut the cucumber lengthwise down the middle then into 2.4cm/1 inch pieces",
+            "Add 2 teaspoons of chilli crisp - or more if you dare! You want to get a mound of the crispy chilli - it will be well soaked with the red chilli oil that colours this salad. You can always add more after you toss. Taste and add, taste and add!"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_79": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:18:22.762 video 1> and <TIME 00:18:57.479 video 1> in this video?",
+        "choices": [
+            "Place fishcakes on baking tray and place in over for 30 minutes",
+            "Add broccoli and green beans to pan and stir",
+            "Place frozen broccoli and green beans to air fryer for 10 minutes. Season with salt and pepper half-way through",
+            "Serve fishcakes on top of couscous with side of vegetables",
+            "Once warm, add garlic, onions, red peppers and chilis to pan. Cook until browned"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_80": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:13:08.402 video 1> and <TIME 00:13:39.953 video 1> in this video?",
+        "choices": [
+            "Last, fold in the chocolate chips. Set aside to let the flour hydrate in the dough",
+            "Measure the butter into a microwavable container, and heat it in the microwave. Stir",
+            "Add vanilla extract. Mix well",
+            "Separate an egg yolk and add",
+            "Measure and add the flour, salt, baking soda, and cinnamon. Stir until combined and no streaks of flour remain"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_81": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:21:43.016 video 1> and <TIME 00:22:12.825 video 1> in this video?",
+        "choices": [
+            "Add the onions and chopped garlic and brown slowly until tender and golden, about 5 minutes",
+            "Then lift out with a fish slice or large spoon. Sprinkle with sea salt",
+            "Add the de-seeded, chopped tomatoes and cook slowly until softened",
+            "Cut the potatoes into chunks",
+            "Add the tomato puree and cook out for 5 minutes"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_82": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:02:37.656 video 1> and <TIME 00:02:41.971 video 1> in this video?",
+        "choices": [
+            "In a large bowl, add 2 cups whole wheat flour (atta). Make a well in the centre. Add 1 tablespoon oil or ghee, and roughly 1/3 to 1/2 cup water",
+            "Gently place the second circle on top. Press and seal the edges with your fingertips. If you are not able to seal the edges, then brush or spread some water on the edges and then seal",
+            "On a hot tawa (skillet or griddle), place the rolled paratha. The tawa should be quite hot; cooking parathas at a low flame will harden them. Ideally, the finished parathas are crisp as well as soft",
+            "When the base is partly cooked, flip the paratha using a spatula. You will see some air pockets on this side",
+            "Spread some butter on the second side facing you. A well-made and well-roasted aloo paratha will always puff up when roasting"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_83": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:04:33.364 video 1> and <TIME 00:05:13.812 video 1> in this video?",
+        "choices": [
+            "Break open 2 eggs in a mixing bowl, then add red chilli powder along with required salt",
+            "Chop an onion into smaller pieces and add it to the whisked eggs",
+            "Once it gets cooked on one side and flip over to other side and press it with the ladle. Cook for 2 mins then flip over and serve",
+            "Add more water if needed, about 1/2 teaspoon at a time, whipping it vigorously with the spoon",
+            "Pour the heated milk in the golden-brown paste and stir it well until all ingredients are uniformly mixed. Heat the cappuccino again in microwave for 30 seconds and it is ready to drink"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_84": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:14:04.006 video 1> and <TIME 00:18:24.614 video 1> in this video?",
+        "choices": [
+            "Once the ingredients are roughly mixed, transfer the mixture onto the kitchen top and knead the dough by hand. This is done by rolling the dough on itself several times. Once the dough starts tearing, flatten the dough and fold the 4 edges to form a ball. Let the ball rest for a few minutes between repetitions",
+            "Crack the eggs into a mixing bowl, season with a pinch of salt, then whisk together with a fork",
+            "Peel the potatoes and chop them into small chunks",
+            "Use a spatula to slightly lift and loosen the sides of the tortilla. Carefully flip the pan over a dinner plate or large lid and tip out the tortilla, then slide it back into the pan and cook for another 5 minutes, or until golden and cooked through",
+            "When the onions and potatoes are cooked, carefully pour the eggs on top ensuring the eggs cover the potatoes and onions evenly. Cook the eggs with a low heat until there's almost no runny egg on top"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_85": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:02:54.277 video 1> and <TIME 00:04:09.481 video 1> in this video?",
+        "choices": [
+            "Add the pine nuts (very lightly toast first, if you like) to the mixture and pound again, then stir in half the Parmesan",
+            "Add frozen peas to the pasta with 4 minutes left",
+            "Pick, roughly chop and add the basil leaves, then bash to a paste (or pulse in a food processor)",
+            "Combine the salad ingredients in a bowl with the oil and vinegar",
+            "Drizzle in some oil - you need just enough to bind the sauce and get it to an oozy consistency"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_86": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:19:53.000 video 1> and <TIME 00:19:57.990 video 1> in this video?",
+        "choices": [
+            "Add the onions and chopped garlic and brown slowly until tender and golden, about 5 minutes",
+            "Cut the potatoes into chunks",
+            "Add the sweetcorn and season with Worcestershire sauce and apple cider vinegar. Cook for 5 more minutes",
+            "Add the tomato puree and cook out for 5 minutes",
+            "Turn the heat to medium-high, so that the potatoes sizzle, but don't stir until they start to brown underneath"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_87": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:06:06.496 video 1> and <TIME 00:06:20.203 video 1> in this video?",
+        "choices": [
+            "Once the eggs have been mixed, cook them over medium-high heat to your liking (3-4 minutes for a soft scramble)",
+            "Season the eggs with salt and add paprika if desired",
+            "To serve, cut the baguette in half and butter both sides. Add the bacon, scrambled eggs, and cheese",
+            "In another pan, add remaining oil, crack eggs into a measuring jug, add some milk and beat them. Add pepper to taste",
+            "Heat half the oil in a large frying pan, add bacon and cook, turning occasionally, until browned and cooked to your liking (3-4 minutes for semi-crisp)"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_88": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:29:31.792 video 1> and <TIME 00:29:38.989 video 1> in this video?",
+        "choices": [
+            "Break open 2 eggs in a mixing bowl, then add red chilli powder along with required salt",
+            "Fill a cup with whole milk and heat it in the microwave for 3-4 minutes. Stir the heated milk with a milk frother to make the cappuccino frothier",
+            "Pour the heated milk in the golden-brown paste and stir it well until all ingredients are uniformly mixed. Heat the cappuccino again in microwave for 30 seconds and it is ready to drink",
+            "Chop an onion into smaller pieces and add it to the whisked eggs",
+            "Heat a pan with butter when it is hot - pour the egg mixture on it. Tilt it so that the egg mixture is even on all the edges"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_89": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-191007"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:20:30.662 video 1> and <TIME 00:20:51.644 video 1> in this video?",
+        "choices": [
+            "Heat 3 tbsp olive oil in a shallow saucepan or deep frying pan over a medium flame. Add the pre-chopped garlic and the finely chopped onion into the pan, then fry for about 5 mins until soft, stirring regularly",
+            "Finely chop the onions",
+            "Measure out the risotto rice",
+            "Stir in chopped chestnut mushrooms, chopped shiitake mushrooms, and the dried mushrooms",
+            "Crumble vegetable stock cube into the mushroom liquid, then squeeze the mushrooms gently with a fork to remove any liquid"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_90": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:11:26.345 video 1> and <TIME 00:12:35.610 video 1> in this video?",
+        "choices": [
+            "Preheat the oven to 200 degrees C, fan 180 degrees C, gas 6. Line a large roasting tray with baking paper, remove the stalks from the mushrooms and place them on the tray",
+            "Halve each kebab wrap and warm in a griddle pan",
+            "Meanwhile, finely dice the tomatoes and finely slice the red onion. Mix with the zingy lemon juice and season well. Set aside",
+            "When the mushrooms are roasted drizzle them with the sugar syrup, garlic paste, and worcestershire sauce. Roast again for 15 minutes",
+            "Whisk together the coriander, cumin, ginger, chilli powder, nutmeg, paprika, salt and olive oil with the juice of 1/2 lemon. Drizzle this over the mushrooms and toss to coat"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_91": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:12:48.916 video 1> and <TIME 00:13:16.616 video 1> in this video?",
+        "choices": [
+            "Microwave potatoes for 4-6 minutes until just soft",
+            "When ready to serve, heat 6-8 tbsp sunflower or olive oil in a large non-stick frying pan until you can feel a strong heat rising",
+            "Add the onions and chopped garlic and brown slowly until tender and golden, about 5 minutes",
+            "Add the de-seeded, chopped tomatoes and cook slowly until softened",
+            "Add the sweetcorn and season with Worcestershire sauce and apple cider vinegar. Cook for 5 more minutes"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_92": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:01:38.050 video 1> and <TIME 00:02:15.182 video 1> in this video?",
+        "choices": [
+            "Add broccoli and salmon skewers to plate ontop of salad. Serve and enjoy!",
+            "Place broccoli in air fryer and roast for 15 minutes. Season with oil, salt, pepper, oregano, and garlic granules half-way through",
+            "Preheat the oven to 180 degrees C/gas mark 4",
+            "Pre-heat air fryer to 180 degrees C",
+            "Place salmon teriyaki skewers on a baking sheet. Roast for 11 to 15 minutes, until just cooked. Set aside until cool enough to handle"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_93": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:04:00.825 video 1> and <TIME 00:04:41.167 video 1> in this video?",
+        "choices": [
+            "Mix the salad and the chickpeas together in a bowl to serve",
+            "Add the tomatoes to the bowl",
+            "Wash the tomatoes and then cut them in half",
+            "Tear the lettuce and place it in a large bowl",
+            "Chop the cucumber into small pieces and add it to the bowl"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_94": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:21:41.990 video 1> and <TIME 00:22:53.417 video 1> in this video?",
+        "choices": [
+            "Wash and peel the sweet potatoes and chop into bite-sized pieces. Put the sweet potatoes in a bowl and add the olive oil, cumin, and chili powder. Mix well and pour the mixture onto a baking tray. Roast for 10 minutes",
+            "Stir the salad and add the dressing. Stir again",
+            "Check the sweet potatoes and roast for another 10-15 minutes",
+            "Add the sweetcorn and beans to the bowl. Chop the rest of the avocado and add",
+            "Wash and then chop and tear the lettuce into a bowl"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_step_recognition_95": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:23:50.238 video 1> and <TIME 00:24:00.810 video 1> in this video?",
+        "choices": [
+            "Take another empty cup and put 2 teaspoons of sugar and coffee in the cup. Add about a half tablespoon of water and slowly add more until the ingredients are just wet so that you can beat the mixture",
+            "Chop an onion into smaller pieces and add it to the whisked eggs",
+            "Pour the heated milk in the golden-brown paste and stir it well until all ingredients are uniformly mixed. Heat the cappuccino again in microwave for 30 seconds and it is ready to drink",
+            "Fill a cup with whole milk and heat it in the microwave for 3-4 minutes. Stir the heated milk with a milk frother to make the cappuccino frothier",
+            "Once it gets cooked on one side and flip over to other side and press it with the ladle. Cook for 2 mins then flip over and serve"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_step_recognition_96": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:23:48.538 video 1> and <TIME 00:24:14.221 video 1> in this video?",
+        "choices": [
+            "Stir-fry for at least 5 minutes, or until the eggs are cooked as desired",
+            "Crack the eggs into a bowl, add salt and pepper and beat",
+            "The bowl of granola with almond milk is ready to be served",
+            "Take a serving bowl, add granola of your choice and pour in almond milk over it",
+            "Add 2/3 tsp of cinnamon powder for sweetness and mix it until ingredients are blended together"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_97": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:15:18.443 video 1> and <TIME 00:15:23.959 video 1> in this video?",
+        "choices": [
+            "Toss to combine, then pour the dressing on top and toss once more until the salad ingredients are fully coated in the dressing",
+            "Serve immediately and enjoy!",
+            "To make this salad, start by preparing the dressing. Whisk the dressing ingredients together, in a small bowl, until they're fully combined. Taste and add additional seasonings, if desired",
+            "Next, chop your cucumbers, cherry tomatoes, carrot, coriander, and red onion, and add them to a large bowl alongside the beans and diced tomatoes",
+            "Slice piece of sourdough bread and place on side of bowl"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_step_recognition_98": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            }
+        },
+        "question": "What step did the participant do between <TIME 00:03:11.252 video 1> and <TIME 00:03:41.698 video 1> in this video?",
+        "choices": [
+            "Leave the butter and chocolate to melt together, stirring now and then to encourage them along. Once you have a smooth, well-blended mixture, turn off the heat, lift the bowl off the pan (remember that it will be hot) and pour the mixture into a cold bowl or jug to cool slightly while you prepare the rest of the batter",
+            "Grease the insides of two small ramekins or pudding moulds with butter, put the cocoa in one, and turn and tip to coat the insides, holding it over the other ramekin to catch any powder. Tip the rest of the cocoa into the second ramekin and repeat",
+            "Break the chocolate into fairly evenly sized pieces - I find the easiest and most satisfying way to start this process is to leave it in the packet, or put it in a resealable bag, give it a good whack against the work surface, then chop up any large pieces that remain. Cut the butter into chunky dice",
+            "Put the egg and egg yolk in a large bowl with the sugar and a pinch of salt. Vigorously whisk by hand or with electric beaters, until the mixture is pale yellow and voluminous. Very gently fold in the melted chocolate mixture with a large metal spoon, taking care not to knock too much air out of the batter. Repeat with the flour",
+            "Divide the batter between the two moulds, leaving a little room at the top for them to rise. If you'd like to eat them immediately, put them on the hot baking tray in the oven for 12 minutes, until the tops are set and the cake mix is just starting to come away from the sides of the moulds"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_step_recognition_99": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "What step did the participant do between <TIME 01:00:20.549 video 1> and <TIME 01:01:22.733 video 1> in this video?",
+        "choices": [
+            "Repeat the previous step several times until the dough is uniform and no longer sticks to the hands",
+            "Mix the flour with yeast, salt and water in a large bowl using a wooden spoon",
+            "Peel the potatoes and chop them into small chunks",
+            "Add the onion to the pan and fry it together with the potatoes, adding oil if necessary",
+            "Once the ingredients are roughly mixed, transfer the mixture onto the kitchen top and knead the dough by hand. This is done by rolling the dough on itself several times. Once the dough starts tearing, flatten the dough and fold the 4 edges to form a ball. Let the ball rest for a few minutes between repetitions"
+        ],
+        "correct_idx": 3
+    }
+}

@@ -1,0 +1,1602 @@
+{
+    "ingredient_ingredient_retrieval_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            }
+        },
+        "question": "Between <TIME 00:15:31.070 video 1> and <TIME 00:15:51.044 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "lettuce",
+            "peas",
+            "tomatoes",
+            "olive oil",
+            "pine nuts"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "Between <TIME 00:11:54.000 video 1> and <TIME 00:12:06.500 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "mango",
+            "salt",
+            "vegetable oil",
+            "garam masala",
+            "cinnamon sticks"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            }
+        },
+        "question": "Between <TIME 00:16:41.021 video 1> and <TIME 00:16:57.969 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "spring onions",
+            "red onions",
+            "groundnut oil",
+            "jasmine rice",
+            "carrots"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-142301"
+            }
+        },
+        "question": "Between <TIME 00:04:30.000 video 1> and <TIME 00:04:52.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "olive oil",
+            "chicken stock cube",
+            "onion",
+            "minced beef",
+            "garlic"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-142619"
+            }
+        },
+        "question": "Between <TIME 00:06:37.000 video 1> and <TIME 00:06:51.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "olive oil",
+            "lemon juice",
+            "brown onions",
+            "vine tomatoes",
+            "garlic powder"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "Between <TIME 00:23:43.000 video 1> and <TIME 00:24:06.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chilli powder",
+            "coffee",
+            "whole milk",
+            "sugar",
+            "eggs"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "Between <TIME 00:00:46.018 video 1> and <TIME 00:01:18.075 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "water",
+            "vegetable oil",
+            "potatoes",
+            "butter",
+            "whole wheat flour"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "Between <TIME 00:01:20.400 video 1> and <TIME 00:01:33.362 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "vinegar",
+            "olive oil",
+            "spinach",
+            "tomatoes",
+            "lettuce"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "Between <TIME 00:22:32.041 video 1> and <TIME 00:22:59.009 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "strawberry granola",
+            "almond milk (unsweetened)",
+            "ground cinnamon",
+            "green peppers",
+            "eggs"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-115307"
+            }
+        },
+        "question": "Between <TIME 00:09:39.000 video 1> and <TIME 00:09:54.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "cumin seeds",
+            "chilli powder",
+            "turmeric powder",
+            "onions",
+            "garam masala"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-170021"
+            }
+        },
+        "question": "Between <TIME 00:12:38.035 video 1> and <TIME 00:12:58.025 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chilli powder",
+            "garam masala",
+            "onions",
+            "finger chillies",
+            "vegetable oil"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "Between <TIME 00:01:22.025 video 1> and <TIME 00:01:43.045 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "carrots",
+            "sourdough baguette",
+            "cucumber",
+            "olive oil",
+            "rocket"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Between <TIME 00:06:48.000 video 1> and <TIME 00:07:14.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "tomato passata",
+            "chestnut mushrooms",
+            "sunflower oil",
+            "mozzarella",
+            "black pepper"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "Between <TIME 00:06:52.913 video 1> and <TIME 00:07:00.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chilli powder",
+            "sugar",
+            "water",
+            "coffee",
+            "whole milk"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722"
+            }
+        },
+        "question": "Between <TIME 00:04:43.000 video 1> and <TIME 00:04:55.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "sriracha",
+            "dried parsley",
+            "wholemeal tortilla",
+            "romaine lettuce",
+            "brown onions"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "Between <TIME 00:11:54.000 video 1> and <TIME 00:12:06.500 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "vegetable oil",
+            "black pepper",
+            "ghee",
+            "yoghurt",
+            "garam masala"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "Between <TIME 00:08:16.051 video 1> and <TIME 00:08:55.080 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "black pepper",
+            "bacon",
+            "milk",
+            "cheddar cheese",
+            "butter"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            }
+        },
+        "question": "Between <TIME 00:14:42.038 video 1> and <TIME 00:14:57.071 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chicken thighs",
+            "avocado",
+            "carrots",
+            "tabbouleh salad",
+            "mixed seeds"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Between <TIME 00:16:37.000 video 1> and <TIME 00:16:46.000 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "salt",
+            "sunflower oil",
+            "mozzarella",
+            "black pepper",
+            "aubergine"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-191007"
+            }
+        },
+        "question": "Between <TIME 00:23:10.034 video 1> and <TIME 00:23:27.083 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chestnut mushrooms",
+            "garlic",
+            "dried mushrooms",
+            "shiitake mushrooms",
+            "oil"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "Between <TIME 00:11:28.038 video 1> and <TIME 00:11:40.086 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "soy sauce",
+            "sesame oil",
+            "crispy chilli oil",
+            "cucumber",
+            "garlic"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "Between <TIME 00:11:38.077 video 1> and <TIME 00:11:56.074 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "red onions",
+            "olive oil cooking spray",
+            "eggs",
+            "olive oil",
+            "fat free cottage cheese"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-182630"
+            }
+        },
+        "question": "Between <TIME 00:15:06.253 video 1> and <TIME 00:15:21.210 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chilli sauce",
+            "yoghurt",
+            "kebab wrap",
+            "parmesan",
+            "water"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-165333"
+            }
+        },
+        "question": "Between <TIME 00:02:31.871 video 1> and <TIME 00:02:52.955 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "ginger",
+            "green chillies",
+            "brown onions",
+            "olive oil",
+            "turmeric powder"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "Between <TIME 00:04:31.037 video 1> and <TIME 00:04:42.025 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "milk",
+            "olive oil",
+            "paprika",
+            "butter",
+            "cheddar cheese"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-150155"
+            }
+        },
+        "question": "Between <TIME 00:33:30.000 video 1> and <TIME 00:33:42.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "garlic powder",
+            "gluten free flour",
+            "grated mozzarella",
+            "chicken breasts",
+            "ginger"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Between <TIME 00:13:17.070 video 1> and <TIME 00:13:39.010 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "olive oil",
+            "tomato puree",
+            "black pepper",
+            "worcestershire sauce",
+            "sweetcorn"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            }
+        },
+        "question": "Between <TIME 00:14:50.000 video 1> and <TIME 00:15:06.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "cherry tomatoes",
+            "green bell pepper",
+            "celery",
+            "tomato pasta sauce",
+            "carrots"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "Between <TIME 00:08:28.084 video 1> and <TIME 00:08:43.064 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "cashew nuts",
+            "brown onions",
+            "ghee",
+            "green chillies",
+            "fennel seeds"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Between <TIME 00:11:22.001 video 1> and <TIME 00:11:32.086 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "baking soda",
+            "vanilla extract",
+            "egg yolk",
+            "butter",
+            "flour"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "Between <TIME 00:09:19.076 video 1> and <TIME 00:09:33.060 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "milk",
+            "eggs",
+            "butter",
+            "salt",
+            "paprika"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-145526"
+            }
+        },
+        "question": "Between <TIME 00:01:52.491 video 1> and <TIME 00:02:06.496 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "soy sauce",
+            "garlic",
+            "coconut milk",
+            "cashew nuts",
+            "peanut butter"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-165333"
+            }
+        },
+        "question": "Between <TIME 00:04:40.903 video 1> and <TIME 00:04:56.925 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "salt",
+            "green chillies",
+            "ginger",
+            "turmeric powder",
+            "olive oil"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            }
+        },
+        "question": "Between <TIME 00:04:38.044 video 1> and <TIME 00:04:53.072 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chicken thighs",
+            "mixed seeds",
+            "avocado",
+            "tabbouleh salad",
+            "carrots"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "Between <TIME 00:16:01.084 video 1> and <TIME 00:16:14.058 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "red bell pepper",
+            "baby spinach",
+            "cherry tomatoes",
+            "cucumber",
+            "mixed bean salad"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Between <TIME 00:34:37.000 video 1> and <TIME 00:34:59.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "salt",
+            "water",
+            "dried yeast",
+            "kale",
+            "potatoes"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "Between <TIME 00:25:57.000 video 1> and <TIME 00:26:10.963 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "parmesan cheese",
+            "risotto rice",
+            "white wine",
+            "butter",
+            "parsley"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "Between <TIME 00:11:03.095 video 1> and <TIME 00:11:34.012 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chilli",
+            "ghee",
+            "garam masala",
+            "chilli powder",
+            "onions"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Between <TIME 00:19:23.990 video 1> and <TIME 00:19:33.919 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "whole black lentils",
+            "salt",
+            "green chillies",
+            "salted butter",
+            "coriander powder"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Between <TIME 00:07:58.011 video 1> and <TIME 00:08:07.978 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chickpeas",
+            "olives",
+            "cucumber",
+            "cherry tomatoes",
+            "romaine lettuce"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Between <TIME 00:18:59.030 video 1> and <TIME 00:19:10.333 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "mushrooms",
+            "potatoes",
+            "worcestershire sauce",
+            "garlic",
+            "apple cider vinegar"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "Between <TIME 00:27:24.000 video 1> and <TIME 00:27:42.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "risotto rice",
+            "butter",
+            "grana padano",
+            "parmesan cheese",
+            "parsley"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502"
+            }
+        },
+        "question": "Between <TIME 00:04:09.984 video 1> and <TIME 00:04:21.905 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "cocoa powder",
+            "unsalted butter",
+            "biscuits",
+            "tahini",
+            "yoghurt"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "Between <TIME 00:04:40.039 video 1> and <TIME 00:04:52.050 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "black pepper",
+            "cheddar cheese",
+            "eggs",
+            "milk",
+            "paprika"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455"
+            }
+        },
+        "question": "Between <TIME 00:08:11.000 video 1> and <TIME 00:09:30.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "garlic",
+            "bacon",
+            "pasta",
+            "eggs",
+            "grana padano"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "Between <TIME 00:18:33.035 video 1> and <TIME 00:18:50.031 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "cod fishcakes",
+            "garlic",
+            "sesame oil",
+            "green beans",
+            "green chilli"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Between <TIME 00:08:07.096 video 1> and <TIME 00:08:19.069 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chickpea, spinach & quinoa mix",
+            "garlic powder",
+            "teriyaki salmon kebabs",
+            "olive oil cooking spray",
+            "broccoli"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            }
+        },
+        "question": "Between <TIME 00:00:24.946 video 1> and <TIME 00:00:37.910 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "onion",
+            "olive oil",
+            "garlic",
+            "chicken stock cube",
+            "minced beef"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            }
+        },
+        "question": "Between <TIME 00:02:27.024 video 1> and <TIME 00:02:39.099 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "olive oil cooking spray",
+            "avocado",
+            "chicken thighs",
+            "tabbouleh salad",
+            "mixed seeds"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "Between <TIME 00:17:20.000 video 1> and <TIME 00:18:04.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "water",
+            "whole wheat flour",
+            "vegetable oil",
+            "butter",
+            "potatoes"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_50": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "Between <TIME 00:01:21.000 video 1> and <TIME 00:01:34.000 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "green chillies",
+            "ginger",
+            "cashew nuts",
+            "green peas",
+            "lime juice"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_51": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Between <TIME 00:33:02.049 video 1> and <TIME 00:33:17.087 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "semolina flour",
+            "garlic",
+            "salt",
+            "black pepper",
+            "chestnut mushrooms"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_52": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "Between <TIME 00:01:26.000 video 1> and <TIME 00:01:39.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "brown onions",
+            "salt",
+            "ghee",
+            "green peas",
+            "whole cloves"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_53": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Between <TIME 00:08:32.033 video 1> and <TIME 00:08:44.935 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "tomatoes",
+            "black pepper",
+            "tomato puree",
+            "apple cider vinegar",
+            "olive oil"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_54": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Between <TIME 00:17:52.021 video 1> and <TIME 00:18:03.033 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "butter",
+            "flour",
+            "chocolate chips",
+            "egg yolk",
+            "bananas"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_55": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Between <TIME 00:38:27.022 video 1> and <TIME 00:38:57.085 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "garlic powder",
+            "sunflower oil",
+            "eggs",
+            "garlic",
+            "salt"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_56": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            }
+        },
+        "question": "Between <TIME 00:29:58.000 video 1> and <TIME 00:30:11.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "worcestershire sauce",
+            "black pepper",
+            "paprika",
+            "garlic paste",
+            "lemon juice"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_57": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "Between <TIME 00:05:10.985 video 1> and <TIME 00:05:26.044 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "white wine",
+            "grana padano",
+            "risotto rice",
+            "parsley",
+            "parmesan cheese"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_58": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "Between <TIME 00:05:31.023 video 1> and <TIME 00:05:46.034 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "olive oil",
+            "salt",
+            "butter",
+            "black pepper",
+            "baguette"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_59": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Between <TIME 00:15:44.001 video 1> and <TIME 00:15:55.091 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "apple cider vinegar",
+            "sweetcorn",
+            "garlic",
+            "black pepper",
+            "olive oil"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_60": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "Between <TIME 00:18:44.020 video 1> and <TIME 00:18:57.086 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "green peas",
+            "whole cloves",
+            "basmati rice",
+            "lemon juice",
+            "garam masala"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_61": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "Between <TIME 00:22:50.000 video 1> and <TIME 00:23:08.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chilli powder",
+            "sugar",
+            "eggs",
+            "onions",
+            "salted butter"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_62": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "Between <TIME 00:02:05.990 video 1> and <TIME 00:02:18.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "butter",
+            "vegetable oil",
+            "whole wheat flour",
+            "water",
+            "potatoes"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_63": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            }
+        },
+        "question": "Between <TIME 00:30:54.072 video 1> and <TIME 00:31:13.066 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "lemon juice",
+            "lemon",
+            "raspberries",
+            "butter",
+            "eggs"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_64": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "Between <TIME 00:22:07.000 video 1> and <TIME 00:22:24.012 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "egg whites",
+            "mushrooms",
+            "olive oil",
+            "almond milk (unsweetened)",
+            "green peppers"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_65": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "Between <TIME 00:13:09.061 video 1> and <TIME 00:13:32.072 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "coconut milk",
+            "vegetable oil",
+            "salt",
+            "beef",
+            "chilli"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_66": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "Between <TIME 00:14:11.005 video 1> and <TIME 00:14:25.049 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "strawberry granola",
+            "green peppers",
+            "olive oil",
+            "egg whites",
+            "ground cinnamon"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_67": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            }
+        },
+        "question": "Between <TIME 00:07:52.969 video 1> and <TIME 00:08:29.971 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "minced beef",
+            "spaghetti",
+            "tomato pasta sauce",
+            "mixed herbs",
+            "green bell pepper"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_68": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-163547"
+            }
+        },
+        "question": "Between <TIME 00:24:47.095 video 1> and <TIME 00:25:02.092 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "red onions",
+            "carrots",
+            "garlic",
+            "celery",
+            "chestnut mushrooms"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_69": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-191007"
+            }
+        },
+        "question": "Between <TIME 00:30:39.030 video 1> and <TIME 00:30:50.081 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chestnut mushrooms",
+            "dried mushrooms",
+            "shiitake mushrooms",
+            "oil",
+            "onions"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_70": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "Between <TIME 00:07:55.050 video 1> and <TIME 00:08:09.065 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "sesame oil",
+            "crispy chilli oil",
+            "garlic",
+            "soy sauce",
+            "cucumber"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_71": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-150155"
+            }
+        },
+        "question": "Between <TIME 00:13:06.033 video 1> and <TIME 00:13:21.200 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "ginger",
+            "gluten free flour",
+            "grated mozzarella",
+            "chilli powder",
+            "hibiscus flowers"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_72": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "Between <TIME 00:17:47.052 video 1> and <TIME 00:18:05.072 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "balsamic glaze",
+            "carrots",
+            "baby spinach",
+            "fusilli pasta",
+            "tuna"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_73": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "Between <TIME 00:04:23.048 video 1> and <TIME 00:04:35.051 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "cherry tomatoes",
+            "mixed bean salad",
+            "olive oil",
+            "mixed seeds",
+            "balsamic glaze"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_74": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "Between <TIME 00:03:49.060 video 1> and <TIME 00:04:01.002 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "egg whites",
+            "salt",
+            "olive oil",
+            "eggs",
+            "ground cinnamon"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_75": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Between <TIME 00:11:13.000 video 1> and <TIME 00:11:24.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "cumin seeds",
+            "garlic paste",
+            "garlic",
+            "onions",
+            "salted butter"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_76": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "Between <TIME 00:19:32.000 video 1> and <TIME 00:19:48.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "red bell pepper",
+            "red onions",
+            "garlic",
+            "sesame oil",
+            "broccoli"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_77": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "Between <TIME 00:10:51.038 video 1> and <TIME 00:11:14.002 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "olive oil",
+            "cucumber",
+            "cherry tomatoes",
+            "sourdough baguette",
+            "carrots"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_78": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "Between <TIME 00:12:57.095 video 1> and <TIME 00:30:54.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "scotch bonnet chilli",
+            "vegetable oil",
+            "beef",
+            "garlic and ginger paste",
+            "tomatoes"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_79": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "Between <TIME 00:22:09.021 video 1> and <TIME 00:22:21.031 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "olive oil",
+            "salt",
+            "green chillies",
+            "lime juice",
+            "basmati rice"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_80": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Between <TIME 00:19:29.972 video 1> and <TIME 00:19:40.984 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "black beans",
+            "greek yoghurt",
+            "avocado",
+            "olive oil",
+            "sweetcorn"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_81": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Between <TIME 00:43:40.019 video 1> and <TIME 00:44:07.042 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chestnut mushrooms",
+            "black pepper",
+            "tomato sauce",
+            "sunflower oil",
+            "salt"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_82": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "Between <TIME 00:04:00.000 video 1> and <TIME 00:04:15.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "black pepper",
+            "bell pepper",
+            "almond milk (unsweetened)",
+            "egg whites",
+            "salt"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_83": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "Between <TIME 00:29:54.000 video 1> and <TIME 00:43:05.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "sunflower oil",
+            "potatoes",
+            "plant-based burger",
+            "butter",
+            "plant-based burgers"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_84": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Between <TIME 00:19:20.054 video 1> and <TIME 00:25:05.033 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "white onions",
+            "potatoes",
+            "water",
+            "flour",
+            "kale"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_retrieval_85": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            }
+        },
+        "question": "Between <TIME 00:07:52.981 video 1> and <TIME 00:08:28.992 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "spaghetti",
+            "chopped tomato",
+            "mixed herbs",
+            "celery",
+            "tomato pasta sauce"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_86": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-115307"
+            }
+        },
+        "question": "Between <TIME 00:09:13.990 video 1> and <TIME 00:09:24.952 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "garlic",
+            "tomatoes",
+            "salt",
+            "onions",
+            "butter"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_87": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Between <TIME 00:23:33.093 video 1> and <TIME 00:23:45.047 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "black pepper",
+            "potatoes",
+            "garlic",
+            "worcestershire sauce",
+            "tomatoes"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_88": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "Between <TIME 00:12:17.022 video 1> and <TIME 00:12:40.035 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "salt",
+            "black pepper",
+            "cheddar cheese",
+            "milk",
+            "paprika"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_89": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            }
+        },
+        "question": "Between <TIME 00:07:46.000 video 1> and <TIME 00:07:56.000 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "dried coriander",
+            "worcestershire sauce",
+            "mushrooms",
+            "paprika",
+            "ground nutmeg"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_90": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-182630"
+            }
+        },
+        "question": "Between <TIME 00:21:26.233 video 1> and <TIME 00:22:00.226 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "chilli sauce",
+            "water",
+            "parmesan",
+            "kebab wrap",
+            "yoghurt"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_91": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-142301"
+            }
+        },
+        "question": "Between <TIME 00:16:31.000 video 1> and <TIME 00:17:09.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "garlic",
+            "onion",
+            "vegetable oil",
+            "minced beef",
+            "olive oil"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_92": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "Between <TIME 00:31:19.000 video 1> and <TIME 00:31:33.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "cucumber",
+            "cherry tomatoes",
+            "olive oil",
+            "balsamic glaze",
+            "baby spinach"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_93": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "Between <TIME 00:23:49.066 video 1> and <TIME 00:24:00.063 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "tuna",
+            "red bell pepper",
+            "balsamic glaze",
+            "fusilli pasta",
+            "garlic powder"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_94": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455"
+            }
+        },
+        "question": "Between <TIME 00:12:55.074 video 1> and <TIME 00:13:08.071 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "bacon",
+            "eggs",
+            "pasta",
+            "egg yolk",
+            "garlic"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_95": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Between <TIME 00:16:32.984 video 1> and <TIME 00:17:38.976 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "cherry tomatoes",
+            "stilton",
+            "cucumber",
+            "olives",
+            "chickpeas"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_retrieval_96": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722"
+            }
+        },
+        "question": "Between <TIME 00:09:16.020 video 1> and <TIME 00:15:54.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "romaine lettuce",
+            "dried parsley",
+            "lemon juice",
+            "sriracha",
+            "wholemeal tortilla"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_retrieval_97": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Between <TIME 00:09:22.026 video 1> and <TIME 00:10:09.059 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "cherry tomatoes",
+            "romaine lettuce",
+            "cucumber",
+            "stilton",
+            "olives"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_retrieval_98": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Between <TIME 00:43:27.035 video 1> and <TIME 00:43:43.071 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "black pepper",
+            "tomato passata",
+            "pizza dough",
+            "eggs",
+            "olive oil"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_retrieval_99": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Between <TIME 00:06:35.000 video 1> and <TIME 00:06:51.990 video 1>, which of these ingredients were added to the dish being prepared?",
+        "choices": [
+            "mozzarella cheese",
+            "sunflower oil",
+            "salt",
+            "tomato passata",
+            "chestnut mushrooms"
+        ],
+        "correct_idx": 2
+    }
+}

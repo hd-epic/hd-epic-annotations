@@ -1,0 +1,902 @@
+{
+    "ingredient_ingredient_weight_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-142619",
+                "start_time": "00:16:04.059",
+                "end_time": "00:16:17.030"
+            }
+        },
+        "question": "How much did the participant weigh of brown onions in this video?",
+        "choices": [
+            "113 g",
+            "98 g",
+            "117 g",
+            "101 g",
+            "94 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_weight_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038",
+                "start_time": "00:18:14.064",
+                "end_time": "00:18:29.058"
+            }
+        },
+        "question": "How much did the participant weigh of lettuce in this video?",
+        "choices": [
+            "230 g",
+            "229 g",
+            "196 g",
+            "212 g",
+            "264 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_weight_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703",
+                "start_time": "00:05:59.064",
+                "end_time": "00:06:17.065"
+            }
+        },
+        "question": "How much did the participant weigh of olive oil in this video?",
+        "choices": [
+            "2 tbsp",
+            "4 tbsp",
+            "3 tbsp",
+            "1 tbsp",
+            "0 tbsp"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909",
+                "start_time": "00:04:24.024",
+                "end_time": "00:04:47.016"
+            }
+        },
+        "question": "How much did the participant weigh of green beans in this video?",
+        "choices": [
+            "159 g",
+            "136 g",
+            "151 g",
+            "167 g",
+            "138 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042",
+                "start_time": "00:00:32.000",
+                "end_time": "00:00:45.990"
+            }
+        },
+        "question": "How much did the participant weigh of unsalted butter in this video?",
+        "choices": [
+            "30 g",
+            "33 g",
+            "32 g",
+            "28 g",
+            "35 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_weight_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-163547",
+                "start_time": "00:03:34.000",
+                "end_time": "00:03:54.990"
+            }
+        },
+        "question": "How much did the participant weigh of red onions in this video?",
+        "choices": [
+            "115 g",
+            "102 g",
+            "100 g",
+            "114 g",
+            "109 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_weight_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518",
+                "start_time": "00:09:04.996",
+                "end_time": "00:09:57.980"
+            }
+        },
+        "question": "How much did the participant weigh of grana padano in this video?",
+        "choices": [
+            "83 g",
+            "78 g",
+            "79 g",
+            "74 g",
+            "70 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_weight_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359",
+                "start_time": "00:02:44.014",
+                "end_time": "00:02:56.046"
+            }
+        },
+        "question": "How much did the participant weigh of cloves in this video?",
+        "choices": [
+            "3 teaspoon",
+            "2 teaspoon",
+            "0 teaspoon",
+            "1 teaspoon",
+            "4 teaspoon"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-130505",
+                "start_time": "00:01:01.222",
+                "end_time": "00:01:34.266"
+            }
+        },
+        "question": "How much did the participant weigh of salted butter in this video?",
+        "choices": [
+            "37 g",
+            "55 g",
+            "46 g",
+            "48 g",
+            "56 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_weight_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401",
+                "start_time": "00:03:56.000",
+                "end_time": "00:04:20.990"
+            }
+        },
+        "question": "How much did the participant weigh of cucumber in this video?",
+        "choices": [
+            "79 g",
+            "73 g",
+            "94 g",
+            "72 g",
+            "84 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353",
+                "start_time": "00:08:45.033",
+                "end_time": "00:08:57.043"
+            }
+        },
+        "question": "How much did the participant weigh of spring onions in this video?",
+        "choices": [
+            "24 g",
+            "26 g",
+            "25 g",
+            "14 g",
+            "22 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455",
+                "start_time": "00:12:24.053",
+                "end_time": "00:12:37.096"
+            }
+        },
+        "question": "How much did the participant weigh of pasta in this video?",
+        "choices": [
+            "481 g",
+            "418 g",
+            "464 g",
+            "448 g",
+            "360 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_weight_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545",
+                "start_time": "00:02:23.000",
+                "end_time": "00:02:38.990"
+            }
+        },
+        "question": "How much did the participant weigh of chicken breasts in this video?",
+        "choices": [
+            "308 g",
+            "260 g",
+            "261 g",
+            "380 g",
+            "379 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_weight_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909",
+                "start_time": "00:10:26.061",
+                "end_time": "00:10:37.085"
+            }
+        },
+        "question": "How much did the participant weigh of red bell pepper in this video?",
+        "choices": [
+            "53 g",
+            "58 g",
+            "46 g",
+            "68 g",
+            "71 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_weight_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-115307",
+                "start_time": "00:16:25.957",
+                "end_time": "00:16:38.932"
+            }
+        },
+        "question": "How much did the participant weigh of garam masala in this video?",
+        "choices": [
+            "1 tsp",
+            "0 tsp",
+            "2 tsp",
+            "3 tsp",
+            "4 tsp"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_weight_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410",
+                "start_time": "00:09:04.000",
+                "end_time": "00:09:17.990"
+            }
+        },
+        "question": "How much did the participant weigh of blue cheese in this video?",
+        "choices": [
+            "44 g",
+            "43 g",
+            "36 g",
+            "42 g",
+            "48 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311",
+                "start_time": "00:20:57.044",
+                "end_time": "00:21:20.000"
+            }
+        },
+        "question": "How much did the participant weigh of strawberry granola in this video?",
+        "choices": [
+            "93 g",
+            "110 g",
+            "85 g",
+            "101 g",
+            "79 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-175615",
+                "start_time": "00:06:46.000",
+                "end_time": "00:06:57.072"
+            }
+        },
+        "question": "How much did the participant weigh of cashew nuts in this video?",
+        "choices": [
+            "2 g",
+            "6 g",
+            "5 g",
+            "4 g",
+            "3 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401",
+                "start_time": "00:09:00.000",
+                "end_time": "00:09:25.990"
+            }
+        },
+        "question": "How much did the participant weigh of celery in this video?",
+        "choices": [
+            "29 g",
+            "27 g",
+            "23 g",
+            "25 g",
+            "31 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-090812",
+                "start_time": "00:02:11.935",
+                "end_time": "00:02:24.923"
+            }
+        },
+        "question": "How much did the participant weigh of banana in this video?",
+        "choices": [
+            "59 g",
+            "56 g",
+            "52 g",
+            "54 g",
+            "55 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401",
+                "start_time": "00:06:55.035",
+                "end_time": "00:07:07.050"
+            }
+        },
+        "question": "How much did the participant weigh of red onions in this video?",
+        "choices": [
+            "36 g",
+            "27 g",
+            "41 g",
+            "44 g",
+            "43 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_weight_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543",
+                "start_time": "00:06:58.000",
+                "end_time": "00:07:35.060"
+            }
+        },
+        "question": "How much did the participant weigh of sugar in this video?",
+        "choices": [
+            "200 g",
+            "196 g",
+            "202 g",
+            "193 g",
+            "201 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-163547",
+                "start_time": "00:11:51.010",
+                "end_time": "00:12:10.035"
+            }
+        },
+        "question": "How much did the participant weigh of celery in this video?",
+        "choices": [
+            "65 g",
+            "59 g",
+            "51 g",
+            "42 g",
+            "49 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_weight_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-153208",
+                "start_time": "00:02:01.000",
+                "end_time": "00:04:50.990"
+            }
+        },
+        "question": "How much did the participant weigh of hibiscus flowers in this video?",
+        "choices": [
+            "21 g",
+            "24 g",
+            "25 g",
+            "23 g",
+            "22 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-175615",
+                "start_time": "00:09:46.046",
+                "end_time": "00:09:58.063"
+            }
+        },
+        "question": "How much did the participant weigh of brown onions in this video?",
+        "choices": [
+            "72 g",
+            "93 g",
+            "74 g",
+            "82 g",
+            "80 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-130505",
+                "start_time": "00:08:03.274",
+                "end_time": "00:10:22.269"
+            }
+        },
+        "question": "How much did the participant weigh of carrots in this video?",
+        "choices": [
+            "915 g",
+            "608 g",
+            "736 g",
+            "663 g",
+            "791 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_weight_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518",
+                "start_time": "00:09:27.000",
+                "end_time": "00:09:58.990"
+            }
+        },
+        "question": "How much did the participant weigh of parmesan cheese in this video?",
+        "choices": [
+            "40 g",
+            "52 g",
+            "45 g",
+            "49 g",
+            "41 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-161354",
+                "start_time": "00:02:52.068",
+                "end_time": "00:03:14.033"
+            }
+        },
+        "question": "How much did the participant weigh of penne pasta in this video?",
+        "choices": [
+            "120 g",
+            "103 g",
+            "100 g",
+            "131 g",
+            "125 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502",
+                "start_time": "00:04:53.915",
+                "end_time": "00:05:12.990"
+            }
+        },
+        "question": "How much did the participant weigh of cocoa powder in this video?",
+        "choices": [
+            "38 g",
+            "41 g",
+            "31 g",
+            "28 g",
+            "35 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502",
+                "start_time": "00:03:00.000",
+                "end_time": "00:03:33.990"
+            }
+        },
+        "question": "How much did the participant weigh of biscuits in this video?",
+        "choices": [
+            "472 g",
+            "438 g",
+            "451 g",
+            "457 g",
+            "518 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556",
+                "start_time": "00:37:15.000",
+                "end_time": "00:37:29.989"
+            }
+        },
+        "question": "How much did the participant weigh of tomato puree in this video?",
+        "choices": [
+            "3 tbsp",
+            "1 tbsp",
+            "2 tbsp",
+            "4 tbsp",
+            "0 tbsp"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_weight_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543",
+                "start_time": "00:35:30.000",
+                "end_time": "00:35:47.989"
+            }
+        },
+        "question": "How much did the participant weigh of tomato sauce in this video?",
+        "choices": [
+            "4 tbsp",
+            "1 tbsp",
+            "5 tbsp",
+            "3 tbsp",
+            "2 tbsp"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-142619",
+                "start_time": "00:04:37.047",
+                "end_time": "00:04:53.002"
+            }
+        },
+        "question": "How much did the participant weigh of chicken breast in this video?",
+        "choices": [
+            "389 g",
+            "441 g",
+            "356 g",
+            "404 g",
+            "455 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-142619",
+                "start_time": "00:08:31.000",
+                "end_time": "00:08:43.990"
+            }
+        },
+        "question": "How much did the participant weigh of salt in this video?",
+        "choices": [
+            "1 tbsp",
+            "3 tbsp",
+            "4 tbsp",
+            "0 tbsp",
+            "2 tbsp"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_weight_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722",
+                "start_time": "00:02:37.051",
+                "end_time": "00:03:00.070"
+            }
+        },
+        "question": "How much did the participant weigh of fat free yoghurt in this video?",
+        "choices": [
+            "68 g",
+            "94 g",
+            "121 g",
+            "101 g",
+            "133 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-145245",
+                "start_time": "00:11:57.043",
+                "end_time": "00:12:27.799"
+            }
+        },
+        "question": "How much did the participant weigh of romaine lettuce in this video?",
+        "choices": [
+            "216 g",
+            "210 g",
+            "220 g",
+            "245 g",
+            "176 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_weight_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529",
+                "start_time": "00:10:36.000",
+                "end_time": "00:11:06.990"
+            }
+        },
+        "question": "How much did the participant weigh of coconut milk in this video?",
+        "choices": [
+            "48 g",
+            "50 g",
+            "47 g",
+            "38 g",
+            "44 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_weight_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-085204",
+                "start_time": "00:00:30.015",
+                "end_time": "00:00:58.039"
+            }
+        },
+        "question": "How much did the participant weigh of porridge oats in this video?",
+        "choices": [
+            "58 g",
+            "68 g",
+            "52 g",
+            "80 g",
+            "38 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_weight_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207",
+                "start_time": "00:09:09.000",
+                "end_time": "00:11:55.990"
+            }
+        },
+        "question": "How much did the participant weigh of salted butter in this video?",
+        "choices": [
+            "5 g",
+            "6 g",
+            "8 g",
+            "7 g",
+            "4 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_weight_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642",
+                "start_time": "00:15:15.932",
+                "end_time": "00:15:27.928"
+            }
+        },
+        "question": "How much did the participant weigh of cottage cheese in this video?",
+        "choices": [
+            "192.77 g",
+            "172.39 g",
+            "230.12 g",
+            "169.77 g",
+            "153.92 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_weight_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207",
+                "start_time": "00:22:38.000",
+                "end_time": "00:22:53.990"
+            }
+        },
+        "question": "How much did the participant weigh of sugar in this video?",
+        "choices": [
+            "29 g",
+            "26 g",
+            "24 g",
+            "28 g",
+            "23 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_ingredient_weight_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207",
+                "start_time": "00:23:20.000",
+                "end_time": "00:23:40.990"
+            }
+        },
+        "question": "How much did the participant weigh of coffee in this video?",
+        "choices": [
+            "8 g",
+            "12 g",
+            "6 g",
+            "9 g",
+            "7 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410",
+                "start_time": "00:01:20.034",
+                "end_time": "00:02:24.986"
+            }
+        },
+        "question": "How much did the participant weigh of romaine lettuce in this video?",
+        "choices": [
+            "296 g",
+            "200 g",
+            "323 g",
+            "235 g",
+            "352 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_ingredient_weight_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410",
+                "start_time": "00:03:57.027",
+                "end_time": "00:04:52.007"
+            }
+        },
+        "question": "How much did the participant weigh of cherry tomatoes in this video?",
+        "choices": [
+            "164 g",
+            "130 g",
+            "141 g",
+            "146 g",
+            "131 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410",
+                "start_time": "00:06:00.047",
+                "end_time": "00:06:40.028"
+            }
+        },
+        "question": "How much did the participant weigh of cucumber in this video?",
+        "choices": [
+            "215 g",
+            "181 g",
+            "254 g",
+            "212 g",
+            "214 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-161948",
+                "start_time": "00:01:02.459",
+                "end_time": "00:04:57.990"
+            }
+        },
+        "question": "How much did the participant weigh of parmigiano in this video?",
+        "choices": [
+            "27 g",
+            "34 g",
+            "22 g",
+            "29 g",
+            "31 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-085204",
+                "start_time": "00:00:58.093",
+                "end_time": "00:01:14.049"
+            }
+        },
+        "question": "How much did the participant weigh of milk in this video?",
+        "choices": [
+            "168 g",
+            "166 g",
+            "157 g",
+            "162 g",
+            "144 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_ingredient_weight_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545",
+                "start_time": "00:14:20.044",
+                "end_time": "00:15:08.091"
+            }
+        },
+        "question": "How much did the participant weigh of red curry paste in this video?",
+        "choices": [
+            "70 g",
+            "55 g",
+            "65 g",
+            "60 g",
+            "50 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_ingredient_weight_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-150155",
+                "start_time": "00:04:07.097",
+                "end_time": "00:04:22.019"
+            }
+        },
+        "question": "How much did the participant weigh of chilli powder in this video?",
+        "choices": [
+            "4 g",
+            "5 g",
+            "9 g",
+            "8 g",
+            "7 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_ingredient_weight_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-150155",
+                "start_time": "00:23:48.000",
+                "end_time": "00:24:39.990"
+            }
+        },
+        "question": "How much did the participant weigh of grated mozzarella in this video?",
+        "choices": [
+            "179 g",
+            "144 g",
+            "158 g",
+            "168 g",
+            "151 g"
+        ],
+        "correct_idx": 4
+    }
+}

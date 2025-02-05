@@ -1,0 +1,1602 @@
+{
+    "recipe_rough_step_localization_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "Which of these time segments belongs to the Mushroom Risotto recipe step Stir in chopped chestnut mushrooms, chopped shiitake mushrooms, and the dried mushrooms in this video?",
+        "choices": [
+            "<TIME 00:26:02.905 video 1> to <TIME 00:27:09.447 video 1>",
+            "<TIME 00:00:03.720 video 1> to <TIME 00:00:52.244 video 1>",
+            "<TIME 00:27:29.453 video 1> to <TIME 00:27:56.544 video 1>",
+            "<TIME 00:01:26.865 video 1> to <TIME 00:01:56.981 video 1>",
+            "<TIME 00:13:23.560 video 1> to <TIME 00:13:50.633 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these time segments belongs to the Banana Bread Chocolate Chip Cookies recipe step Use a cookie scoop or a spoon to scoop out about 1 inch dough balls. Place 2 inches apart on the prepared cookie sheet in this video?",
+        "choices": [
+            "<TIME 00:34:10.649 video 1> to <TIME 00:34:19.239 video 1>",
+            "<TIME 00:27:48.452 video 1> to <TIME 00:27:49.042 video 1>",
+            "<TIME 00:09:20.864 video 1> to <TIME 00:10:28.524 video 1>",
+            "<TIME 00:13:08.402 video 1> to <TIME 00:13:39.953 video 1>",
+            "<TIME 00:31:11.288 video 1> to <TIME 00:34:04.703 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "Which of these time segments belongs to the Bacon and Egg Sandwich recipe step Heat half the oil in a large frying pan, add bacon and cook, turning occasionally, until browned and cooked to your liking (3-4 minutes for semi-crisp) in this video?",
+        "choices": [
+            "<TIME 00:07:26.046 video 1> to <TIME 00:07:52.446 video 1>",
+            "<TIME 00:11:20.003 video 1> to <TIME 00:12:00.827 video 1>",
+            "<TIME 00:06:22.443 video 1> to <TIME 00:06:40.130 video 1>",
+            "<TIME 00:03:57.375 video 1> to <TIME 00:04:08.477 video 1>",
+            "<TIME 00:09:24.554 video 1> to <TIME 00:09:44.258 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "Which of these time segments belongs to the Carbonara with Side Salad recipe step Pour the Parmesan eggs into the pan, and keep everything moving, loosening with splashes of the pasta cooking water until you have a silky sauce. Make sure the pan isn't too hot otherwise the eggs will scramble in this video?",
+        "choices": [
+            "<TIME 00:08:25.882 video 1> to <TIME 00:09:11.586 video 1>",
+            "<TIME 00:04:43.488 video 1> to <TIME 00:04:59.718 video 1>",
+            "<TIME 00:06:03.897 video 1> to <TIME 00:07:00.898 video 1>",
+            "<TIME 00:01:39.488 video 1> to <TIME 00:01:47.193 video 1>",
+            "<TIME 00:09:31.832 video 1> to <TIME 00:10:03.924 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "Which of these time segments belongs to the Crispy Cucumber Salad recipe step Add 2 teaspoons of chilli crisp - or more if you dare! You want to get a mound of the crispy chilli - it will be well soaked with the red chilli oil that colours this salad. You can always add more after you toss. Taste and add, taste and add! in this video?",
+        "choices": [
+            "<TIME 00:05:26.263 video 1> to <TIME 00:05:31.471 video 1>",
+            "<TIME 00:10:44.697 video 1> to <TIME 00:10:57.024 video 1>",
+            "<TIME 00:15:15.614 video 1> to <TIME 00:15:35.077 video 1>",
+            "<TIME 00:12:28.810 video 1> to <TIME 00:12:46.846 video 1>",
+            "<TIME 00:14:38.652 video 1> to <TIME 00:14:53.721 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these time segments belongs to the Banana Bread Chocolate Chip Cookies recipe step In a large bowl, combine the melted butter and sugar. Mix to combine in this video?",
+        "choices": [
+            "<TIME 00:07:46.078 video 1> to <TIME 00:08:23.328 video 1>",
+            "<TIME 00:05:58.703 video 1> to <TIME 00:06:23.971 video 1>",
+            "<TIME 00:15:22.600 video 1> to <TIME 00:16:37.792 video 1>",
+            "<TIME 00:24:23.421 video 1> to <TIME 00:25:13.096 video 1>",
+            "<TIME 00:34:10.649 video 1> to <TIME 00:34:19.239 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which of these time segments belongs to the Dal Makhani with Rice recipe step In the morning, drain the water in which the dal and rajma was soaked. Transfer the dal and rajma to a pressure cooker with 1 teaspoon salt. Add around 3.5 cups water. Cook in the pressure cooker on high-medium heat for 10 whistles, then lower the heat to low-medium and cook for another 10 minutes. In total around 15 to 20 whistles in this video?",
+        "choices": [
+            "<TIME 00:32:10.968 video 1> to <TIME 00:32:38.380 video 1>",
+            "<TIME 00:37:23.810 video 1> to <TIME 00:38:14.869 video 1>",
+            "<TIME 00:19:28.011 video 1> to <TIME 00:19:33.570 video 1>",
+            "<TIME 00:03:36.033 video 1> to <TIME 00:05:40.549 video 1>",
+            "<TIME 00:35:48.969 video 1> to <TIME 00:36:33.119 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these time segments belongs to the Salmon Teriyaki Skewers with Vegetables recipe step Place broccoli in air fryer and roast for 15 minutes. Season with oil, salt, pepper, oregano, and garlic granules half-way through in this video?",
+        "choices": [
+            "<TIME 00:06:41.949 video 1> to <TIME 00:06:53.488 video 1>",
+            "<TIME 00:04:25.488 video 1> to <TIME 00:04:27.024 video 1>",
+            "<TIME 00:01:38.050 video 1> to <TIME 00:02:15.182 video 1>",
+            "<TIME 00:00:17.605 video 1> to <TIME 00:00:23.241 video 1>",
+            "<TIME 00:10:53.475 video 1> to <TIME 00:11:03.540 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chopped Chickpea Salad recipe step Crumble the blue cheese into the bowl in this video?",
+        "choices": [
+            "<TIME 00:05:33.225 video 1> to <TIME 00:05:52.757 video 1>",
+            "<TIME 00:16:37.856 video 1> to <TIME 00:17:32.506 video 1>",
+            "<TIME 00:09:23.166 video 1> to <TIME 00:10:03.498 video 1>",
+            "<TIME 00:10:51.316 video 1> to <TIME 00:11:11.952 video 1>",
+            "<TIME 00:07:29.479 video 1> to <TIME 00:08:02.861 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-172243"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chickpea and Spinach Curry with Rice recipe step Add the tomatoes, mango chutney and salt, stir in and bring to a simmer. Turn the heat to the lowest you can (a heat diffuser on gas works a treat) and put the lid on. Leave to cook for around 20 minutes in this video?",
+        "choices": [
+            "<TIME 00:04:22.478 video 1> to <TIME 00:04:26.695 video 1>",
+            "<TIME 00:02:48.540 video 1> to <TIME 00:03:40.519 video 1>",
+            "<TIME 00:04:28.334 video 1> to <TIME 00:04:31.121 video 1>",
+            "<TIME 00:02:06.532 video 1> to <TIME 00:02:33.201 video 1>",
+            "<TIME 00:00:20.076 video 1> to <TIME 00:00:46.233 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Which of these time segments belongs to the Spanish Tortilla recipe step When the onions and potatoes are cooked, carefully pour the eggs on top ensuring the eggs cover the potatoes and onions evenly. Cook the eggs with a low heat until there's almost no runny egg on top in this video?",
+        "choices": [
+            "<TIME 00:52:55.188 video 1> to <TIME 00:54:04.078 video 1>",
+            "<TIME 00:39:16.298 video 1> to <TIME 00:42:54.310 video 1>",
+            "<TIME 01:00:20.549 video 1> to <TIME 01:01:22.733 video 1>",
+            "<TIME 01:04:32.549 video 1> to <TIME 01:05:59.728 video 1>",
+            "<TIME 00:14:04.006 video 1> to <TIME 00:18:24.614 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "Which of these time segments belongs to the Uttapam Pancake recipe step Place the chopped onions and tomato on the pancake in the pan and flip the sides of the pancake on the lower flame in this video?",
+        "choices": [
+            "<TIME 00:17:17.525 video 1> to <TIME 00:17:26.611 video 1>",
+            "<TIME 00:13:07.239 video 1> to <TIME 00:13:41.468 video 1>",
+            "<TIME 00:23:34.352 video 1> to <TIME 00:24:05.298 video 1>",
+            "<TIME 00:25:19.425 video 1> to <TIME 00:25:40.989 video 1>",
+            "<TIME 00:20:29.199 video 1> to <TIME 00:20:48.605 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "Which of these time segments belongs to the Mangsho Bhuna recipe step Once the meat is cooked and tender, add the fried onion, cumin, garam masala, ghee and chili and cook through until the meat is tender in this video?",
+        "choices": [
+            "<TIME 00:24:27.117 video 1> to <TIME 00:24:56.145 video 1>",
+            "<TIME 00:17:09.000 video 1> to <TIME 00:17:36.990 video 1>",
+            "<TIME 00:15:03.659 video 1> to <TIME 00:15:13.417 video 1>",
+            "<TIME 00:33:29.515 video 1> to <TIME 00:33:50.792 video 1>",
+            "<TIME 00:34:56.541 video 1> to <TIME 00:35:39.560 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "Which of these time segments belongs to the Red Lentils Squash Curry recipe step Fry the onion until golden (around 6-8 mins) in this video?",
+        "choices": [
+            "<TIME 00:23:14.311 video 1> to <TIME 00:24:44.367 video 1>",
+            "<TIME 00:10:33.656 video 1> to <TIME 00:13:24.971 video 1>",
+            "<TIME 00:48:17.494 video 1> to <TIME 00:48:51.357 video 1>",
+            "<TIME 00:28:08.159 video 1> to <TIME 00:28:36.498 video 1>",
+            "<TIME 00:29:29.735 video 1> to <TIME 00:30:26.057 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "Which of these time segments belongs to the Carbonara with Side Salad recipe step Slice the bacon and place in a non-stick frying pan on a medium heat with half a tablespoon of olive oil and a really good pinch of black pepper. Leave it to get super-golden and crispy, tossing occasionally, then add the peas in this video?",
+        "choices": [
+            "<TIME 00:00:53.637 video 1> to <TIME 00:01:06.067 video 1>",
+            "<TIME 00:01:39.488 video 1> to <TIME 00:01:47.193 video 1>",
+            "<TIME 00:08:25.882 video 1> to <TIME 00:09:11.586 video 1>",
+            "<TIME 00:09:31.832 video 1> to <TIME 00:10:03.924 video 1>",
+            "<TIME 00:04:43.488 video 1> to <TIME 00:04:59.718 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-150155"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chicken Cheese Balls recipe step Once boiled, drain out any excess water from the potatoes and then mash them in this video?",
+        "choices": [
+            "<TIME 00:37:19.988 video 1> to <TIME 00:37:52.738 video 1>",
+            "<TIME 00:22:15.998 video 1> to <TIME 00:22:44.224 video 1>",
+            "<TIME 00:36:05.033 video 1> to <TIME 00:36:51.932 video 1>",
+            "<TIME 00:33:30.847 video 1> to <TIME 00:33:55.642 video 1>",
+            "<TIME 00:39:21.329 video 1> to <TIME 00:39:33.123 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Which of these time segments belongs to the Pizza Dough recipe step Repeat the previous step several times until the dough is uniform and no longer sticks to the hands in this video?",
+        "choices": [
+            "<TIME 00:57:36.733 video 1> to <TIME 00:58:43.121 video 1>",
+            "<TIME 01:11:53.683 video 1> to <TIME 01:12:27.649 video 1>",
+            "<TIME 00:26:20.033 video 1> to <TIME 00:27:00.238 video 1>",
+            "<TIME 00:14:04.006 video 1> to <TIME 00:18:24.614 video 1>",
+            "<TIME 00:55:23.900 video 1> to <TIME 00:55:34.007 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "Which of these time segments belongs to the Aloo Paratha recipe step Pinch two small balls from the dough. Flatten them and dust with whole wheat flour in this video?",
+        "choices": [
+            "<TIME 00:19:29.685 video 1> to <TIME 00:20:15.399 video 1>",
+            "<TIME 00:12:54.989 video 1> to <TIME 00:13:20.846 video 1>",
+            "<TIME 00:09:17.882 video 1> to <TIME 00:09:50.739 video 1>",
+            "<TIME 00:02:37.656 video 1> to <TIME 00:02:41.971 video 1>",
+            "<TIME 00:17:54.507 video 1> to <TIME 00:18:11.149 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "Which of these time segments belongs to the Red Lentils Squash Curry recipe step Add the spicy garlic & coconut paste to the pan and mix well in this video?",
+        "choices": [
+            "<TIME 00:48:17.494 video 1> to <TIME 00:48:51.357 video 1>",
+            "<TIME 00:23:14.311 video 1> to <TIME 00:24:44.367 video 1>",
+            "<TIME 00:29:29.735 video 1> to <TIME 00:30:26.057 video 1>",
+            "<TIME 00:30:38.955 video 1> to <TIME 00:31:41.261 video 1>",
+            "<TIME 00:02:26.033 video 1> to <TIME 00:03:25.875 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "Which of these time segments belongs to the Bread Omelette recipe step Chop an onion into smaller pieces and add it to the whisked eggs in this video?",
+        "choices": [
+            "<TIME 00:11:24.667 video 1> to <TIME 00:11:30.578 video 1>",
+            "<TIME 00:03:10.441 video 1> to <TIME 00:04:18.400 video 1>",
+            "<TIME 00:10:51.917 video 1> to <TIME 00:11:07.989 video 1>",
+            "<TIME 00:23:50.238 video 1> to <TIME 00:24:00.810 video 1>",
+            "<TIME 00:27:23.553 video 1> to <TIME 00:29:04.471 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these time segments belongs to the Salmon Teriyaki Skewers with Vegetables recipe step Preheat the oven to 180 degrees C/gas mark 4 in this video?",
+        "choices": [
+            "<TIME 00:01:38.050 video 1> to <TIME 00:02:15.182 video 1>",
+            "<TIME 00:04:25.488 video 1> to <TIME 00:04:27.024 video 1>",
+            "<TIME 00:00:17.605 video 1> to <TIME 00:00:23.241 video 1>",
+            "<TIME 00:10:53.475 video 1> to <TIME 00:11:03.540 video 1>",
+            "<TIME 00:15:06.670 video 1> to <TIME 00:15:48.413 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "Which of these time segments belongs to the Red Lentils Squash Curry recipe step Stir in the red lentils and the dhal spice mix in this video?",
+        "choices": [
+            "<TIME 00:20:38.311 video 1> to <TIME 00:21:05.345 video 1>",
+            "<TIME 00:29:29.735 video 1> to <TIME 00:30:26.057 video 1>",
+            "<TIME 00:30:38.955 video 1> to <TIME 00:31:41.261 video 1>",
+            "<TIME 00:17:16.134 video 1> to <TIME 00:18:09.549 video 1>",
+            "<TIME 00:48:17.494 video 1> to <TIME 00:48:51.357 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chopped Chickpea Salad recipe step Chop the cucumber into small pieces and add it to the bowl in this video?",
+        "choices": [
+            "<TIME 00:00:15.008 video 1> to <TIME 00:00:32.477 video 1>",
+            "<TIME 00:05:33.225 video 1> to <TIME 00:05:52.757 video 1>",
+            "<TIME 00:16:37.856 video 1> to <TIME 00:17:32.506 video 1>",
+            "<TIME 00:07:29.479 video 1> to <TIME 00:08:02.861 video 1>",
+            "<TIME 00:13:23.879 video 1> to <TIME 00:15:18.456 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these time segments belongs to the Southwestern Salad recipe step Pulse all the dressing ingredients in a food processor until mostly smooth in this video?",
+        "choices": [
+            "<TIME 00:21:41.990 video 1> to <TIME 00:22:53.417 video 1>",
+            "<TIME 00:20:10.052 video 1> to <TIME 00:20:27.173 video 1>",
+            "<TIME 00:14:49.773 video 1> to <TIME 00:15:03.723 video 1>",
+            "<TIME 00:14:24.882 video 1> to <TIME 00:14:27.078 video 1>",
+            "<TIME 00:23:11.811 video 1> to <TIME 00:23:17.489 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "Which of these time segments belongs to the Aloo Paratha recipe step Gently place the second circle on top. Press and seal the edges with your fingertips. If you are not able to seal the edges, then brush or spread some water on the edges and then seal in this video?",
+        "choices": [
+            "<TIME 00:17:45.494 video 1> to <TIME 00:17:48.989 video 1>",
+            "<TIME 00:13:22.132 video 1> to <TIME 00:14:12.221 video 1>",
+            "<TIME 00:17:27.231 video 1> to <TIME 00:17:43.042 video 1>",
+            "<TIME 00:02:37.656 video 1> to <TIME 00:02:41.971 video 1>",
+            "<TIME 00:09:17.882 video 1> to <TIME 00:09:50.739 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212"
+            }
+        },
+        "question": "Which of these time segments belongs to the Peas Pulao recipe step After a few minutes, add garam masala powder to the cooker and continue to saute until mixed well. Salt maybe added. Then add green peas into the cooker and stir fry for a few minutes under medium heat in this video?",
+        "choices": [
+            "<TIME 00:22:18.846 video 1> to <TIME 00:22:58.060 video 1>",
+            "<TIME 00:02:42.083 video 1> to <TIME 00:03:40.274 video 1>",
+            "<TIME 00:14:34.401 video 1> to <TIME 00:15:42.792 video 1>",
+            "<TIME 00:18:13.125 video 1> to <TIME 00:18:44.649 video 1>",
+            "<TIME 00:23:06.239 video 1> to <TIME 00:23:11.810 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these time segments belongs to the Southwestern Salad recipe step Remove the sweet potatoes from the oven in this video?",
+        "choices": [
+            "<TIME 00:20:10.052 video 1> to <TIME 00:20:27.173 video 1>",
+            "<TIME 00:23:11.811 video 1> to <TIME 00:23:17.489 video 1>",
+            "<TIME 00:20:50.477 video 1> to <TIME 00:21:04.382 video 1>",
+            "<TIME 00:14:49.773 video 1> to <TIME 00:15:03.723 video 1>",
+            "<TIME 00:14:24.882 video 1> to <TIME 00:14:27.078 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "Which of these time segments belongs to the Thai Red Curry recipe step Add coconut milk to the mix in this video?",
+        "choices": [
+            "<TIME 00:33:42.667 video 1> to <TIME 00:34:07.618 video 1>",
+            "<TIME 00:16:54.488 video 1> to <TIME 00:17:07.377 video 1>",
+            "<TIME 00:18:48.933 video 1> to <TIME 00:19:09.822 video 1>",
+            "<TIME 00:25:02.822 video 1> to <TIME 00:25:33.118 video 1>",
+            "<TIME 00:17:09.297 video 1> to <TIME 00:17:39.081 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "Which of these time segments belongs to the Carbonara with Side Salad recipe step Plate up the pasta, and finish with an extra grating of Parmesan in this video?",
+        "choices": [
+            "<TIME 00:04:43.488 video 1> to <TIME 00:04:59.718 video 1>",
+            "<TIME 00:09:31.832 video 1> to <TIME 00:10:03.924 video 1>",
+            "<TIME 00:00:53.637 video 1> to <TIME 00:01:06.067 video 1>",
+            "<TIME 00:06:03.897 video 1> to <TIME 00:07:00.898 video 1>",
+            "<TIME 00:01:39.488 video 1> to <TIME 00:01:47.193 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "Which of these time segments belongs to the Cheese Baguette recipe step Liberally butter one side of each slice of bread in this video?",
+        "choices": [
+            "<TIME 00:36:22.271 video 1> to <TIME 00:39:20.234 video 1>",
+            "<TIME 00:11:16.376 video 1> to <TIME 00:12:15.707 video 1>",
+            "<TIME 00:49:44.081 video 1> to <TIME 00:50:18.917 video 1>",
+            "<TIME 00:32:52.922 video 1> to <TIME 00:33:08.565 video 1>",
+            "<TIME 00:50:52.417 video 1> to <TIME 00:51:02.024 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Which of these time segments belongs to the Mushroom, Tomato, Sweetcorn and Onion Saute recipe step Preheat the pan over medium low heat then add 2 tablespoons olive oil in this video?",
+        "choices": [
+            "<TIME 00:07:50.033 video 1> to <TIME 00:07:52.158 video 1>",
+            "<TIME 00:01:15.033 video 1> to <TIME 00:01:22.117 video 1>",
+            "<TIME 00:15:48.792 video 1> to <TIME 00:15:52.133 video 1>",
+            "<TIME 00:24:43.062 video 1> to <TIME 00:25:12.186 video 1>",
+            "<TIME 00:21:43.016 video 1> to <TIME 00:22:12.825 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "Which of these time segments belongs to the Red Lentils Squash Curry recipe step Chop the onion in this video?",
+        "choices": [
+            "<TIME 00:02:26.033 video 1> to <TIME 00:03:25.875 video 1>",
+            "<TIME 00:20:38.311 video 1> to <TIME 00:21:05.345 video 1>",
+            "<TIME 00:17:16.134 video 1> to <TIME 00:18:09.549 video 1>",
+            "<TIME 00:30:38.955 video 1> to <TIME 00:31:41.261 video 1>",
+            "<TIME 00:29:29.735 video 1> to <TIME 00:30:26.057 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "Which of these time segments belongs to the Mushroom Risotto recipe step When the rice is cooked take the pan off the heat, add butter and scatter over grated parmesan or Grana Padano cheese and tear and scatter a handful of parsley leaves. Chop the rest of the parsley and save for later in this video?",
+        "choices": [
+            "<TIME 00:11:34.701 video 1> to <TIME 00:13:22.210 video 1>",
+            "<TIME 00:27:29.453 video 1> to <TIME 00:27:56.544 video 1>",
+            "<TIME 00:13:23.560 video 1> to <TIME 00:13:50.633 video 1>",
+            "<TIME 00:00:03.720 video 1> to <TIME 00:00:52.244 video 1>",
+            "<TIME 00:26:02.905 video 1> to <TIME 00:27:09.447 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502"
+            }
+        },
+        "question": "Which of these time segments belongs to the Sfesiha (Lebanese Meat Pies) recipe step In a large bowl mix together flour, salt and then add oil. In a separate cup mix yeast with sugar in warm water. Pour over everything else and start kneading until the mix gets doughy and easy to work with. Using your hands rub the bowl with some oil and also rub some on the dough itself while keeping it as a big round shape then cover the bowl with plastic wrapping and a blanket and let it rest for about an hour in this video?",
+        "choices": [
+            "<TIME 00:34:12.723 video 1> to <TIME 00:36:47.790 video 1>",
+            "<TIME 00:11:36.033 video 1> to <TIME 00:13:43.539 video 1>",
+            "<TIME 00:19:43.467 video 1> to <TIME 00:19:45.245 video 1>",
+            "<TIME 00:11:08.762 video 1> to <TIME 00:11:31.290 video 1>",
+            "<TIME 00:21:58.578 video 1> to <TIME 00:22:27.184 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "Which of these time segments belongs to the Fish Cakes and Vegetables recipe step Add oil to a nonstick pan. Bring to medium heat in this video?",
+        "choices": [
+            "<TIME 00:09:15.673 video 1> to <TIME 00:09:31.656 video 1>",
+            "<TIME 00:00:19.973 video 1> to <TIME 00:00:22.060 video 1>",
+            "<TIME 00:13:16.192 video 1> to <TIME 00:13:22.451 video 1>",
+            "<TIME 00:04:53.623 video 1> to <TIME 00:04:58.356 video 1>",
+            "<TIME 00:12:29.334 video 1> to <TIME 00:12:49.025 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "Which of these time segments belongs to the Bread Omelette recipe step Heat a pan with butter when it is hot - pour the egg mixture on it. Tilt it so that the egg mixture is even on all the edges in this video?",
+        "choices": [
+            "<TIME 00:27:23.553 video 1> to <TIME 00:29:04.471 video 1>",
+            "<TIME 00:37:21.042 video 1> to <TIME 00:38:42.114 video 1>",
+            "<TIME 00:11:24.667 video 1> to <TIME 00:11:30.578 video 1>",
+            "<TIME 00:10:51.917 video 1> to <TIME 00:11:07.989 video 1>",
+            "<TIME 00:03:10.441 video 1> to <TIME 00:04:18.400 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "Which of these time segments belongs to the Aloo Paratha recipe step Spread some butter on the second side facing you. A well-made and well-roasted aloo paratha will always puff up when roasting in this video?",
+        "choices": [
+            "<TIME 00:13:22.132 video 1> to <TIME 00:14:12.221 video 1>",
+            "<TIME 00:12:54.989 video 1> to <TIME 00:13:20.846 video 1>",
+            "<TIME 00:17:54.507 video 1> to <TIME 00:18:11.149 video 1>",
+            "<TIME 00:19:29.685 video 1> to <TIME 00:20:15.399 video 1>",
+            "<TIME 00:17:27.231 video 1> to <TIME 00:17:43.042 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "Which of these time segments belongs to the Cheese Baguette recipe step Top one side with cheese. Add crisps if using in this video?",
+        "choices": [
+            "<TIME 00:01:49.459 video 1> to <TIME 00:03:05.971 video 1>",
+            "<TIME 00:11:16.376 video 1> to <TIME 00:12:15.707 video 1>",
+            "<TIME 00:49:44.081 video 1> to <TIME 00:50:18.917 video 1>",
+            "<TIME 00:36:22.271 video 1> to <TIME 00:39:20.234 video 1>",
+            "<TIME 00:50:52.417 video 1> to <TIME 00:51:02.024 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "Which of these time segments belongs to the Mangsho Bhuna recipe step Now add the meat to the mix and stir to mix evenly in this video?",
+        "choices": [
+            "<TIME 00:33:29.515 video 1> to <TIME 00:33:50.792 video 1>",
+            "<TIME 00:12:02.911 video 1> to <TIME 00:12:19.114 video 1>",
+            "<TIME 00:13:49.849 video 1> to <TIME 00:14:15.024 video 1>",
+            "<TIME 00:10:10.596 video 1> to <TIME 00:10:14.007 video 1>",
+            "<TIME 00:38:54.142 video 1> to <TIME 00:39:18.649 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "Which of these time segments belongs to the Scrambled Eggs recipe step Crack the eggs into a medium bowl. Whisk until smooth and combined, with no streaks of egg white remaining in this video?",
+        "choices": [
+            "<TIME 00:14:14.184 video 1> to <TIME 00:14:25.786 video 1>",
+            "<TIME 00:12:00.604 video 1> to <TIME 00:12:33.284 video 1>",
+            "<TIME 00:04:28.659 video 1> to <TIME 00:04:34.203 video 1>",
+            "<TIME 00:07:26.159 video 1> to <TIME 00:07:41.759 video 1>",
+            "<TIME 00:11:43.084 video 1> to <TIME 00:12:00.634 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "Which of these time segments belongs to the Uttapam Pancake recipe step Sprinkle little oil over the onions and turn to the other side. Put some more butter on the sides of the pancake in the pan, so that it does not stick to the sides of the pan in this video?",
+        "choices": [
+            "<TIME 00:26:01.225 video 1> to <TIME 00:26:20.425 video 1>",
+            "<TIME 00:17:17.525 video 1> to <TIME 00:17:26.611 video 1>",
+            "<TIME 00:17:54.364 video 1> to <TIME 00:18:37.798 video 1>",
+            "<TIME 00:18:01.036 video 1> to <TIME 00:18:39.839 video 1>",
+            "<TIME 00:32:20.544 video 1> to <TIME 00:33:19.322 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "Which of these time segments belongs to the Beef Stroganoff recipe step Boil the potatoes for 15-20 mins or until soft, then drain in this video?",
+        "choices": [
+            "<TIME 00:17:11.063 video 1> to <TIME 00:18:12.221 video 1>",
+            "<TIME 00:03:46.948 video 1> to <TIME 00:09:04.834 video 1>",
+            "<TIME 00:18:35.524 video 1> to <TIME 00:18:49.185 video 1>",
+            "<TIME 00:38:50.658 video 1> to <TIME 00:40:14.893 video 1>",
+            "<TIME 00:29:26.025 video 1> to <TIME 00:29:42.132 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "Which of these time segments belongs to the Beef Stroganoff recipe step Add the mushrooms and cook for 3 mins in this video?",
+        "choices": [
+            "<TIME 00:34:48.189 video 1> to <TIME 00:35:31.674 video 1>",
+            "<TIME 00:37:36.088 video 1> to <TIME 00:38:03.687 video 1>",
+            "<TIME 00:29:26.025 video 1> to <TIME 00:29:42.132 video 1>",
+            "<TIME 00:03:46.948 video 1> to <TIME 00:09:04.834 video 1>",
+            "<TIME 00:30:50.024 video 1> to <TIME 00:31:53.757 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            }
+        },
+        "question": "Which of these time segments belongs to the Mushroom Risotto recipe step Give the risotto a final stir, add more parsley and taste in this video?",
+        "choices": [
+            "<TIME 00:10:01.122 video 1> to <TIME 00:10:14.939 video 1>",
+            "<TIME 00:00:03.720 video 1> to <TIME 00:00:52.244 video 1>",
+            "<TIME 00:11:34.701 video 1> to <TIME 00:13:22.210 video 1>",
+            "<TIME 00:27:29.453 video 1> to <TIME 00:27:56.544 video 1>",
+            "<TIME 00:19:08.277 video 1> to <TIME 00:19:32.498 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "Which of these time segments belongs to the Fish Cakes and Vegetables recipe step Preheat the oven to 180 degrees C in this video?",
+        "choices": [
+            "<TIME 00:09:15.673 video 1> to <TIME 00:09:31.656 video 1>",
+            "<TIME 00:16:45.938 video 1> to <TIME 00:17:00.667 video 1>",
+            "<TIME 00:04:53.623 video 1> to <TIME 00:04:58.356 video 1>",
+            "<TIME 00:28:06.686 video 1> to <TIME 00:28:48.215 video 1>",
+            "<TIME 00:00:19.973 video 1> to <TIME 00:00:22.060 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            }
+        },
+        "question": "Which of these time segments belongs to the Mushroom Doner Kebab recipe step Meanwhile, finely dice the tomatoes and finely slice the red onion. Mix with the zingy lemon juice and season well. Set aside in this video?",
+        "choices": [
+            "<TIME 00:27:02.346 video 1> to <TIME 00:27:05.312 video 1>",
+            "<TIME 00:28:53.179 video 1> to <TIME 00:29:26.646 video 1>",
+            "<TIME 00:20:37.979 video 1> to <TIME 00:23:16.912 video 1>",
+            "<TIME 00:14:47.168 video 1> to <TIME 00:15:01.212 video 1>",
+            "<TIME 00:11:26.345 video 1> to <TIME 00:12:35.610 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "Which of these time segments belongs to the Fish Cakes and Vegetables recipe step Place frozen broccoli and green beans to air fryer for 10 minutes. Season with salt and pepper half-way through in this video?",
+        "choices": [
+            "<TIME 00:08:20.990 video 1> to <TIME 00:08:42.290 video 1>",
+            "<TIME 00:18:22.762 video 1> to <TIME 00:18:57.479 video 1>",
+            "<TIME 00:28:06.686 video 1> to <TIME 00:28:48.215 video 1>",
+            "<TIME 00:13:16.192 video 1> to <TIME 00:13:22.451 video 1>",
+            "<TIME 00:04:53.623 video 1> to <TIME 00:04:58.356 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "Which of these time segments belongs to the Uttapam Pancake recipe step Mix the uttapam pancake mix into water in a bowl until a smooth batter is prepared and set it aside for 10-15 minutes in this video?",
+        "choices": [
+            "<TIME 00:17:54.364 video 1> to <TIME 00:18:37.798 video 1>",
+            "<TIME 00:13:07.239 video 1> to <TIME 00:13:41.468 video 1>",
+            "<TIME 00:32:20.544 video 1> to <TIME 00:33:19.322 video 1>",
+            "<TIME 00:20:29.199 video 1> to <TIME 00:20:48.605 video 1>",
+            "<TIME 00:18:01.036 video 1> to <TIME 00:18:39.839 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "Which of these time segments belongs to the French Fries and Beef Skewers recipe step Peel the potatoes and cut them onto strips in this video?",
+        "choices": [
+            "<TIME 00:10:43.341 video 1> to <TIME 00:10:58.078 video 1>",
+            "<TIME 00:31:05.893 video 1> to <TIME 00:31:28.578 video 1>",
+            "<TIME 00:22:15.296 video 1> to <TIME 00:23:15.399 video 1>",
+            "<TIME 00:02:21.471 video 1> to <TIME 00:02:39.203 video 1>",
+            "<TIME 00:29:43.958 video 1> to <TIME 00:30:21.399 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Which of these time segments belongs to the Pizza with Aubergine and Egg recipe step When the aubergine is ready, move it to a plate with kitchen towel to absorb the oil in this video?",
+        "choices": [
+            "<TIME 00:03:23.910 video 1> to <TIME 00:04:29.114 video 1>",
+            "<TIME 00:09:14.094 video 1> to <TIME 00:09:51.007 video 1>",
+            "<TIME 00:34:00.033 video 1> to <TIME 00:35:05.822 video 1>",
+            "<TIME 00:15:51.334 video 1> to <TIME 00:16:12.810 video 1>",
+            "<TIME 00:26:06.667 video 1> to <TIME 00:27:35.567 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_50": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these time segments belongs to the Southwestern Salad recipe step Wash and then chop and tear the lettuce into a bowl in this video?",
+        "choices": [
+            "<TIME 00:20:10.052 video 1> to <TIME 00:20:27.173 video 1>",
+            "<TIME 00:16:27.689 video 1> to <TIME 00:17:10.590 video 1>",
+            "<TIME 00:14:49.773 video 1> to <TIME 00:15:03.723 video 1>",
+            "<TIME 00:23:11.811 video 1> to <TIME 00:23:17.489 video 1>",
+            "<TIME 00:14:24.882 video 1> to <TIME 00:14:27.078 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_51": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            }
+        },
+        "question": "Which of these time segments belongs to the Carbonara with Side Salad recipe step Mix salad ingredients with oil and vinegar in this video?",
+        "choices": [
+            "<TIME 00:00:53.637 video 1> to <TIME 00:01:06.067 video 1>",
+            "<TIME 00:08:25.882 video 1> to <TIME 00:09:11.586 video 1>",
+            "<TIME 00:06:03.897 video 1> to <TIME 00:07:00.898 video 1>",
+            "<TIME 00:09:31.832 video 1> to <TIME 00:10:03.924 video 1>",
+            "<TIME 00:04:43.488 video 1> to <TIME 00:04:59.718 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_52": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "Which of these time segments belongs to the Scrambled Eggs recipe step Continue cooking over medium-low heat, folding and stirring the eggs every few seconds. Scrape the spatula along the bottom and sides of the pan often to form more curds and to prevent any part of the eggs from drying out in this video?",
+        "choices": [
+            "<TIME 00:04:28.659 video 1> to <TIME 00:04:34.203 video 1>",
+            "<TIME 00:08:33.000 video 1> to <TIME 00:09:45.990 video 1>",
+            "<TIME 00:11:43.084 video 1> to <TIME 00:12:00.634 video 1>",
+            "<TIME 00:14:14.184 video 1> to <TIME 00:14:25.786 video 1>",
+            "<TIME 00:12:00.604 video 1> to <TIME 00:12:33.284 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_53": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            }
+        },
+        "question": "Which of these time segments belongs to the Pesto recipe step Add frozen peas to the pasta with 4 minutes left in this video?",
+        "choices": [
+            "<TIME 00:02:54.277 video 1> to <TIME 00:04:09.481 video 1>",
+            "<TIME 00:17:48.665 video 1> to <TIME 00:18:12.790 video 1>",
+            "<TIME 00:09:02.549 video 1> to <TIME 00:09:14.871 video 1>",
+            "<TIME 00:18:45.114 video 1> to <TIME 00:18:50.944 video 1>",
+            "<TIME 00:15:36.790 video 1> to <TIME 00:15:44.023 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_54": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            }
+        },
+        "question": "Which of these time segments belongs to the Raspberry and Lemon Curd Tarts recipe step In the meantime, prepare the puff pastry. Roll out the puff pastry to about 10 inches by 14 inches, then cut into squares in this video?",
+        "choices": [
+            "<TIME 00:49:44.081 video 1> to <TIME 00:50:18.917 video 1>",
+            "<TIME 00:36:22.271 video 1> to <TIME 00:39:20.234 video 1>",
+            "<TIME 00:11:16.376 video 1> to <TIME 00:12:15.707 video 1>",
+            "<TIME 00:01:49.459 video 1> to <TIME 00:03:05.971 video 1>",
+            "<TIME 00:50:52.417 video 1> to <TIME 00:51:02.024 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_55": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Which of these time segments belongs to the Roasted Kale recipe step Add the oil and the salt, mixing everything well. The quantities are fairly loose: just make sure the leaves are coated and sprinkle with a bit of salt in this video?",
+        "choices": [
+            "<TIME 00:14:04.006 video 1> to <TIME 00:18:24.614 video 1>",
+            "<TIME 00:55:23.900 video 1> to <TIME 00:55:34.007 video 1>",
+            "<TIME 00:57:36.733 video 1> to <TIME 00:58:43.121 video 1>",
+            "<TIME 00:26:20.033 video 1> to <TIME 00:27:00.238 video 1>",
+            "<TIME 00:49:56.788 video 1> to <TIME 00:51:07.233 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_56": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "Which of these time segments belongs to the Uttapam Pancake recipe step Take a frying pan and place it on gas stove to heat it up. Place some butter on the heated pan and spread it on the whole pan in a circular motion in this video?",
+        "choices": [
+            "<TIME 00:17:54.364 video 1> to <TIME 00:18:37.798 video 1>",
+            "<TIME 00:26:01.225 video 1> to <TIME 00:26:20.425 video 1>",
+            "<TIME 00:17:17.525 video 1> to <TIME 00:17:26.611 video 1>",
+            "<TIME 00:23:34.352 video 1> to <TIME 00:24:05.298 video 1>",
+            "<TIME 00:32:20.544 video 1> to <TIME 00:33:19.322 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_57": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Which of these time segments belongs to the Pizza Dough recipe step Once the ingredients are roughly mixed, transfer the mixture onto the kitchen top and knead the dough by hand. This is done by rolling the dough on itself several times. Once the dough starts tearing, flatten the dough and fold the 4 edges to form a ball. Let the ball rest for a few minutes between repetitions in this video?",
+        "choices": [
+            "<TIME 00:26:20.033 video 1> to <TIME 00:27:00.238 video 1>",
+            "<TIME 00:55:50.227 video 1> to <TIME 00:56:06.020 video 1>",
+            "<TIME 00:14:04.006 video 1> to <TIME 00:18:24.614 video 1>",
+            "<TIME 01:11:53.683 video 1> to <TIME 01:12:27.649 video 1>",
+            "<TIME 00:39:16.298 video 1> to <TIME 00:42:54.310 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_58": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chopped Chickpea Salad recipe step Add the tomatoes to the bowl in this video?",
+        "choices": [
+            "<TIME 00:13:23.879 video 1> to <TIME 00:15:18.456 video 1>",
+            "<TIME 00:05:33.225 video 1> to <TIME 00:05:52.757 video 1>",
+            "<TIME 00:07:29.479 video 1> to <TIME 00:08:02.861 video 1>",
+            "<TIME 00:05:03.789 video 1> to <TIME 00:05:04.516 video 1>",
+            "<TIME 00:10:51.316 video 1> to <TIME 00:11:11.952 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_59": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "Which of these time segments belongs to the Thai Red Curry recipe step Add the chicken chunks in (they should have been cooked 80%) in this video?",
+        "choices": [
+            "<TIME 00:17:09.297 video 1> to <TIME 00:17:39.081 video 1>",
+            "<TIME 00:36:08.081 video 1> to <TIME 00:36:14.637 video 1>",
+            "<TIME 00:15:37.785 video 1> to <TIME 00:16:12.377 video 1>",
+            "<TIME 00:16:54.488 video 1> to <TIME 00:17:07.377 video 1>",
+            "<TIME 00:33:42.667 video 1> to <TIME 00:34:07.618 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_60": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            }
+        },
+        "question": "Which of these time segments belongs to the Uttapam Pancake recipe step Wash tomato, coriander, and onions in fresh running water and chop tomato and onion into small pieces in this video?",
+        "choices": [
+            "<TIME 00:23:34.352 video 1> to <TIME 00:24:05.298 video 1>",
+            "<TIME 00:25:19.425 video 1> to <TIME 00:25:40.989 video 1>",
+            "<TIME 00:20:29.199 video 1> to <TIME 00:20:48.605 video 1>",
+            "<TIME 00:06:44.950 video 1> to <TIME 00:08:50.869 video 1>",
+            "<TIME 00:17:54.364 video 1> to <TIME 00:18:37.798 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_61": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            }
+        },
+        "question": "Which of these time segments belongs to the Pizza with Aubergine and Egg recipe step Add some semolina flour to the pizza peel, then add the dough on top of it and add all toppings to the pizza: tomato sauce first, then mozzarella, finally aubergine and egg in this video?",
+        "choices": [
+            "<TIME 00:09:14.094 video 1> to <TIME 00:09:51.007 video 1>",
+            "<TIME 00:12:39.124 video 1> to <TIME 00:12:43.685 video 1>",
+            "<TIME 00:15:51.334 video 1> to <TIME 00:16:12.810 video 1>",
+            "<TIME 00:37:01.470 video 1> to <TIME 00:37:39.435 video 1>",
+            "<TIME 00:54:18.671 video 1> to <TIME 00:54:28.149 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_62": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these time segments belongs to the Banana Bread Chocolate Chip Cookies recipe step Place the banana into a microwavable container, and heat it in the microwave. Stir in this video?",
+        "choices": [
+            "<TIME 00:18:01.270 video 1> to <TIME 00:18:38.042 video 1>",
+            "<TIME 00:24:23.421 video 1> to <TIME 00:25:13.096 video 1>",
+            "<TIME 00:09:20.864 video 1> to <TIME 00:10:28.524 video 1>",
+            "<TIME 00:27:48.452 video 1> to <TIME 00:27:49.042 video 1>",
+            "<TIME 00:08:58.802 video 1> to <TIME 00:09:19.685 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_63": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chocolate Pudding recipe step Divide the batter between the two moulds, leaving a little room at the top for them to rise. If you'd like to eat them immediately, put them on the hot baking tray in the oven for 12 minutes, until the tops are set and the cake mix is just starting to come away from the sides of the moulds in this video?",
+        "choices": [
+            "<TIME 00:07:38.604 video 1> to <TIME 00:09:13.490 video 1>",
+            "<TIME 00:03:11.252 video 1> to <TIME 00:03:41.698 video 1>",
+            "<TIME 00:05:29.836 video 1> to <TIME 00:07:32.277 video 1>",
+            "<TIME 00:13:30.073 video 1> to <TIME 00:15:13.073 video 1>",
+            "<TIME 00:11:47.590 video 1> to <TIME 00:13:14.256 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_64": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "Which of these time segments belongs to the Red Lentils Squash Curry recipe step Add the coconut milk and the ginger lentil stock pot along with 100ml of water and bring to the boil in this video?",
+        "choices": [
+            "<TIME 00:30:38.955 video 1> to <TIME 00:31:41.261 video 1>",
+            "<TIME 00:48:17.494 video 1> to <TIME 00:48:51.357 video 1>",
+            "<TIME 00:02:26.033 video 1> to <TIME 00:03:25.875 video 1>",
+            "<TIME 00:17:16.134 video 1> to <TIME 00:18:09.549 video 1>",
+            "<TIME 00:33:29.919 video 1> to <TIME 00:33:50.849 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_65": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "Which of these time segments belongs to the French Fries and Beef Skewers recipe step Drizzle skewers with oil in this video?",
+        "choices": [
+            "<TIME 00:22:15.296 video 1> to <TIME 00:23:15.399 video 1>",
+            "<TIME 00:02:21.471 video 1> to <TIME 00:02:39.203 video 1>",
+            "<TIME 00:10:43.341 video 1> to <TIME 00:10:58.078 video 1>",
+            "<TIME 00:05:48.472 video 1> to <TIME 00:06:55.453 video 1>",
+            "<TIME 00:31:05.893 video 1> to <TIME 00:31:28.578 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_66": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which of these time segments belongs to the Kadhai Paneer recipe step Add the pieces of cottage cheese in the mixture and cook it for 5-10 minutes on a low flame. Cover the pan or kadai with a lid and cook for 5 to 6 minutes on medium heat in this video?",
+        "choices": [
+            "<TIME 00:26:38.419 video 1> to <TIME 00:27:00.419 video 1>",
+            "<TIME 00:35:48.969 video 1> to <TIME 00:36:33.119 video 1>",
+            "<TIME 00:37:23.810 video 1> to <TIME 00:38:14.869 video 1>",
+            "<TIME 00:03:36.033 video 1> to <TIME 00:05:40.549 video 1>",
+            "<TIME 00:23:31.243 video 1> to <TIME 00:24:01.465 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_67": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chopped Salad and Bread recipe step Next, chop your cucumbers, cherry tomatoes, carrot, coriander, and red onion, and add them to a large bowl alongside the beans and diced tomatoes in this video?",
+        "choices": [
+            "<TIME 00:15:18.443 video 1> to <TIME 00:15:23.959 video 1>",
+            "<TIME 00:01:26.709 video 1> to <TIME 00:01:37.709 video 1>",
+            "<TIME 00:13:23.639 video 1> to <TIME 00:13:48.475 video 1>",
+            "<TIME 00:16:43.578 video 1> to <TIME 00:16:46.044 video 1>",
+            "<TIME 00:02:54.631 video 1> to <TIME 00:03:49.631 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_68": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which of these time segments belongs to the Kadhai Paneer recipe step In a large kadai or any other pan, now melt butter with oil on medium heat. Add cumin seeds to the melted butter in this video?",
+        "choices": [
+            "<TIME 00:23:31.243 video 1> to <TIME 00:24:01.465 video 1>",
+            "<TIME 00:19:28.011 video 1> to <TIME 00:19:33.570 video 1>",
+            "<TIME 00:32:10.968 video 1> to <TIME 00:32:38.380 video 1>",
+            "<TIME 00:35:48.969 video 1> to <TIME 00:36:33.119 video 1>",
+            "<TIME 00:26:38.419 video 1> to <TIME 00:27:00.419 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_69": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Which of these time segments belongs to the Pizza Dough recipe step Mix the flour with yeast, salt and water in a large bowl using a wooden spoon in this video?",
+        "choices": [
+            "<TIME 01:11:53.683 video 1> to <TIME 01:12:27.649 video 1>",
+            "<TIME 00:14:04.006 video 1> to <TIME 00:18:24.614 video 1>",
+            "<TIME 00:39:16.298 video 1> to <TIME 00:42:54.310 video 1>",
+            "<TIME 01:00:20.549 video 1> to <TIME 01:01:22.733 video 1>",
+            "<TIME 00:36:59.078 video 1> to <TIME 00:37:44.042 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_70": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chickpea and Spinach Curry with Rice recipe step Add the tomatoes, mango chutney and salt, stir in and bring to a simmer. Turn the heat to the lowest you can (a heat diffuser on gas works a treat) and put the lid on. Leave to cook for around 20 minutes in this video?",
+        "choices": [
+            "<TIME 00:13:03.494 video 1> to <TIME 00:13:09.697 video 1>",
+            "<TIME 00:06:08.535 video 1> to <TIME 00:06:29.494 video 1>",
+            "<TIME 00:11:17.011 video 1> to <TIME 00:12:00.907 video 1>",
+            "<TIME 00:11:15.000 video 1> to <TIME 00:12:03.990 video 1>",
+            "<TIME 00:18:46.136 video 1> to <TIME 00:19:21.170 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_71": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these time segments belongs to the Salmon Teriyaki Skewers with Vegetables recipe step Pre-heat air fryer to 180 degrees C in this video?",
+        "choices": [
+            "<TIME 00:15:06.670 video 1> to <TIME 00:15:48.413 video 1>",
+            "<TIME 00:01:38.050 video 1> to <TIME 00:02:15.182 video 1>",
+            "<TIME 00:04:25.488 video 1> to <TIME 00:04:27.024 video 1>",
+            "<TIME 00:06:41.949 video 1> to <TIME 00:06:53.488 video 1>",
+            "<TIME 00:00:17.605 video 1> to <TIME 00:00:23.241 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_72": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "Which of these time segments belongs to the Kadhai Paneer recipe step Add turmeric powder, coriander powder, garam masala powder, red chilli powder, and salt to the mixture and saute the mixture uniformly. Then add 1/2 cup water and stir. Wait for the whole mixture to homogenise in this video?",
+        "choices": [
+            "<TIME 00:35:48.969 video 1> to <TIME 00:36:33.119 video 1>",
+            "<TIME 00:32:10.968 video 1> to <TIME 00:32:38.380 video 1>",
+            "<TIME 00:23:31.243 video 1> to <TIME 00:24:01.465 video 1>",
+            "<TIME 00:37:23.810 video 1> to <TIME 00:38:14.869 video 1>",
+            "<TIME 00:03:36.033 video 1> to <TIME 00:05:40.549 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_73": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these time segments belongs to the Southwestern Salad recipe step Add the sweetcorn and beans to the bowl. Chop the rest of the avocado and add in this video?",
+        "choices": [
+            "<TIME 00:20:50.477 video 1> to <TIME 00:21:04.382 video 1>",
+            "<TIME 00:20:10.052 video 1> to <TIME 00:20:27.173 video 1>",
+            "<TIME 00:14:49.773 video 1> to <TIME 00:15:03.723 video 1>",
+            "<TIME 00:01:29.740 video 1> to <TIME 00:04:19.690 video 1>",
+            "<TIME 00:00:21.618 video 1> to <TIME 00:00:27.542 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_74": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "Which of these time segments belongs to the Scrambled Eggs with Green Peppers and Mushrooms recipe step Stir-fry for at least 5 minutes, or until the eggs are cooked as desired in this video?",
+        "choices": [
+            "<TIME 00:21:01.685 video 1> to <TIME 00:21:14.007 video 1>",
+            "<TIME 00:24:14.507 video 1> to <TIME 00:24:15.221 video 1>",
+            "<TIME 00:14:30.033 video 1> to <TIME 00:17:32.200 video 1>",
+            "<TIME 00:01:15.417 video 1> to <TIME 00:03:12.989 video 1>",
+            "<TIME 00:06:26.827 video 1> to <TIME 00:07:56.953 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_75": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-150155"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chicken Cheese Balls recipe step Mix the shredded chicken, mashed potatoes and cheese together in this video?",
+        "choices": [
+            "<TIME 00:12:18.298 video 1> to <TIME 00:12:23.606 video 1>",
+            "<TIME 00:33:30.847 video 1> to <TIME 00:33:55.642 video 1>",
+            "<TIME 00:37:19.988 video 1> to <TIME 00:37:52.738 video 1>",
+            "<TIME 00:36:05.033 video 1> to <TIME 00:36:51.932 video 1>",
+            "<TIME 00:22:15.998 video 1> to <TIME 00:22:44.224 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_76": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "Which of these time segments belongs to the Fish Cakes and Vegetables recipe step Add couscous and boiling water to pot (no flame needed), leave until water has been absorbed in this video?",
+        "choices": [
+            "<TIME 00:09:15.673 video 1> to <TIME 00:09:31.656 video 1>",
+            "<TIME 00:12:29.334 video 1> to <TIME 00:12:49.025 video 1>",
+            "<TIME 00:04:53.623 video 1> to <TIME 00:04:58.356 video 1>",
+            "<TIME 00:28:06.686 video 1> to <TIME 00:28:48.215 video 1>",
+            "<TIME 00:08:20.990 video 1> to <TIME 00:08:42.290 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_77": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chopped Salad and Bread recipe step Serve immediately and enjoy! in this video?",
+        "choices": [
+            "<TIME 00:02:54.631 video 1> to <TIME 00:03:49.631 video 1>",
+            "<TIME 00:16:43.578 video 1> to <TIME 00:16:46.044 video 1>",
+            "<TIME 00:01:26.709 video 1> to <TIME 00:01:37.709 video 1>",
+            "<TIME 00:15:18.443 video 1> to <TIME 00:15:23.959 video 1>",
+            "<TIME 00:13:23.639 video 1> to <TIME 00:13:48.475 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_78": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "Which of these time segments belongs to the Crispy Cucumber Salad recipe step Finally grate and add ginger and garlic to bowl. Toss well then pile up high into a shallow bowl and serve! in this video?",
+        "choices": [
+            "<TIME 00:10:44.697 video 1> to <TIME 00:10:57.024 video 1>",
+            "<TIME 00:15:15.614 video 1> to <TIME 00:15:35.077 video 1>",
+            "<TIME 00:14:38.652 video 1> to <TIME 00:14:53.721 video 1>",
+            "<TIME 00:04:28.457 video 1> to <TIME 00:05:18.578 video 1>",
+            "<TIME 00:12:28.810 video 1> to <TIME 00:12:46.846 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_79": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "Which of these time segments belongs to the Fish Cakes and Vegetables recipe step Add broccoli and green beans to pan and stir in this video?",
+        "choices": [
+            "<TIME 00:12:29.334 video 1> to <TIME 00:12:49.025 video 1>",
+            "<TIME 00:18:22.762 video 1> to <TIME 00:18:57.479 video 1>",
+            "<TIME 00:04:53.623 video 1> to <TIME 00:04:58.356 video 1>",
+            "<TIME 00:28:06.686 video 1> to <TIME 00:28:48.215 video 1>",
+            "<TIME 00:16:45.938 video 1> to <TIME 00:17:00.667 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_80": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            }
+        },
+        "question": "Which of these time segments belongs to the Banana Bread Chocolate Chip Cookies recipe step Add vanilla extract. Mix well in this video?",
+        "choices": [
+            "<TIME 00:25:53.619 video 1> to <TIME 00:26:01.614 video 1>",
+            "<TIME 00:13:08.402 video 1> to <TIME 00:13:39.953 video 1>",
+            "<TIME 00:18:01.270 video 1> to <TIME 00:18:38.042 video 1>",
+            "<TIME 00:15:22.600 video 1> to <TIME 00:16:37.792 video 1>",
+            "<TIME 00:34:10.649 video 1> to <TIME 00:34:19.239 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_81": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Which of these time segments belongs to the Mushroom, Tomato, Sweetcorn and Onion Saute recipe step Add the de-seeded, chopped tomatoes and cook slowly until softened in this video?",
+        "choices": [
+            "<TIME 00:14:08.846 video 1> to <TIME 00:15:06.096 video 1>",
+            "<TIME 00:12:48.916 video 1> to <TIME 00:13:16.616 video 1>",
+            "<TIME 00:21:43.016 video 1> to <TIME 00:22:12.825 video 1>",
+            "<TIME 00:25:14.000 video 1> to <TIME 00:25:27.990 video 1>",
+            "<TIME 00:18:44.665 video 1> to <TIME 00:18:49.533 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_82": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "Which of these time segments belongs to the Aloo Paratha recipe step In a large bowl, add 2 cups whole wheat flour (atta). Make a well in the centre. Add 1 tablespoon oil or ghee, and roughly 1/3 to 1/2 cup water in this video?",
+        "choices": [
+            "<TIME 00:02:37.656 video 1> to <TIME 00:02:41.971 video 1>",
+            "<TIME 00:17:54.507 video 1> to <TIME 00:18:11.149 video 1>",
+            "<TIME 00:13:22.132 video 1> to <TIME 00:14:12.221 video 1>",
+            "<TIME 00:09:51.221 video 1> to <TIME 00:10:28.180 video 1>",
+            "<TIME 00:15:44.344 video 1> to <TIME 00:15:50.989 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_83": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "Which of these time segments belongs to the Bread Omelette recipe step Break open 2 eggs in a mixing bowl, then add red chilli powder along with required salt in this video?",
+        "choices": [
+            "<TIME 00:29:31.792 video 1> to <TIME 00:29:38.989 video 1>",
+            "<TIME 00:37:21.042 video 1> to <TIME 00:38:42.114 video 1>",
+            "<TIME 00:23:50.238 video 1> to <TIME 00:24:00.810 video 1>",
+            "<TIME 00:04:33.364 video 1> to <TIME 00:05:13.812 video 1>",
+            "<TIME 00:03:10.441 video 1> to <TIME 00:04:18.400 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_84": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Which of these time segments belongs to the Spanish Tortilla recipe step Peel the potatoes and chop them into small chunks in this video?",
+        "choices": [
+            "<TIME 01:00:20.549 video 1> to <TIME 01:01:22.733 video 1>",
+            "<TIME 00:55:50.227 video 1> to <TIME 00:56:06.020 video 1>",
+            "<TIME 01:12:38.825 video 1> to <TIME 01:13:23.919 video 1>",
+            "<TIME 00:14:04.006 video 1> to <TIME 00:18:24.614 video 1>",
+            "<TIME 00:39:16.298 video 1> to <TIME 00:42:54.310 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_85": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            }
+        },
+        "question": "Which of these time segments belongs to the Pesto recipe step Pick, roughly chop and add the basil leaves, then bash to a paste (or pulse in a food processor) in this video?",
+        "choices": [
+            "<TIME 00:02:54.277 video 1> to <TIME 00:04:09.481 video 1>",
+            "<TIME 00:20:59.468 video 1> to <TIME 00:21:51.132 video 1>",
+            "<TIME 00:09:02.549 video 1> to <TIME 00:09:14.871 video 1>",
+            "<TIME 00:18:45.114 video 1> to <TIME 00:18:50.944 video 1>",
+            "<TIME 00:06:28.384 video 1> to <TIME 00:07:36.261 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_86": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Which of these time segments belongs to the Sauteed Potatoes recipe step Turn the heat to medium-high, so that the potatoes sizzle, but don't stir until they start to brown underneath in this video?",
+        "choices": [
+            "<TIME 00:01:15.033 video 1> to <TIME 00:01:22.117 video 1>",
+            "<TIME 00:27:58.000 video 1> to <TIME 00:28:05.990 video 1>",
+            "<TIME 00:16:42.685 video 1> to <TIME 00:16:47.274 video 1>",
+            "<TIME 00:19:53.000 video 1> to <TIME 00:19:57.990 video 1>",
+            "<TIME 00:12:48.916 video 1> to <TIME 00:13:16.616 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_87": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-113925"
+            }
+        },
+        "question": "Which of these time segments belongs to the Bacon and Egg Sandwich recipe step Once the eggs have been mixed, cook them over medium-high heat to your liking (3-4 minutes for a soft scramble) in this video?",
+        "choices": [
+            "<TIME 00:09:24.554 video 1> to <TIME 00:09:44.258 video 1>",
+            "<TIME 00:03:57.375 video 1> to <TIME 00:04:08.477 video 1>",
+            "<TIME 00:06:06.496 video 1> to <TIME 00:06:20.203 video 1>",
+            "<TIME 00:07:26.046 video 1> to <TIME 00:07:52.446 video 1>",
+            "<TIME 00:11:20.003 video 1> to <TIME 00:12:00.827 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_88": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "Which of these time segments belongs to the Cappuccino recipe step Fill a cup with whole milk and heat it in the microwave for 3-4 minutes. Stir the heated milk with a milk frother to make the cappuccino frothier in this video?",
+        "choices": [
+            "<TIME 00:27:23.553 video 1> to <TIME 00:29:04.471 video 1>",
+            "<TIME 00:23:50.238 video 1> to <TIME 00:24:00.810 video 1>",
+            "<TIME 00:04:33.364 video 1> to <TIME 00:05:13.812 video 1>",
+            "<TIME 00:11:24.667 video 1> to <TIME 00:11:30.578 video 1>",
+            "<TIME 00:29:31.792 video 1> to <TIME 00:29:38.989 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_89": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-191007"
+            }
+        },
+        "question": "Which of these time segments belongs to the Mushroom Risotto recipe step Crumble vegetable stock cube into the mushroom liquid, then squeeze the mushrooms gently with a fork to remove any liquid in this video?",
+        "choices": [
+            "<TIME 00:10:42.006 video 1> to <TIME 00:15:36.565 video 1>",
+            "<TIME 00:20:30.662 video 1> to <TIME 00:20:51.644 video 1>",
+            "<TIME 00:19:13.886 video 1> to <TIME 00:20:07.024 video 1>",
+            "<TIME 00:03:38.091 video 1> to <TIME 00:04:52.082 video 1>",
+            "<TIME 00:25:34.505 video 1> to <TIME 00:26:26.684 video 1>"
+        ],
+        "correct_idx": 1
+    },
+    "recipe_rough_step_localization_90": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-184316"
+            }
+        },
+        "question": "Which of these time segments belongs to the Mushroom, Tomato, Sweetcorn and Onion Saute recipe step Add the onions and chopped garlic and brown slowly until tender and golden, about 5 minutes in this video?",
+        "choices": [
+            "<TIME 00:15:48.792 video 1> to <TIME 00:15:52.133 video 1>",
+            "<TIME 00:21:43.016 video 1> to <TIME 00:22:12.825 video 1>",
+            "<TIME 00:25:14.000 video 1> to <TIME 00:25:27.990 video 1>",
+            "<TIME 00:19:16.445 video 1> to <TIME 00:19:37.436 video 1>",
+            "<TIME 00:12:48.916 video 1> to <TIME 00:13:16.616 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_91": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "Which of these time segments belongs to the Salmon Teriyaki Skewers with Vegetables recipe step Place salmon teriyaki skewers on a baking sheet. Roast for 11 to 15 minutes, until just cooked. Set aside until cool enough to handle in this video?",
+        "choices": [
+            "<TIME 00:01:38.050 video 1> to <TIME 00:02:15.182 video 1>",
+            "<TIME 00:15:06.670 video 1> to <TIME 00:15:48.413 video 1>",
+            "<TIME 00:10:53.475 video 1> to <TIME 00:11:03.540 video 1>",
+            "<TIME 00:06:41.949 video 1> to <TIME 00:06:53.488 video 1>",
+            "<TIME 00:00:17.605 video 1> to <TIME 00:00:23.241 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_92": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-134410"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chopped Chickpea Salad recipe step Wash the tomatoes and then cut them in half in this video?",
+        "choices": [
+            "<TIME 00:01:22.355 video 1> to <TIME 00:02:20.110 video 1>",
+            "<TIME 00:13:23.879 video 1> to <TIME 00:15:18.456 video 1>",
+            "<TIME 00:05:03.789 video 1> to <TIME 00:05:04.516 video 1>",
+            "<TIME 00:04:00.825 video 1> to <TIME 00:04:41.167 video 1>",
+            "<TIME 00:09:23.166 video 1> to <TIME 00:10:03.498 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_93": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "Which of these time segments belongs to the Southwestern Salad recipe step Stir the salad and add the dressing. Stir again in this video?",
+        "choices": [
+            "<TIME 00:00:21.618 video 1> to <TIME 00:00:27.542 video 1>",
+            "<TIME 00:14:49.773 video 1> to <TIME 00:15:03.723 video 1>",
+            "<TIME 00:01:29.740 video 1> to <TIME 00:04:19.690 video 1>",
+            "<TIME 00:21:41.990 video 1> to <TIME 00:22:53.417 video 1>",
+            "<TIME 00:20:50.477 video 1> to <TIME 00:21:04.382 video 1>"
+        ],
+        "correct_idx": 3
+    },
+    "recipe_rough_step_localization_94": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207"
+            }
+        },
+        "question": "Which of these time segments belongs to the Cappuccino recipe step Take another empty cup and put 2 teaspoons of sugar and coffee in the cup. Add about a half tablespoon of water and slowly add more until the ingredients are just wet so that you can beat the mixture in this video?",
+        "choices": [
+            "<TIME 00:37:21.042 video 1> to <TIME 00:38:42.114 video 1>",
+            "<TIME 00:10:51.917 video 1> to <TIME 00:11:07.989 video 1>",
+            "<TIME 00:23:50.238 video 1> to <TIME 00:24:00.810 video 1>",
+            "<TIME 00:04:33.364 video 1> to <TIME 00:05:13.812 video 1>",
+            "<TIME 00:11:24.667 video 1> to <TIME 00:11:30.578 video 1>"
+        ],
+        "correct_idx": 2
+    },
+    "recipe_rough_step_localization_95": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "Which of these time segments belongs to the Granola with Almond Milk and Cinnamon recipe step Add 2/3 tsp of cinnamon powder for sweetness and mix it until ingredients are blended together in this video?",
+        "choices": [
+            "<TIME 00:21:01.685 video 1> to <TIME 00:21:14.007 video 1>",
+            "<TIME 00:01:15.417 video 1> to <TIME 00:03:12.989 video 1>",
+            "<TIME 00:14:30.033 video 1> to <TIME 00:17:32.200 video 1>",
+            "<TIME 00:13:50.033 video 1> to <TIME 00:14:18.696 video 1>",
+            "<TIME 00:23:48.538 video 1> to <TIME 00:24:14.221 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_96": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chopped Salad and Bread recipe step Slice piece of sourdough bread and place on side of bowl in this video?",
+        "choices": [
+            "<TIME 00:15:18.443 video 1> to <TIME 00:15:23.959 video 1>",
+            "<TIME 00:01:26.709 video 1> to <TIME 00:01:37.709 video 1>",
+            "<TIME 00:16:43.578 video 1> to <TIME 00:16:46.044 video 1>",
+            "<TIME 00:13:23.639 video 1> to <TIME 00:13:48.475 video 1>",
+            "<TIME 00:02:54.631 video 1> to <TIME 00:03:49.631 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_97": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            }
+        },
+        "question": "Which of these time segments belongs to the Chocolate Pudding recipe step Break the chocolate into fairly evenly sized pieces - I find the easiest and most satisfying way to start this process is to leave it in the packet, or put it in a resealable bag, give it a good whack against the work surface, then chop up any large pieces that remain. Cut the butter into chunky dice in this video?",
+        "choices": [
+            "<TIME 00:13:30.073 video 1> to <TIME 00:15:13.073 video 1>",
+            "<TIME 00:07:38.604 video 1> to <TIME 00:09:13.490 video 1>",
+            "<TIME 00:05:29.836 video 1> to <TIME 00:07:32.277 video 1>",
+            "<TIME 00:11:47.590 video 1> to <TIME 00:13:14.256 video 1>",
+            "<TIME 00:03:11.252 video 1> to <TIME 00:03:41.698 video 1>"
+        ],
+        "correct_idx": 4
+    },
+    "recipe_rough_step_localization_98": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "Which of these time segments belongs to the Spanish Tortilla recipe step Add the onion to the pan and fry it together with the potatoes, adding oil if necessary in this video?",
+        "choices": [
+            "<TIME 01:00:20.549 video 1> to <TIME 01:01:22.733 video 1>",
+            "<TIME 00:55:50.227 video 1> to <TIME 00:56:06.020 video 1>",
+            "<TIME 00:36:59.078 video 1> to <TIME 00:37:44.042 video 1>",
+            "<TIME 00:57:36.733 video 1> to <TIME 00:58:43.121 video 1>",
+            "<TIME 00:39:16.298 video 1> to <TIME 00:42:54.310 video 1>"
+        ],
+        "correct_idx": 0
+    },
+    "recipe_rough_step_localization_99": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "Which of these time segments belongs to the Beef Stroganoff recipe step Reduce the heat, add a knob of butter, the onion and the rest of the stroganoff seasoning.  Cook for 5 mins until soft in this video?",
+        "choices": [
+            "<TIME 00:29:26.025 video 1> to <TIME 00:29:42.132 video 1>",
+            "<TIME 00:30:50.024 video 1> to <TIME 00:31:53.757 video 1>",
+            "<TIME 00:13:20.162 video 1> to <TIME 00:15:19.048 video 1>",
+            "<TIME 00:38:50.658 video 1> to <TIME 00:40:14.893 video 1>",
+            "<TIME 00:34:48.189 video 1> to <TIME 00:35:31.674 video 1>"
+        ],
+        "correct_idx": 1
+    }
+}

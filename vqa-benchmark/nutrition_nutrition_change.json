@@ -1,0 +1,1252 @@
+{
+    "nutrition_nutrition_change_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455",
+                "start_time": "00:13:00.074",
+                "end_time": "00:13:03.071"
+            }
+        },
+        "question": "From <TIME 00:13:00.074 video 1> to <TIME 00:13:03.071 video 1>, what changed in the nutrition values of the dish with recipe carbonara with side salad?",
+        "choices": [
+            "calories changed by 810.0, fat changed by 3.0, carbs changed by 164.0, protein changed by 27.0",
+            "calories changed by 1279.7, fat changed by 0.4, carbs changed by 236.1, protein changed by 9.3",
+            "calories changed by 339.8, fat changed by 0.4, carbs changed by 236.5, protein changed by 17.0",
+            "calories changed by 1164.9, fat changed by 0.4, carbs changed by 260.6, protein changed by 3.8",
+            "calories changed by 395.0, fat changed by 1.2, carbs changed by 251.0, protein changed by 36.6"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "No change (positive), ingredient: pasta",
+            "calories: random multiplier=1.6,fat: random multiplier=0.1,carbs: random multiplier=1.4,protein: random multiplier=0.3",
+            "calories: random multiplier=0.4,fat: random multiplier=0.1,carbs: random multiplier=1.4,protein: random multiplier=0.6",
+            "calories: random multiplier=1.4,fat: random multiplier=0.1,carbs: random multiplier=1.6,protein: random multiplier=0.1",
+            "calories: random multiplier=0.5,fat: random multiplier=0.4,carbs: random multiplier=1.5,protein: random multiplier=1.4"
+        ]
+    },
+    "nutrition_nutrition_change_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219",
+                "start_time": "00:46:11.068",
+                "end_time": "00:46:17.022"
+            }
+        },
+        "question": "From <TIME 00:46:11.068 video 1> to <TIME 00:46:17.022 video 1>, what changed in the nutrition values of the dish with recipe red lentils squash curry?",
+        "choices": [
+            "calories changed by 3.5, fat changed by 1.3, carbs changed by 4.6, protein changed by 2.0",
+            "calories changed by 47.4, fat changed by 0.7, carbs changed by 4.7, protein changed by 4.6",
+            "calories changed by 33.0, fat changed by 1.0, carbs changed by 3.0, protein changed by 3.0",
+            "calories changed by 46.2, fat changed by 0.4, carbs changed by 4.9, protein changed by 0.9",
+            "calories changed by 45.9, fat changed by 1.6, carbs changed by 3.9, protein changed by 4.3"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "calories: random multiplier=0.1,fat: random multiplier=1.3,carbs: random multiplier=1.5,protein: random multiplier=0.7",
+            "calories: random multiplier=1.4,fat: random multiplier=0.7,carbs: random multiplier=1.6,protein: random multiplier=1.5",
+            "No change (positive), ingredient: spring greens",
+            "calories: random multiplier=1.4,fat: random multiplier=0.4,carbs: random multiplier=1.6,protein: random multiplier=0.3",
+            "calories: random multiplier=1.4,fat: random multiplier=1.6,carbs: random multiplier=1.3,protein: random multiplier=1.4"
+        ]
+    },
+    "nutrition_nutrition_change_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-191007",
+                "start_time": "00:01:06.005",
+                "end_time": "00:01:08.990"
+            }
+        },
+        "question": "From <TIME 00:01:06.005 video 1> to <TIME 00:01:08.990 video 1>, what changed in the nutrition values of the dish with recipe mushroom risotto?",
+        "choices": [
+            "calories changed by 114.6, fat changed by 6.9, carbs changed by 10.8, protein changed by 3.6",
+            "calories changed by 77.0, fat changed by 4.3, carbs changed by 21.3, protein changed by 8.5",
+            "calories changed by 54.7, fat changed by 5.8, carbs changed by 6.4, protein changed by 11.9",
+            "calories changed by 101.5, fat changed by 3.0, carbs changed by 36.5, protein changed by 4.5",
+            "calories changed by 20.2, fat changed by 6.2, carbs changed by 12.5, protein changed by 5.8"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=1.5,fat: random multiplier=1.6,carbs: random multiplier=0.5,protein: random multiplier=0.4",
+            "No change (positive), ingredient: chestnut mushrooms",
+            "calories: random multiplier=0.7,fat: random multiplier=1.3,carbs: random multiplier=0.3,protein: random multiplier=1.4",
+            "calories: random multiplier=1.3,fat: random multiplier=0.7,carbs: random multiplier=1.7,protein: random multiplier=0.5",
+            "calories: random multiplier=0.3,fat: random multiplier=1.4,carbs: random multiplier=0.6,protein: random multiplier=0.7"
+        ]
+    },
+    "nutrition_nutrition_change_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311",
+                "start_time": "00:12:23.015",
+                "end_time": "00:12:37.017"
+            }
+        },
+        "question": "From <TIME 00:12:23.015 video 1> to <TIME 00:12:37.017 video 1>, what changed in the nutrition values of the dish with recipe scrambled eggs with green peppers and mushrooms?",
+        "choices": [
+            "calories changed by 177.8, fat changed by 2.6, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 212.4, fat changed by 2.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 175.1, fat changed by 24.1, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 26.6, fat changed by 5.7, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 123.0, fat changed by 14.0, carbs changed by 0.0, protein changed by 0.0"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=1.4,fat: random multiplier=0.2,carbs: random multiplier=1.4,protein: random multiplier=0.4",
+            "calories: random multiplier=1.7,fat: random multiplier=0.1,carbs: random multiplier=0.5,protein: random multiplier=1.4",
+            "calories: random multiplier=1.4,fat: random multiplier=1.7,carbs: random multiplier=1.4,protein: random multiplier=0.1",
+            "calories: random multiplier=0.2,fat: random multiplier=0.4,carbs: random multiplier=1.5,protein: random multiplier=0.4",
+            "No change (positive), ingredient: olive oil"
+        ]
+    },
+    "nutrition_nutrition_change_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000",
+                "start_time": "00:09:24.089",
+                "end_time": "00:09:31.072"
+            }
+        },
+        "question": "From <TIME 00:09:24.089 video 1> to <TIME 00:09:31.072 video 1>, what changed in the nutrition values of the dish with recipe scrambled eggs?",
+        "choices": [
+            "calories changed by 24.6, fat changed by 0.0, carbs changed by 3.1, protein changed by 4.3",
+            "calories changed by 22.7, fat changed by 0.0, carbs changed by 0.4, protein changed by 9.3",
+            "calories changed by 51.8, fat changed by 0.1, carbs changed by 0.6, protein changed by 1.3",
+            "calories changed by 37.0, fat changed by 0.2, carbs changed by 2.3, protein changed by 6.4",
+            "calories changed by 24.7, fat changed by 0.0, carbs changed by 2.9, protein changed by 4.2"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "calories: random multiplier=0.7,fat: random multiplier=0.2,carbs: random multiplier=1.3,protein: random multiplier=0.7",
+            "calories: random multiplier=0.6,fat: random multiplier=0.2,carbs: random multiplier=0.2,protein: random multiplier=1.4",
+            "calories: random multiplier=1.4,fat: random multiplier=0.5,carbs: random multiplier=0.3,protein: random multiplier=0.2",
+            "No change (positive), ingredient: fat free cottage cheese",
+            "calories: random multiplier=0.7,fat: random multiplier=0.2,carbs: random multiplier=1.3,protein: random multiplier=0.7"
+        ]
+    },
+    "nutrition_nutrition_change_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737",
+                "start_time": "00:03:34.007",
+                "end_time": "00:03:36.037"
+            }
+        },
+        "question": "From <TIME 00:03:34.007 video 1> to <TIME 00:03:36.037 video 1>, what changed in the nutrition values of the dish with recipe french fries and beef skewers?",
+        "choices": [
+            "calories changed by 42.8, fat changed by 3.6, carbs changed by 1.2, protein changed by 0.6",
+            "calories changed by 61.0, fat changed by 5.4, carbs changed by 3.2, protein changed by 0.5",
+            "calories changed by 93.4, fat changed by 8.2, carbs changed by 5.3, protein changed by 0.9",
+            "calories changed by 28.7, fat changed by 7.3, carbs changed by 0.5, protein changed by 0.3",
+            "calories changed by 106.1, fat changed by 7.7, carbs changed by 1.6, protein changed by 0.6"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=0.7,fat: random multiplier=0.7,carbs: random multiplier=0.4,protein: random multiplier=1.3",
+            "No change (positive), ingredient: garlic and ginger paste",
+            "calories: random multiplier=1.5,fat: random multiplier=1.5,carbs: random multiplier=1.6,protein: random multiplier=1.7",
+            "calories: random multiplier=0.5,fat: random multiplier=1.3,carbs: random multiplier=0.2,protein: random multiplier=0.5",
+            "calories: random multiplier=1.7,fat: random multiplier=1.4,carbs: random multiplier=0.5,protein: random multiplier=1.3"
+        ]
+    },
+    "nutrition_nutrition_change_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-130505",
+                "start_time": "00:10:48.242",
+                "end_time": "00:10:53.248"
+            }
+        },
+        "question": "From <TIME 00:10:48.242 video 1> to <TIME 00:10:53.248 video 1>, what changed in the nutrition values of the dish with recipe carrot soup?",
+        "choices": [
+            "calories changed by 407.9, fat changed by 1.1, carbs changed by 102.8, protein changed by 2.4",
+            "calories changed by 418.0, fat changed by 0.7, carbs changed by 27.8, protein changed by 1.1",
+            "calories changed by 78.7, fat changed by 2.3, carbs changed by 30.5, protein changed by 8.7",
+            "calories changed by 396.8, fat changed by 2.6, carbs changed by 11.7, protein changed by 4.5",
+            "calories changed by 302.0, fat changed by 1.8, carbs changed by 70.5, protein changed by 6.8"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=1.4,fat: random multiplier=0.6,carbs: random multiplier=1.5,protein: random multiplier=0.4",
+            "calories: random multiplier=1.4,fat: random multiplier=0.4,carbs: random multiplier=0.4,protein: random multiplier=0.2",
+            "calories: random multiplier=0.3,fat: random multiplier=1.3,carbs: random multiplier=0.4,protein: random multiplier=1.3",
+            "calories: random multiplier=1.3,fat: random multiplier=1.5,carbs: random multiplier=0.2,protein: random multiplier=0.7",
+            "No change (positive), ingredient: carrots"
+        ]
+    },
+    "nutrition_nutrition_change_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-115307",
+                "start_time": "00:15:36.000",
+                "end_time": "00:15:43.990"
+            }
+        },
+        "question": "From <TIME 00:15:36.000 video 1> to <TIME 00:15:43.990 video 1>, what changed in the nutrition values of the dish with recipe dal makhani with rice?",
+        "choices": [
+            "calories changed by 43.4, fat changed by 0.2, carbs changed by 2.1, protein changed by 0.3",
+            "calories changed by 5.9, fat changed by 1.8, carbs changed by 4.1, protein changed by 0.9",
+            "calories changed by 15.0, fat changed by 0.2, carbs changed by 3.9, protein changed by 0.9",
+            "calories changed by 27.0, fat changed by 1.1, carbs changed by 3.1, protein changed by 0.7",
+            "calories changed by 12.7, fat changed by 0.6, carbs changed by 0.9, protein changed by 0.5"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "calories: random multiplier=1.6,fat: random multiplier=0.2,carbs: random multiplier=0.7,protein: random multiplier=0.4",
+            "calories: random multiplier=0.2,fat: random multiplier=1.7,carbs: random multiplier=1.3,protein: random multiplier=1.4",
+            "calories: random multiplier=0.6,fat: random multiplier=0.1,carbs: random multiplier=1.3,protein: random multiplier=1.3",
+            "No change (positive), ingredient: coriander powder",
+            "calories: random multiplier=0.5,fat: random multiplier=0.6,carbs: random multiplier=0.3,protein: random multiplier=0.7"
+        ]
+    },
+    "nutrition_nutrition_change_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047",
+                "start_time": "00:03:07.081",
+                "end_time": "00:03:16.065"
+            }
+        },
+        "question": "From <TIME 00:03:07.081 video 1> to <TIME 00:03:16.065 video 1>, what changed in the nutrition values of the dish with recipe cappuccino?",
+        "choices": [
+            "calories changed by 43.0, fat changed by 0.0, carbs changed by 11.0, protein changed by 0.0",
+            "calories changed by 13.4, fat changed by 0.0, carbs changed by 1.7, protein changed by 0.0",
+            "calories changed by 65.4, fat changed by 0.0, carbs changed by 14.2, protein changed by 0.0",
+            "calories changed by 16.8, fat changed by 0.0, carbs changed by 2.4, protein changed by 0.0",
+            "calories changed by 54.9, fat changed by 0.0, carbs changed by 7.8, protein changed by 0.0"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "No change (positive), ingredient: sugar",
+            "calories: random multiplier=0.3,fat: random multiplier=0.5,carbs: random multiplier=0.2,protein: random multiplier=1.3",
+            "calories: random multiplier=1.5,fat: random multiplier=0.5,carbs: random multiplier=1.3,protein: random multiplier=0.2",
+            "calories: random multiplier=0.4,fat: random multiplier=0.6,carbs: random multiplier=0.2,protein: random multiplier=1.7",
+            "calories: random multiplier=1.3,fat: random multiplier=1.5,carbs: random multiplier=0.7,protein: random multiplier=1.6"
+        ]
+    },
+    "nutrition_nutrition_change_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-170021",
+                "start_time": "00:12:42.000",
+                "end_time": "00:12:53.990"
+            }
+        },
+        "question": "From <TIME 00:12:42.000 video 1> to <TIME 00:12:53.990 video 1>, what changed in the nutrition values of the dish with recipe chickpea and spinach curry with rice?",
+        "choices": [
+            "calories changed by 127.5, fat changed by 1.2, carbs changed by 12.0, protein changed by 0.7",
+            "calories changed by 180.0, fat changed by 9.0, carbs changed by 24.0, protein changed by 6.0",
+            "calories changed by 239.2, fat changed by 2.8, carbs changed by 17.3, protein changed by 9.1",
+            "calories changed by 239.7, fat changed by 2.8, carbs changed by 31.8, protein changed by 3.7",
+            "calories changed by 46.2, fat changed by 6.6, carbs changed by 39.6, protein changed by 2.1"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=0.7,fat: random multiplier=0.1,carbs: random multiplier=0.5,protein: random multiplier=0.1",
+            "No change (positive), ingredient: madras curry powder",
+            "calories: random multiplier=1.3,fat: random multiplier=0.3,carbs: random multiplier=0.7,protein: random multiplier=1.5",
+            "calories: random multiplier=1.3,fat: random multiplier=0.3,carbs: random multiplier=1.3,protein: random multiplier=0.6",
+            "calories: random multiplier=0.3,fat: random multiplier=0.7,carbs: random multiplier=1.7,protein: random multiplier=0.3"
+        ]
+    },
+    "nutrition_nutrition_change_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502",
+                "start_time": "00:03:37.000",
+                "end_time": "00:03:41.990"
+            }
+        },
+        "question": "From <TIME 00:03:37.000 video 1> to <TIME 00:03:41.990 video 1>, what changed in the nutrition values of the dish with recipe lazy cake recipe?",
+        "choices": [
+            "calories changed by 2102.0, fat changed by 71.7, carbs changed by 324.9, protein changed by 32.9",
+            "calories changed by 340.5, fat changed by 13.7, carbs changed by 45.8, protein changed by 49.0",
+            "calories changed by 1529.7, fat changed by 116.6, carbs changed by 459.7, protein changed by 42.8",
+            "calories changed by 2925.6, fat changed by 91.4, carbs changed by 126.1, protein changed by 54.4",
+            "calories changed by 3584.7, fat changed by 105.1, carbs changed by 480.4, protein changed by 45.4"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "No change (positive), ingredient: biscuits",
+            "calories: random multiplier=0.2,fat: random multiplier=0.2,carbs: random multiplier=0.1,protein: random multiplier=1.5",
+            "calories: random multiplier=0.7,fat: random multiplier=1.6,carbs: random multiplier=1.4,protein: random multiplier=1.3",
+            "calories: random multiplier=1.4,fat: random multiplier=1.3,carbs: random multiplier=0.4,protein: random multiplier=1.7",
+            "calories: random multiplier=1.7,fat: random multiplier=1.5,carbs: random multiplier=1.5,protein: random multiplier=1.4"
+        ]
+    },
+    "nutrition_nutrition_change_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423",
+                "start_time": "00:05:17.368",
+                "end_time": "00:05:19.305"
+            }
+        },
+        "question": "From <TIME 00:05:17.368 video 1> to <TIME 00:05:19.305 video 1>, what changed in the nutrition values of the dish with recipe dal makhani with rice?",
+        "choices": [
+            "calories changed by 1073.4, fat changed by 0.0, carbs changed by 207.9, protein changed by 19.6",
+            "calories changed by 415.7, fat changed by 0.0, carbs changed by 188.1, protein changed by 9.7",
+            "calories changed by 639.0, fat changed by 0.0, carbs changed by 149.0, protein changed by 13.0",
+            "calories changed by 813.2, fat changed by 0.0, carbs changed by 188.6, protein changed by 5.3",
+            "calories changed by 79.6, fat changed by 0.0, carbs changed by 192.0, protein changed by 19.7"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "calories: random multiplier=1.7,fat: random multiplier=1.3,carbs: random multiplier=1.4,protein: random multiplier=1.5",
+            "calories: random multiplier=0.7,fat: random multiplier=0.7,carbs: random multiplier=1.3,protein: random multiplier=0.7",
+            "No change (positive), ingredient: rice",
+            "calories: random multiplier=1.3,fat: random multiplier=0.4,carbs: random multiplier=1.3,protein: random multiplier=0.4",
+            "calories: random multiplier=0.1,fat: random multiplier=1.3,carbs: random multiplier=1.3,protein: random multiplier=1.5"
+        ]
+    },
+    "nutrition_nutrition_change_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-130505",
+                "start_time": "00:07:08.227",
+                "end_time": "00:07:16.274"
+            }
+        },
+        "question": "From <TIME 00:07:08.227 video 1> to <TIME 00:07:16.274 video 1>, what changed in the nutrition values of the dish with recipe carrot soup?",
+        "choices": [
+            "calories changed by 69.5, fat changed by 0.1, carbs changed by 3.7, protein changed by 1.4",
+            "calories changed by 102.0, fat changed by 0.3, carbs changed by 23.9, protein changed by 2.8",
+            "calories changed by 132.7, fat changed by 0.4, carbs changed by 11.6, protein changed by 3.8",
+            "calories changed by 160.8, fat changed by 0.1, carbs changed by 17.1, protein changed by 0.7",
+            "calories changed by 44.6, fat changed by 0.4, carbs changed by 32.6, protein changed by 4.9"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=0.7,fat: random multiplier=0.4,carbs: random multiplier=0.2,protein: random multiplier=0.5",
+            "No change (positive), ingredient: onions",
+            "calories: random multiplier=1.3,fat: random multiplier=1.4,carbs: random multiplier=0.5,protein: random multiplier=1.4",
+            "calories: random multiplier=1.6,fat: random multiplier=0.4,carbs: random multiplier=0.7,protein: random multiplier=0.3",
+            "calories: random multiplier=0.4,fat: random multiplier=1.5,carbs: random multiplier=1.4,protein: random multiplier=1.7"
+        ]
+    },
+    "nutrition_nutrition_change_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543",
+                "start_time": "00:24:57.076",
+                "end_time": "00:25:06.099"
+            }
+        },
+        "question": "From <TIME 00:24:57.076 video 1> to <TIME 00:25:06.099 video 1>, what changed in the nutrition values of the dish with recipe tomato sauce?",
+        "choices": [
+            "calories changed by 21.7, fat changed by 0.7, carbs changed by 3.4, protein changed by 4.0",
+            "calories changed by 14.1, fat changed by 0.1, carbs changed by 3.1, protein changed by 4.4",
+            "calories changed by 72.0, fat changed by 1.0, carbs changed by 10.0, protein changed by 3.0",
+            "calories changed by 9.4, fat changed by 0.3, carbs changed by 5.3, protein changed by 4.5",
+            "calories changed by 13.5, fat changed by 0.7, carbs changed by 7.1, protein changed by 4.6"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "calories: random multiplier=0.3,fat: random multiplier=0.7,carbs: random multiplier=0.3,protein: random multiplier=1.3",
+            "calories: random multiplier=0.2,fat: random multiplier=0.1,carbs: random multiplier=0.3,protein: random multiplier=1.5",
+            "No change (positive), ingredient: tomato passata",
+            "calories: random multiplier=0.1,fat: random multiplier=0.3,carbs: random multiplier=0.5,protein: random multiplier=1.5",
+            "calories: random multiplier=0.2,fat: random multiplier=0.7,carbs: random multiplier=0.7,protein: random multiplier=1.5"
+        ]
+    },
+    "nutrition_nutrition_change_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543",
+                "start_time": "00:33:07.049",
+                "end_time": "00:33:12.087"
+            }
+        },
+        "question": "From <TIME 00:33:07.049 video 1> to <TIME 00:33:12.087 video 1>, what changed in the nutrition values of the dish with recipe pizza with plant-based mince and mushrooms?",
+        "choices": [
+            "calories changed by 156.6, fat changed by 0.0, carbs changed by 9.7, protein changed by 0.7",
+            "calories changed by 34.9, fat changed by 0.0, carbs changed by 32.8, protein changed by 4.6",
+            "calories changed by 114.1, fat changed by 0.0, carbs changed by 30.6, protein changed by 4.9",
+            "calories changed by 90.0, fat changed by 0.0, carbs changed by 19.0, protein changed by 3.0",
+            "calories changed by 115.5, fat changed by 0.0, carbs changed by 2.9, protein changed by 1.9"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "calories: random multiplier=1.7,fat: random multiplier=1.7,carbs: random multiplier=0.5,protein: random multiplier=0.2",
+            "calories: random multiplier=0.4,fat: random multiplier=1.7,carbs: random multiplier=1.7,protein: random multiplier=1.5",
+            "calories: random multiplier=1.3,fat: random multiplier=0.2,carbs: random multiplier=1.6,protein: random multiplier=1.6",
+            "No change (positive), ingredient: semolina flour",
+            "calories: random multiplier=1.3,fat: random multiplier=0.4,carbs: random multiplier=0.2,protein: random multiplier=0.6"
+        ]
+    },
+    "nutrition_nutrition_change_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-172243",
+                "start_time": "00:01:30.289",
+                "end_time": "00:01:48.325"
+            }
+        },
+        "question": "From <TIME 00:01:30.289 video 1> to <TIME 00:01:48.325 video 1>, what changed in the nutrition values of the dish with recipe chickpea and spinach curry with rice?",
+        "choices": [
+            "calories changed by 240.6, fat changed by 2.8, carbs changed by 50.7, protein changed by 3.9",
+            "calories changed by 117.2, fat changed by 0.6, carbs changed by 36.8, protein changed by 6.5",
+            "calories changed by 32.8, fat changed by 0.3, carbs changed by 44.5, protein changed by 13.3",
+            "calories changed by 106.6, fat changed by 0.4, carbs changed by 45.5, protein changed by 3.7",
+            "calories changed by 184.0, fat changed by 1.6, carbs changed by 29.0, protein changed by 10.0"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=1.3,fat: random multiplier=1.7,carbs: random multiplier=1.7,protein: random multiplier=0.4",
+            "calories: random multiplier=0.6,fat: random multiplier=0.4,carbs: random multiplier=1.3,protein: random multiplier=0.7",
+            "calories: random multiplier=0.2,fat: random multiplier=0.2,carbs: random multiplier=1.5,protein: random multiplier=1.3",
+            "calories: random multiplier=0.6,fat: random multiplier=0.2,carbs: random multiplier=1.6,protein: random multiplier=0.4",
+            "No change (positive), ingredient: chopped tomatoes"
+        ]
+    },
+    "nutrition_nutrition_change_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502",
+                "start_time": "00:06:33.972",
+                "end_time": "00:06:37.912"
+            }
+        },
+        "question": "From <TIME 00:06:33.972 video 1> to <TIME 00:06:37.912 video 1>, what changed in the nutrition values of the dish with recipe lazy cake recipe?",
+        "choices": [
+            "calories changed by 34.6, fat changed by 1.1, carbs changed by 7.0, protein changed by 11.0",
+            "calories changed by 116.0, fat changed by 7.3, carbs changed by 4.3, protein changed by 7.8",
+            "calories changed by 84.5, fat changed by 1.3, carbs changed by 1.5, protein changed by 4.8",
+            "calories changed by 63.4, fat changed by 9.9, carbs changed by 7.3, protein changed by 11.2",
+            "calories changed by 34.8, fat changed by 4.0, carbs changed by 2.8, protein changed by 10.4"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=0.3,fat: random multiplier=0.1,carbs: random multiplier=1.6,protein: random multiplier=1.4",
+            "No change (positive), ingredient: cocoa powder",
+            "calories: random multiplier=0.7,fat: random multiplier=0.2,carbs: random multiplier=0.3,protein: random multiplier=0.6",
+            "calories: random multiplier=0.5,fat: random multiplier=1.4,carbs: random multiplier=1.7,protein: random multiplier=1.4",
+            "calories: random multiplier=0.3,fat: random multiplier=0.5,carbs: random multiplier=0.6,protein: random multiplier=1.3"
+        ]
+    },
+    "nutrition_nutrition_change_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-145526",
+                "start_time": "00:02:51.447",
+                "end_time": "00:03:00.439"
+            }
+        },
+        "question": "From <TIME 00:02:51.447 video 1> to <TIME 00:03:00.439 video 1>, what changed in the nutrition values of the dish with recipe stir fry?",
+        "choices": [
+            "calories changed by 766.1, fat changed by 6.2, carbs changed by 10.4, protein changed by 22.7",
+            "calories changed by 504.0, fat changed by 43.0, carbs changed by 16.0, protein changed by 17.0",
+            "calories changed by 177.9, fat changed by 13.7, carbs changed by 6.6, protein changed by 28.5",
+            "calories changed by 740.1, fat changed by 54.8, carbs changed by 11.9, protein changed by 4.8",
+            "calories changed by 246.3, fat changed by 6.7, carbs changed by 9.1, protein changed by 26.7"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=1.5,fat: random multiplier=0.1,carbs: random multiplier=0.6,protein: random multiplier=1.3",
+            "No change (positive), ingredient: cashew nuts",
+            "calories: random multiplier=0.4,fat: random multiplier=0.3,carbs: random multiplier=0.4,protein: random multiplier=1.7",
+            "calories: random multiplier=1.5,fat: random multiplier=1.3,carbs: random multiplier=0.7,protein: random multiplier=0.3",
+            "calories: random multiplier=0.5,fat: random multiplier=0.2,carbs: random multiplier=0.6,protein: random multiplier=1.6"
+        ]
+    },
+    "nutrition_nutrition_change_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543",
+                "start_time": "00:16:46.000",
+                "end_time": "00:16:53.990"
+            }
+        },
+        "question": "From <TIME 00:16:46.000 video 1> to <TIME 00:16:53.990 video 1>, what changed in the nutrition values of the dish with recipe pizza with plant-based mince and mushrooms?",
+        "choices": [
+            "calories changed by 1.5, fat changed by 0.0, carbs changed by 1.7, protein changed by 0.0",
+            "calories changed by 4.9, fat changed by 0.0, carbs changed by 0.2, protein changed by 0.0",
+            "calories changed by 5.2, fat changed by 0.0, carbs changed by 1.5, protein changed by 0.0",
+            "calories changed by 4.9, fat changed by 0.0, carbs changed by 1.6, protein changed by 0.0",
+            "calories changed by 3.0, fat changed by 0.0, carbs changed by 1.0, protein changed by 0.0"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=0.5,fat: random multiplier=0.7,carbs: random multiplier=1.7,protein: random multiplier=0.5",
+            "calories: random multiplier=1.6,fat: random multiplier=0.7,carbs: random multiplier=0.2,protein: random multiplier=1.6",
+            "calories: random multiplier=1.7,fat: random multiplier=0.6,carbs: random multiplier=1.5,protein: random multiplier=0.3",
+            "calories: random multiplier=1.6,fat: random multiplier=1.5,carbs: random multiplier=1.6,protein: random multiplier=1.3",
+            "No change (positive), ingredient: black pepper"
+        ]
+    },
+    "nutrition_nutrition_change_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543",
+                "start_time": "00:07:03.000",
+                "end_time": "00:07:30.060"
+            }
+        },
+        "question": "From <TIME 00:07:03.000 video 1> to <TIME 00:07:30.060 video 1>, what changed in the nutrition values of the dish with recipe banana bread chocolate chip cookies?",
+        "choices": [
+            "calories changed by 326.9, fat changed by 0.0, carbs changed by 49.2, protein changed by 0.1",
+            "calories changed by 1191.6, fat changed by 0.0, carbs changed by 296.9, protein changed by 0.3",
+            "calories changed by 760.0, fat changed by 0.0, carbs changed by 196.2, protein changed by 0.2",
+            "calories changed by 1034.4, fat changed by 0.0, carbs changed by 306.6, protein changed by 0.0",
+            "calories changed by 356.9, fat changed by 0.0, carbs changed by 279.5, protein changed by 0.1"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "calories: random multiplier=0.4,fat: random multiplier=0.5,carbs: random multiplier=0.3,protein: random multiplier=0.6",
+            "calories: random multiplier=1.6,fat: random multiplier=0.7,carbs: random multiplier=1.5,protein: random multiplier=1.6",
+            "No change (positive), ingredient: sugar",
+            "calories: random multiplier=1.4,fat: random multiplier=1.5,carbs: random multiplier=1.6,protein: random multiplier=0.2",
+            "calories: random multiplier=0.5,fat: random multiplier=1.4,carbs: random multiplier=1.4,protein: random multiplier=0.3"
+        ]
+    },
+    "nutrition_nutrition_change_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401",
+                "start_time": "00:19:47.023",
+                "end_time": "00:19:50.044"
+            }
+        },
+        "question": "From <TIME 00:19:47.023 video 1> to <TIME 00:19:50.044 video 1>, what changed in the nutrition values of the dish with recipe tuna pasta salad?",
+        "choices": [
+            "calories changed by 27.2, fat changed by 0.7, carbs changed by 23.9, protein changed by 4.1",
+            "calories changed by 109.0, fat changed by 1.0, carbs changed by 17.0, protein changed by 6.0",
+            "calories changed by 179.8, fat changed by 0.7, carbs changed by 26.0, protein changed by 9.1",
+            "calories changed by 171.0, fat changed by 0.3, carbs changed by 8.8, protein changed by 2.2",
+            "calories changed by 19.9, fat changed by 0.5, carbs changed by 10.7, protein changed by 3.7"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=0.2,fat: random multiplier=0.7,carbs: random multiplier=1.4,protein: random multiplier=0.7",
+            "No change (positive), ingredient: mixed bean salad",
+            "calories: random multiplier=1.6,fat: random multiplier=0.7,carbs: random multiplier=1.5,protein: random multiplier=1.5",
+            "calories: random multiplier=1.6,fat: random multiplier=0.3,carbs: random multiplier=0.5,protein: random multiplier=0.4",
+            "calories: random multiplier=0.2,fat: random multiplier=0.5,carbs: random multiplier=0.6,protein: random multiplier=0.6"
+        ]
+    },
+    "nutrition_nutrition_change_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359",
+                "start_time": "00:14:55.074",
+                "end_time": "00:14:58.088"
+            }
+        },
+        "question": "From <TIME 00:14:55.074 video 1> to <TIME 00:14:58.088 video 1>, what changed in the nutrition values of the dish with recipe mangsho bhuna?",
+        "choices": [
+            "calories changed by 39.9, fat changed by 8.1, carbs changed by 4.1, protein changed by 0.3",
+            "calories changed by 38.2, fat changed by 3.3, carbs changed by 1.0, protein changed by 0.8",
+            "calories changed by 61.0, fat changed by 5.4, carbs changed by 3.2, protein changed by 0.5",
+            "calories changed by 94.8, fat changed by 7.8, carbs changed by 2.1, protein changed by 0.7",
+            "calories changed by 41.7, fat changed by 1.6, carbs changed by 4.8, protein changed by 0.2"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "calories: random multiplier=0.7,fat: random multiplier=1.5,carbs: random multiplier=1.3,protein: random multiplier=0.6",
+            "calories: random multiplier=0.6,fat: random multiplier=0.6,carbs: random multiplier=0.3,protein: random multiplier=1.6",
+            "No change (positive), ingredient: garlic and ginger paste",
+            "calories: random multiplier=1.6,fat: random multiplier=1.4,carbs: random multiplier=0.7,protein: random multiplier=1.4",
+            "calories: random multiplier=0.7,fat: random multiplier=0.3,carbs: random multiplier=1.5,protein: random multiplier=0.4"
+        ]
+    },
+    "nutrition_nutrition_change_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543",
+                "start_time": "00:44:08.005",
+                "end_time": "00:44:25.026"
+            }
+        },
+        "question": "From <TIME 00:44:08.005 video 1> to <TIME 00:44:25.026 video 1>, what changed in the nutrition values of the dish with recipe pizza with plant-based mince and mushrooms?",
+        "choices": [
+            "calories changed by 475.2, fat changed by 14.3, carbs changed by 0.0, protein changed by 35.2",
+            "calories changed by 458.2, fat changed by 6.1, carbs changed by 0.0, protein changed by 38.9",
+            "calories changed by 174.7, fat changed by 35.5, carbs changed by 0.0, protein changed by 4.8",
+            "calories changed by 178.5, fat changed by 39.4, carbs changed by 0.0, protein changed by 15.9",
+            "calories changed by 321.0, fat changed by 25.0, carbs changed by 0.0, protein changed by 23.0"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=1.5,fat: random multiplier=0.6,carbs: random multiplier=1.7,protein: random multiplier=1.5",
+            "calories: random multiplier=1.4,fat: random multiplier=0.2,carbs: random multiplier=1.5,protein: random multiplier=1.7",
+            "calories: random multiplier=0.5,fat: random multiplier=1.4,carbs: random multiplier=0.2,protein: random multiplier=0.2",
+            "calories: random multiplier=0.6,fat: random multiplier=1.6,carbs: random multiplier=0.3,protein: random multiplier=0.7",
+            "No change (positive), ingredient: mozzarella"
+        ]
+    },
+    "nutrition_nutrition_change_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543",
+                "start_time": "00:07:47.007",
+                "end_time": "00:07:58.057"
+            }
+        },
+        "question": "From <TIME 00:07:47.007 video 1> to <TIME 00:07:58.057 video 1>, what changed in the nutrition values of the dish with recipe banana bread chocolate chip cookies?",
+        "choices": [
+            "calories changed by 932.0, fat changed by 105.4, carbs changed by 0.1, protein changed by 1.1",
+            "calories changed by 1180.1, fat changed by 183.0, carbs changed by 0.0, protein changed by 1.6",
+            "calories changed by 443.2, fat changed by 28.9, carbs changed by 0.2, protein changed by 0.3",
+            "calories changed by 467.6, fat changed by 17.0, carbs changed by 0.0, protein changed by 0.5",
+            "calories changed by 1320.7, fat changed by 39.4, carbs changed by 0.0, protein changed by 0.2"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "No change (positive), ingredient: butter",
+            "calories: random multiplier=1.3,fat: random multiplier=1.7,carbs: random multiplier=0.2,protein: random multiplier=1.4",
+            "calories: random multiplier=0.5,fat: random multiplier=0.3,carbs: random multiplier=1.5,protein: random multiplier=0.3",
+            "calories: random multiplier=0.5,fat: random multiplier=0.2,carbs: random multiplier=0.3,protein: random multiplier=0.5",
+            "calories: random multiplier=1.4,fat: random multiplier=0.4,carbs: random multiplier=0.5,protein: random multiplier=0.2"
+        ]
+    },
+    "nutrition_nutrition_change_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401",
+                "start_time": "00:16:06.084",
+                "end_time": "00:16:09.058"
+            }
+        },
+        "question": "From <TIME 00:16:06.084 video 1> to <TIME 00:16:09.058 video 1>, what changed in the nutrition values of the dish with recipe tuna pasta salad?",
+        "choices": [
+            "calories changed by 22.1, fat changed by 0.0, carbs changed by 6.8, protein changed by 1.6",
+            "calories changed by 25.1, fat changed by 0.0, carbs changed by 2.6, protein changed by 0.2",
+            "calories changed by 15.0, fat changed by 0.0, carbs changed by 4.0, protein changed by 1.0",
+            "calories changed by 4.8, fat changed by 0.0, carbs changed by 5.1, protein changed by 1.7",
+            "calories changed by 8.2, fat changed by 0.0, carbs changed by 0.6, protein changed by 0.2"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "calories: random multiplier=1.5,fat: random multiplier=0.3,carbs: random multiplier=1.7,protein: random multiplier=1.6",
+            "calories: random multiplier=1.7,fat: random multiplier=0.6,carbs: random multiplier=0.6,protein: random multiplier=0.2",
+            "No change (positive), ingredient: red bell pepper",
+            "calories: random multiplier=0.3,fat: random multiplier=1.6,carbs: random multiplier=1.3,protein: random multiplier=1.7",
+            "calories: random multiplier=0.5,fat: random multiplier=0.5,carbs: random multiplier=0.2,protein: random multiplier=0.2"
+        ]
+    },
+    "nutrition_nutrition_change_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703",
+                "start_time": "00:16:30.977",
+                "end_time": "00:16:32.007"
+            }
+        },
+        "question": "From <TIME 00:16:30.977 video 1> to <TIME 00:16:32.007 video 1>, what changed in the nutrition values of the dish with recipe southwestern salad?",
+        "choices": [
+            "calories changed by 35.8, fat changed by 0.1, carbs changed by 7.1, protein changed by 1.5",
+            "calories changed by 24.0, fat changed by 0.2, carbs changed by 5.1, protein changed by 2.0",
+            "calories changed by 39.7, fat changed by 0.1, carbs changed by 2.4, protein changed by 0.5",
+            "calories changed by 41.5, fat changed by 0.3, carbs changed by 7.5, protein changed by 1.4",
+            "calories changed by 30.2, fat changed by 0.1, carbs changed by 7.2, protein changed by 3.0"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=1.5,fat: random multiplier=0.7,carbs: random multiplier=1.4,protein: random multiplier=0.7",
+            "No change (positive), ingredient: lettuce",
+            "calories: random multiplier=1.7,fat: random multiplier=0.4,carbs: random multiplier=0.5,protein: random multiplier=0.3",
+            "calories: random multiplier=1.7,fat: random multiplier=1.5,carbs: random multiplier=1.5,protein: random multiplier=0.7",
+            "calories: random multiplier=1.3,fat: random multiplier=0.4,carbs: random multiplier=1.4,protein: random multiplier=1.5"
+        ]
+    },
+    "nutrition_nutrition_change_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042",
+                "start_time": "00:12:28.000",
+                "end_time": "00:12:38.990"
+            }
+        },
+        "question": "From <TIME 00:12:28.000 video 1> to <TIME 00:12:38.990 video 1>, what changed in the nutrition values of the dish with recipe date balls?",
+        "choices": [
+            "calories changed by 883.0, fat changed by 30.1, carbs changed by 136.5, protein changed by 13.8",
+            "calories changed by 112.4, fat changed by 4.8, carbs changed by 49.8, protein changed by 21.7",
+            "calories changed by 186.0, fat changed by 14.4, carbs changed by 210.3, protein changed by 4.5",
+            "calories changed by 1267.9, fat changed by 18.8, carbs changed by 89.1, protein changed by 21.0",
+            "calories changed by 1526.4, fat changed by 51.3, carbs changed by 195.5, protein changed by 2.1"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "No change (positive), ingredient: biscuits",
+            "calories: random multiplier=0.1,fat: random multiplier=0.2,carbs: random multiplier=0.4,protein: random multiplier=1.6",
+            "calories: random multiplier=0.2,fat: random multiplier=0.5,carbs: random multiplier=1.5,protein: random multiplier=0.3",
+            "calories: random multiplier=1.4,fat: random multiplier=0.6,carbs: random multiplier=0.7,protein: random multiplier=1.5",
+            "calories: random multiplier=1.7,fat: random multiplier=1.7,carbs: random multiplier=1.4,protein: random multiplier=0.2"
+        ]
+    },
+    "nutrition_nutrition_change_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207",
+                "start_time": "00:22:55.000",
+                "end_time": "00:23:03.990"
+            }
+        },
+        "question": "From <TIME 00:22:55.000 video 1> to <TIME 00:23:03.990 video 1>, what changed in the nutrition values of the dish with recipe cappuccino?",
+        "choices": [
+            "calories changed by 99.0, fat changed by 0.0, carbs changed by 26.0, protein changed by 0.0",
+            "calories changed by 24.5, fat changed by 0.0, carbs changed by 8.1, protein changed by 0.0",
+            "calories changed by 145.2, fat changed by 0.0, carbs changed by 35.9, protein changed by 0.0",
+            "calories changed by 165.1, fat changed by 0.0, carbs changed by 13.9, protein changed by 0.0",
+            "calories changed by 132.2, fat changed by 0.0, carbs changed by 7.0, protein changed by 0.0"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "No change (positive), ingredient: sugar",
+            "calories: random multiplier=0.2,fat: random multiplier=1.6,carbs: random multiplier=0.3,protein: random multiplier=0.4",
+            "calories: random multiplier=1.5,fat: random multiplier=1.7,carbs: random multiplier=1.4,protein: random multiplier=0.7",
+            "calories: random multiplier=1.7,fat: random multiplier=0.3,carbs: random multiplier=0.5,protein: random multiplier=0.6",
+            "calories: random multiplier=1.3,fat: random multiplier=0.5,carbs: random multiplier=0.3,protein: random multiplier=1.6"
+        ]
+    },
+    "nutrition_nutrition_change_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359",
+                "start_time": "00:27:55.000",
+                "end_time": "00:27:58.990"
+            }
+        },
+        "question": "From <TIME 00:27:55.000 video 1> to <TIME 00:27:58.990 video 1>, what changed in the nutrition values of the dish with recipe mangsho bhuna?",
+        "choices": [
+            "calories changed by 4.8, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 3.0, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 4.2, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 3.8, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 4.4, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=1.6,fat: random multiplier=0.3,carbs: random multiplier=1.3,protein: random multiplier=1.4",
+            "No change (positive), ingredient: garam masala",
+            "calories: random multiplier=1.4,fat: random multiplier=0.4,carbs: random multiplier=0.7,protein: random multiplier=0.2",
+            "calories: random multiplier=1.3,fat: random multiplier=0.5,carbs: random multiplier=0.4,protein: random multiplier=0.7",
+            "calories: random multiplier=1.5,fat: random multiplier=0.5,carbs: random multiplier=0.1,protein: random multiplier=0.7"
+        ]
+    },
+    "nutrition_nutrition_change_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-191007",
+                "start_time": "00:30:44.030",
+                "end_time": "00:30:45.081"
+            }
+        },
+        "question": "From <TIME 00:30:44.030 video 1> to <TIME 00:30:45.081 video 1>, what changed in the nutrition values of the dish with recipe mushroom risotto?",
+        "choices": [
+            "calories changed by 9.6, fat changed by 0.9, carbs changed by 0.9, protein changed by 2.9",
+            "calories changed by 31.2, fat changed by 0.3, carbs changed by 2.4, protein changed by 0.5",
+            "calories changed by 20.0, fat changed by 0.6, carbs changed by 1.8, protein changed by 2.2",
+            "calories changed by 31.6, fat changed by 0.2, carbs changed by 0.3, protein changed by 3.3",
+            "calories changed by 32.6, fat changed by 0.1, carbs changed by 2.3, protein changed by 0.7"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "calories: random multiplier=0.5,fat: random multiplier=1.6,carbs: random multiplier=0.5,protein: random multiplier=1.3",
+            "calories: random multiplier=1.6,fat: random multiplier=0.5,carbs: random multiplier=1.3,protein: random multiplier=0.2",
+            "No change (positive), ingredient: shiitake mushrooms",
+            "calories: random multiplier=1.6,fat: random multiplier=0.3,carbs: random multiplier=0.2,protein: random multiplier=1.5",
+            "calories: random multiplier=1.6,fat: random multiplier=0.2,carbs: random multiplier=1.3,protein: random multiplier=0.3"
+        ]
+    },
+    "nutrition_nutrition_change_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529",
+                "start_time": "00:06:10.484",
+                "end_time": "00:06:29.445"
+            }
+        },
+        "question": "From <TIME 00:06:10.484 video 1> to <TIME 00:06:29.445 video 1>, what changed in the nutrition values of the dish with recipe chickpea and spinach curry with rice?",
+        "choices": [
+            "calories changed by 47.7, fat changed by 1.8, carbs changed by 6.4, protein changed by 11.0",
+            "calories changed by 9.9, fat changed by 1.5, carbs changed by 2.3, protein changed by 3.7",
+            "calories changed by 31.8, fat changed by 0.5, carbs changed by 8.1, protein changed by 9.9",
+            "calories changed by 65.0, fat changed by 1.2, carbs changed by 5.0, protein changed by 6.5",
+            "calories changed by 106.5, fat changed by 0.9, carbs changed by 8.2, protein changed by 4.4"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "calories: random multiplier=0.7,fat: random multiplier=1.5,carbs: random multiplier=1.3,protein: random multiplier=1.7",
+            "calories: random multiplier=0.2,fat: random multiplier=1.3,carbs: random multiplier=0.5,protein: random multiplier=0.6",
+            "calories: random multiplier=0.5,fat: random multiplier=0.4,carbs: random multiplier=1.6,protein: random multiplier=1.5",
+            "No change (positive), ingredient: spinach",
+            "calories: random multiplier=1.6,fat: random multiplier=0.7,carbs: random multiplier=1.6,protein: random multiplier=0.7"
+        ]
+    },
+    "nutrition_nutrition_change_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401",
+                "start_time": "00:31:24.000",
+                "end_time": "00:31:28.990"
+            }
+        },
+        "question": "From <TIME 00:31:24.000 video 1> to <TIME 00:31:28.990 video 1>, what changed in the nutrition values of the dish with recipe tuna pasta salad?",
+        "choices": [
+            "calories changed by 16.6, fat changed by 0.0, carbs changed by 2.2, protein changed by 0.1",
+            "calories changed by 53.0, fat changed by 0.0, carbs changed by 11.7, protein changed by 0.3",
+            "calories changed by 45.7, fat changed by 0.0, carbs changed by 1.9, protein changed by 0.3",
+            "calories changed by 35.0, fat changed by 0.0, carbs changed by 8.0, protein changed by 0.2",
+            "calories changed by 4.3, fat changed by 0.0, carbs changed by 12.3, protein changed by 0.1"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "calories: random multiplier=0.5,fat: random multiplier=1.3,carbs: random multiplier=0.3,protein: random multiplier=0.7",
+            "calories: random multiplier=1.5,fat: random multiplier=1.6,carbs: random multiplier=1.5,protein: random multiplier=1.5",
+            "calories: random multiplier=1.3,fat: random multiplier=1.4,carbs: random multiplier=0.2,protein: random multiplier=1.3",
+            "No change (positive), ingredient: balsamic glaze",
+            "calories: random multiplier=0.1,fat: random multiplier=0.4,carbs: random multiplier=1.5,protein: random multiplier=0.6"
+        ]
+    },
+    "nutrition_nutrition_change_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311",
+                "start_time": "00:22:37.041",
+                "end_time": "00:22:54.009"
+            }
+        },
+        "question": "From <TIME 00:22:37.041 video 1> to <TIME 00:22:54.009 video 1>, what changed in the nutrition values of the dish with recipe granola with almond milk and cinnamon?",
+        "choices": [
+            "calories changed by 6.8, fat changed by 0.0, carbs changed by 0.5, protein changed by 0.2",
+            "calories changed by 2.0, fat changed by 0.2, carbs changed by 0.5, protein changed by 0.2",
+            "calories changed by 4.0, fat changed by 0.1, carbs changed by 1.2, protein changed by 0.1",
+            "calories changed by 1.6, fat changed by 0.1, carbs changed by 0.4, protein changed by 0.0",
+            "calories changed by 5.8, fat changed by 0.0, carbs changed by 1.9, protein changed by 0.1"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "calories: random multiplier=1.7,fat: random multiplier=0.2,carbs: random multiplier=0.4,protein: random multiplier=1.7",
+            "calories: random multiplier=0.5,fat: random multiplier=1.7,carbs: random multiplier=0.4,protein: random multiplier=1.7",
+            "No change (positive), ingredient: ground cinnamon",
+            "calories: random multiplier=0.4,fat: random multiplier=1.3,carbs: random multiplier=0.4,protein: random multiplier=0.4",
+            "calories: random multiplier=1.4,fat: random multiplier=0.4,carbs: random multiplier=1.6,protein: random multiplier=0.6"
+        ]
+    },
+    "nutrition_nutrition_change_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219",
+                "start_time": "00:33:30.034",
+                "end_time": "00:33:36.074"
+            }
+        },
+        "question": "From <TIME 00:33:30.034 video 1> to <TIME 00:33:36.074 video 1>, what changed in the nutrition values of the dish with recipe red lentils squash curry?",
+        "choices": [
+            "calories changed by 247.8, fat changed by 30.3, carbs changed by 3.8, protein changed by 2.8",
+            "calories changed by 353.2, fat changed by 98.8, carbs changed by 2.3, protein changed by 4.9",
+            "calories changed by 840.5, fat changed by 46.0, carbs changed by 19.3, protein changed by 10.6",
+            "calories changed by 137.5, fat changed by 26.2, carbs changed by 6.8, protein changed by 2.9",
+            "calories changed by 668.0, fat changed by 68.0, carbs changed by 13.0, protein changed by 8.0"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=0.4,fat: random multiplier=0.4,carbs: random multiplier=0.3,protein: random multiplier=0.3",
+            "calories: random multiplier=0.5,fat: random multiplier=1.5,carbs: random multiplier=0.2,protein: random multiplier=0.6",
+            "calories: random multiplier=1.3,fat: random multiplier=0.7,carbs: random multiplier=1.5,protein: random multiplier=1.3",
+            "calories: random multiplier=0.2,fat: random multiplier=0.4,carbs: random multiplier=0.5,protein: random multiplier=0.4",
+            "No change (positive), ingredient: coconut milk"
+        ]
+    },
+    "nutrition_nutrition_change_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-102207",
+                "start_time": "00:07:19.956",
+                "end_time": "00:07:23.969"
+            }
+        },
+        "question": "From <TIME 00:07:19.956 video 1> to <TIME 00:07:23.969 video 1>, what changed in the nutrition values of the dish with recipe bread omelette?",
+        "choices": [
+            "calories changed by 26.9, fat changed by 0.0, carbs changed by 1.6, protein changed by 0.1",
+            "calories changed by 16.0, fat changed by 0.0, carbs changed by 3.7, protein changed by 0.4",
+            "calories changed by 26.8, fat changed by 0.0, carbs changed by 5.4, protein changed by 0.6",
+            "calories changed by 20.6, fat changed by 0.0, carbs changed by 2.1, protein changed by 0.6",
+            "calories changed by 6.9, fat changed by 0.0, carbs changed by 2.5, protein changed by 0.3"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=1.7,fat: random multiplier=0.6,carbs: random multiplier=0.4,protein: random multiplier=0.4",
+            "No change (positive), ingredient: onions",
+            "calories: random multiplier=1.7,fat: random multiplier=0.4,carbs: random multiplier=1.5,protein: random multiplier=1.5",
+            "calories: random multiplier=1.3,fat: random multiplier=0.7,carbs: random multiplier=0.6,protein: random multiplier=1.6",
+            "calories: random multiplier=0.4,fat: random multiplier=1.3,carbs: random multiplier=0.7,protein: random multiplier=0.7"
+        ]
+    },
+    "nutrition_nutrition_change_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-191007",
+                "start_time": "00:24:26.098",
+                "end_time": "00:24:34.026"
+            }
+        },
+        "question": "From <TIME 00:24:26.098 video 1> to <TIME 00:24:34.026 video 1>, what changed in the nutrition values of the dish with recipe mushroom risotto?",
+        "choices": [
+            "calories changed by 14.0, fat changed by 0.0, carbs changed by 7.0, protein changed by 0.4",
+            "calories changed by 36.5, fat changed by 0.1, carbs changed by 7.2, protein changed by 0.4",
+            "calories changed by 16.1, fat changed by 0.1, carbs changed by 1.0, protein changed by 0.4",
+            "calories changed by 28.6, fat changed by 0.1, carbs changed by 1.1, protein changed by 0.3",
+            "calories changed by 22.0, fat changed by 0.1, carbs changed by 5.0, protein changed by 1.0"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=0.6,fat: random multiplier=0.3,carbs: random multiplier=1.4,protein: random multiplier=0.4",
+            "calories: random multiplier=1.7,fat: random multiplier=1.3,carbs: random multiplier=1.4,protein: random multiplier=0.4",
+            "calories: random multiplier=0.7,fat: random multiplier=0.7,carbs: random multiplier=0.2,protein: random multiplier=0.4",
+            "calories: random multiplier=1.3,fat: random multiplier=0.5,carbs: random multiplier=0.2,protein: random multiplier=0.3",
+            "No change (positive), ingredient: garlic"
+        ]
+    },
+    "nutrition_nutrition_change_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722",
+                "start_time": "00:03:46.068",
+                "end_time": "00:04:01.001"
+            }
+        },
+        "question": "From <TIME 00:03:46.068 video 1> to <TIME 00:04:01.001 video 1>, what changed in the nutrition values of the dish with recipe grilled chicken wrap?",
+        "choices": [
+            "calories changed by 32.0, fat changed by 0.1, carbs changed by 1.8, protein changed by 0.1",
+            "calories changed by 9.1, fat changed by 0.3, carbs changed by 7.8, protein changed by 0.5",
+            "calories changed by 28.0, fat changed by 0.3, carbs changed by 7.4, protein changed by 0.2",
+            "calories changed by 21.0, fat changed by 0.2, carbs changed by 4.5, protein changed by 0.3",
+            "calories changed by 15.1, fat changed by 0.3, carbs changed by 2.6, protein changed by 0.0"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "calories: random multiplier=1.5,fat: random multiplier=0.7,carbs: random multiplier=0.4,protein: random multiplier=0.4",
+            "calories: random multiplier=0.4,fat: random multiplier=1.7,carbs: random multiplier=1.7,protein: random multiplier=1.6",
+            "calories: random multiplier=1.3,fat: random multiplier=1.4,carbs: random multiplier=1.7,protein: random multiplier=0.6",
+            "No change (positive), ingredient: sriracha",
+            "calories: random multiplier=0.7,fat: random multiplier=1.4,carbs: random multiplier=0.6,protein: random multiplier=0.1"
+        ]
+    },
+    "nutrition_nutrition_change_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-165333",
+                "start_time": "00:02:36.871",
+                "end_time": "00:02:47.955"
+            }
+        },
+        "question": "From <TIME 00:02:36.871 video 1> to <TIME 00:02:47.955 video 1>, what changed in the nutrition values of the dish with recipe aloo stuffing for masala dosa?",
+        "choices": [
+            "calories changed by 63.9, fat changed by 0.0, carbs changed by 4.6, protein changed by 0.5",
+            "calories changed by 4.4, fat changed by 0.2, carbs changed by 12.7, protein changed by 0.5",
+            "calories changed by 11.1, fat changed by 0.0, carbs changed by 11.0, protein changed by 0.2",
+            "calories changed by 13.2, fat changed by 0.1, carbs changed by 3.7, protein changed by 0.5",
+            "calories changed by 37.0, fat changed by 0.1, carbs changed by 7.7, protein changed by 1.0"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=1.7,fat: random multiplier=0.3,carbs: random multiplier=0.6,protein: random multiplier=0.5",
+            "calories: random multiplier=0.1,fat: random multiplier=1.6,carbs: random multiplier=1.7,protein: random multiplier=0.5",
+            "calories: random multiplier=0.3,fat: random multiplier=0.4,carbs: random multiplier=1.4,protein: random multiplier=0.2",
+            "calories: random multiplier=0.4,fat: random multiplier=1.3,carbs: random multiplier=0.5,protein: random multiplier=0.5",
+            "No change (positive), ingredient: brown onions"
+        ]
+    },
+    "nutrition_nutrition_change_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359",
+                "start_time": "00:10:10.062",
+                "end_time": "00:10:14.533"
+            }
+        },
+        "question": "From <TIME 00:10:10.062 video 1> to <TIME 00:10:14.533 video 1>, what changed in the nutrition values of the dish with recipe mangsho bhuna?",
+        "choices": [
+            "calories changed by 807.3, fat changed by 283.3, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 821.3, fat changed by 260.8, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 821.8, fat changed by 130.7, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 1667.0, fat changed by 185.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 524.6, fat changed by 126.6, carbs changed by 0.0, protein changed by 0.0"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "calories: random multiplier=0.5,fat: random multiplier=1.5,carbs: random multiplier=1.5,protein: random multiplier=0.5",
+            "calories: random multiplier=0.5,fat: random multiplier=1.4,carbs: random multiplier=0.2,protein: random multiplier=0.5",
+            "calories: random multiplier=0.5,fat: random multiplier=0.7,carbs: random multiplier=1.7,protein: random multiplier=0.2",
+            "No change (positive), ingredient: vegetable oil",
+            "calories: random multiplier=0.3,fat: random multiplier=0.7,carbs: random multiplier=1.6,protein: random multiplier=1.4"
+        ]
+    },
+    "nutrition_nutrition_change_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722",
+                "start_time": "00:04:48.000",
+                "end_time": "00:04:50.990"
+            }
+        },
+        "question": "From <TIME 00:04:48.000 video 1> to <TIME 00:04:50.990 video 1>, what changed in the nutrition values of the dish with recipe grilled chicken wrap?",
+        "choices": [
+            "calories changed by 1.0, fat changed by 0.0, carbs changed by 0.1, protein changed by 0.1",
+            "calories changed by 0.3, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 1.3, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.2",
+            "calories changed by 1.7, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.1",
+            "calories changed by 0.3, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.1"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "No change (positive), ingredient: dried parsley",
+            "calories: random multiplier=0.3,fat: random multiplier=1.4,carbs: random multiplier=0.3,protein: random multiplier=0.4",
+            "calories: random multiplier=1.3,fat: random multiplier=1.3,carbs: random multiplier=0.4,protein: random multiplier=1.6",
+            "calories: random multiplier=1.7,fat: random multiplier=0.6,carbs: random multiplier=0.4,protein: random multiplier=1.3",
+            "calories: random multiplier=0.3,fat: random multiplier=1.5,carbs: random multiplier=0.4,protein: random multiplier=1.3"
+        ]
+    },
+    "nutrition_nutrition_change_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042",
+                "start_time": "00:09:35.000",
+                "end_time": "00:09:39.990"
+            }
+        },
+        "question": "From <TIME 00:09:35.000 video 1> to <TIME 00:09:39.990 video 1>, what changed in the nutrition values of the dish with recipe date balls?",
+        "choices": [
+            "calories changed by 2382.8, fat changed by 1.0, carbs changed by 634.4, protein changed by 5.0",
+            "calories changed by 361.3, fat changed by 0.2, carbs changed by 194.9, protein changed by 5.7",
+            "calories changed by 1082.3, fat changed by 0.2, carbs changed by 54.3, protein changed by 6.9",
+            "calories changed by 1510.0, fat changed by 0.8, carbs changed by 408.6, protein changed by 9.9",
+            "calories changed by 535.4, fat changed by 0.6, carbs changed by 566.4, protein changed by 3.7"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            "calories: random multiplier=1.6,fat: random multiplier=1.3,carbs: random multiplier=1.6,protein: random multiplier=0.5",
+            "calories: random multiplier=0.2,fat: random multiplier=0.2,carbs: random multiplier=0.5,protein: random multiplier=0.6",
+            "calories: random multiplier=0.7,fat: random multiplier=0.2,carbs: random multiplier=0.1,protein: random multiplier=0.7",
+            "No change (positive), ingredient: medjool dates",
+            "calories: random multiplier=0.4,fat: random multiplier=0.7,carbs: random multiplier=1.4,protein: random multiplier=0.4"
+        ]
+    },
+    "nutrition_nutrition_change_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359",
+                "start_time": "00:13:37.065",
+                "end_time": "00:13:44.056"
+            }
+        },
+        "question": "From <TIME 00:13:37.065 video 1> to <TIME 00:13:44.056 video 1>, what changed in the nutrition values of the dish with recipe mangsho bhuna?",
+        "choices": [
+            "calories changed by 93.9, fat changed by 1.4, carbs changed by 2.7, protein changed by 0.6",
+            "calories changed by 24.6, fat changed by 5.9, carbs changed by 2.5, protein changed by 0.7",
+            "calories changed by 62.0, fat changed by 4.0, carbs changed by 2.0, protein changed by 2.0",
+            "calories changed by 41.0, fat changed by 0.7, carbs changed by 3.3, protein changed by 1.2",
+            "calories changed by 90.7, fat changed by 6.3, carbs changed by 0.5, protein changed by 0.9"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "calories: random multiplier=1.5,fat: random multiplier=0.4,carbs: random multiplier=1.4,protein: random multiplier=0.3",
+            "calories: random multiplier=0.4,fat: random multiplier=1.5,carbs: random multiplier=1.3,protein: random multiplier=0.4",
+            "No change (positive), ingredient: yoghurt",
+            "calories: random multiplier=0.7,fat: random multiplier=0.2,carbs: random multiplier=1.7,protein: random multiplier=0.6",
+            "calories: random multiplier=1.5,fat: random multiplier=1.6,carbs: random multiplier=0.3,protein: random multiplier=0.5"
+        ]
+    },
+    "nutrition_nutrition_change_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502",
+                "start_time": "00:04:14.984",
+                "end_time": "00:04:16.905"
+            }
+        },
+        "question": "From <TIME 00:04:14.984 video 1> to <TIME 00:04:16.905 video 1>, what changed in the nutrition values of the dish with recipe lazy cake recipe?",
+        "choices": [
+            "calories changed by 884.0, fat changed by 97.0, carbs changed by 1.0, protein changed by 1.1",
+            "calories changed by 335.4, fat changed by 26.4, carbs changed by 0.2, protein changed by 1.6",
+            "calories changed by 1158.7, fat changed by 140.5, carbs changed by 0.3, protein changed by 0.5",
+            "calories changed by 339.6, fat changed by 60.5, carbs changed by 0.4, protein changed by 0.4",
+            "calories changed by 586.9, fat changed by 36.1, carbs changed by 0.4, protein changed by 1.6"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            "No change (positive), ingredient: unsalted butter",
+            "calories: random multiplier=0.4,fat: random multiplier=0.3,carbs: random multiplier=0.2,protein: random multiplier=1.5",
+            "calories: random multiplier=1.3,fat: random multiplier=1.4,carbs: random multiplier=0.3,protein: random multiplier=0.5",
+            "calories: random multiplier=0.4,fat: random multiplier=0.6,carbs: random multiplier=0.4,protein: random multiplier=0.3",
+            "calories: random multiplier=0.7,fat: random multiplier=0.4,carbs: random multiplier=0.4,protein: random multiplier=1.5"
+        ]
+    },
+    "nutrition_nutrition_change_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642",
+                "start_time": "00:20:55.840",
+                "end_time": "00:20:57.912"
+            }
+        },
+        "question": "From <TIME 00:20:55.840 video 1> to <TIME 00:20:57.912 video 1>, what changed in the nutrition values of the dish with recipe kadhai paneer?",
+        "choices": [
+            "calories changed by 16.2, fat changed by 0.0, carbs changed by 12.5, protein changed by 0.4",
+            "calories changed by 54.6, fat changed by 0.1, carbs changed by 7.0, protein changed by 1.3",
+            "calories changed by 41.0, fat changed by 0.1, carbs changed by 9.3, protein changed by 0.9",
+            "calories changed by 4.3, fat changed by 0.0, carbs changed by 13.9, protein changed by 1.3",
+            "calories changed by 60.3, fat changed by 0.1, carbs changed by 2.2, protein changed by 0.4"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            "calories: random multiplier=0.4,fat: random multiplier=0.1,carbs: random multiplier=1.3,protein: random multiplier=0.4",
+            "calories: random multiplier=1.3,fat: random multiplier=1.3,carbs: random multiplier=0.7,protein: random multiplier=1.4",
+            "No change (positive), ingredient: onions",
+            "calories: random multiplier=0.1,fat: random multiplier=0.2,carbs: random multiplier=1.5,protein: random multiplier=1.4",
+            "calories: random multiplier=1.5,fat: random multiplier=0.5,carbs: random multiplier=0.2,protein: random multiplier=0.4"
+        ]
+    },
+    "nutrition_nutrition_change_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-163547",
+                "start_time": "00:25:13.000",
+                "end_time": "00:25:25.990"
+            }
+        },
+        "question": "From <TIME 00:25:13.000 video 1> to <TIME 00:25:25.990 video 1>, what changed in the nutrition values of the dish with recipe spaghetti bolognese?",
+        "choices": [
+            "calories changed by 1.3, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 0.6, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 0.7, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 1.5, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 1.0, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=1.3,fat: random multiplier=0.3,carbs: random multiplier=0.4,protein: random multiplier=1.3",
+            "calories: random multiplier=0.6,fat: random multiplier=1.5,carbs: random multiplier=0.6,protein: random multiplier=0.4",
+            "calories: random multiplier=0.7,fat: random multiplier=1.6,carbs: random multiplier=0.2,protein: random multiplier=0.5",
+            "calories: random multiplier=1.5,fat: random multiplier=1.5,carbs: random multiplier=1.5,protein: random multiplier=1.7",
+            "No change (positive), ingredient: green chilli"
+        ]
+    },
+    "nutrition_nutrition_change_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-181212",
+                "start_time": "00:08:33.084",
+                "end_time": "00:08:38.064"
+            }
+        },
+        "question": "From <TIME 00:08:33.084 video 1> to <TIME 00:08:38.064 video 1>, what changed in the nutrition values of the dish with recipe peas pulao?",
+        "choices": [
+            "calories changed by 20.3, fat changed by 21.1, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 126.0, fat changed by 14.0, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 202.2, fat changed by 3.4, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 207.3, fat changed by 23.8, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 61.5, fat changed by 21.8, carbs changed by 0.0, protein changed by 0.0"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=0.2,fat: random multiplier=1.5,carbs: random multiplier=0.1,protein: random multiplier=0.6",
+            "No change (positive), ingredient: ghee",
+            "calories: random multiplier=1.6,fat: random multiplier=0.2,carbs: random multiplier=0.6,protein: random multiplier=0.2",
+            "calories: random multiplier=1.6,fat: random multiplier=1.7,carbs: random multiplier=1.3,protein: random multiplier=0.3",
+            "calories: random multiplier=0.5,fat: random multiplier=1.6,carbs: random multiplier=1.5,protein: random multiplier=0.5"
+        ]
+    },
+    "nutrition_nutrition_change_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529",
+                "start_time": "00:15:40.000",
+                "end_time": "00:15:47.990"
+            }
+        },
+        "question": "From <TIME 00:15:40.000 video 1> to <TIME 00:15:47.990 video 1>, what changed in the nutrition values of the dish with recipe chickpea and spinach curry with rice?",
+        "choices": [
+            "calories changed by 4.7, fat changed by 0.1, carbs changed by 0.5, protein changed by 0.2",
+            "calories changed by 3.3, fat changed by 0.0, carbs changed by 0.6, protein changed by 0.7",
+            "calories changed by 1.1, fat changed by 0.1, carbs changed by 0.3, protein changed by 0.1",
+            "calories changed by 12.1, fat changed by 0.1, carbs changed by 1.3, protein changed by 0.3",
+            "calories changed by 8.0, fat changed by 0.2, carbs changed by 0.9, protein changed by 0.5"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=0.6,fat: random multiplier=0.4,carbs: random multiplier=0.6,protein: random multiplier=0.5",
+            "calories: random multiplier=0.4,fat: random multiplier=0.1,carbs: random multiplier=0.6,protein: random multiplier=1.3",
+            "calories: random multiplier=0.1,fat: random multiplier=0.4,carbs: random multiplier=0.3,protein: random multiplier=0.2",
+            "calories: random multiplier=1.5,fat: random multiplier=0.6,carbs: random multiplier=1.5,protein: random multiplier=0.6",
+            "No change (positive), ingredient: coriander"
+        ]
+    },
+    "nutrition_nutrition_change_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518",
+                "start_time": "00:03:43.010",
+                "end_time": "00:03:48.024"
+            }
+        },
+        "question": "From <TIME 00:03:43.010 video 1> to <TIME 00:03:48.024 video 1>, what changed in the nutrition values of the dish with recipe mushroom risotto?",
+        "choices": [
+            "calories changed by 1021.9, fat changed by 1.3, carbs changed by 38.2, protein changed by 15.2",
+            "calories changed by 585.0, fat changed by 0.9, carbs changed by 129.3, protein changed by 10.6",
+            "calories changed by 122.4, fat changed by 0.5, carbs changed by 36.5, protein changed by 4.0",
+            "calories changed by 751.1, fat changed by 0.3, carbs changed by 67.8, protein changed by 4.1",
+            "calories changed by 287.0, fat changed by 0.4, carbs changed by 85.3, protein changed by 13.6"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=1.7,fat: random multiplier=1.5,carbs: random multiplier=0.3,protein: random multiplier=1.4",
+            "No change (positive), ingredient: risotto rice",
+            "calories: random multiplier=0.2,fat: random multiplier=0.6,carbs: random multiplier=0.3,protein: random multiplier=0.4",
+            "calories: random multiplier=1.3,fat: random multiplier=0.3,carbs: random multiplier=0.5,protein: random multiplier=0.4",
+            "calories: random multiplier=0.5,fat: random multiplier=0.5,carbs: random multiplier=0.7,protein: random multiplier=1.3"
+        ]
+    },
+    "nutrition_nutrition_change_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543",
+                "start_time": "00:35:24.026",
+                "end_time": "00:35:32.051"
+            }
+        },
+        "question": "From <TIME 00:35:24.026 video 1> to <TIME 00:35:32.051 video 1>, what changed in the nutrition values of the dish with recipe pizza with aubergine and egg?",
+        "choices": [
+            "calories changed by 101.6, fat changed by 0.4, carbs changed by 194.6, protein changed by 16.5",
+            "calories changed by 95.3, fat changed by 1.1, carbs changed by 210.6, protein changed by 3.9",
+            "calories changed by 123.1, fat changed by 0.9, carbs changed by 22.1, protein changed by 37.9",
+            "calories changed by 842.3, fat changed by 0.7, carbs changed by 36.8, protein changed by 33.6",
+            "calories changed by 568.0, fat changed by 1.9, carbs changed by 126.0, protein changed by 22.0"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            "calories: random multiplier=0.2,fat: random multiplier=0.2,carbs: random multiplier=1.5,protein: random multiplier=0.7",
+            "calories: random multiplier=0.2,fat: random multiplier=0.6,carbs: random multiplier=1.7,protein: random multiplier=0.2",
+            "calories: random multiplier=0.2,fat: random multiplier=0.5,carbs: random multiplier=0.2,protein: random multiplier=1.7",
+            "calories: random multiplier=1.5,fat: random multiplier=0.4,carbs: random multiplier=0.3,protein: random multiplier=1.5",
+            "No change (positive), ingredient: pizza dough"
+        ]
+    },
+    "nutrition_nutrition_change_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000",
+                "start_time": "00:10:12.054",
+                "end_time": "00:10:20.007"
+            }
+        },
+        "question": "From <TIME 00:10:12.054 video 1> to <TIME 00:10:20.007 video 1>, what changed in the nutrition values of the dish with recipe scrambled eggs?",
+        "choices": [
+            "calories changed by 53.1, fat changed by 7.7, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 42.0, fat changed by 4.7, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 11.3, fat changed by 2.4, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 12.4, fat changed by 1.2, carbs changed by 0.0, protein changed by 0.0",
+            "calories changed by 13.5, fat changed by 3.5, carbs changed by 0.0, protein changed by 0.0"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            "calories: random multiplier=1.3,fat: random multiplier=1.6,carbs: random multiplier=1.4,protein: random multiplier=1.5",
+            "No change (positive), ingredient: olive oil",
+            "calories: random multiplier=0.3,fat: random multiplier=0.5,carbs: random multiplier=1.5,protein: random multiplier=0.6",
+            "calories: random multiplier=0.3,fat: random multiplier=0.3,carbs: random multiplier=0.3,protein: random multiplier=1.7",
+            "calories: random multiplier=0.3,fat: random multiplier=0.7,carbs: random multiplier=0.6,protein: random multiplier=1.4"
+        ]
+    }
+}

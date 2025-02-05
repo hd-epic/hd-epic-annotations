@@ -1,0 +1,2326 @@
+{
+    "ingredient_exact_ingredient_recognition_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "video 2": {
+                "id": "P09-20240621-093545"
+            },
+            "video 3": {
+                "id": "P09-20240621-153208"
+            },
+            "video 4": {
+                "id": "P09-20240624-165332"
+            },
+            "video 5": {
+                "id": "P09-20240622-194642"
+            },
+            "video 6": {
+                "id": "P09-20240622-150155"
+            },
+            "video 7": {
+                "id": "P09-20240622-154652"
+            },
+            "video 8": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "What was the exact quantity of garlic and ginger paste used in Mangsho Bhuna",
+        "choices": [
+            "3 tbsp",
+            "2 tbsp",
+            "1 tbsp",
+            "4 tbsp",
+            "0 tbsp"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_exact_ingredient_recognition_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            },
+            "video 2": {
+                "id": "P08-20240613-122900"
+            },
+            "video 3": {
+                "id": "P08-20240617-184909"
+            },
+            "video 4": {
+                "id": "P08-20240613-123547"
+            },
+            "video 5": {
+                "id": "P08-20240614-184945"
+            },
+            "video 6": {
+                "id": "P08-20240622-141902"
+            },
+            "video 7": {
+                "id": "P08-20240617-130401"
+            },
+            "video 8": {
+                "id": "P08-20240614-125650"
+            },
+            "video 9": {
+                "id": "P08-20240614-132938"
+            },
+            "video 10": {
+                "id": "P08-20240614-085000"
+            },
+            "video 11": {
+                "id": "P08-20240618-163547"
+            }
+        },
+        "question": "What was the exact quantity of garlic used in Fish Cakes and Vegetables",
+        "choices": [
+            "6 g",
+            "5 g",
+            "7 g",
+            "3 g",
+            "4 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_exact_ingredient_recognition_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042"
+            },
+            "video 2": {
+                "id": "P01-20240203-161757"
+            },
+            "video 3": {
+                "id": "P01-20240202-161948"
+            },
+            "video 4": {
+                "id": "P01-20240203-184214"
+            },
+            "video 5": {
+                "id": "P01-20240202-161354"
+            },
+            "video 6": {
+                "id": "P01-20240204-120411"
+            },
+            "video 7": {
+                "id": "P01-20240204-130448"
+            },
+            "video 8": {
+                "id": "P01-20240203-132119"
+            },
+            "video 9": {
+                "id": "P01-20240203-150506"
+            },
+            "video 10": {
+                "id": "P01-20240203-121517"
+            },
+            "video 11": {
+                "id": "P01-20240204-124504"
+            },
+            "video 12": {
+                "id": "P01-20240204-142301"
+            },
+            "video 13": {
+                "id": "P01-20240203-152323"
+            },
+            "video 14": {
+                "id": "P01-20240203-130505"
+            },
+            "video 15": {
+                "id": "P01-20240203-135502"
+            },
+            "video 16": {
+                "id": "P01-20240202-110250"
+            },
+            "video 17": {
+                "id": "P01-20240204-145458"
+            },
+            "video 18": {
+                "id": "P01-20240203-123350"
+            },
+            "video 19": {
+                "id": "P01-20240204-152537"
+            }
+        },
+        "question": "What was the exact quantity of medjool dates used in Date Balls",
+        "choices": [
+            "361 g",
+            "679 g",
+            "842 g",
+            "323 g",
+            "545 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_exact_ingredient_recognition_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "video 2": {
+                "id": "P09-20240621-093545"
+            },
+            "video 3": {
+                "id": "P09-20240621-153208"
+            },
+            "video 4": {
+                "id": "P09-20240624-165332"
+            },
+            "video 5": {
+                "id": "P09-20240622-194642"
+            },
+            "video 6": {
+                "id": "P09-20240622-150155"
+            },
+            "video 7": {
+                "id": "P09-20240622-154652"
+            },
+            "video 8": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "What was the exact quantity of breadcrumbs used in Chicken Cheese Balls",
+        "choices": [
+            "51 g",
+            "48 g",
+            "60 g",
+            "52 g",
+            "55 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_exact_ingredient_recognition_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "video 2": {
+                "id": "P06-20240511-102207"
+            },
+            "video 3": {
+                "id": "P06-20240510-115307"
+            },
+            "video 4": {
+                "id": "P06-20240510-121619"
+            },
+            "video 5": {
+                "id": "P06-20240510-100047"
+            },
+            "video 6": {
+                "id": "P06-20240510-094438"
+            },
+            "video 7": {
+                "id": "P06-20240510-090328"
+            },
+            "video 8": {
+                "id": "P06-20240510-104642"
+            },
+            "video 9": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What was the exact quantity of garlic used in Dal Makhani with Rice",
+        "choices": [
+            "2.56 g",
+            "2.5 g",
+            "2.63 g",
+            "2.83 g",
+            "2.62 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_exact_ingredient_recognition_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            },
+            "video 2": {
+                "id": "P08-20240613-122900"
+            },
+            "video 3": {
+                "id": "P08-20240617-184909"
+            },
+            "video 4": {
+                "id": "P08-20240613-123547"
+            },
+            "video 5": {
+                "id": "P08-20240614-184945"
+            },
+            "video 6": {
+                "id": "P08-20240622-141902"
+            },
+            "video 7": {
+                "id": "P08-20240617-130401"
+            },
+            "video 8": {
+                "id": "P08-20240614-125650"
+            },
+            "video 9": {
+                "id": "P08-20240614-132938"
+            },
+            "video 10": {
+                "id": "P08-20240614-085000"
+            },
+            "video 11": {
+                "id": "P08-20240618-163547"
+            }
+        },
+        "question": "What was the exact quantity of sesame oil used in Crispy Cucumber Salad",
+        "choices": [
+            "1 tbsp",
+            "4 tbsp",
+            "3 tbsp",
+            "0 tbsp",
+            "2 tbsp"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "video 2": {
+                "id": "P07-20240529-134410"
+            },
+            "video 3": {
+                "id": "P07-20240529-191007"
+            },
+            "video 4": {
+                "id": "P07-20240531-101357"
+            },
+            "video 5": {
+                "id": "P07-20240530-102543"
+            },
+            "video 6": {
+                "id": "P07-20240529-194518"
+            },
+            "video 7": {
+                "id": "P07-20240531-201703"
+            },
+            "video 8": {
+                "id": "P07-20240529-102652"
+            },
+            "video 9": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "What was the exact quantity of avocado used in Southwestern Salad",
+        "choices": [
+            "74 g",
+            "63 g",
+            "72 g",
+            "81 g",
+            "47 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_exact_ingredient_recognition_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162242"
+            },
+            "video 2": {
+                "id": "P04-20240414-065311"
+            },
+            "video 3": {
+                "id": "P04-20240413-151722"
+            },
+            "video 4": {
+                "id": "P04-20240414-064514"
+            },
+            "video 5": {
+                "id": "P04-20240415-175615"
+            },
+            "video 6": {
+                "id": "P04-20240414-170520"
+            },
+            "video 7": {
+                "id": "P04-20240415-184003"
+            },
+            "video 8": {
+                "id": "P04-20240414-162750"
+            },
+            "video 9": {
+                "id": "P04-20240415-181212"
+            },
+            "video 10": {
+                "id": "P04-20240414-164751"
+            },
+            "video 11": {
+                "id": "P04-20240414-165333"
+            },
+            "video 12": {
+                "id": "P04-20240413-145245"
+            },
+            "video 13": {
+                "id": "P04-20240414-173337"
+            },
+            "video 14": {
+                "id": "P04-20240414-172534"
+            },
+            "video 15": {
+                "id": "P04-20240413-142619"
+            }
+        },
+        "question": "What was the exact quantity of mustard seeds used in Aloo Stuffing for Masala Dosa",
+        "choices": [
+            "0.25 tsp",
+            "1 tsp",
+            "0.5 tsp",
+            "1.5 tsp",
+            "2 tsp"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_exact_ingredient_recognition_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "video 2": {
+                "id": "P07-20240529-134410"
+            },
+            "video 3": {
+                "id": "P07-20240529-191007"
+            },
+            "video 4": {
+                "id": "P07-20240531-101357"
+            },
+            "video 5": {
+                "id": "P07-20240530-102543"
+            },
+            "video 6": {
+                "id": "P07-20240529-194518"
+            },
+            "video 7": {
+                "id": "P07-20240531-201703"
+            },
+            "video 8": {
+                "id": "P07-20240529-102652"
+            },
+            "video 9": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "What was the exact quantity of chestnut mushrooms used in Mushroom Risotto",
+        "choices": [
+            "322 g",
+            "312 g",
+            "284 g",
+            "320 g",
+            "339 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_exact_ingredient_recognition_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162242"
+            },
+            "video 2": {
+                "id": "P04-20240414-065311"
+            },
+            "video 3": {
+                "id": "P04-20240413-151722"
+            },
+            "video 4": {
+                "id": "P04-20240414-064514"
+            },
+            "video 5": {
+                "id": "P04-20240415-175615"
+            },
+            "video 6": {
+                "id": "P04-20240414-170520"
+            },
+            "video 7": {
+                "id": "P04-20240415-184003"
+            },
+            "video 8": {
+                "id": "P04-20240414-162750"
+            },
+            "video 9": {
+                "id": "P04-20240415-181212"
+            },
+            "video 10": {
+                "id": "P04-20240414-164751"
+            },
+            "video 11": {
+                "id": "P04-20240414-165333"
+            },
+            "video 12": {
+                "id": "P04-20240413-145245"
+            },
+            "video 13": {
+                "id": "P04-20240414-173337"
+            },
+            "video 14": {
+                "id": "P04-20240414-172534"
+            },
+            "video 15": {
+                "id": "P04-20240413-142619"
+            }
+        },
+        "question": "What was the exact quantity of baking potatoes used in Aloo Stuffing for Masala Dosa",
+        "choices": [
+            "272 g",
+            "276 g",
+            "230 g",
+            "343 g",
+            "313 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "video 2": {
+                "id": "P06-20240511-102207"
+            },
+            "video 3": {
+                "id": "P06-20240510-115307"
+            },
+            "video 4": {
+                "id": "P06-20240510-121619"
+            },
+            "video 5": {
+                "id": "P06-20240510-100047"
+            },
+            "video 6": {
+                "id": "P06-20240510-094438"
+            },
+            "video 7": {
+                "id": "P06-20240510-090328"
+            },
+            "video 8": {
+                "id": "P06-20240510-104642"
+            },
+            "video 9": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What was the exact quantity of tomatoes used in Dal Makhani with Rice",
+        "choices": [
+            "71 g",
+            "85 g",
+            "70 g",
+            "73 g",
+            "86 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_exact_ingredient_recognition_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            },
+            "video 2": {
+                "id": "P08-20240613-122900"
+            },
+            "video 3": {
+                "id": "P08-20240617-184909"
+            },
+            "video 4": {
+                "id": "P08-20240613-123547"
+            },
+            "video 5": {
+                "id": "P08-20240614-184945"
+            },
+            "video 6": {
+                "id": "P08-20240622-141902"
+            },
+            "video 7": {
+                "id": "P08-20240617-130401"
+            },
+            "video 8": {
+                "id": "P08-20240614-125650"
+            },
+            "video 9": {
+                "id": "P08-20240614-132938"
+            },
+            "video 10": {
+                "id": "P08-20240614-085000"
+            },
+            "video 11": {
+                "id": "P08-20240618-163547"
+            }
+        },
+        "question": "What was the exact quantity of chickpea, spinach & quinoa mix used in Salmon Teriyaki Skewers with Vegetables",
+        "choices": [
+            "123 g",
+            "113 g",
+            "114 g",
+            "103 g",
+            "132 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_exact_ingredient_recognition_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            },
+            "video 2": {
+                "id": "P03-20240216-205923"
+            },
+            "video 3": {
+                "id": "P03-20240216-185832"
+            },
+            "video 4": {
+                "id": "P03-20240216-084005"
+            },
+            "video 5": {
+                "id": "P03-20240218-140054"
+            },
+            "video 6": {
+                "id": "P03-20240217-131219"
+            },
+            "video 7": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "What was the exact quantity of sunflower oil used in Beef Stroganoff",
+        "choices": [
+            "9 ml",
+            "7 ml",
+            "10 ml",
+            "11 ml",
+            "12 ml"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_exact_ingredient_recognition_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "video 2": {
+                "id": "P06-20240511-102207"
+            },
+            "video 3": {
+                "id": "P06-20240510-115307"
+            },
+            "video 4": {
+                "id": "P06-20240510-121619"
+            },
+            "video 5": {
+                "id": "P06-20240510-100047"
+            },
+            "video 6": {
+                "id": "P06-20240510-094438"
+            },
+            "video 7": {
+                "id": "P06-20240510-090328"
+            },
+            "video 8": {
+                "id": "P06-20240510-104642"
+            },
+            "video 9": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What was the exact quantity of onions used in Bread Omelette",
+        "choices": [
+            "36.85 g",
+            "30.04 g",
+            "43.65 g",
+            "43.92 g",
+            "41.31 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "video 2": {
+                "id": "P09-20240621-093545"
+            },
+            "video 3": {
+                "id": "P09-20240621-153208"
+            },
+            "video 4": {
+                "id": "P09-20240624-165332"
+            },
+            "video 5": {
+                "id": "P09-20240622-194642"
+            },
+            "video 6": {
+                "id": "P09-20240622-150155"
+            },
+            "video 7": {
+                "id": "P09-20240622-154652"
+            },
+            "video 8": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "What was the exact quantity of potatoes used in French Fries and Beef Skewers",
+        "choices": [
+            "591 g",
+            "631 g",
+            "527 g",
+            "604 g",
+            "685 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_exact_ingredient_recognition_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042"
+            },
+            "video 2": {
+                "id": "P01-20240203-161757"
+            },
+            "video 3": {
+                "id": "P01-20240202-161948"
+            },
+            "video 4": {
+                "id": "P01-20240203-184214"
+            },
+            "video 5": {
+                "id": "P01-20240202-161354"
+            },
+            "video 6": {
+                "id": "P01-20240204-120411"
+            },
+            "video 7": {
+                "id": "P01-20240204-130448"
+            },
+            "video 8": {
+                "id": "P01-20240203-132119"
+            },
+            "video 9": {
+                "id": "P01-20240203-150506"
+            },
+            "video 10": {
+                "id": "P01-20240203-121517"
+            },
+            "video 11": {
+                "id": "P01-20240204-124504"
+            },
+            "video 12": {
+                "id": "P01-20240204-142301"
+            },
+            "video 13": {
+                "id": "P01-20240203-152323"
+            },
+            "video 14": {
+                "id": "P01-20240203-130505"
+            },
+            "video 15": {
+                "id": "P01-20240203-135502"
+            },
+            "video 16": {
+                "id": "P01-20240202-110250"
+            },
+            "video 17": {
+                "id": "P01-20240204-145458"
+            },
+            "video 18": {
+                "id": "P01-20240203-123350"
+            },
+            "video 19": {
+                "id": "P01-20240204-152537"
+            }
+        },
+        "question": "What was the exact quantity of onions used in Carrot Soup",
+        "choices": [
+            "285 g",
+            "224 g",
+            "277 g",
+            "251 g",
+            "257 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_exact_ingredient_recognition_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "video 2": {
+                "id": "P07-20240529-134410"
+            },
+            "video 3": {
+                "id": "P07-20240529-191007"
+            },
+            "video 4": {
+                "id": "P07-20240531-101357"
+            },
+            "video 5": {
+                "id": "P07-20240530-102543"
+            },
+            "video 6": {
+                "id": "P07-20240529-194518"
+            },
+            "video 7": {
+                "id": "P07-20240531-201703"
+            },
+            "video 8": {
+                "id": "P07-20240529-102652"
+            },
+            "video 9": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "What was the exact quantity of risotto rice used in Mushroom Risotto",
+        "choices": [
+            "450 g",
+            "500 g",
+            "400 g",
+            "350 g",
+            "300 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "video 2": {
+                "id": "P09-20240621-093545"
+            },
+            "video 3": {
+                "id": "P09-20240621-153208"
+            },
+            "video 4": {
+                "id": "P09-20240624-165332"
+            },
+            "video 5": {
+                "id": "P09-20240622-194642"
+            },
+            "video 6": {
+                "id": "P09-20240622-150155"
+            },
+            "video 7": {
+                "id": "P09-20240622-154652"
+            },
+            "video 8": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "What was the exact quantity of beef used in Mangsho Bhuna",
+        "choices": [
+            "408 g",
+            "396 g",
+            "337 g",
+            "409 g",
+            "461 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "video 2": {
+                "id": "P05-20240425-201444"
+            },
+            "video 3": {
+                "id": "P05-20240423-170021"
+            },
+            "video 4": {
+                "id": "P05-20240423-175745"
+            },
+            "video 5": {
+                "id": "P05-20240427-145526"
+            },
+            "video 6": {
+                "id": "P05-20240424-175101"
+            },
+            "video 7": {
+                "id": "P05-20240423-180529"
+            },
+            "video 8": {
+                "id": "P05-20240427-143353"
+            },
+            "video 9": {
+                "id": "P05-20240424-171038"
+            },
+            "video 10": {
+                "id": "P05-20240424-090812"
+            },
+            "video 11": {
+                "id": "P05-20240425-171455"
+            },
+            "video 12": {
+                "id": "P05-20240423-172243"
+            },
+            "video 13": {
+                "id": "P05-20240427-150402"
+            },
+            "video 14": {
+                "id": "P05-20240424-085204"
+            }
+        },
+        "question": "What was the exact quantity of jasmine rice used in Stir Fry",
+        "choices": [
+            "220 g",
+            "240 g",
+            "205 g",
+            "235 g",
+            "230 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_exact_ingredient_recognition_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162242"
+            },
+            "video 2": {
+                "id": "P04-20240414-065311"
+            },
+            "video 3": {
+                "id": "P04-20240413-151722"
+            },
+            "video 4": {
+                "id": "P04-20240414-064514"
+            },
+            "video 5": {
+                "id": "P04-20240415-175615"
+            },
+            "video 6": {
+                "id": "P04-20240414-170520"
+            },
+            "video 7": {
+                "id": "P04-20240415-184003"
+            },
+            "video 8": {
+                "id": "P04-20240414-162750"
+            },
+            "video 9": {
+                "id": "P04-20240415-181212"
+            },
+            "video 10": {
+                "id": "P04-20240414-164751"
+            },
+            "video 11": {
+                "id": "P04-20240414-165333"
+            },
+            "video 12": {
+                "id": "P04-20240413-145245"
+            },
+            "video 13": {
+                "id": "P04-20240414-173337"
+            },
+            "video 14": {
+                "id": "P04-20240414-172534"
+            },
+            "video 15": {
+                "id": "P04-20240413-142619"
+            }
+        },
+        "question": "What was the exact quantity of ghee used in Peas Pulao",
+        "choices": [
+            "0 tbsp",
+            "4 tbsp",
+            "1 tbsp",
+            "3 tbsp",
+            "2 tbsp"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_exact_ingredient_recognition_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "video 2": {
+                "id": "P06-20240511-102207"
+            },
+            "video 3": {
+                "id": "P06-20240510-115307"
+            },
+            "video 4": {
+                "id": "P06-20240510-121619"
+            },
+            "video 5": {
+                "id": "P06-20240510-100047"
+            },
+            "video 6": {
+                "id": "P06-20240510-094438"
+            },
+            "video 7": {
+                "id": "P06-20240510-090328"
+            },
+            "video 8": {
+                "id": "P06-20240510-104642"
+            },
+            "video 9": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What was the exact quantity of butter used in Dal Makhani with Rice",
+        "choices": [
+            "25.51 g",
+            "27.22 g",
+            "29.38 g",
+            "27.27 g",
+            "22.18 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162242"
+            },
+            "video 2": {
+                "id": "P04-20240414-065311"
+            },
+            "video 3": {
+                "id": "P04-20240413-151722"
+            },
+            "video 4": {
+                "id": "P04-20240414-064514"
+            },
+            "video 5": {
+                "id": "P04-20240415-175615"
+            },
+            "video 6": {
+                "id": "P04-20240414-170520"
+            },
+            "video 7": {
+                "id": "P04-20240415-184003"
+            },
+            "video 8": {
+                "id": "P04-20240414-162750"
+            },
+            "video 9": {
+                "id": "P04-20240415-181212"
+            },
+            "video 10": {
+                "id": "P04-20240414-164751"
+            },
+            "video 11": {
+                "id": "P04-20240414-165333"
+            },
+            "video 12": {
+                "id": "P04-20240413-145245"
+            },
+            "video 13": {
+                "id": "P04-20240414-173337"
+            },
+            "video 14": {
+                "id": "P04-20240414-172534"
+            },
+            "video 15": {
+                "id": "P04-20240413-142619"
+            }
+        },
+        "question": "What was the exact quantity of green peppers used in Scrambled Eggs with Green Peppers and Mushrooms",
+        "choices": [
+            "31 g",
+            "30 g",
+            "22 g",
+            "27 g",
+            "28 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_exact_ingredient_recognition_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "video 2": {
+                "id": "P09-20240621-093545"
+            },
+            "video 3": {
+                "id": "P09-20240621-153208"
+            },
+            "video 4": {
+                "id": "P09-20240624-165332"
+            },
+            "video 5": {
+                "id": "P09-20240622-194642"
+            },
+            "video 6": {
+                "id": "P09-20240622-150155"
+            },
+            "video 7": {
+                "id": "P09-20240622-154652"
+            },
+            "video 8": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "What was the exact quantity of cinnamon used in Mangsho Bhuna",
+        "choices": [
+            "0.25 tsp",
+            "1 tsp",
+            "0.5 tsp",
+            "1.5 tsp",
+            "2 tsp"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_exact_ingredient_recognition_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            },
+            "video 2": {
+                "id": "P08-20240613-122900"
+            },
+            "video 3": {
+                "id": "P08-20240617-184909"
+            },
+            "video 4": {
+                "id": "P08-20240613-123547"
+            },
+            "video 5": {
+                "id": "P08-20240614-184945"
+            },
+            "video 6": {
+                "id": "P08-20240622-141902"
+            },
+            "video 7": {
+                "id": "P08-20240617-130401"
+            },
+            "video 8": {
+                "id": "P08-20240614-125650"
+            },
+            "video 9": {
+                "id": "P08-20240614-132938"
+            },
+            "video 10": {
+                "id": "P08-20240614-085000"
+            },
+            "video 11": {
+                "id": "P08-20240618-163547"
+            }
+        },
+        "question": "What was the exact quantity of mixed seeds used in Chopped Salad and Bread",
+        "choices": [
+            "3.5 tsp",
+            "2.5 tsp",
+            "4 tsp",
+            "3 tsp",
+            "2 tsp"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "video 2": {
+                "id": "P07-20240529-134410"
+            },
+            "video 3": {
+                "id": "P07-20240529-191007"
+            },
+            "video 4": {
+                "id": "P07-20240531-101357"
+            },
+            "video 5": {
+                "id": "P07-20240530-102543"
+            },
+            "video 6": {
+                "id": "P07-20240529-194518"
+            },
+            "video 7": {
+                "id": "P07-20240531-201703"
+            },
+            "video 8": {
+                "id": "P07-20240529-102652"
+            },
+            "video 9": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "What was the exact quantity of garlic used in Mushroom Risotto",
+        "choices": [
+            "16 g",
+            "12 g",
+            "15 g",
+            "17 g",
+            "20 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_exact_ingredient_recognition_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            },
+            "video 2": {
+                "id": "P08-20240613-122900"
+            },
+            "video 3": {
+                "id": "P08-20240617-184909"
+            },
+            "video 4": {
+                "id": "P08-20240613-123547"
+            },
+            "video 5": {
+                "id": "P08-20240614-184945"
+            },
+            "video 6": {
+                "id": "P08-20240622-141902"
+            },
+            "video 7": {
+                "id": "P08-20240617-130401"
+            },
+            "video 8": {
+                "id": "P08-20240614-125650"
+            },
+            "video 9": {
+                "id": "P08-20240614-132938"
+            },
+            "video 10": {
+                "id": "P08-20240614-085000"
+            },
+            "video 11": {
+                "id": "P08-20240618-163547"
+            }
+        },
+        "question": "What was the exact quantity of balsamic glaze used in Chopped Salad and Bread",
+        "choices": [
+            "4 tbsp",
+            "2 tbsp",
+            "3 tbsp",
+            "1 tbsp",
+            "0 tbsp"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_exact_ingredient_recognition_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "video 2": {
+                "id": "P07-20240529-134410"
+            },
+            "video 3": {
+                "id": "P07-20240529-191007"
+            },
+            "video 4": {
+                "id": "P07-20240531-101357"
+            },
+            "video 5": {
+                "id": "P07-20240530-102543"
+            },
+            "video 6": {
+                "id": "P07-20240529-194518"
+            },
+            "video 7": {
+                "id": "P07-20240531-201703"
+            },
+            "video 8": {
+                "id": "P07-20240529-102652"
+            },
+            "video 9": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "What was the exact quantity of butter used in Mushroom Risotto",
+        "choices": [
+            "31 g",
+            "40 g",
+            "39 g",
+            "32 g",
+            "44 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_exact_ingredient_recognition_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "video 2": {
+                "id": "P07-20240529-134410"
+            },
+            "video 3": {
+                "id": "P07-20240529-191007"
+            },
+            "video 4": {
+                "id": "P07-20240531-101357"
+            },
+            "video 5": {
+                "id": "P07-20240530-102543"
+            },
+            "video 6": {
+                "id": "P07-20240529-194518"
+            },
+            "video 7": {
+                "id": "P07-20240531-201703"
+            },
+            "video 8": {
+                "id": "P07-20240529-102652"
+            },
+            "video 9": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "What was the exact quantity of shiitake mushrooms used in Mushroom Risotto",
+        "choices": [
+            "112 g",
+            "128 g",
+            "113 g",
+            "120 g",
+            "122 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_exact_ingredient_recognition_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162242"
+            },
+            "video 2": {
+                "id": "P04-20240414-065311"
+            },
+            "video 3": {
+                "id": "P04-20240413-151722"
+            },
+            "video 4": {
+                "id": "P04-20240414-064514"
+            },
+            "video 5": {
+                "id": "P04-20240415-175615"
+            },
+            "video 6": {
+                "id": "P04-20240414-170520"
+            },
+            "video 7": {
+                "id": "P04-20240415-184003"
+            },
+            "video 8": {
+                "id": "P04-20240414-162750"
+            },
+            "video 9": {
+                "id": "P04-20240415-181212"
+            },
+            "video 10": {
+                "id": "P04-20240414-164751"
+            },
+            "video 11": {
+                "id": "P04-20240414-165333"
+            },
+            "video 12": {
+                "id": "P04-20240413-145245"
+            },
+            "video 13": {
+                "id": "P04-20240414-173337"
+            },
+            "video 14": {
+                "id": "P04-20240414-172534"
+            },
+            "video 15": {
+                "id": "P04-20240413-142619"
+            }
+        },
+        "question": "What was the exact quantity of ghee used in Masala Dosa",
+        "choices": [
+            "10 g",
+            "8 g",
+            "7 g",
+            "13 g",
+            "9 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "video 2": {
+                "id": "P07-20240529-134410"
+            },
+            "video 3": {
+                "id": "P07-20240529-191007"
+            },
+            "video 4": {
+                "id": "P07-20240531-101357"
+            },
+            "video 5": {
+                "id": "P07-20240530-102543"
+            },
+            "video 6": {
+                "id": "P07-20240529-194518"
+            },
+            "video 7": {
+                "id": "P07-20240531-201703"
+            },
+            "video 8": {
+                "id": "P07-20240529-102652"
+            },
+            "video 9": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "What was the exact quantity of sweet potatoes used in Southwestern Salad",
+        "choices": [
+            "194 g",
+            "193 g",
+            "171 g",
+            "211 g",
+            "187 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_exact_ingredient_recognition_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042"
+            },
+            "video 2": {
+                "id": "P01-20240203-161757"
+            },
+            "video 3": {
+                "id": "P01-20240202-161948"
+            },
+            "video 4": {
+                "id": "P01-20240203-184214"
+            },
+            "video 5": {
+                "id": "P01-20240202-161354"
+            },
+            "video 6": {
+                "id": "P01-20240204-120411"
+            },
+            "video 7": {
+                "id": "P01-20240204-130448"
+            },
+            "video 8": {
+                "id": "P01-20240203-132119"
+            },
+            "video 9": {
+                "id": "P01-20240203-150506"
+            },
+            "video 10": {
+                "id": "P01-20240203-121517"
+            },
+            "video 11": {
+                "id": "P01-20240204-124504"
+            },
+            "video 12": {
+                "id": "P01-20240204-142301"
+            },
+            "video 13": {
+                "id": "P01-20240203-152323"
+            },
+            "video 14": {
+                "id": "P01-20240203-130505"
+            },
+            "video 15": {
+                "id": "P01-20240203-135502"
+            },
+            "video 16": {
+                "id": "P01-20240202-110250"
+            },
+            "video 17": {
+                "id": "P01-20240204-145458"
+            },
+            "video 18": {
+                "id": "P01-20240203-123350"
+            },
+            "video 19": {
+                "id": "P01-20240204-152537"
+            }
+        },
+        "question": "What was the exact quantity of butter used in Cacio e Pepe",
+        "choices": [
+            "30 g",
+            "28 g",
+            "24 g",
+            "25 g",
+            "22 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_exact_ingredient_recognition_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "video 2": {
+                "id": "P09-20240621-093545"
+            },
+            "video 3": {
+                "id": "P09-20240621-153208"
+            },
+            "video 4": {
+                "id": "P09-20240624-165332"
+            },
+            "video 5": {
+                "id": "P09-20240622-194642"
+            },
+            "video 6": {
+                "id": "P09-20240622-150155"
+            },
+            "video 7": {
+                "id": "P09-20240622-154652"
+            },
+            "video 8": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "What was the exact quantity of cardamom used in Mangsho Bhuna",
+        "choices": [
+            "0.25 teaspoon",
+            "1.5 teaspoon",
+            "0.5 teaspoon",
+            "1 teaspoon",
+            "2 teaspoon"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_exact_ingredient_recognition_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162242"
+            },
+            "video 2": {
+                "id": "P04-20240414-065311"
+            },
+            "video 3": {
+                "id": "P04-20240413-151722"
+            },
+            "video 4": {
+                "id": "P04-20240414-064514"
+            },
+            "video 5": {
+                "id": "P04-20240415-175615"
+            },
+            "video 6": {
+                "id": "P04-20240414-170520"
+            },
+            "video 7": {
+                "id": "P04-20240415-184003"
+            },
+            "video 8": {
+                "id": "P04-20240414-162750"
+            },
+            "video 9": {
+                "id": "P04-20240415-181212"
+            },
+            "video 10": {
+                "id": "P04-20240414-164751"
+            },
+            "video 11": {
+                "id": "P04-20240414-165333"
+            },
+            "video 12": {
+                "id": "P04-20240413-145245"
+            },
+            "video 13": {
+                "id": "P04-20240414-173337"
+            },
+            "video 14": {
+                "id": "P04-20240414-172534"
+            },
+            "video 15": {
+                "id": "P04-20240413-142619"
+            }
+        },
+        "question": "What was the exact quantity of green peas used in Peas Pulao",
+        "choices": [
+            "138 g",
+            "143 g",
+            "126 g",
+            "116 g",
+            "124 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_exact_ingredient_recognition_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "video 2": {
+                "id": "P05-20240425-201444"
+            },
+            "video 3": {
+                "id": "P05-20240423-170021"
+            },
+            "video 4": {
+                "id": "P05-20240423-175745"
+            },
+            "video 5": {
+                "id": "P05-20240427-145526"
+            },
+            "video 6": {
+                "id": "P05-20240424-175101"
+            },
+            "video 7": {
+                "id": "P05-20240423-180529"
+            },
+            "video 8": {
+                "id": "P05-20240427-143353"
+            },
+            "video 9": {
+                "id": "P05-20240424-171038"
+            },
+            "video 10": {
+                "id": "P05-20240424-090812"
+            },
+            "video 11": {
+                "id": "P05-20240425-171455"
+            },
+            "video 12": {
+                "id": "P05-20240423-172243"
+            },
+            "video 13": {
+                "id": "P05-20240427-150402"
+            },
+            "video 14": {
+                "id": "P05-20240424-085204"
+            }
+        },
+        "question": "What was the exact quantity of chocolate used in Chocolate Pudding",
+        "choices": [
+            "61 g",
+            "47 g",
+            "57 g",
+            "63 g",
+            "70 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            },
+            "video 2": {
+                "id": "P08-20240613-122900"
+            },
+            "video 3": {
+                "id": "P08-20240617-184909"
+            },
+            "video 4": {
+                "id": "P08-20240613-123547"
+            },
+            "video 5": {
+                "id": "P08-20240614-184945"
+            },
+            "video 6": {
+                "id": "P08-20240622-141902"
+            },
+            "video 7": {
+                "id": "P08-20240617-130401"
+            },
+            "video 8": {
+                "id": "P08-20240614-125650"
+            },
+            "video 9": {
+                "id": "P08-20240614-132938"
+            },
+            "video 10": {
+                "id": "P08-20240614-085000"
+            },
+            "video 11": {
+                "id": "P08-20240618-163547"
+            }
+        },
+        "question": "What was the exact quantity of sesame oil used in Fish Cakes and Vegetables",
+        "choices": [
+            "4 tbsp",
+            "3 tbsp",
+            "0 tbsp",
+            "1 tbsp",
+            "2 tbsp"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_exact_ingredient_recognition_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162242"
+            },
+            "video 2": {
+                "id": "P04-20240414-065311"
+            },
+            "video 3": {
+                "id": "P04-20240413-151722"
+            },
+            "video 4": {
+                "id": "P04-20240414-064514"
+            },
+            "video 5": {
+                "id": "P04-20240415-175615"
+            },
+            "video 6": {
+                "id": "P04-20240414-170520"
+            },
+            "video 7": {
+                "id": "P04-20240415-184003"
+            },
+            "video 8": {
+                "id": "P04-20240414-162750"
+            },
+            "video 9": {
+                "id": "P04-20240415-181212"
+            },
+            "video 10": {
+                "id": "P04-20240414-164751"
+            },
+            "video 11": {
+                "id": "P04-20240414-165333"
+            },
+            "video 12": {
+                "id": "P04-20240413-145245"
+            },
+            "video 13": {
+                "id": "P04-20240414-173337"
+            },
+            "video 14": {
+                "id": "P04-20240414-172534"
+            },
+            "video 15": {
+                "id": "P04-20240413-142619"
+            }
+        },
+        "question": "What was the exact quantity of almond milk (unsweetened) used in Granola with Almond Milk and Cinnamon",
+        "choices": [
+            "100 g",
+            "123 g",
+            "90 g",
+            "105 g",
+            "103 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_exact_ingredient_recognition_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "video 2": {
+                "id": "P05-20240425-201444"
+            },
+            "video 3": {
+                "id": "P05-20240423-170021"
+            },
+            "video 4": {
+                "id": "P05-20240423-175745"
+            },
+            "video 5": {
+                "id": "P05-20240427-145526"
+            },
+            "video 6": {
+                "id": "P05-20240424-175101"
+            },
+            "video 7": {
+                "id": "P05-20240423-180529"
+            },
+            "video 8": {
+                "id": "P05-20240427-143353"
+            },
+            "video 9": {
+                "id": "P05-20240424-171038"
+            },
+            "video 10": {
+                "id": "P05-20240424-090812"
+            },
+            "video 11": {
+                "id": "P05-20240425-171455"
+            },
+            "video 12": {
+                "id": "P05-20240423-172243"
+            },
+            "video 13": {
+                "id": "P05-20240427-150402"
+            },
+            "video 14": {
+                "id": "P05-20240424-085204"
+            }
+        },
+        "question": "What was the exact quantity of onions used in Chickpea and Spinach Curry with Rice",
+        "choices": [
+            "604 g",
+            "453 g",
+            "426 g",
+            "607 g",
+            "783 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            },
+            "video 2": {
+                "id": "P08-20240613-122900"
+            },
+            "video 3": {
+                "id": "P08-20240617-184909"
+            },
+            "video 4": {
+                "id": "P08-20240613-123547"
+            },
+            "video 5": {
+                "id": "P08-20240614-184945"
+            },
+            "video 6": {
+                "id": "P08-20240622-141902"
+            },
+            "video 7": {
+                "id": "P08-20240617-130401"
+            },
+            "video 8": {
+                "id": "P08-20240614-125650"
+            },
+            "video 9": {
+                "id": "P08-20240614-132938"
+            },
+            "video 10": {
+                "id": "P08-20240614-085000"
+            },
+            "video 11": {
+                "id": "P08-20240618-163547"
+            }
+        },
+        "question": "What was the exact quantity of rocket used in Chopped Salad and Bread",
+        "choices": [
+            "24 g",
+            "25 g",
+            "18 g",
+            "19 g",
+            "20 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "video 2": {
+                "id": "P05-20240425-201444"
+            },
+            "video 3": {
+                "id": "P05-20240423-170021"
+            },
+            "video 4": {
+                "id": "P05-20240423-175745"
+            },
+            "video 5": {
+                "id": "P05-20240427-145526"
+            },
+            "video 6": {
+                "id": "P05-20240424-175101"
+            },
+            "video 7": {
+                "id": "P05-20240423-180529"
+            },
+            "video 8": {
+                "id": "P05-20240427-143353"
+            },
+            "video 9": {
+                "id": "P05-20240424-171038"
+            },
+            "video 10": {
+                "id": "P05-20240424-090812"
+            },
+            "video 11": {
+                "id": "P05-20240425-171455"
+            },
+            "video 12": {
+                "id": "P05-20240423-172243"
+            },
+            "video 13": {
+                "id": "P05-20240427-150402"
+            },
+            "video 14": {
+                "id": "P05-20240424-085204"
+            }
+        },
+        "question": "What was the exact quantity of vegetable oil used in Chickpea and Spinach Curry with Rice",
+        "choices": [
+            "75 g",
+            "71 g",
+            "55 g",
+            "72 g",
+            "66 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_exact_ingredient_recognition_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "video 2": {
+                "id": "P05-20240425-201444"
+            },
+            "video 3": {
+                "id": "P05-20240423-170021"
+            },
+            "video 4": {
+                "id": "P05-20240423-175745"
+            },
+            "video 5": {
+                "id": "P05-20240427-145526"
+            },
+            "video 6": {
+                "id": "P05-20240424-175101"
+            },
+            "video 7": {
+                "id": "P05-20240423-180529"
+            },
+            "video 8": {
+                "id": "P05-20240427-143353"
+            },
+            "video 9": {
+                "id": "P05-20240424-171038"
+            },
+            "video 10": {
+                "id": "P05-20240424-090812"
+            },
+            "video 11": {
+                "id": "P05-20240425-171455"
+            },
+            "video 12": {
+                "id": "P05-20240423-172243"
+            },
+            "video 13": {
+                "id": "P05-20240427-150402"
+            },
+            "video 14": {
+                "id": "P05-20240424-085204"
+            }
+        },
+        "question": "What was the exact quantity of parmesan used in Pesto",
+        "choices": [
+            "29 g",
+            "27 g",
+            "33 g",
+            "28 g",
+            "31 g"
+        ],
+        "correct_idx": 3
+    },
+    "ingredient_exact_ingredient_recognition_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "video 2": {
+                "id": "P05-20240425-201444"
+            },
+            "video 3": {
+                "id": "P05-20240423-170021"
+            },
+            "video 4": {
+                "id": "P05-20240423-175745"
+            },
+            "video 5": {
+                "id": "P05-20240427-145526"
+            },
+            "video 6": {
+                "id": "P05-20240424-175101"
+            },
+            "video 7": {
+                "id": "P05-20240423-180529"
+            },
+            "video 8": {
+                "id": "P05-20240427-143353"
+            },
+            "video 9": {
+                "id": "P05-20240424-171038"
+            },
+            "video 10": {
+                "id": "P05-20240424-090812"
+            },
+            "video 11": {
+                "id": "P05-20240425-171455"
+            },
+            "video 12": {
+                "id": "P05-20240423-172243"
+            },
+            "video 13": {
+                "id": "P05-20240427-150402"
+            },
+            "video 14": {
+                "id": "P05-20240424-085204"
+            }
+        },
+        "question": "What was the exact quantity of vinegar used in Carbonara with Side Salad",
+        "choices": [
+            "6 g",
+            "10 g",
+            "12 g",
+            "11 g",
+            "7 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "video 2": {
+                "id": "P06-20240511-102207"
+            },
+            "video 3": {
+                "id": "P06-20240510-115307"
+            },
+            "video 4": {
+                "id": "P06-20240510-121619"
+            },
+            "video 5": {
+                "id": "P06-20240510-100047"
+            },
+            "video 6": {
+                "id": "P06-20240510-094438"
+            },
+            "video 7": {
+                "id": "P06-20240510-090328"
+            },
+            "video 8": {
+                "id": "P06-20240510-104642"
+            },
+            "video 9": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What was the exact quantity of tomatoes used in Uttapam Pancake",
+        "choices": [
+            "62 g",
+            "68 g",
+            "71 g",
+            "63 g",
+            "60 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_exact_ingredient_recognition_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "video 2": {
+                "id": "P06-20240511-102207"
+            },
+            "video 3": {
+                "id": "P06-20240510-115307"
+            },
+            "video 4": {
+                "id": "P06-20240510-121619"
+            },
+            "video 5": {
+                "id": "P06-20240510-100047"
+            },
+            "video 6": {
+                "id": "P06-20240510-094438"
+            },
+            "video 7": {
+                "id": "P06-20240510-090328"
+            },
+            "video 8": {
+                "id": "P06-20240510-104642"
+            },
+            "video 9": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What was the exact quantity of onions used in Uttapam Pancake",
+        "choices": [
+            "40 g",
+            "28 g",
+            "34 g",
+            "38 g",
+            "29 g"
+        ],
+        "correct_idx": 2
+    },
+    "ingredient_exact_ingredient_recognition_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "video 2": {
+                "id": "P06-20240511-102207"
+            },
+            "video 3": {
+                "id": "P06-20240510-115307"
+            },
+            "video 4": {
+                "id": "P06-20240510-121619"
+            },
+            "video 5": {
+                "id": "P06-20240510-100047"
+            },
+            "video 6": {
+                "id": "P06-20240510-094438"
+            },
+            "video 7": {
+                "id": "P06-20240510-090328"
+            },
+            "video 8": {
+                "id": "P06-20240510-104642"
+            },
+            "video 9": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What was the exact quantity of tomatoes used in Kadhai Paneer",
+        "choices": [
+            "348 g",
+            "309 g",
+            "287 g",
+            "285 g",
+            "286 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_exact_ingredient_recognition_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "video 2": {
+                "id": "P07-20240529-134410"
+            },
+            "video 3": {
+                "id": "P07-20240529-191007"
+            },
+            "video 4": {
+                "id": "P07-20240531-101357"
+            },
+            "video 5": {
+                "id": "P07-20240530-102543"
+            },
+            "video 6": {
+                "id": "P07-20240529-194518"
+            },
+            "video 7": {
+                "id": "P07-20240531-201703"
+            },
+            "video 8": {
+                "id": "P07-20240529-102652"
+            },
+            "video 9": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "What was the exact quantity of olives used in Chopped Chickpea Salad",
+        "choices": [
+            "61 g",
+            "55 g",
+            "75 g",
+            "30 g",
+            "43 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_exact_ingredient_recognition_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "video 2": {
+                "id": "P07-20240529-134410"
+            },
+            "video 3": {
+                "id": "P07-20240529-191007"
+            },
+            "video 4": {
+                "id": "P07-20240531-101357"
+            },
+            "video 5": {
+                "id": "P07-20240530-102543"
+            },
+            "video 6": {
+                "id": "P07-20240529-194518"
+            },
+            "video 7": {
+                "id": "P07-20240531-201703"
+            },
+            "video 8": {
+                "id": "P07-20240529-102652"
+            },
+            "video 9": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "What was the exact quantity of butter used in Banana Bread Chocolate Chip Cookies",
+        "choices": [
+            "144 g",
+            "130 g",
+            "108 g",
+            "143 g",
+            "117 g"
+        ],
+        "correct_idx": 1
+    },
+    "ingredient_exact_ingredient_recognition_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-111344"
+            },
+            "video 2": {
+                "id": "P07-20240529-134410"
+            },
+            "video 3": {
+                "id": "P07-20240529-191007"
+            },
+            "video 4": {
+                "id": "P07-20240531-101357"
+            },
+            "video 5": {
+                "id": "P07-20240530-102543"
+            },
+            "video 6": {
+                "id": "P07-20240529-194518"
+            },
+            "video 7": {
+                "id": "P07-20240531-201703"
+            },
+            "video 8": {
+                "id": "P07-20240529-102652"
+            },
+            "video 9": {
+                "id": "P07-20240529-131737"
+            }
+        },
+        "question": "What was the exact quantity of flour used in Banana Bread Chocolate Chip Cookies",
+        "choices": [
+            "167 g",
+            "168 g",
+            "116 g",
+            "147 g",
+            "128 g"
+        ],
+        "correct_idx": 0
+    },
+    "ingredient_exact_ingredient_recognition_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240618-171546"
+            },
+            "video 2": {
+                "id": "P08-20240613-122900"
+            },
+            "video 3": {
+                "id": "P08-20240617-184909"
+            },
+            "video 4": {
+                "id": "P08-20240613-123547"
+            },
+            "video 5": {
+                "id": "P08-20240614-184945"
+            },
+            "video 6": {
+                "id": "P08-20240622-141902"
+            },
+            "video 7": {
+                "id": "P08-20240617-130401"
+            },
+            "video 8": {
+                "id": "P08-20240614-125650"
+            },
+            "video 9": {
+                "id": "P08-20240614-132938"
+            },
+            "video 10": {
+                "id": "P08-20240614-085000"
+            },
+            "video 11": {
+                "id": "P08-20240618-163547"
+            }
+        },
+        "question": "What was the exact quantity of mixed bean salad used in Chopped Salad and Bread",
+        "choices": [
+            "87 g",
+            "100 g",
+            "106 g",
+            "114 g",
+            "89 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_exact_ingredient_recognition_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "video 2": {
+                "id": "P09-20240621-093545"
+            },
+            "video 3": {
+                "id": "P09-20240621-153208"
+            },
+            "video 4": {
+                "id": "P09-20240624-165332"
+            },
+            "video 5": {
+                "id": "P09-20240622-194642"
+            },
+            "video 6": {
+                "id": "P09-20240622-150155"
+            },
+            "video 7": {
+                "id": "P09-20240622-154652"
+            },
+            "video 8": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "What was the exact quantity of gluten free flour used in Chicken Cheese Balls",
+        "choices": [
+            "65 g",
+            "64 g",
+            "68 g",
+            "69 g",
+            "75 g"
+        ],
+        "correct_idx": 4
+    },
+    "ingredient_exact_ingredient_recognition_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "video 2": {
+                "id": "P09-20240621-093545"
+            },
+            "video 3": {
+                "id": "P09-20240621-153208"
+            },
+            "video 4": {
+                "id": "P09-20240624-165332"
+            },
+            "video 5": {
+                "id": "P09-20240622-194642"
+            },
+            "video 6": {
+                "id": "P09-20240622-150155"
+            },
+            "video 7": {
+                "id": "P09-20240622-154652"
+            },
+            "video 8": {
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "What was the exact quantity of garlic powder used in Chicken Cheese Balls",
+        "choices": [
+            "4 g",
+            "2 g",
+            "3 g",
+            "6 g",
+            "5 g"
+        ],
+        "correct_idx": 2
+    }
+}

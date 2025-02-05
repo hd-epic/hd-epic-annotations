@@ -1,0 +1,4002 @@
+{
+    "object_motion_object_movement_counting_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            },
+            "image 1": {
+                "time": "00:01:21.733",
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "How many times did the object <BBOX 787.0359 344.17778 1054.19487 565.6068399999999> seen at <TIME 00:01:21.733 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "7",
+            "5",
+            "1",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            },
+            "image 1": {
+                "id": "P03-20240216-185832",
+                "time": "01:14:16.766"
+            }
+        },
+        "question": "How many times did the object <BBOX 847.207 669.101 1258.776 1078.263> seen at <TIME 01:14:16.766 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "6",
+            "1",
+            "2",
+            "7"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-195833"
+            },
+            "image 1": {
+                "time": "00:01:40.666",
+                "id": "P02-20240210-195833"
+            }
+        },
+        "question": "How many times did the object <BBOX 957.92137 534.318 1092.704 669.101> seen at <TIME 00:01:40.666 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "7",
+            "5",
+            "1",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-121517"
+            },
+            "image 1": {
+                "id": "P01-20240203-121517",
+                "time": "00:05:25.433"
+            }
+        },
+        "question": "How many times did the object <BBOX 1213.04615 616.15 1395.966 938.6669999999999> seen at <TIME 00:05:25.433 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "2",
+            "6",
+            "4",
+            "5"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            },
+            "image 1": {
+                "id": "P09-20240623-120359",
+                "time": "00:09:58.700"
+            }
+        },
+        "question": "How many times did the object <BBOX 618.55726 647.43932 912.19145 746.11966> seen at <TIME 00:09:58.700 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "5",
+            "3",
+            "6",
+            "1"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722"
+            },
+            "image 1": {
+                "id": "P04-20240413-151722",
+                "time": "00:00:09.800"
+            }
+        },
+        "question": "How many times did the object <BBOX 847.0217 211.06114 1319.132 491.5503> seen at <TIME 00:00:09.800 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "5",
+            "6",
+            "4",
+            "1"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-115307"
+            },
+            "image 1": {
+                "time": "00:16:28.133",
+                "id": "P06-20240510-115307"
+            }
+        },
+        "question": "How many times did the object <BBOX 1059.00855 799.07009 1213.04584 921.8188> seen at <TIME 00:16:28.133 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "5",
+            "7",
+            "4",
+            "1"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            },
+            "image 1": {
+                "id": "P02-20240211-175138",
+                "time": "00:06:37.399"
+            }
+        },
+        "question": "How many times did the object <BBOX 811.10427 654.65983 984.3965800000001 827.952> seen at <TIME 00:06:37.399 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "4",
+            "7",
+            "2",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:10:36.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 879.042 270.868 1091.136 485.517> seen at <TIME 00:10:36.633 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "3",
+            "6",
+            "1",
+            "7"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:01:37.599"
+            }
+        },
+        "question": "How many times did the object <BBOX 679.72415 58.773 1004.2543000000001 385.858> seen at <TIME 00:01:37.599 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "1",
+            "6",
+            "3",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            },
+            "image 1": {
+                "id": "P08-20240617-130401",
+                "time": "00:32:19.733"
+            }
+        },
+        "question": "How many times did the object <BBOX 974.76952 724.45812 1162.50252 924.2258400000001> seen at <TIME 00:32:19.733 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "5",
+            "7",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "id": "P05-20240423-180529",
+                "time": "00:10:32.299"
+            }
+        },
+        "question": "How many times did the object <BBOX 731.67863 760.561 979.583 960.328> seen at <TIME 00:10:32.299 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "5",
+            "7",
+            "3",
+            "6"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-091657"
+            },
+            "image 1": {
+                "time": "00:02:27.066",
+                "id": "P03-20240217-091657"
+            }
+        },
+        "question": "How many times did the object <BBOX 946.998 774.817 1116.402 910.895> seen at <TIME 00:02:27.066 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "4",
+            "5",
+            "3"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            },
+            "image 1": {
+                "id": "P09-20240623-120359",
+                "time": "00:38:03.699"
+            }
+        },
+        "question": "How many times did the object <BBOX 941.074 630.59145 1323.761 1034.94> seen at <TIME 00:38:03.699 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "3",
+            "1"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-135502"
+            },
+            "image 1": {
+                "time": "00:40:14.833",
+                "id": "P01-20240203-135502"
+            }
+        },
+        "question": "How many times did the object <BBOX 926.632 794.256 1037.347 924.226> seen at <TIME 00:40:14.833 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "5",
+            "2",
+            "1",
+            "3"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            },
+            "image 1": {
+                "id": "P07-20240531-201703",
+                "time": "00:07:23.066"
+            }
+        },
+        "question": "How many times did the object <BBOX 749.822 608.18935 852.576 680.394> seen at <TIME 00:07:23.066 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "3",
+            "7",
+            "6",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-094452"
+            },
+            "image 1": {
+                "id": "P03-20240218-094452",
+                "time": "00:12:12.966"
+            }
+        },
+        "question": "How many times did the object <BBOX 755.74688 659.4735 1405.5928800000002 1123.993> seen at <TIME 00:12:12.966 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "1",
+            "4",
+            "5",
+            "3"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:17:50.733"
+            }
+        },
+        "question": "How many times did the object <BBOX 727.39577 706.12689 935.8309999999999 927.323> seen at <TIME 00:17:50.733 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "7",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            },
+            "image 1": {
+                "id": "P03-20240216-185832",
+                "time": "01:14:11.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 933.853 637.812 1143.248 827.952> seen at <TIME 01:14:11.633 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "2",
+            "5",
+            "4"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            },
+            "image 1": {
+                "id": "P03-20240218-144430",
+                "time": "00:11:29.433"
+            }
+        },
+        "question": "How many times did the object <BBOX 831.64112 510.56449 1094.81869 692.15701> seen at <TIME 00:11:29.433 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "3",
+            "5",
+            "2",
+            "1"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-150310"
+            },
+            "image 1": {
+                "id": "P03-20240217-150310",
+                "time": "00:01:15.400"
+            }
+        },
+        "question": "How many times did the object <BBOX 955.51448 645.032 1186.57048 837.5790000000001> seen at <TIME 00:01:15.400 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "1",
+            "6",
+            "7",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-154652"
+            },
+            "image 1": {
+                "id": "P09-20240622-154652",
+                "time": "00:08:13.766"
+            }
+        },
+        "question": "How many times did the object <BBOX 1025.31282 741.30598 1256.3690000000001 1051.788> seen at <TIME 00:08:13.766 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "7",
+            "6",
+            "5"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-152537"
+            },
+            "image 1": {
+                "id": "P01-20240204-152537",
+                "time": "00:00:35.600"
+            }
+        },
+        "question": "How many times did the object <BBOX 652.253 673.91453 962.73504 1003.65128> seen at <TIME 00:00:35.600 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "2",
+            "4",
+            "6",
+            "1"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "time": "00:00:25.733",
+                "id": "P05-20240423-180529"
+            }
+        },
+        "question": "How many times did the object <BBOX 825.545 825.545 1022.906 986.803> seen at <TIME 00:00:25.733 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "1",
+            "6",
+            "7",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-121048"
+            },
+            "image 1": {
+                "id": "P06-20240511-121048",
+                "time": "00:00:57.066"
+            }
+        },
+        "question": "How many times did the object <BBOX 994.024 618.55726 1225.08 830.359> seen at <TIME 00:00:57.066 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "4",
+            "1",
+            "5",
+            "3"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-101509"
+            },
+            "image 1": {
+                "time": "00:01:11.766",
+                "id": "P03-20240218-101509"
+            }
+        },
+        "question": "How many times did the object <BBOX 919.412 770.188 1049.381 876.0889999999999> seen at <TIME 00:01:11.766 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "2",
+            "3",
+            "6",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042"
+            },
+            "image 1": {
+                "time": "00:20:16.166",
+                "id": "P01-20240204-121042"
+            }
+        },
+        "question": "How many times did the object <BBOX 904.97094 844.8 1056.602 948.294> seen at <TIME 00:20:16.166 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "6",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            },
+            "image 1": {
+                "id": "P03-20240218-190556",
+                "time": "00:42:33.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 669.101 839.986 813.511 950.701> seen at <TIME 00:42:33.633 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "6",
+            "5",
+            "7",
+            "1"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-130505"
+            },
+            "image 1": {
+                "time": "00:03:37.966",
+                "id": "P01-20240203-130505"
+            }
+        },
+        "question": "How many times did the object <BBOX 1078.26325 1056.602 1251.55556 1167.31624> seen at <TIME 00:03:37.966 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "1",
+            "5",
+            "3",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            },
+            "image 1": {
+                "id": "P08-20240614-085000",
+                "time": "00:09:23.466"
+            }
+        },
+        "question": "How many times did the object <BBOX 971.992 585.972 1116.402 724.828> seen at <TIME 00:09:23.466 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "4",
+            "6",
+            "2",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            },
+            "image 1": {
+                "id": "P02-20240211-120927",
+                "time": "00:18:39.033"
+            }
+        },
+        "question": "How many times did the object <BBOX 519.87692 623.37094 878.4960000000001 765.374> seen at <TIME 00:18:39.033 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "5"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            },
+            "image 1": {
+                "id": "P08-20240614-125650",
+                "time": "00:15:56.233"
+            }
+        },
+        "question": "How many times did the object <BBOX 877.57 755.37673 1060.8600000000001 849.799> seen at <TIME 00:15:56.233 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "6",
+            "4",
+            "1",
+            "2"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            },
+            "image 1": {
+                "time": "00:10:43.733",
+                "id": "P03-20240216-205923"
+            }
+        },
+        "question": "How many times did the object <BBOX 1068.6359 820.73162 1386.338 989.2102600000001> seen at <TIME 00:10:43.733 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "6",
+            "3",
+            "1",
+            "5"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            },
+            "image 1": {
+                "id": "P02-20240211-120927",
+                "time": "00:51:35.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 883.3094 669.10085 1020.499 772.595> seen at <TIME 00:51:35.366 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "2",
+            "5",
+            "1",
+            "6"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-180658"
+            },
+            "image 1": {
+                "id": "P05-20240425-180658",
+                "time": "00:03:51.099"
+            }
+        },
+        "question": "How many times did the object <BBOX 707.61026 563.2 996.43077 912.191> seen at <TIME 00:03:51.099 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "4",
+            "5",
+            "3",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-165332"
+            },
+            "image 1": {
+                "time": "00:20:13.799",
+                "id": "P09-20240624-165332"
+            }
+        },
+        "question": "How many times did the object <BBOX 968.479 462.51906 1385.002 986.367> seen at <TIME 00:20:13.799 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "4",
+            "1",
+            "3",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-210126"
+            },
+            "image 1": {
+                "id": "P03-20240217-210126",
+                "time": "00:01:56.400"
+            }
+        },
+        "question": "How many times did the object <BBOX 801.47692 753.34017 1099.92479 909.7846199999999> seen at <TIME 00:01:56.400 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "4",
+            "7",
+            "2",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:03:18.000"
+            }
+        },
+        "question": "How many times did the object <BBOX 715.49909 827.93466 881.5971 963.36842> seen at <TIME 00:03:18.000 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "5",
+            "2",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-195538"
+            },
+            "image 1": {
+                "id": "P01-20240202-195538",
+                "time": "00:01:59.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 1066.22906 719.64444 1292.4717899999998 931.44615> seen at <TIME 00:01:59.366 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "4",
+            "5",
+            "2",
+            "3"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            },
+            "image 1": {
+                "id": "P06-20240510-121619",
+                "time": "00:10:48.766"
+            }
+        },
+        "question": "How many times did the object <BBOX 979.5829 267.15897 1191.38416 481.36752> seen at <TIME 00:10:48.766 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "7",
+            "4",
+            "2",
+            "1"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            },
+            "image 1": {
+                "id": "P06-20240510-121619",
+                "time": "00:12:37.866"
+            }
+        },
+        "question": "How many times did the object <BBOX 746.11966 856.83419 1099.925 1068.6359> seen at <TIME 00:12:37.866 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "6",
+            "3",
+            "1",
+            "7"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-094452"
+            },
+            "image 1": {
+                "id": "P03-20240218-094452",
+                "time": "00:09:57.433"
+            }
+        },
+        "question": "How many times did the object <BBOX 794.256 801.477 1039.754 1063.8220000000001> seen at <TIME 00:09:57.433 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "7",
+            "5",
+            "1",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-171455"
+            },
+            "image 1": {
+                "id": "P05-20240425-171455",
+                "time": "00:00:57.666"
+            }
+        },
+        "question": "How many times did the object <BBOX 767.781 811.104 852.021 907.378> seen at <TIME 00:00:57.666 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "4",
+            "3",
+            "2",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            },
+            "image 1": {
+                "id": "P01-20240203-123350",
+                "time": "00:14:05.200"
+            }
+        },
+        "question": "How many times did the object <BBOX 714.83077 994.024 965.142 1184.164> seen at <TIME 00:14:05.200 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "3",
+            "7",
+            "1",
+            "5"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-164751"
+            },
+            "image 1": {
+                "id": "P04-20240414-164751",
+                "time": "00:00:59.866"
+            }
+        },
+        "question": "How many times did the object <BBOX 827.95214 842.39316 1054.195 943.48> seen at <TIME 00:00:59.866 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "1",
+            "4",
+            "3",
+            "6"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-145458"
+            },
+            "image 1": {
+                "id": "P01-20240204-145458",
+                "time": "00:02:14.500"
+            }
+        },
+        "question": "How many times did the object <BBOX 909.78462 839.986 1160.096 1128.80684> seen at <TIME 00:02:14.500 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "6",
+            "7",
+            "2",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-100308"
+            },
+            "image 1": {
+                "id": "P02-20240210-100308",
+                "time": "00:00:32.766"
+            }
+        },
+        "question": "How many times did the object <BBOX 779.81538 775.00171 1039.754 969.95556> seen at <TIME 00:00:32.766 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "4",
+            "6",
+            "5",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-121517"
+            },
+            "image 1": {
+                "id": "P01-20240203-121517",
+                "time": "00:03:55.199"
+            }
+        },
+        "question": "How many times did the object <BBOX 902.564 830.359 1025.3129999999999 998.8380000000001> seen at <TIME 00:03:55.199 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "2",
+            "5",
+            "4",
+            "3"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            },
+            "image 1": {
+                "id": "P03-20240218-140054",
+                "time": "00:00:01.866"
+            }
+        },
+        "question": "How many times did the object <BBOX 1107.1453 921.81877 1275.6239099999998 1102.33162> seen at <TIME 00:00:01.866 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "7",
+            "5",
+            "2",
+            "6"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-104948"
+            },
+            "image 1": {
+                "id": "P02-20240211-104948",
+                "time": "00:00:15.000"
+            }
+        },
+        "question": "How many times did the object <BBOX 837.579 685.94872 1071.043 803.884> seen at <TIME 00:00:15.000 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "6",
+            "2",
+            "7",
+            "5"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_50": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            },
+            "image 1": {
+                "id": "P09-20240621-093545",
+                "time": "00:37:11.666"
+            }
+        },
+        "question": "How many times did the object <BBOX 440.45128 661.88034 697.983 854.42735> seen at <TIME 00:37:11.666 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "2",
+            "6",
+            "4",
+            "5"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_51": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-142301"
+            },
+            "image 1": {
+                "id": "P01-20240204-142301",
+                "time": "00:12:15.866"
+            }
+        },
+        "question": "How many times did the object <BBOX 835.17265 476.554 1172.13 801.477> seen at <TIME 00:12:15.866 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "5",
+            "7",
+            "3",
+            "2"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_52": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-125650"
+            },
+            "image 1": {
+                "time": "00:13:58.466",
+                "id": "P08-20240614-125650"
+            }
+        },
+        "question": "How many times did the object <BBOX 910.89546 760.931 1063.637 905.341> seen at <TIME 00:13:58.466 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "1",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_53": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-210958"
+            },
+            "image 1": {
+                "id": "P03-20240217-210958",
+                "time": "00:02:35.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 876.466 364.723 1348.627 658.763> seen at <TIME 00:02:35.633 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "7",
+            "6",
+            "1",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_54": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:19:49.433"
+            }
+        },
+        "question": "How many times did the object <BBOX 889.26316 646.50454 1160.13067 881.5971> seen at <TIME 00:19:49.433 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "1",
+            "7",
+            "6",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_55": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047"
+            },
+            "image 1": {
+                "id": "P06-20240510-100047",
+                "time": "00:18:55.299"
+            }
+        },
+        "question": "How many times did the object <BBOX 904.97094 765.37435 1304.506 936.2603200000001> seen at <TIME 00:18:55.299 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "5",
+            "1",
+            "6",
+            "7"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_56": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-091657"
+            },
+            "image 1": {
+                "time": "00:07:20.066",
+                "id": "P03-20240217-091657"
+            }
+        },
+        "question": "How many times did the object <BBOX 841.467 935.89 1027.535 1066.414> seen at <TIME 00:07:20.066 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "5",
+            "7",
+            "6",
+            "1"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_57": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-130208"
+            },
+            "image 1": {
+                "id": "P03-20240217-130208",
+                "time": "00:01:35.266"
+            }
+        },
+        "question": "How many times did the object <BBOX 697.98291 977.17607 803.8837599999999 1095.11111> seen at <TIME 00:01:35.266 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "2",
+            "7",
+            "4",
+            "5"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_58": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-184214"
+            },
+            "image 1": {
+                "time": "00:14:06.333",
+                "id": "P01-20240203-184214"
+            }
+        },
+        "question": "How many times did the object <BBOX 782.22222 678.72821 929.039 791.84957> seen at <TIME 00:14:06.333 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "1",
+            "4",
+            "6",
+            "3"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_59": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:19:09.133"
+            }
+        },
+        "question": "How many times did the object <BBOX 718.888 574.26 1016.653 846.502> seen at <TIME 00:19:09.133 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "6",
+            "2",
+            "5",
+            "4"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_60": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-194141"
+            },
+            "image 1": {
+                "id": "P02-20240209-194141",
+                "time": "00:11:10.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 731.67863 596.896 815.918 1054.195> seen at <TIME 00:11:10.366 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "2",
+            "5",
+            "4",
+            "1"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_61": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-141313"
+            },
+            "image 1": {
+                "id": "P02-20240211-141313",
+                "time": "00:16:24.333"
+            }
+        },
+        "question": "How many times did the object <BBOX 900.15726 1020.499 1172.1299999999999 1302.0990000000002> seen at <TIME 00:16:24.333 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "3",
+            "1",
+            "6",
+            "7"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_62": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            },
+            "image 1": {
+                "id": "P07-20240529-194518",
+                "time": "00:23:35.866"
+            }
+        },
+        "question": "How many times did the object <BBOX 822.82396 687.39 1109.0240000000001 937.815> seen at <TIME 00:23:35.866 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "7",
+            "3",
+            "1",
+            "2"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_63": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            },
+            "image 1": {
+                "id": "P03-20240216-205923",
+                "time": "00:21:00.099"
+            }
+        },
+        "question": "How many times did the object <BBOX 678.728 678.728 861.6479999999999 892.9369999999999> seen at <TIME 00:21:00.099 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "4",
+            "6",
+            "1",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_64": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-084005"
+            },
+            "image 1": {
+                "time": "00:14:42.833",
+                "id": "P03-20240216-084005"
+            }
+        },
+        "question": "How many times did the object <BBOX 814.265 848.193 952.803 949.976> seen at <TIME 00:14:42.833 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "7",
+            "6",
+            "5",
+            "4"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_65": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-072251"
+            },
+            "image 1": {
+                "id": "P04-20240414-072251",
+                "time": "00:05:25.699"
+            }
+        },
+        "question": "How many times did the object <BBOX 856.834 406.75556 1174.5369999999998 632.998> seen at <TIME 00:05:25.699 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "7",
+            "1",
+            "6",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_66": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-184214"
+            },
+            "image 1": {
+                "id": "P01-20240203-184214",
+                "time": "00:00:26.466"
+            }
+        },
+        "question": "How many times did the object <BBOX 1201.01197 416.38291 1287.65812 592.082> seen at <TIME 00:00:26.466 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "1",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_67": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-150506"
+            },
+            "image 1": {
+                "id": "P01-20240203-150506",
+                "time": "00:06:58.133"
+            }
+        },
+        "question": "How many times did the object <BBOX 977.17607 580.04786 1302.09915 876.08889> seen at <TIME 00:06:58.133 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "4",
+            "3",
+            "2"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_68": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:24:38.233"
+            }
+        },
+        "question": "How many times did the object <BBOX 486.879 665.839 718.475 979.0210000000001> seen at <TIME 00:24:38.233 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "7",
+            "6",
+            "1",
+            "3"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_69": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047"
+            },
+            "image 1": {
+                "time": "00:00:03.133",
+                "id": "P06-20240510-100047"
+            }
+        },
+        "question": "How many times did the object <BBOX 859.24103 327.32991 1172.12984 486.1812> seen at <TIME 00:00:03.133 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "5",
+            "3",
+            "7",
+            "6"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_70": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            },
+            "image 1": {
+                "id": "P03-20240218-144430",
+                "time": "00:04:28.533"
+            }
+        },
+        "question": "How many times did the object <BBOX 660.576 578.99065 818.482 792.164> seen at <TIME 00:04:28.533 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "7",
+            "5",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_71": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-145458"
+            },
+            "image 1": {
+                "id": "P01-20240204-145458",
+                "time": "00:14:11.866"
+            }
+        },
+        "question": "How many times did the object <BBOX 895.34359 683.542 1258.7759999999998 873.682> seen at <TIME 00:14:11.866 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "2",
+            "3",
+            "5",
+            "1"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_72": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-184003"
+            },
+            "image 1": {
+                "id": "P04-20240415-184003",
+                "time": "00:17:04.500"
+            }
+        },
+        "question": "How many times did the object <BBOX 902.564 493.40171 1148.062 695.576> seen at <TIME 00:17:04.500 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "4",
+            "6",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_73": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            },
+            "image 1": {
+                "id": "P03-20240217-192543",
+                "time": "00:56:16.199"
+            }
+        },
+        "question": "How many times did the object <BBOX 825.37931 679.72414 1057.917 909.706> seen at <TIME 00:56:16.199 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "4",
+            "5",
+            "7",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_74": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            },
+            "image 1": {
+                "id": "P08-20240614-184945",
+                "time": "00:00:28.533"
+            }
+        },
+        "question": "How many times did the object <BBOX 900.157 560.793 1318.9470000000001 953.108> seen at <TIME 00:00:28.533 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "3",
+            "6",
+            "1",
+            "8"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_75": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-124504"
+            },
+            "image 1": {
+                "id": "P01-20240204-124504",
+                "time": "00:01:24.533"
+            }
+        },
+        "question": "How many times did the object <BBOX 844.8 630.59145 1265.99658 1059.00855> seen at <TIME 00:01:24.533 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_76": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240625-103827"
+            },
+            "image 1": {
+                "time": "00:01:35.400",
+                "id": "P09-20240625-103827"
+            }
+        },
+        "question": "How many times did the object <BBOX 595.397 741.053 715.499 830.49> seen at <TIME 00:01:35.400 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "1",
+            "4",
+            "6",
+            "3"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_77": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-123350"
+            },
+            "image 1": {
+                "id": "P01-20240203-123350",
+                "time": "00:22:15.066"
+            }
+        },
+        "question": "How many times did the object <BBOX 1066.22906 149.224 1393.5589699999998 500.62221999999997> seen at <TIME 00:22:15.066 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "4"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_78": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            },
+            "image 1": {
+                "time": "00:32:00.566",
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "How many times did the object <BBOX 635.40513 830.35898 866.462 991.61709> seen at <TIME 00:32:00.566 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "3",
+            "5",
+            "6",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_79": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            },
+            "image 1": {
+                "time": "00:09:28.600",
+                "id": "P03-20240218-140054"
+            }
+        },
+        "question": "How many times did the object <BBOX 787.036 852.021 900.1569999999999 943.48> seen at <TIME 00:09:28.600 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "3",
+            "5",
+            "1",
+            "7"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_80": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-100250"
+            },
+            "image 1": {
+                "id": "P02-20240211-100250",
+                "time": "00:02:10.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 623.37094 799.07 839.986 1090.297> seen at <TIME 00:02:10.366 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "1",
+            "6",
+            "4",
+            "2"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_81": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "id": "P05-20240423-180529",
+                "time": "00:18:56.033"
+            }
+        },
+        "question": "How many times did the object <BBOX 856.834 1246.742 1010.872 1359.863> seen at <TIME 00:18:56.033 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "2",
+            "4",
+            "5",
+            "7"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_82": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-130208"
+            },
+            "image 1": {
+                "id": "P03-20240217-130208",
+                "time": "00:00:50.166"
+            }
+        },
+        "question": "How many times did the object <BBOX 784.62906 628.18462 989.21 847.20684> seen at <TIME 00:00:50.166 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "7",
+            "2",
+            "1",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_83": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-161948"
+            },
+            "image 1": {
+                "id": "P01-20240202-161948",
+                "time": "00:01:44.833"
+            }
+        },
+        "question": "How many times did the object <BBOX 896.211 1090.737 1060.632 1218.105> seen at <TIME 00:01:44.833 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "7",
+            "3",
+            "5",
+            "6"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_84": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-194141"
+            },
+            "image 1": {
+                "time": "00:10:48.000",
+                "id": "P02-20240209-194141"
+            }
+        },
+        "question": "How many times did the object <BBOX 750.933 606.52308 1136.027 1056.602> seen at <TIME 00:10:48.000 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "7",
+            "3",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_85": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-223126"
+            },
+            "image 1": {
+                "id": "P03-20240216-223126",
+                "time": "00:00:34.666"
+            }
+        },
+        "question": "How many times did the object <BBOX 890.53 782.22222 1042.161 933.853> seen at <TIME 00:00:34.666 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "5",
+            "3",
+            "1",
+            "6"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_86": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-120927"
+            },
+            "image 1": {
+                "id": "P02-20240211-120927",
+                "time": "00:05:21.500"
+            }
+        },
+        "question": "How many times did the object <BBOX 1034.94 726.865 1150.468 924.226> seen at <TIME 00:05:21.500 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "4",
+            "7",
+            "2",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_87": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:02:29.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 856.834 717.238 1049.3809999999999 832.7660000000001> seen at <TIME 00:02:29.366 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "4",
+            "7",
+            "5",
+            "1"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_88": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            },
+            "image 1": {
+                "id": "P02-20240211-175138",
+                "time": "00:09:24.233"
+            }
+        },
+        "question": "How many times did the object <BBOX 904.971 738.899 1068.636 868.8679999999999> seen at <TIME 00:09:24.233 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "4",
+            "6",
+            "7",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_89": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240426-091011"
+            },
+            "image 1": {
+                "id": "P05-20240426-091011",
+                "time": "00:01:42.333"
+            }
+        },
+        "question": "How many times did the object <BBOX 755.377 694.28008 916.4499999999999 855.3530000000001> seen at <TIME 00:01:42.333 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "4",
+            "5",
+            "6",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_90": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            },
+            "image 1": {
+                "id": "P05-20240427-143353",
+                "time": "00:14:15.733"
+            }
+        },
+        "question": "How many times did the object <BBOX 577.641 616.15043 777.409 839.986> seen at <TIME 00:14:15.733 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "6",
+            "1",
+            "2",
+            "5"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_91": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-160230"
+            },
+            "image 1": {
+                "id": "P01-20240204-160230",
+                "time": "00:02:02.933"
+            }
+        },
+        "question": "How many times did the object <BBOX 794.25641 895.344 1068.636 1032.53333> seen at <TIME 00:02:02.933 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "6",
+            "4",
+            "1",
+            "3"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_92": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            },
+            "image 1": {
+                "id": "P03-20240216-205923",
+                "time": "00:00:51.000"
+            }
+        },
+        "question": "How many times did the object <BBOX 917.00513 630.59145 1222.6734999999999 929.0393200000001> seen at <TIME 00:00:51.000 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "4",
+            "2",
+            "6",
+            "5"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_93": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-141313"
+            },
+            "image 1": {
+                "time": "00:25:06.900",
+                "id": "P02-20240211-141313"
+            }
+        },
+        "question": "How many times did the object <BBOX 924.226 791.84957 1022.906 878.496> seen at <TIME 00:25:06.900 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "4",
+            "2",
+            "6",
+            "7"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_94": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-162750"
+            },
+            "image 1": {
+                "id": "P04-20240414-162750",
+                "time": "00:00:12.599"
+            }
+        },
+        "question": "How many times did the object <BBOX 743.713 878.496 873.682 998.838> seen at <TIME 00:00:12.599 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "1",
+            "6",
+            "3",
+            "5"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_95": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-165332"
+            },
+            "image 1": {
+                "id": "P09-20240624-165332",
+                "time": "00:12:29.200"
+            }
+        },
+        "question": "How many times did the object <BBOX 1050.25 528.958 1282.788 769.162> seen at <TIME 00:12:29.200 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "7",
+            "1",
+            "5",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_96": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:01:21.666"
+            }
+        },
+        "question": "How many times did the object <BBOX 950.701 998.838 1246.742 1302.099> seen at <TIME 00:01:21.666 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "1",
+            "6",
+            "7",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_97": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "image 1": {
+                "id": "P06-20240510-135423",
+                "time": "00:02:06.833"
+            }
+        },
+        "question": "How many times did the object <BBOX 1174.53675 808.69744 1376.71136 1054.19487> seen at <TIME 00:02:06.833 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "5",
+            "7",
+            "6",
+            "1"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_98": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            },
+            "image 1": {
+                "id": "P02-20240211-175138",
+                "time": "00:32:02.066"
+            }
+        },
+        "question": "How many times did the object <BBOX 885.716 613.744 974.769 722.051> seen at <TIME 00:32:02.066 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "3",
+            "4",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_99": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-131737"
+            },
+            "image 1": {
+                "id": "P07-20240529-131737",
+                "time": "00:05:34.699"
+            }
+        },
+        "question": "How many times did the object <BBOX 996.431 767.781 1119.179 852.021> seen at <TIME 00:05:34.699 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "6",
+            "1",
+            "3",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_100": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-175337"
+            },
+            "image 1": {
+                "id": "P04-20240414-175337",
+                "time": "00:07:47.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 830.359 469.33333 1092.7042700000002 652.2529999999999> seen at <TIME 00:07:47.633 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "6",
+            "1",
+            "3",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_101": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:20:20.166"
+            }
+        },
+        "question": "How many times did the object <BBOX 972.362 1099.925 1085.484 1208.232> seen at <TIME 00:20:20.166 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "1",
+            "3",
+            "2",
+            "6"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_102": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:37:45.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 820.732 688.356 1018.092 823.138> seen at <TIME 00:37:45.633 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "1",
+            "7",
+            "3",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_103": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-104948"
+            },
+            "image 1": {
+                "id": "P02-20240211-104948",
+                "time": "00:01:41.266"
+            }
+        },
+        "question": "How many times did the object <BBOX 777.409 681.135 972.362 892.937> seen at <TIME 00:01:41.266 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "5",
+            "6",
+            "4",
+            "1"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_104": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            },
+            "image 1": {
+                "time": "00:01:53.200",
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "How many times did the object <BBOX 369.357 941.444 541.538 1105.2939999999999> seen at <TIME 00:01:53.200 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "3",
+            "2",
+            "1",
+            "6"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_105": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            },
+            "image 1": {
+                "id": "P03-20240218-140054",
+                "time": "00:17:51.566"
+            }
+        },
+        "question": "How many times did the object <BBOX 669.101 755.747 1071.0430000000001 1034.94> seen at <TIME 00:17:51.566 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "1",
+            "6",
+            "4",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_106": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-194141"
+            },
+            "image 1": {
+                "id": "P02-20240209-194141",
+                "time": "00:10:30.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 770.18803 635.40513 1068.636 921.819> seen at <TIME 00:10:30.633 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "4",
+            "3",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_107": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-154652"
+            },
+            "image 1": {
+                "id": "P09-20240622-154652",
+                "time": "00:09:21.333"
+            }
+        },
+        "question": "How many times did the object <BBOX 994.02393 977.17607 1306.913 1201.012> seen at <TIME 00:09:21.333 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "1",
+            "6",
+            "4",
+            "3"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_108": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-142301"
+            },
+            "image 1": {
+                "id": "P01-20240204-142301",
+                "time": "00:21:00.166"
+            }
+        },
+        "question": "How many times did the object <BBOX 861.64786 683.54188 1352.643 1249.149> seen at <TIME 00:21:00.166 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_109": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-145526"
+            },
+            "image 1": {
+                "id": "P05-20240427-145526",
+                "time": "00:02:17.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 844.8 637.81197 1181.757 996.4307699999999> seen at <TIME 00:02:17.366 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "6",
+            "7",
+            "5"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_110": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-180658"
+            },
+            "image 1": {
+                "id": "P05-20240425-180658",
+                "time": "00:00:11.400"
+            }
+        },
+        "question": "How many times did the object <BBOX 950.70085 1114.36581 1261.183 1193.791> seen at <TIME 00:00:11.400 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "2",
+            "6",
+            "4",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_111": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "image 1": {
+                "time": "00:16:29.733",
+                "id": "P09-20240624-160737"
+            }
+        },
+        "question": "How many times did the object <BBOX 852.021 418.79 962.7350399999999 510.24957> seen at <TIME 00:16:29.733 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "5",
+            "6",
+            "1",
+            "7"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_112": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-172243"
+            },
+            "image 1": {
+                "id": "P05-20240423-172243",
+                "time": "00:05:10.433"
+            }
+        },
+        "question": "How many times did the object <BBOX 859.24103 895.344 991.61709 1025.31282> seen at <TIME 00:05:10.433 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_113": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-145245"
+            },
+            "image 1": {
+                "id": "P04-20240413-145245",
+                "time": "00:00:31.500"
+            }
+        },
+        "question": "How many times did the object <BBOX 963.36842 797.27 1211.238 1055.3609999999999> seen at <TIME 00:00:31.500 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "4",
+            "1",
+            "6",
+            "2"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_114": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-100308"
+            },
+            "image 1": {
+                "time": "00:00:09.400",
+                "id": "P02-20240210-100308"
+            }
+        },
+        "question": "How many times did the object <BBOX 890.52991 1145.6547 1097.518 1355.05> seen at <TIME 00:00:09.400 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "7",
+            "5",
+            "2",
+            "6"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_115": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-150310"
+            },
+            "image 1": {
+                "id": "P03-20240217-150310",
+                "time": "00:09:28.000"
+            }
+        },
+        "question": "How many times did the object <BBOX 806.291 765.374 986.8030000000001 1068.636> seen at <TIME 00:09:28.000 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "6",
+            "3",
+            "4",
+            "1"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_116": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-072251"
+            },
+            "image 1": {
+                "id": "P04-20240414-072251",
+                "time": "00:20:58.833"
+            }
+        },
+        "question": "How many times did the object <BBOX 871.27521 512.65641 1123.99316 1022.9060000000001> seen at <TIME 00:20:58.833 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "3",
+            "1",
+            "7",
+            "5"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_117": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-102652"
+            },
+            "image 1": {
+                "id": "P07-20240529-102652",
+                "time": "00:01:04.733"
+            }
+        },
+        "question": "How many times did the object <BBOX 955.51453 736.49231 1075.856 847.207> seen at <TIME 00:01:04.733 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "4",
+            "1",
+            "5",
+            "2"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_118": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240426-092000"
+            },
+            "image 1": {
+                "id": "P05-20240426-092000",
+                "time": "00:01:27.566"
+            }
+        },
+        "question": "How many times did the object <BBOX 777.40855 604.11624 948.294 775.00171> seen at <TIME 00:01:27.566 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "3",
+            "6",
+            "7",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_119": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "time": "00:09:52.233",
+                "id": "P04-20240414-181030"
+            }
+        },
+        "question": "How many times did the object <BBOX 837.579 717.238 1109.552 796.663> seen at <TIME 00:09:52.233 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "1",
+            "5",
+            "7",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_120": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240427-143353"
+            },
+            "image 1": {
+                "time": "00:00:33.399",
+                "id": "P05-20240427-143353"
+            }
+        },
+        "question": "How many times did the object <BBOX 613.74359 647.43932 981.98974 861.6478599999999> seen at <TIME 00:00:33.399 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "2",
+            "1",
+            "5",
+            "4"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_121": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-183358"
+            },
+            "image 1": {
+                "id": "P05-20240423-183358",
+                "time": "00:00:28.100"
+            }
+        },
+        "question": "How many times did the object <BBOX 726.865 488.588 981.99 762.9680000000001> seen at <TIME 00:00:28.100 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "4",
+            "3",
+            "6",
+            "2"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_122": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:14:23.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 764.05082 659.28131 1017.0310000000001 825.3789999999999> seen at <TIME 00:14:23.366 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "1",
+            "7",
+            "5",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_123": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            },
+            "image 1": {
+                "id": "P02-20240211-175138",
+                "time": "00:06:24.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 685.949 483.77436 888.1229999999999 623.371> seen at <TIME 00:06:24.366 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "7",
+            "4",
+            "6",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_124": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240210-100308"
+            },
+            "image 1": {
+                "id": "P02-20240210-100308",
+                "time": "00:03:29.199"
+            }
+        },
+        "question": "How many times did the object <BBOX 815.918 770.18803 962.735 890.53> seen at <TIME 00:03:29.199 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "7",
+            "3",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_125": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-153748"
+            },
+            "image 1": {
+                "time": "00:02:11.300",
+                "id": "P09-20240623-153748"
+            }
+        },
+        "question": "How many times did the object <BBOX 914.59829 921.8188 1169.723 1167.31624> seen at <TIME 00:02:11.300 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "1",
+            "7",
+            "5",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_126": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:34:40.800"
+            }
+        },
+        "question": "How many times did the object <BBOX 881.5971 500.849 1262.345 753.829> seen at <TIME 00:34:40.800 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "3",
+            "7",
+            "5"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_127": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "id": "P04-20240414-181030",
+                "time": "00:14:06.933"
+            }
+        },
+        "question": "How many times did the object <BBOX 813.511 820.732 1145.655 967.549> seen at <TIME 00:14:06.933 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "5",
+            "3",
+            "7",
+            "1"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_128": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:37:03.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 852.02051 779.81538 1354.77325 1343.01538> seen at <TIME 00:37:03.366 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "5",
+            "1",
+            "6",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_129": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "image 1": {
+                "id": "P05-20240425-173353",
+                "time": "00:08:11.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 883.3094 974.769 1046.974 1162.503> seen at <TIME 00:08:11.366 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "5",
+            "6",
+            "7",
+            "3"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_130": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240413-151722"
+            },
+            "image 1": {
+                "id": "P04-20240413-151722",
+                "time": "00:08:27.399"
+            }
+        },
+        "question": "How many times did the object <BBOX 779.81538 712.42393 895.344 866.462> seen at <TIME 00:08:27.399 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "3",
+            "1"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_131": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "id": "P05-20240423-180529",
+                "time": "00:03:32.400"
+            }
+        },
+        "question": "How many times did the object <BBOX 394.72137 582.4547 645.0319999999999 825.5450000000001> seen at <TIME 00:03:32.400 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "7",
+            "4",
+            "2",
+            "6"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_132": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-205923"
+            },
+            "image 1": {
+                "id": "P03-20240216-205923",
+                "time": "00:24:02.466"
+            }
+        },
+        "question": "How many times did the object <BBOX 952.552 638.738 1116.402 841.4670000000001> seen at <TIME 00:24:02.466 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "4",
+            "7",
+            "2",
+            "6"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_133": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            },
+            "image 1": {
+                "id": "P09-20240623-120359",
+                "time": "00:30:42.933"
+            }
+        },
+        "question": "How many times did the object <BBOX 965.14188 488.588 1150.468 606.523> seen at <TIME 00:30:42.933 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "5",
+            "3",
+            "1",
+            "6"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_134": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-170520"
+            },
+            "image 1": {
+                "id": "P04-20240414-170520",
+                "time": "00:07:40.133"
+            }
+        },
+        "question": "How many times did the object <BBOX 815.91795 661.88034 1116.7726499999999 921.8186800000001> seen at <TIME 00:07:40.133 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "3",
+            "5",
+            "7",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_135": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            },
+            "image 1": {
+                "time": "00:18:17.599",
+                "id": "P03-20240218-140054"
+            }
+        },
+        "question": "How many times did the object <BBOX 789.44274 664.28718 994.02393 888.12336> seen at <TIME 00:18:17.599 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "2",
+            "6",
+            "4",
+            "7"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_136": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-162302"
+            },
+            "image 1": {
+                "id": "P09-20240622-162302",
+                "time": "00:02:08.433"
+            }
+        },
+        "question": "How many times did the object <BBOX 1225.08 255.125 1352.643 373.06> seen at <TIME 00:02:08.433 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "5",
+            "6",
+            "1",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_137": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-090812"
+            },
+            "image 1": {
+                "id": "P05-20240424-090812",
+                "time": "00:02:25.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 847.20684 673.915 1030.1265 842.39316> seen at <TIME 00:02:25.633 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "3",
+            "7",
+            "6",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_138": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            },
+            "image 1": {
+                "id": "P06-20240510-121619",
+                "time": "00:15:07.299"
+            }
+        },
+        "question": "How many times did the object <BBOX 864.0547 356.21197 1191.385 572.82735> seen at <TIME 00:15:07.299 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "4",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_139": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-083515"
+            },
+            "image 1": {
+                "id": "P05-20240425-083515",
+                "time": "00:00:18.766"
+            }
+        },
+        "question": "How many times did the object <BBOX 794.715 697.612 981.2560000000001 884.1519999999999> seen at <TIME 00:00:18.766 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "2",
+            "7",
+            "4",
+            "1"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_140": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-091657"
+            },
+            "image 1": {
+                "id": "P03-20240217-091657",
+                "time": "00:07:00.466"
+            }
+        },
+        "question": "How many times did the object <BBOX 819.25 733.16 996.986 913.673> seen at <TIME 00:07:00.466 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_141": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            },
+            "image 1": {
+                "id": "P03-20240217-131219",
+                "time": "00:22:17.099"
+            }
+        },
+        "question": "How many times did the object <BBOX 1073.45 789.44274 1179.3500000000001 900.1569999999999> seen at <TIME 00:22:17.099 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "6",
+            "5",
+            "4",
+            "2"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_142": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            },
+            "image 1": {
+                "id": "P07-20240531-201703",
+                "time": "00:29:50.000"
+            }
+        },
+        "question": "How many times did the object <BBOX 847.20684 710.01709 1097.518 948.2940000000001> seen at <TIME 00:29:50.000 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "7",
+            "3",
+            "4",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_143": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            },
+            "image 1": {
+                "id": "P05-20240424-171038",
+                "time": "00:19:23.433"
+            }
+        },
+        "question": "How many times did the object <BBOX 791.85 885.716 1049.381 1092.704> seen at <TIME 00:19:23.433 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "3",
+            "5",
+            "6",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_144": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-090328"
+            },
+            "image 1": {
+                "id": "P06-20240510-090328",
+                "time": "00:28:45.233"
+            }
+        },
+        "question": "How many times did the object <BBOX 945.887 555.97949 1203.4189999999999 854.4270000000001> seen at <TIME 00:28:45.233 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "2",
+            "7",
+            "6",
+            "5"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_145": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-150310"
+            },
+            "image 1": {
+                "id": "P03-20240217-150310",
+                "time": "00:14:00.899"
+            }
+        },
+        "question": "How many times did the object <BBOX 989.21 671.508 1299.692 953.1080000000001> seen at <TIME 00:14:00.899 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "3",
+            "7",
+            "5",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_146": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-150310"
+            },
+            "image 1": {
+                "time": "00:09:35.766",
+                "id": "P03-20240217-150310"
+            }
+        },
+        "question": "How many times did the object <BBOX 714.831 512.656 1227.487 1025.313> seen at <TIME 00:09:35.766 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "1",
+            "6",
+            "5",
+            "3"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_147": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            },
+            "image 1": {
+                "id": "P02-20240211-175138",
+                "time": "00:27:12.966"
+            }
+        },
+        "question": "How many times did the object <BBOX 811.104 772.595 1010.8720000000001 839.986> seen at <TIME 00:27:12.966 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "1",
+            "6",
+            "2",
+            "3"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_148": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-090812"
+            },
+            "image 1": {
+                "id": "P05-20240424-090812",
+                "time": "00:02:30.599"
+            }
+        },
+        "question": "How many times did the object <BBOX 823.13846 592.08205 1087.8906 813.5111099999999> seen at <TIME 00:02:30.599 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "1",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_149": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-184214"
+            },
+            "image 1": {
+                "id": "P01-20240203-184214",
+                "time": "00:10:37.766"
+            }
+        },
+        "question": "How many times did the object <BBOX 998.83761 206.98803 1282.844 462.11282> seen at <TIME 00:10:37.766 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "1",
+            "4",
+            "2",
+            "3"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_150": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-150310"
+            },
+            "image 1": {
+                "time": "00:04:20.533",
+                "id": "P03-20240217-150310"
+            }
+        },
+        "question": "How many times did the object <BBOX 890.53 823.138 1092.704 1001.244> seen at <TIME 00:04:20.533 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "6",
+            "5",
+            "1",
+            "3"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_151": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            },
+            "image 1": {
+                "id": "P06-20240510-104642",
+                "time": "00:42:16.733"
+            }
+        },
+        "question": "How many times did the object <BBOX 825.5453 738.89915 938.66667 856.834> seen at <TIME 00:42:16.733 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "6",
+            "4",
+            "1",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_152": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            },
+            "image 1": {
+                "id": "P06-20240510-104642",
+                "time": "00:45:26.966"
+            }
+        },
+        "question": "How many times did the object <BBOX 943.48034 572.82735 1083.077 724.45812> seen at <TIME 00:45:26.966 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "5",
+            "7",
+            "2",
+            "4"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_153": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:05:26.899"
+            }
+        },
+        "question": "How many times did the object <BBOX 748.71869 620.951 953.147 746.163> seen at <TIME 00:05:26.899 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "1",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_154": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-144430"
+            },
+            "image 1": {
+                "id": "P03-20240218-144430",
+                "time": "00:12:26.366"
+            }
+        },
+        "question": "How many times did the object <BBOX 631.62617 563.2 860.591 881.645> seen at <TIME 00:12:26.366 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "2",
+            "6",
+            "4",
+            "7"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_155": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-175138"
+            },
+            "image 1": {
+                "id": "P02-20240211-175138",
+                "time": "00:01:53.166"
+            }
+        },
+        "question": "How many times did the object <BBOX 697.98291 618.557 977.1759999999999 1034.94> seen at <TIME 00:01:53.166 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "6",
+            "1",
+            "5",
+            "3"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_156": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            },
+            "image 1": {
+                "time": "00:09:21.299",
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "How many times did the object <BBOX 873.682 1003.651 1073.45 1107.145> seen at <TIME 00:09:21.299 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "6",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_157": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-195538"
+            },
+            "image 1": {
+                "id": "P01-20240202-195538",
+                "time": "00:03:37.599"
+            }
+        },
+        "question": "How many times did the object <BBOX 640.2188 796.66325 991.61709 991.61709> seen at <TIME 00:03:37.599 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "4",
+            "2",
+            "5",
+            "1"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_158": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-184003"
+            },
+            "image 1": {
+                "id": "P04-20240415-184003",
+                "time": "00:07:12.133"
+            }
+        },
+        "question": "How many times did the object <BBOX 897.75 852.021 1080.67009 1034.9401699999999> seen at <TIME 00:07:12.133 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "7",
+            "4",
+            "6",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_159": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-091657"
+            },
+            "image 1": {
+                "id": "P03-20240217-091657",
+                "time": "00:14:28.233"
+            }
+        },
+        "question": "How many times did the object <BBOX 758.154 741.491 1041.42 1294.138> seen at <TIME 00:14:28.233 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "3",
+            "4",
+            "1",
+            "2"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_160": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-094713"
+            },
+            "image 1": {
+                "time": "00:02:17.000",
+                "id": "P03-20240217-094713"
+            }
+        },
+        "question": "How many times did the object <BBOX 568.01368 12.03419 746.12 175.69915> seen at <TIME 00:02:17.000 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "5",
+            "2",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_161": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            },
+            "image 1": {
+                "id": "P03-20240217-131219",
+                "time": "00:38:25.933"
+            }
+        },
+        "question": "How many times did the object <BBOX 1039.75385 695.57607 1232.30085 837.579> seen at <TIME 00:38:25.933 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "7",
+            "3",
+            "1",
+            "6"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_162": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240511-121048"
+            },
+            "image 1": {
+                "id": "P06-20240511-121048",
+                "time": "00:00:07.666"
+            }
+        },
+        "question": "How many times did the object <BBOX 753.34 671.508 974.769 789.443> seen at <TIME 00:00:07.666 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "5",
+            "1",
+            "4",
+            "2"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_163": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-170021"
+            },
+            "image 1": {
+                "id": "P05-20240423-170021",
+                "time": "00:14:33.399"
+            }
+        },
+        "question": "How many times did the object <BBOX 801.47692 1037.347 986.80342 1244.33504> seen at <TIME 00:14:33.399 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "7",
+            "6",
+            "3",
+            "5"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_164": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            },
+            "image 1": {
+                "id": "P08-20240614-085000",
+                "time": "00:17:34.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 1099.74 316.59172 1402.446 849.799> seen at <TIME 00:17:34.633 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "7",
+            "2",
+            "5"
+        ],
+        "correct_idx": 4
+    },
+    "object_motion_object_movement_counting_165": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-121042"
+            },
+            "image 1": {
+                "id": "P01-20240204-121042",
+                "time": "00:00:09.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 904.97094 702.79658 1237.115 938.6669999999999> seen at <TIME 00:00:09.633 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "5",
+            "6",
+            "2",
+            "7"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_166": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-140054"
+            },
+            "image 1": {
+                "id": "P03-20240218-140054",
+                "time": "00:03:22.400"
+            }
+        },
+        "question": "How many times did the object <BBOX 883.309 890.53 1225.08 1109.552> seen at <TIME 00:03:22.400 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "5",
+            "6",
+            "3",
+            "1"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_167": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-192543"
+            },
+            "image 1": {
+                "id": "P03-20240217-192543",
+                "time": "00:33:16.866"
+            }
+        },
+        "question": "How many times did the object <BBOX 762.96752 512.65641 1126.4 878.4960000000001> seen at <TIME 00:33:16.866 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "3",
+            "1"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_168": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240529-194518"
+            },
+            "image 1": {
+                "id": "P07-20240529-194518",
+                "time": "00:16:04.000"
+            }
+        },
+        "question": "How many times did the object <BBOX 728.27586 480.40653 1093.691 758.94> seen at <TIME 00:16:04.000 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "1",
+            "2",
+            "5",
+            "3"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_169": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            },
+            "image 1": {
+                "id": "P09-20240623-120359",
+                "time": "00:02:57.500"
+            }
+        },
+        "question": "How many times did the object <BBOX 907.37778 587.26837 1338.202 1107.1453000000001> seen at <TIME 00:02:57.500 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "7",
+            "6",
+            "5"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_170": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-161948"
+            },
+            "image 1": {
+                "time": "00:12:45.299",
+                "id": "P01-20240202-161948"
+            }
+        },
+        "question": "How many times did the object <BBOX 912.421 625.263 1211.1580000000001 921.684> seen at <TIME 00:12:45.299 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "3",
+            "6",
+            "7",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_171": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-104948"
+            },
+            "image 1": {
+                "id": "P02-20240211-104948",
+                "time": "00:01:43.633"
+            }
+        },
+        "question": "How many times did the object <BBOX 820.732 811.10427 955.515 900.157> seen at <TIME 00:01:43.633 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "3",
+            "2",
+            "6",
+            "1"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_172": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-194141"
+            },
+            "image 1": {
+                "id": "P02-20240209-194141",
+                "time": "00:00:56.000"
+            }
+        },
+        "question": "How many times did the object <BBOX 820.73162 129.969 1066.229 305.66837999999996> seen at <TIME 00:00:56.000 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "4",
+            "2",
+            "5",
+            "7"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_173": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            },
+            "image 1": {
+                "id": "P06-20240510-104642",
+                "time": "00:44:29.533"
+            }
+        },
+        "question": "How many times did the object <BBOX 844.8 779.81538 1126.4 1013.279> seen at <TIME 00:44:29.533 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "4",
+            "6",
+            "1",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_174": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-181030"
+            },
+            "image 1": {
+                "time": "00:12:11.600",
+                "id": "P04-20240414-181030"
+            }
+        },
+        "question": "How many times did the object <BBOX 859.241 755.747 1046.974 856.834> seen at <TIME 00:12:11.600 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "3",
+            "1",
+            "6",
+            "5"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_175": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240623-120359"
+            },
+            "image 1": {
+                "time": "00:04:03.266",
+                "id": "P09-20240623-120359"
+            }
+        },
+        "question": "How many times did the object <BBOX 955.51453 570.42051 1164.909 772.595> seen at <TIME 00:04:03.266 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "5",
+            "6",
+            "3",
+            "1"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_176": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-121619"
+            },
+            "image 1": {
+                "id": "P06-20240510-121619",
+                "time": "00:05:23.733"
+            }
+        },
+        "question": "How many times did the object <BBOX 929.03932 712.42393 1140.841 864.0547> seen at <TIME 00:05:23.733 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "2",
+            "4",
+            "1",
+            "6"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_177": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240530-102543"
+            },
+            "image 1": {
+                "id": "P07-20240530-102543",
+                "time": "00:20:48.766"
+            }
+        },
+        "question": "How many times did the object <BBOX 942.926 656.726 1405.4450000000002 1073.249> seen at <TIME 00:20:48.766 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "6",
+            "2",
+            "4"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_178": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-135423"
+            },
+            "image 1": {
+                "id": "P06-20240510-135423",
+                "time": "00:03:48.699"
+            }
+        },
+        "question": "How many times did the object <BBOX 861.64786 724.45812 1393.55881 1013.27863> seen at <TIME 00:03:48.699 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "5",
+            "3",
+            "6",
+            "7"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_179": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-161948"
+            },
+            "image 1": {
+                "id": "P01-20240202-161948",
+                "time": "00:07:51.666"
+            }
+        },
+        "question": "How many times did the object <BBOX 833.895 849.932 1077.649 1084.064> seen at <TIME 00:07:51.666 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "1",
+            "5",
+            "4",
+            "6"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_180": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240216-185832"
+            },
+            "image 1": {
+                "time": "00:07:02.833",
+                "id": "P03-20240216-185832"
+            }
+        },
+        "question": "How many times did the object <BBOX 766.485 674.84 880.347 749.822> seen at <TIME 00:07:02.833 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "5",
+            "4",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_181": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240622-162302"
+            },
+            "image 1": {
+                "time": "00:05:12.699",
+                "id": "P09-20240622-162302"
+            }
+        },
+        "question": "How many times did the object <BBOX 945.88718 618.55726 1176.944 755.74701> seen at <TIME 00:05:12.699 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "4",
+            "1",
+            "7",
+            "6"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_182": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            },
+            "image 1": {
+                "id": "P06-20240510-104642",
+                "time": "00:49:02.566"
+            }
+        },
+        "question": "How many times did the object <BBOX 957.92137 775.002 1225.08034 986.8029999999999> seen at <TIME 00:49:02.566 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "4",
+            "2",
+            "6",
+            "5"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_183": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240203-121517"
+            },
+            "image 1": {
+                "id": "P01-20240203-121517",
+                "time": "00:06:09.666"
+            }
+        },
+        "question": "How many times did the object <BBOX 753.34017 861.648 1102.3319999999999 1061.415> seen at <TIME 00:06:09.666 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "5",
+            "3",
+            "1",
+            "6"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_184": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            },
+            "image 1": {
+                "id": "P08-20240614-184945",
+                "time": "00:12:19.899"
+            }
+        },
+        "question": "How many times did the object <BBOX 1049.381 560.793 1162.5030000000002 676.321> seen at <TIME 00:12:19.899 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "3",
+            "7",
+            "5",
+            "6"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_185": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240211-111822"
+            },
+            "image 1": {
+                "id": "P02-20240211-111822",
+                "time": "00:08:07.600"
+            }
+        },
+        "question": "How many times did the object <BBOX 923.06948 604.03626 1186.80322 872.0243399999999> seen at <TIME 00:08:07.600 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "7",
+            "5",
+            "1",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_186": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            },
+            "image 1": {
+                "id": "P08-20240614-085000",
+                "time": "00:12:47.600"
+            }
+        },
+        "question": "How many times did the object <BBOX 758.154 991.432 960.884 1133.065> seen at <TIME 00:12:47.600 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "1",
+            "3",
+            "2",
+            "4"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_187": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240424-171038"
+            },
+            "image 1": {
+                "id": "P05-20240424-171038",
+                "time": "00:18:17.433"
+            }
+        },
+        "question": "How many times did the object <BBOX 827.952 1022.906 1063.8220000000001 1179.35> seen at <TIME 00:18:17.433 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "3",
+            "7",
+            "5",
+            "1"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_188": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-175627"
+            },
+            "image 1": {
+                "id": "P01-20240202-175627",
+                "time": "00:02:29.000"
+            }
+        },
+        "question": "How many times did the object <BBOX 924.22564 779.815 1191.385 1037.347> seen at <TIME 00:02:29.000 video 1> change locations in the video?",
+        "choices": [
+            "5",
+            "6",
+            "4",
+            "2",
+            "7"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_189": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            },
+            "image 1": {
+                "time": "00:40:33.666",
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "How many times did the object <BBOX 645.03248 842.39317 897.75 1104.73868> seen at <TIME 00:40:33.666 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "1",
+            "3",
+            "7",
+            "5"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_190": {
+        "inputs": {
+            "video 1": {
+                "id": "P02-20240209-194141"
+            },
+            "image 1": {
+                "time": "00:11:38.733",
+                "id": "P02-20240209-194141"
+            }
+        },
+        "question": "How many times did the object <BBOX 695.57607 64.98462 1099.92479 584.8620000000001> seen at <TIME 00:11:38.733 video 1> change locations in the video?",
+        "choices": [
+            "1",
+            "5",
+            "3",
+            "6",
+            "7"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_191": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-120411"
+            },
+            "image 1": {
+                "time": "00:00:04.400",
+                "id": "P01-20240204-120411"
+            }
+        },
+        "question": "How many times did the object <BBOX 1128.807 936.26 1263.59 1056.602> seen at <TIME 00:00:04.400 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "3",
+            "7",
+            "1",
+            "6"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_192": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "id": "P05-20240423-180529",
+                "time": "00:10:25.700"
+            }
+        },
+        "question": "How many times did the object <BBOX 897.75 772.595 1054.195 856.8340000000001> seen at <TIME 00:10:25.700 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "5",
+            "6",
+            "4",
+            "7"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_193": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-201444"
+            },
+            "image 1": {
+                "time": "00:18:38.799",
+                "id": "P05-20240425-201444"
+            }
+        },
+        "question": "How many times did the object <BBOX 694.28008 777.594 752.6 908.118> seen at <TIME 00:18:38.799 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "5",
+            "3",
+            "1",
+            "6"
+        ],
+        "correct_idx": 3
+    },
+    "object_motion_object_movement_counting_194": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240423-180529"
+            },
+            "image 1": {
+                "id": "P05-20240423-180529",
+                "time": "00:18:56.766"
+            }
+        },
+        "question": "How many times did the object <BBOX 738.899 994.024 888.123 1056.602> seen at <TIME 00:18:56.766 video 1> change locations in the video?",
+        "choices": [
+            "6",
+            "3",
+            "7",
+            "1",
+            "5"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_195": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240624-160737"
+            },
+            "image 1": {
+                "id": "P09-20240624-160737",
+                "time": "00:15:22.733"
+            }
+        },
+        "question": "How many times did the object <BBOX 789.443 445.265 1239.521 986.803> seen at <TIME 00:15:22.733 video 1> change locations in the video?",
+        "choices": [
+            "4",
+            "1",
+            "2",
+            "6",
+            "3"
+        ],
+        "correct_idx": 2
+    },
+    "object_motion_object_movement_counting_196": {
+        "inputs": {
+            "video 1": {
+                "id": "P05-20240425-173353"
+            },
+            "image 1": {
+                "id": "P05-20240425-173353",
+                "time": "00:08:02.666"
+            }
+        },
+        "question": "How many times did the object <BBOX 770.188 724.458 1013.279 907.3779999999999> seen at <TIME 00:08:02.666 video 1> change locations in the video?",
+        "choices": [
+            "3",
+            "7",
+            "5",
+            "1",
+            "6"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_197": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240202-171220"
+            },
+            "image 1": {
+                "id": "P01-20240202-171220",
+                "time": "00:00:26.533"
+            }
+        },
+        "question": "How many times did the object <BBOX 1145.6547 216.615 1345.422 416.38291000000004> seen at <TIME 00:00:26.533 video 1> change locations in the video?",
+        "choices": [
+            "7",
+            "2",
+            "5",
+            "4",
+            "6"
+        ],
+        "correct_idx": 1
+    },
+    "object_motion_object_movement_counting_198": {
+        "inputs": {
+            "video 1": {
+                "id": "P01-20240204-142301"
+            },
+            "image 1": {
+                "id": "P01-20240204-142301",
+                "time": "00:03:29.733"
+            }
+        },
+        "question": "How many times did the object <BBOX 782.22222 558.38632 1237.115 986.8029999999999> seen at <TIME 00:03:29.733 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "6",
+            "4",
+            "7",
+            "5"
+        ],
+        "correct_idx": 0
+    },
+    "object_motion_object_movement_counting_199": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240415-175615"
+            },
+            "image 1": {
+                "time": "00:04:30.899",
+                "id": "P04-20240415-175615"
+            }
+        },
+        "question": "How many times did the object <BBOX 839.98632 1087.8903 1027.72014 1273.21709> seen at <TIME 00:04:30.899 video 1> change locations in the video?",
+        "choices": [
+            "2",
+            "7",
+            "5",
+            "6",
+            "4"
+        ],
+        "correct_idx": 0
+    }
+}

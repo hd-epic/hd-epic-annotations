@@ -1,0 +1,2152 @@
+{
+    "nutrition_video_nutrition_estimation_0": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "butternut squash",
+            "onions",
+            "spring greens",
+            "split red lentils",
+            "spicy garlic & coconut paste, ginger lentil stock and dhal spice mix"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I04"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R01_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I07"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_1": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "What is the ingredient with highest fat in this recipe?",
+        "choices": [
+            "plant-based burgers",
+            "sunflower oil",
+            "butter",
+            "sour cream",
+            "stroganoff seasoning, mushroom stock and horseradish seasoning"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R02_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I07"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I09"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_2": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "onions",
+            "spicy garlic & coconut paste, ginger lentil stock and dhal spice mix",
+            "sunflower oil",
+            "split red lentils",
+            "coconut milk"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P03_R01_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I07"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I01"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R01_I05"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_3": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "oregano",
+            "garlic powder",
+            "olive oil cooking spray",
+            "black pepper",
+            "teriyaki salmon kebabs"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R05_I07"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R05_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.6,
+                "ing_id": "P08_R05_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R05_I05"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R05_I01"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_4": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What is the ingredient with highest fat in this recipe?",
+        "choices": [
+            "onions",
+            "coconut milk",
+            "sunflower oil",
+            "spicy garlic & coconut paste, ginger lentil stock and dhal spice mix",
+            "split red lentils"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I02"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R01_I05"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I07"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I01"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_5": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "soy sauce",
+            "ginger",
+            "sesame oil",
+            "crispy chilli oil",
+            "cucumber"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R09_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R09_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R09_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R09_I03"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R09_I01"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_6": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "garlic powder",
+            "cherry tomatoes",
+            "tuna",
+            "balsamic glaze",
+            "olive oil"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R06_I09"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R06_I14"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R06_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R06_I17"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R06_I01"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_7": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "spicy garlic & coconut paste, ginger lentil stock and dhal spice mix",
+            "split red lentils",
+            "onions",
+            "coconut milk",
+            "sunflower oil"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I07"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P03_R01_I02"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R01_I05"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I06"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_8": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "balsamic glaze",
+            "olive oil",
+            "garlic powder",
+            "fusilli pasta",
+            "cherry tomatoes"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R06_I17"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R06_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R06_I09"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R06_I16"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R06_I14"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_9": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "sweetcorn",
+            "greek yoghurt",
+            "avocado",
+            "parsley",
+            "black beans"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.6,
+                "ing_id": "P07_R07_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.4,
+                "ing_id": "P07_R07_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P07_R07_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P07_R07_I03"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P07_R07_I07"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_10": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "sundried tomato couscous",
+            "cod fishcakes",
+            "salmon fishcakes",
+            "black pepper",
+            "sesame oil"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R07_I09"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R07_I12"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R07_I13"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R07_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.4,
+                "ing_id": "P08_R07_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_11": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "broccoli",
+            "teriyaki salmon kebabs",
+            "garlic powder",
+            "olive oil cooking spray",
+            "chickpea, spinach & quinoa mix"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.4,
+                "ing_id": "P08_R05_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.4,
+                "ing_id": "P08_R05_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R05_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R05_I04"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R05_I03"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_12": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "red onions",
+            "eggs",
+            "finger chillies",
+            "fat free cottage cheese",
+            "olive oil cooking spray"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I01"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R03_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I05"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I03"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_13": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-100047"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "whole milk",
+            "sugar",
+            "split red lentils",
+            "coffee",
+            "spring greens"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P06_R02_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R02_I02"
+            },
+            {
+                "source": "other recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.4,
+                "ing_id": "P06_R02_I03"
+            },
+            {
+                "source": "other recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_14": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "What is the ingredient with highest fat in this recipe?",
+        "choices": [
+            "eggs",
+            "finger chillies",
+            "olive oil cooking spray",
+            "red onions",
+            "olive oil"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R03_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R03_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R03_I06"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_15": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "red curry paste",
+            "chilli",
+            "bamboo shoots",
+            "coconut milk",
+            "chicken breasts"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.6,
+                "ing_id": "P09_R01_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P09_R01_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P09_R01_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P09_R01_I02"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P09_R01_I06"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_16": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "What is the ingredient with highest fat in this recipe?",
+        "choices": [
+            "teriyaki salmon kebabs",
+            "chickpea, spinach & quinoa mix",
+            "broccoli",
+            "garlic powder",
+            "olive oil cooking spray"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R05_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P08_R05_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R05_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R05_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R05_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_17": {
+        "inputs": {
+            "video 1": {
+                "id": "P04-20240414-065311"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "spicy garlic & coconut paste, ginger lentil stock and dhal spice mix",
+            "strawberry granola",
+            "ground cinnamon",
+            "almond milk (unsweetened)",
+            "split red lentils"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            {
+                "source": "other recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I07"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P04_R03_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P04_R03_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P04_R03_I02"
+            },
+            {
+                "source": "other recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I01"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_18": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "What is the ingredient with highest fat in this recipe?",
+        "choices": [
+            "parsley",
+            "sweet potatoes",
+            "avocado",
+            "olive oil",
+            "greek yoghurt"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P07_R07_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P07_R07_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P07_R07_I01"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P07_R07_I10"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P07_R07_I02"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_19": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "mixed bean salad",
+            "balsamic glaze",
+            "salt",
+            "cherry tomatoes",
+            "mixed seeds"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R02_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R02_I10"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R02_I11"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R02_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R02_I05"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_20": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240613-123547"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "balsamic glaze",
+            "mixed seeds",
+            "mixed bean salad",
+            "coriander",
+            "rocket"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R02_I10"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R02_I05"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R02_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.4,
+                "ing_id": "P08_R02_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.6,
+                "ing_id": "P08_R02_I01"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_21": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "plant-based burgers",
+            "stroganoff seasoning, mushroom stock and horseradish seasoning",
+            "tomato puree",
+            "onions",
+            "chestnut mushrooms"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R02_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I09"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R02_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P03_R02_I02"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_22": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "chilli powder",
+            "sweetcorn",
+            "cumin",
+            "black beans",
+            "sweet potatoes"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I05"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I07"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P07_R07_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_23": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "cod fishcakes",
+            "oregano",
+            "salmon fishcakes",
+            "black pepper",
+            "sundried tomato couscous"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.6,
+                "ing_id": "P08_R07_I12"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R07_I03"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R07_I13"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R07_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R07_I09"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_24": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "greek yoghurt",
+            "avocado",
+            "chilli powder",
+            "cumin",
+            "sweet potatoes"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I05"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P07_R07_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_25": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "eggs",
+            "olive oil",
+            "red onions",
+            "finger chillies",
+            "olive oil cooking spray"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R03_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R03_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P08_R03_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I03"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_26": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "chicken breasts",
+            "chilli",
+            "vegetable oil",
+            "red curry paste",
+            "coconut milk"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.6,
+                "ing_id": "P09_R01_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P09_R01_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P09_R01_I07"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P09_R01_I03"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P09_R01_I02"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_27": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "vegetable oil",
+            "spicy garlic & coconut paste, ginger lentil stock and dhal spice mix",
+            "potatoes",
+            "butter",
+            "whole wheat flour"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R05_I02"
+            },
+            {
+                "source": "other recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I07"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R05_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R05_I05"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P06_R05_I01"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_28": {
+        "inputs": {
+            "video 1": {
+                "id": "P07-20240531-201703"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "sweet potatoes",
+            "avocado",
+            "chilli powder",
+            "greek yoghurt",
+            "cumin"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P07_R07_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P07_R07_I05"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_29": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "What is the ingredient with highest fat in this recipe?",
+        "choices": [
+            "black pepper",
+            "baby spinach",
+            "olive oil",
+            "tuna",
+            "mixed bean salad"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R06_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R06_I05"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R06_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R06_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R06_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_30": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "stroganoff seasoning, mushroom stock and horseradish seasoning",
+            "potatoes",
+            "chestnut mushrooms",
+            "onions",
+            "tomato puree"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I09"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R02_I05"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P03_R02_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.4,
+                "ing_id": "P03_R02_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I06"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_31": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "What is the ingredient with highest fat in this recipe?",
+        "choices": [
+            "teriyaki salmon kebabs",
+            "garlic powder",
+            "chickpea, spinach & quinoa mix",
+            "broccoli",
+            "olive oil cooking spray"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R05_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R05_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P08_R05_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R05_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R05_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_32": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "sunflower oil",
+            "butter",
+            "tomato puree",
+            "plant-based burgers",
+            "sour cream"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I07"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I06"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R02_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_33": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "butter",
+            "split red lentils",
+            "whole wheat flour",
+            "potatoes",
+            "vegetable oil"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P06_R05_I05"
+            },
+            {
+                "source": "other recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I01"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P06_R05_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R05_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R05_I02"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_34": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "whole wheat flour",
+            "split red lentils",
+            "potatoes",
+            "vegetable oil",
+            "butter"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P06_R05_I01"
+            },
+            {
+                "source": "other recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R05_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R05_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P06_R05_I05"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_35": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240218-190556"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "stroganoff seasoning, mushroom stock and horseradish seasoning",
+            "potatoes",
+            "tomato puree",
+            "chestnut mushrooms",
+            "onions"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I09"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R02_I05"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R02_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P03_R02_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.4,
+                "ing_id": "P03_R02_I01"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_36": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-130401"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "balsamic glaze",
+            "mixed bean salad",
+            "tuna",
+            "olive oil",
+            "garlic powder"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P08_R06_I17"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R06_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R06_I02"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R06_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P08_R06_I09"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_37": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "What is the ingredient with highest fat in this recipe?",
+        "choices": [
+            "black pepper",
+            "oregano",
+            "sesame oil",
+            "salmon fishcakes",
+            "cod fishcakes"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R07_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R07_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R07_I04"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R07_I13"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R07_I12"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_38": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "red curry paste",
+            "coconut milk",
+            "chilli",
+            "courgette",
+            "bamboo shoots"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P09_R01_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P09_R01_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P09_R01_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P09_R01_I05"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P09_R01_I01"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_39": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "red onions",
+            "olive oil cooking spray",
+            "finger chillies",
+            "olive oil",
+            "eggs"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P08_R03_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R03_I06"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R03_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_40": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-085000"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "olive oil cooking spray",
+            "red onions",
+            "finger chillies",
+            "fat free cottage cheese",
+            "eggs"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R03_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R03_I02"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R03_I05"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P08_R03_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_41": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-140459"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "whole wheat flour",
+            "vegetable oil",
+            "split red lentils",
+            "potatoes",
+            "butter"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P06_R05_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P06_R05_I02"
+            },
+            {
+                "source": "other recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R05_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P06_R05_I05"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_42": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240617-184909"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "sundried tomato couscous",
+            "sesame oil",
+            "black pepper",
+            "cod fishcakes",
+            "salmon fishcakes"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R07_I09"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.4,
+                "ing_id": "P08_R07_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R07_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R07_I12"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R07_I13"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_43": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "split red lentils",
+            "spicy garlic & coconut paste, ginger lentil stock and dhal spice mix",
+            "onions",
+            "butternut squash",
+            "spring greens"
+        ],
+        "correct_idx": 0,
+        "metadata": [
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R01_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I07"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_44": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240614-184945"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "garlic powder",
+            "olive oil cooking spray",
+            "chickpea, spinach & quinoa mix",
+            "teriyaki salmon kebabs",
+            "broccoli"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P08_R05_I08"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R05_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R05_I03"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R05_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R05_I02"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_45": {
+        "inputs": {
+            "video 1": {
+                "id": "P03-20240217-131219"
+            }
+        },
+        "question": "What is the ingredient with highest carbs in this recipe?",
+        "choices": [
+            "butternut squash",
+            "onions",
+            "spring greens",
+            "spicy garlic & coconut paste, ginger lentil stock and dhal spice mix",
+            "split red lentils"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P03_R01_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P03_R01_I07"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P03_R01_I01"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_46": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "What is the ingredient with highest calories in this recipe?",
+        "choices": [
+            "ginger",
+            "crispy chilli oil",
+            "cucumber",
+            "garlic",
+            "sesame oil"
+        ],
+        "correct_idx": 4,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R09_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.4,
+                "ing_id": "P08_R09_I03"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R09_I01"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R09_I05"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R09_I04"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_47": {
+        "inputs": {
+            "video 1": {
+                "id": "P08-20240622-141902"
+            }
+        },
+        "question": "What is the ingredient with highest protein in this recipe?",
+        "choices": [
+            "cucumber",
+            "soy sauce",
+            "garlic",
+            "ginger",
+            "crispy chilli oil"
+        ],
+        "correct_idx": 1,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R09_I01"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P08_R09_I06"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P08_R09_I05"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R09_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P08_R09_I03"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_48": {
+        "inputs": {
+            "video 1": {
+                "id": "P09-20240621-093545"
+            }
+        },
+        "question": "What is the ingredient with highest fat in this recipe?",
+        "choices": [
+            "vegetable oil",
+            "bamboo shoots",
+            "coconut milk",
+            "chilli",
+            "red curry paste"
+        ],
+        "correct_idx": 2,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.8,
+                "ing_id": "P09_R01_I07"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P09_R01_I01"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P09_R01_I02"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.6,
+                "ing_id": "P09_R01_I04"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P09_R01_I03"
+            }
+        ]
+    },
+    "nutrition_video_nutrition_estimation_49": {
+        "inputs": {
+            "video 1": {
+                "id": "P06-20240510-104642"
+            }
+        },
+        "question": "What is the ingredient with highest fat in this recipe?",
+        "choices": [
+            "cumin seeds",
+            "coriander powder",
+            "tomatoes",
+            "salted butter",
+            "onions"
+        ],
+        "correct_idx": 3,
+        "metadata": [
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P06_R03_I10"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0.2,
+                "ing_id": "P06_R03_I13"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R03_I01"
+            },
+            {
+                "source": "positive",
+                "val_gap": "positive",
+                "ing_id": "P06_R03_I05"
+            },
+            {
+                "source": "same recipe",
+                "val_gap": 0,
+                "ing_id": "P06_R03_I02"
+            }
+        ]
+    }
+}
