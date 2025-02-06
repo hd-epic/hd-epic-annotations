@@ -3,8 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1 style="text-align: center;"><img src="https://hd-epic.github.io/assets/img/hd-epic-logo-light.png" width="80"><br>HD-EPIC VQA Interface</h1>
     <title>HD-EPIC VQA Interface</title>
     <style>
+        .wrapper {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
         body {
             max-width: 1200px;
             margin: 20px auto;
@@ -76,12 +82,66 @@
         #readme li {
             margin-bottom: 8px; /* Adds spacing between list items */
         }
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #000000;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #007BFF;
+        }
+        .button {
+            display: block;
+            width: 100px;
+            margin: 20px auto;
+            padding: 10px;
+            text-align: center;
+            background: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
     </style>
 </head>
-<body>
-    <h1 style="text-align: center;">HD-EPIC VQA Interface</h1>
-    <div id="readme">
-        <p>This interface visualizes the VQA questions for exploration. To start, select the VQA question JSON file <input type="file" id="question-file" accept=".json">.</p>
+<body class="wrapper">
+    <div class="container">
+        <!-- <h1>VQA Interface Guide</h1> -->
+        <p>This interface allows you to explore a sample of VQA questions. To start, select the VQA question JSON file <input type="file" id="question-file" accept=".json">.</p>
+        
+        <div class="section">
+            <h2>How It Works:</h2>
+            <ul>
+                <li>The <span class="highlight">Video Player (left)</span> shows full videos.</li>
+                <li>The <span class="highlight">Video Clip Player (right)</span> plays video clips with defined start/end times.</li>
+                <li><span class="highlight">Timestamps</span> appear below the Video Player. Click to pause at that frame.</li>
+                <li><span class="highlight">Bounding Boxes</span> are displayed if available.</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <p>Select an answer and click <span class="highlight">'Next'</span> to continue. Your accuracy will be tracked.</p>
+        </div>
+    </div>
+    <!-- <h1 style="text-align: center;">HD-EPIC VQA Interface</h1> -->
+    <!-- <div id="readme">
+        <p>This interface visualizes the VQA questions for exploration.</p>
         <p>The question, along with its corresponding answers and related video input, will be displayed. Depending on the type of question, different inputs will be shown:</p>
         <ul>
             <li><strong>Full videos</strong> will appear in the <em>Video Player</em> on the left side.</li>
@@ -90,7 +150,7 @@
             <li><strong>Bounding boxes</strong> will be shown at the corresponding video frames if the input contains bounding box information.</li>
         </ul>
         <p>You can select an answer and click 'Next' button to proceed. The next question will be displayed, and the accuracy of your selections will be continuously tracked.</p>
-    </div>
+    </div> -->
             <!-- <h2>Set Up:</h2>
         <ul>
             <li>if you want to <span style="color: red;">continue</span> from the last time, remember to select the xxx_answer.json saved last time <span style="color: red;">before select the question json file</span></li>
@@ -163,7 +223,7 @@
 
     <!-- Next Button with Accuracy -->
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px; width: 100%; height: 100px; margin: 0 auto;">
-        <button id="nextButton">Next</button>
+        <button class="button id="nextButton">Next</button>
         <p id="accuracyLabel" style="margin: 0;">Accuracy: 0%, Correct: 0, Total: 0</p>
         <button id="saveButton" class="hidden"><span style="color: red;">Save</span></button>
     </div>
