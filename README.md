@@ -2,7 +2,7 @@
 
 <!-- start badges -->
 [![CircleCI](https://img.shields.io/circleci/build/github/hd-epic/hd-epic-annotations.svg)](https://circleci.com/gh/hd-epic/hd-epic-annotations)
-[![GitHub release](https://img.shields.io/github/release/hd-epic/hd-epic-annotations.svg)](https://github.com/hd-epic/hdp-epic-annotations/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/hd-epic/hd-epic-annotations.svg)](https://github.com/hd-epic/hp-epic-annotations/releases/latest)
 [![arXiv-xx](https://img.shields.io/badge/arXiv-xx-green.svg)](https://arxiv.org/abs/2006.13256)
 <!-- end badges -->
 
@@ -132,9 +132,77 @@ You can access the data from: `scene-and-object-movements/hd-epic-scene-and-obje
   - **`end`**: The object's location, bbox and fixture at the end of the track, with the same structure as `start`. 
   - **`other_frames`**: A list of other annotated frames for the track with the same structure as `start`. 
 
-
-
 Moreover, the long-term associations between the tracks are coming soon, please keep an eye on our website: [HD-EPIC](https://hd-epic.github.io/#digital-twin-scene--object-movements). 
 
+## High Level
+
+This contains the high level activities as well as recipe and nutrition information
+
+### activities / PXX_recipe_timestamps.csv
+
+**Field Descriptions**:
+- **`video_id`**: A unique identifier for the video ID, i.e. `P01-20240202-110250`.
+- **`recipe_id`**: If the activity is part of the recipe, the recipe ID (for this participant) is noted. Leave empty for background activities.
+- **`high_level_activity_label`**: General description of high level activity.
+
+### complete_recipes.json
+
+**Field Descriptions**:
+- A unique identifier for each recipe formed of PXX-RYY, where XX is the participant id and YY is the recipe ID, unique for that participant
+- **`participant`**: Participant ID.
+- **`name`**: Name of that recipe.
+- **`type`**: Indicates whether the recipe is available as is online, or has been modified/adapted from an online or written source
+- **`source`**: A link to the online recipe before adaptation. Note that these links might no longer be available if the recipe is taken down from source.
+- **`steps`**: The ordered free form steps (as done by the participant, so could be modified from the source). Each step has a unique step ID
+- **`captures`**: If the recipe is done multiple times, then each is considered a separate capture. This is the case for a few recipes like coffee and cereal breakfast.
+   - **`videos`**: These are the one or more videos that contain the steps of this recipe
+   - **`ingredients`**: The list of ingredients and their nutrition. Note that the nutrition might differ across captures.
+      - A unique ingredient ID
+      - **`name`**: name of the ingredient in free form
+      - **`amount`**: If known, the amount of the ingredient added to the recipe.
+      - **`amount_unit`**: whether the measurement is in units, grams, ml, ...
+      - **`calories`**: the amount of calories of this ingredient in the amount specified.
+      - **`carbs`**: carbs
+      - **`fat`**: fat
+      - **`protein`**: protein
+      - **`weigh`**: the segments in the videos of when this ingredient is weighed - whether on the digital scale or through another measurement (e.g. spoon)
+      - **`add`**: the segments in the videos when this ingredient is added to the recipe.
+
+## Audio annotations
+
+This folder contains audio annotations HD_EPIC_Sounds (in csv and pkl) structured as follows: 
+
+### `HD-EPIC-Sounds.csv`
+
+This CSV file contains the sound annotations for HD-EPIC and contains 9 columns:
+
+| Column Name           | Type                       | Example                     | Description                                                                   |
+| --------------------- | -------------------------- | --------------------------- | ----------------------------------------------------------------------------------- |
+| `participant_id`      | string                     | `P01`                       | ID of the participant (unique per participant).                                     |
+| `video_id`            | string                     | `P01-20240202-110250`       | ID of the video where the segment originated from (unique per video).               |
+| `start_timestamp`     | string                     | `00:00:00.476`              | Start time in `HH:mm:ss.SSS` of the audio annotation.                               |
+| `stop_timestamp`      | string                     | `00:00:02.520`              | End time in `HH:mm:ss.SSS` of the audio annotation.                                 |
+| `start_sample`        | int                        | `22848`                     | Index of the start audio sample (48KHz) in the untrimmed audio of `video_id`.  |
+| `stop_sample`         | int                        | `120960`                    | Index of the stop audio sample (48KHz) in the untrimmed audio of `video_id`.        |
+| `class`               | string                     | `rustle`                    | Assigned class name.                                                                |
+| `class_id`            | int                        | `4`                         | Numeric ID of the class.                                                      |
+
+## VQA-benchmark
+
+These JSON files contain all the questions for our benchmark, with each file containing the questions for one question prototype
+
+**Field Descriptions**:
+- **`inputs`**: The visual input for the question and any bounding boxes. This could be one or more videos, one or more clips and optionally one bounding box.
+- **`question`**: The question in the VQA
+- **`choices`**: The 5-option choices
+- **`correct_idx`**: The index (start from 0) of the correct answer.
+
+## Youtube Links
+
+This contains the links to all videos of the dataset. Notice that YouTube introduces artifacts to the videos, so these should only be used for viewing the videos. Please download the videos themselves from our ![webpage](https://hd-epic.github.io/index#download) in the full quality to do any processing or replicate the VQA results
+
+### `HD_EPIC_VQA_Interface.html`
+
+An interface to visualise all our VQA questions
 
 **Contact:** [uob-epic-kitchens@bristol.ac.uk](mailto:uob-epic-kitchens@bristol.ac.uk)
