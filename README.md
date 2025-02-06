@@ -198,7 +198,7 @@ These JSON files contain all the questions for our benchmark, with each file con
 
 ## Youtube Links
 
-This contains the links to all videos of the dataset. Notice that YouTube introduces artifacts to the videos, so these should only be used for viewing the videos. Please download the videos themselves from our ![webpage](https://hd-epic.github.io/index#download) in the full quality to do any processing or replicate the VQA results
+This contains the links to all videos of the dataset. Notice that YouTube introduces artifacts to the videos, so these should only be used for viewing the videos. Please download the videos themselves from our [webpage](https://hd-epic.github.io/index#download) in the full quality to do any processing or replicate the VQA results
 
 ### `HD_EPIC_VQA_Interface.html`
 
