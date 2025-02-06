@@ -1,8 +1,8 @@
 # ![logo](logo-white.png) HD-EPIC: A Highly-Detailed Egocentric Video Dataset
 
 <!-- start badges -->
-[![CircleCI](https://img.shields.io/circleci/build/github/hd-epic/hdp-epic-annotations.svg)](https://circleci.com/gh/hd-epic/hd-epic-annotations)
-[![GitHub release](https://img.shields.io/github/release/hd-epic/hdp-epic-annotations.svg)](https://github.com/hd-epic/hdp-epic-annotations/releases/latest)
+[![CircleCI](https://img.shields.io/circleci/build/github/hd-epic/hd-epic-annotations.svg)](https://circleci.com/gh/hd-epic/hd-epic-annotations)
+[![GitHub release](https://img.shields.io/github/release/hd-epic/hd-epic-annotations.svg)](https://github.com/hd-epic/hdp-epic-annotations/releases/latest)
 [![arXiv-xx](https://img.shields.io/badge/arXiv-xx-green.svg)](https://arxiv.org/abs/2006.13256)
 <!-- end badges -->
 
