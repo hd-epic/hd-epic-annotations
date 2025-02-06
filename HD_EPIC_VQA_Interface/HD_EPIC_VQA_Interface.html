@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HD-EPIC VQA Interface</title>
+    <style>
+        body {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background: #f9f9f9;
+            font-family: Arial, sans-serif;
+            line-height: 1.0;
+            color: #333;
+            text-align: left;
+            /* font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 20px;
+            margin-left: 20px;
+            margin-right: 20px; */
+        }
+        video {
+            border: 1px solid #ddd;
+        }
+        .controls {
+            margin-top: 10px;
+        }
+        .progress-bar {
+            width: 80%;
+            max-width: 720px;
+        }
+        select {
+            margin: 10px;
+        }
+        #videoFull {
+            position: relative; /* Ensure video becomes a positioning reference */
+            z-index: 1;         /* Keep video below the canvas */
+        }
+
+        #boundingBoxCanvas {
+            position: absolute; /* Make canvas position absolutely */
+            top: 0;             /* Align canvas with the top of the video */
+            left: 0;            /* Align canvas with the left of the video */
+            pointer-events: none; /* Allow video controls to work normally */
+            z-index: 2;         /* Place canvas above the video */
+        }
+
+        div {
+            position: relative; /* Make the parent div a positioning context */
+            z-index: 1; 
+        }
+
+        .hidden {
+            visibility: hidden;
+        }
+
+        #readme {
+        max-width: 1000px; /* Keeps content readable */
+        margin: 10px auto; /* Centers content with space around */
+        padding: 10px;
+        line-height: 1.4; /* Increases line spacing for better readability */
+            }
+
+        #readme p {
+            margin-bottom: 16px; /* Adds spacing between paragraphs */
+        }
+
+        #readme ul {
+            padding-left: 30px; /* Ensures proper indentation for list */
+            margin-bottom: 16px; /* Adds spacing after list */
+        }
+
+        #readme li {
+            margin-bottom: 8px; /* Adds spacing between list items */
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">HD-EPIC VQA Interface</h1>
+    <div id="readme">
+        <p>This interface visualizes the VQA questions for exploration. To start, select the VQA question JSON file <input type="file" id="question-file" accept=".json">.</p>
+        <p>The question, along with its corresponding answers and related video input, will be displayed. Depending on the type of question, different inputs will be shown:</p>
+        <ul>
+            <li><strong>Full videos</strong> will appear in the <em>Video Player</em> on the left side.</li>
+            <li><strong>Video clips</strong> (video with defined start and end times from the question text and answers) will be displayed in the <em>Video Clip Player</em> on the right side.</li>
+            <li><strong>Video frames</strong> (video with defined timestamps from the question text and answers) will be displayed as a list of timestamps below the <em>Video Player</em>. Clicking on a timestamp will pause the video at the corresponding frame.</li>
+            <li><strong>Bounding boxes</strong> will be shown at the corresponding video frames if the input contains bounding box information.</li>
+        </ul>
+        <p>You can select an answer and click 'Next' button to proceed. The next question will be displayed, and the accuracy of your selections will be continuously tracked.</p>
+    </div>
+            <!-- <h2>Set Up:</h2>
+        <ul>
+            <li>if you want to <span style="color: red;">continue</span> from the last time, remember to select the xxx_answer.json saved last time <span style="color: red;">before select the question json file</span></li>
+        </ul>        
+        <h2>Input:</h2>
+        <ul style="list-style: none; padding: 0; margin: 0;"
+            <li>If the inputs contain full videos, they will display at Video Player (left side)</li>
+            <li>If the inputs contain video clips (with start end time, also include the clips from question text and choices), they will display at Video Clip Player (right side)</li>
+            <li>If the inputs contain images (video frames, also include images from question text and choices), they will display the whole video at Video Player (left side), but stop at the specifc frame.</li>
+            <li>If the inputs contain bounding box, will display at the specific frames when you click it</li>
+        </ul>
+        <h2>Saved File:</h2>
+        <ul>
+            <li>remember to <span style="color: red;">save</span> before leave, click the save button and download two files.</li>
+            <li>when it's already last question, the web will also automatically download two saved files (but better also save it one more time yourself).</li>
+            <li>xxx_answer.json which contains correct index, selected index and if it's correct</li>
+            <li>xxx_accuracy.text which contains the accuracy</li>
+            <li>xxx is named by the first displayed question key</li>
+        </ul> -->
+    <!-- <h1>Checking Interface</h1> -->
+    <!-- set up-->
+    <div class="hidden">
+        <label for="answer-file">Select Previous Saved Answer JSON File to <span style="color: red;">Continue (before select question json file)</span>, If Don't Have One, Leave It There:</label>
+        <input type="file" id="answer-file" accept=".json" style="width: 100%;">
+    </div>
+    <!-- <div>
+        <label for="question-file">Select a Question JSON File:</label>
+        <input type="file" id="question-file" accept=".json" style="width: 100%;">
+    </div> -->
+
+    <div style="display: flex; gap: 20px; flex-wrap: wrap; height: 750px; text-align: center;">
+        <!-- Video Clip Player -->
+        <div style="flex: 1 1 45%; text-align: center; margin: 10px; max-width: 704px;">
+            <h1>Video Clip Player</h1>
+            <div id="videoClip"></div>
+            <div>
+                <select id="videoClipSelect">
+                    <!-- Video options will be added dynamically -->
+                </select>
+                <input type="range" id="progress" class="progress-bar" value="0" max="1" step="0.01">
+            </div>
+            <p id="timeDisplay">0:00 / 0:00</p>
+        </div>
+        <!-- Full Video -->
+        <div style="flex: 1 1 45%; text-align: center; position: relative; margin: 10px; max-width: 704px;">
+            <h1>Video Player</h1>
+            <div id="videoFull"></div>
+            <canvas id="boundingBoxCanvas" style="position: absolute; top: 0; left: 0; pointer-events: none;"></canvas>
+            <div>
+                <select id="videoFullSelect">
+                    <!-- Video options will be added dynamically -->
+                </select>
+            </div>
+            <div class="choices-container" id="framesContainer">
+                <!-- Image options will be added dynamically -->
+            </div>
+        </div>
+    </div>
+    
+    <!-- Dropdown for Questions -->
+    <div id="question-section">
+        <label for="question-keys">Select Question:</label>
+        <select id="question-keys"></select>
+        <p><strong>Question:</strong> <span id="question-text" style="line-height: 1.4;"></span></p>
+    </div>
+
+    <!-- Dynamic choices will be inserted here -->
+    <div class="choices-container" id="choicesContainer" style="line-height: 1.6;">
+    </div>
+
+    <!-- Next Button with Accuracy -->
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px; width: 100%; height: 100px; margin: 0 auto;">
+        <button id="nextButton">Next</button>
+        <p id="accuracyLabel" style="margin: 0;">Accuracy: 0%, Correct: 0, Total: 0</p>
+        <button id="saveButton" class="hidden"><span style="color: red;">Save</span></button>
+    </div>
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script>
+/***
+ *  get the required data
+***/
+        // set up
+        const questionFile = document.getElementById('question-file');
+        const answerFile = document.getElementById('answer-file');
+        // question display
+        const questionSelect = document.getElementById('question-keys');
+        const questionText = document.getElementById('question-text');
+        const choicesContainer = document.getElementById("choicesContainer");
+        // video
+        const video_regex_1 = /<TIME (\d{1,2}:\d{1,2}:\d{1,2}\.\d{1,3}) video (\d+)> to <TIME (\d{1,2}:\d{1,2}:\d{1,2}\.\d{1,3}) video \d+>/g;
+        const video_regex_2 = /<TIME (\d{1,2}:\d{1,2}:\d{1,2}\.\d{1,3}) video (\d+)> and <TIME (\d{1,2}:\d{1,2}:\d{1,2}\.\d{1,3}) video \d+>/;
+        const videoFullSelect = document.getElementById("videoFullSelect");
+        const videoClipSelect = document.getElementById("videoClipSelect");
+        const progressBar = document.getElementById("progress");
+        const timeDisplay = document.getElementById("timeDisplay");
+        // image
+        const image_regex =/<TIME (\d{1,2}:\d{1,2}:\d{1,2}\.\d{1,3}) video (\d+)>/;
+        const framesContainer = document.getElementById('framesContainer'); // image (frame of a video)
+        // next and accuracy
+        const nextButton = document.getElementById("nextButton");
+        const accuracyLabel = document.getElementById("accuracyLabel");
+        const saveButton = document.getElementById("saveButton");
+        //bbox
+        const canvas = document.getElementById("boundingBoxCanvas");
+        const context = canvas.getContext("2d");
+        const bbox_regex = /<BBOX\s([\d\.]+)\s([\d\.]+)\s([\d\.]+)\s([\d\.]+)\s*\/?>/;
+
+/***
+ *  global data
+***/
+        let saveFileName_1 = null;
+        let saveFileName_2 = null;
+        let questions = null; // To store questions
+        let answers = {}; //To store answers
+        let videoClips = []; //To store current video clips
+        let currentVideo = null;
+        let segmentDuration = 0;
+        let fullVideos = []; //To store current full videos
+        let frames = [];
+        let bbox = []; //To store bounding box
+        let correct = 0; //correct answer
+        let total = 0; //total number of question you answer now
+        let accuracy = 0;
+        let videoClipPlayer;
+        let interval;
+        let videoFullPlayer;
+        const video_src = {'P01-20240202-110250': 'YZo1sqXp5U0', 'P01-20240202-161354': 'iJpqrt4Uefc', 'P01-20240202-161948': 'I3ldXPd_d2g', 'P01-20240202-171220': 'Q_h1jmcIBAw', 'P01-20240202-175627': 'Epjp1Isub4Q', 'P01-20240202-195538': '1faxLHsp5ZI', 'P01-20240203-093333': 'Do_CbEBOFro', 'P01-20240203-121517': 'ozyqTW4FLFQ', 'P01-20240203-123350': 'x4STmay8sKI', 'P01-20240203-130505': 'HdDyqiLzT6g', 'P01-20240203-132119': 'PenWS6LTzDU', 'P01-20240203-135502': 'xR7ypKh8GUg', 'P01-20240203-150506': 'pgKE1TA8yKM', 'P01-20240203-152323': '_iElNa-jFDE', 'P01-20240203-152956': 'kRWcAuVKtqc', 'P01-20240203-161757': 'wC7ZmDtzrl4', 'P01-20240203-184045': '5nW8ksVP5yE', 'P01-20240203-184214': 'VFn2ir7RtAw', 'P01-20240204-095114': 'rSLV5Qx9l9s', 'P01-20240204-120411': 'ora_fTZr00A', 'P01-20240204-121042': '7JqcpAM4EXU', 'P01-20240204-124504': '1PDw8lZvUpY', 'P01-20240204-130448': '06EGRDGFB64', 'P01-20240204-142301': '09xxxPUCdUc', 'P01-20240204-145458': 'dVGiDRrddg4', 'P01-20240204-152537': '0wakJgxehI4', 'P01-20240204-160230': 'qtPElCGYMHo', 'P02-20240209-184316': 'ClT-r2qMfDQ', 'P02-20240209-194141': 'QLMFiW0bm1Q', 'P02-20240209-231412': 'UYaRHCakTsU', 'P02-20240210-092616': 'DExH8Rq-bsk', 'P02-20240210-100308': '8CgNOtu6rPA', 'P02-20240210-100930': 'aAbljb1FnWY', 'P02-20240210-113925': 'DuFatpo2zck', 'P02-20240210-122334': 'd6cer_Y681U', 'P02-20240210-195833': 'TS3XE9sALg8', 'P02-20240210-220650': 'EMGDuShuAaw', 'P02-20240211-100250': 'jlYpItmfW3k', 'P02-20240211-104948': 'RJK891ZzCIk', 'P02-20240211-111219': 'zWO833eWfag', 'P02-20240211-111822': 'UsXtkADcLW4', 'P02-20240211-115653': 'leeb_8o8mhk', 'P02-20240211-120927': 'bwDkI2vZ1Ow', 'P02-20240211-141313': '-nTu0lrK7lg', 'P02-20240211-175138': 'MfVeyV6KHxM', 'P02-20240211-182630': 'cP3Ze_zk4jo', 'P03-20240216-084005': '3VDExSVPRAM', 'P03-20240216-090759': 'xwD05cqaNI8', 'P03-20240216-185832': 'oF0kZUetsIc', 'P03-20240216-205923': 'ksIwSq7DgNk', 'P03-20240216-223126': 'MgEbPOsjl44', 'P03-20240217-091657': 'Wvm4Iti3HFg', 'P03-20240217-094713': 'uIFJOM3to-c', 'P03-20240217-100448': 'IGngQdnA7VM', 'P03-20240217-130208': 'OxlVOKg9L10', 'P03-20240217-131219': 'MtANW-VHeLc', 'P03-20240217-150310': 'NOsHm-8Kfe4', 'P03-20240217-152152': '9EVtt2kjg-Y', 'P03-20240217-192543': 'dPv24tndzU4', 'P03-20240217-210126': '_Oc6EP5-580', 'P03-20240217-210958': 'b6D-Jx7FSBI', 'P03-20240218-094452': 'raivW3uuNC8', 'P03-20240218-101509': 'MlPOnlO7RaM', 'P03-20240218-140054': 'MBRufovHQi8', 'P03-20240218-144430': 'I6tkXpYhVdY', 'P03-20240218-190556': 'lGKJgPs-Pjk', 'P03-20240218-202148': 'za_p9bd_Vkg', 'P04-20240413-142619': '5BkqfOu30Ec', 'P04-20240413-145245': 'eeCKS_CzKzc', 'P04-20240413-151722': 'AS5nT9yMtbo', 'P04-20240414-064514': 'bk35JWOogGg', 'P04-20240414-065311': 'JwoPd_13Lko', 'P04-20240414-072251': 'Xvikr2gIsC4', 'P04-20240414-162242': 'kZTn1gaSf_0', 'P04-20240414-162750': 'hFzaq4tOR0Q', 'P04-20240414-164751': 'uZF5dt4hptU', 'P04-20240414-165333': 'yJBUr83vtX0', 'P04-20240414-170520': 'S7CG5gIxS5s', 'P04-20240414-172534': 'LWMOGzdnZGQ', 'P04-20240414-173337': '0mviwgLRV5o', 'P04-20240414-175337': '8PS08A42K9Q', 'P04-20240414-181030': '3MjTHAjHO4E', 'P04-20240415-175615': '8otKXM5Kj-k', 'P04-20240415-181212': 'q2FOi2zBRGI', 'P04-20240415-184003': '_3uENcOu0Wg', 'P05-20240423-170021': '-bfqvpDPins', 'P05-20240423-172243': 'm7dB1IQPF3s', 'P05-20240423-175745': 'XkMuNjbOipg', 'P05-20240423-180529': 'zGcwmFLaS1E', 'P05-20240423-183358': '-ZVsnskCGbI', 'P05-20240424-085204': 'pcwo46NyzzY', 'P05-20240424-090812': 'zcsyxpzE-yY', 'P05-20240424-130119': 'nOkttredqtQ', 'P05-20240424-131231': '2XYaMEcHKpE', 'P05-20240424-171038': '0LTgW-QWuiY', 'P05-20240424-175101': 'Au5WmQ9wQis', 'P05-20240425-082420': '89k2h5npErg', 'P05-20240425-083515': 'V_SnJ2-AcP0', 'P05-20240425-124420': '0NPJp542W2I', 'P05-20240425-125459': 'tNThxcw9T9w', 'P05-20240425-171455': 'eMeXg-8DVvQ', 'P05-20240425-173353': 'XUpcsJO03YE', 'P05-20240425-180658': 'EC8u03v6iQM', 'P05-20240425-201444': 'OkF3oJZmVZ8', 'P05-20240426-085333': 'YbJ_AKPGnJM', 'P05-20240426-091011': 'fmCmCWxgw28', 'P05-20240426-092000': 'r2WbnQj3Klg', 'P05-20240427-143353': 'ne67bnDFy0E', 'P05-20240427-145526': '2yMGlZU2r0E', 'P05-20240427-150402': 'K5BHJ6f0rXU', 'P05-20240427-151808': 'nKtVMp7TW2g', 'P06-20240510-090328': 'fySE6P-hiOg', 'P06-20240510-094438': '3GWSDWfUoQ0', 'P06-20240510-100047': '1MthVWI-HDc', 'P06-20240510-104642': 'gmvnmxz0fvg', 'P06-20240510-115307': 'YrwLEsYui6M', 'P06-20240510-121619': 'MvGcZj_3VvI', 'P06-20240510-135423': 'Rs8SozeRBSU', 'P06-20240510-140459': 'xVpNL5CQtHg', 'P06-20240511-102207': 'CfD8JwSTawk', 'P06-20240511-121048': 'dRhC716vd68', 'P06-20240511-122221': 'XHjyMr158_I', 'P07-20240529-102652': 'iCfzOA1RaLU', 'P07-20240529-131737': '8-xn8-xsllQ', 'P07-20240529-134410': 'Rnmf09yzNAE', 'P07-20240529-191007': 'ye9LXg30G7w', 'P07-20240529-194518': '5X7RFVul2uo', 'P07-20240530-102543': 'a6wcjtATIeU', 'P07-20240530-111344': 'KMBj0Sq7vZg', 'P07-20240531-101357': 'zInGsEULHX8', 'P07-20240531-201703': '1qeKWyfu3qQ', 'P08-20240613-122900': '50cGIL39mDk', 'P08-20240613-123547': 'F4MzdUd6ClM', 'P08-20240614-085000': 'SzNR3vEJAYE', 'P08-20240614-125650': 'lDstsmGmrlM', 'P08-20240614-132938': 'pI1xR81gZz0', 'P08-20240614-184945': 'e397Y4grt1k', 'P08-20240617-130401': 'OstYPS-rZ9g', 'P08-20240617-184909': '_OfP5Ypq4XQ', 'P08-20240618-163547': 'Vf1pbMbVkYA', 'P08-20240618-171546': '_EA6wUp1S-M', 'P08-20240620-180825': 'k6_z-Lvxytk', 'P08-20240622-141902': 'sE68I_7B1sw', 'P09-20240621-093545': 'UpLFLWsfzaM', 'P09-20240621-153208': 'esvILIGB-_g', 'P09-20240622-150155': 'it6f1pYx9s4', 'P09-20240622-154652': 'BnlhxK1FUY8', 'P09-20240622-162302': 'sEXzejsaR88', 'P09-20240622-194642': 'DiZu60NkEYk', 'P09-20240623-120359': '8PA9Kdaujm4', 'P09-20240623-153253': 'pDG6tW3tA0o', 'P09-20240623-153748': 'Rj1oxJgsxYs', 'P09-20240623-154547': 'CkvdwVh60Pk', 'P09-20240624-160737': 'ooIy3_vTXKw', 'P09-20240624-165332': 'OhTeD0DY6q4', 'P09-20240625-103827': 'GOktVMb9pzY'}
+/***
+ *  set up
+***/
+        // Event: JSON File Selection
+        questionFile.addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = async function(e) {
+                    questions = JSON.parse(e.target.result);
+                    setupQuizApp(questions);
+                };
+                reader.readAsText(file);
+            }
+        });
+        // Event: JSON File Selection
+        answerFile.addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = async function(e) {
+                    answers = JSON.parse(e.target.result);
+                };
+                reader.readAsText(file);
+            }
+        });
+/***
+ *  question display
+***/
+        // Setup Quiz App
+        function setupQuizApp(questions) {
+            const questionKeys = Object.keys(questions);
+            const currentQuestionKey = questionKeys[Object.keys(answers).length]
+            saveFileName_1 = `${currentQuestionKey}_answer.json`;
+            saveFileName_2 = `${currentQuestionKey}_accuracy.text`;
+            correct = 0; //correct answer
+            total = 0; //total number of question you answer now
+            for (const key in answers) {
+                if (answers.hasOwnProperty(key)) {
+                    correct += answers[key]['correct'];
+                    total += 1;
+                }
+            }
+            if (total !== 0){
+                accuracy = correct/total
+                accuracyLabel.textContent = `Accuracy: ${accuracy*100}%, Correct: ${correct}, Total: ${total}`;
+            }
+            // Populate question dropdown
+            questionSelect.innerHTML = '';
+            questionKeys.forEach((key, index) => {
+                option = document.createElement('option');
+                option.value = key;
+                option.textContent = key;
+                questionSelect.appendChild(option);
+            });
+            // Set default question
+            questionSelect.value = currentQuestionKey;
+            displayQuestion(currentQuestionKey);
+        }
+        // Question Change Event
+        questionSelect.addEventListener('change', function() {
+            const currentQuestionKey = this.value;
+            displayQuestion(currentQuestionKey);
+        });
+        // next button and change accuracy
+        nextButton.addEventListener("click", () => {
+            // calucalte result, record and update
+            const selectedIndex = getSelectedIndex();
+            if (selectedIndex === -1) {
+                alert("Please select an answer!");
+            } else {
+                const currentIndex = questionSelect.selectedIndex;
+                const currentQuestionKey = Object.keys(questions)[currentIndex];
+                const currentQuestion = questions[currentQuestionKey]
+                if (selectedIndex == currentQuestion['correct_idx']){
+                    correct += 1;
+                    total += 1;
+                    answers[currentQuestionKey] = {correct_idx:currentQuestion['correct_idx'], choice:selectedIndex, correct:1};
+                } else{
+                    total += 1;
+                    answers[currentQuestionKey] = {correct_idx:currentQuestion['correct_idx'], choice:selectedIndex, correct:0};
+                }
+                accuracy = correct/total
+                accuracyLabel.textContent = `Accuracy: ${accuracy*100}%, Correct: ${correct}, Total: ${total}`;
+                // change to next one
+                const nextIndex = currentIndex + 1;
+                const nextQuestionKey = Object.keys(questions)[nextIndex];
+                if (nextIndex < questionSelect.options.length) {
+                    questionSelect.value = nextQuestionKey;
+                    displayQuestion(nextQuestionKey);
+                } else {
+                    handleCompletion();
+                }
+            }
+        });
+
+        function reset() {
+            // remove data from last question
+            choicesContainer.innerHTML = ''; // Clear existing choices
+            videoClipSelect.innerHTML = ''; // Clear previous options
+            videoFullSelect.innerHTML = ''; // Clear any existing options
+            framesContainer.innerHTML = ''; // Clear any existing options
+            timeDisplay.textContent = '0:00 / 0:00';
+            if (videoClipPlayer) {
+                stopTimeUpdate();
+                videoClipPlayer.destroy(); // Properly destroy the existing player
+                videoClipPlayer = null;   // Reset the variable to null
+            }
+            if (videoFullPlayer) {
+                videoFullPlayer.destroy(); // Properly destroy the existing player
+                videoFullPlayer = null;   // Reset the variable to null
+            }
+            videoClips = [];
+            fullVideos = [];
+            frames = [];
+            bbox = [];
+            currentVideo = { name:'', src:'', startTime:0, endTime:0};
+            segmentDuration = 0;
+            clearBoundingBox();
+        }
+
+        // Display Question and Related Data
+        function displayQuestion(questionKey) {
+            reset()
+            // the choices and the quesiton
+            const questionData = questions[questionKey];
+            questionText.textContent = questionData['question'];
+            populateChoices(questionData['choices'])
+            for (const key in questionData['inputs']) {
+                item = questionData['inputs'][key]
+                path = video_src[item['id']];
+                if ('start_time' in item && 'end_time' in item) {
+                    videoClips.push({name: key, src: path, startTime: timeToSeconds(item['start_time']), endTime: timeToSeconds(item['end_time'])})
+                } else if ('time' in item) {
+                    if (!(questionKey.includes("object_motion_object_movement_counting") || questionKey.includes("object_motion_stationary_object_localization"))){
+                        frames.push({name: key, src: path, time: timeToSeconds(item['time'])})
+                        fullVideos.push({name: key, src: path})
+                    }
+                } else {
+                    fullVideos.push({name: key, src: path})
+                }
+            }
+            // add clips from choices
+            for (const c in questionData['choices']) {
+                let match;
+                let count = 0;
+                while ((match = video_regex_1.exec(questionData['choices'][c])) !== null) {
+                    const startTime = match[1];
+                    const video = `video ${match[2]}`;
+                    const endTime = match[3];
+                    item = questionData['inputs'][video]
+                    if (item.id in video_src) {
+                        path = video_src[item['id']];
+                    } else {
+                        subfolder = item['id'].split('-')[0];  // This will give you "P03"
+                        path = `${folderPath.replace(/\\/g, '/')}/${subfolder}/${item['id']}.mp4`;
+                    }
+                    videoClips.push({ name:`${video}-Choice ${c}-${count}`, src:path, startTime:timeToSeconds(startTime), endTime:timeToSeconds(endTime)});
+                    count += 1;
+                }
+            }
+            // add clips from questions
+            match = video_regex_2.exec(questionData['question'])
+            if (match !== null){
+                const startTime = match[1];
+                const video = `video ${match[2]}`;
+                const endTime = match[3];
+                item = questionData['inputs'][video]
+                if (item.id in video_src) {
+                        path = video_src[item['id']];
+                    } else {
+                        subfolder = item['id'].split('-')[0];  // This will give you "P03"
+                        path = `${folderPath.replace(/\\/g, '/')}/${subfolder}/${item['id']}.mp4`;
+                    }
+                videoClips.push({ name:`${video}-question_text`, src:path, startTime:timeToSeconds(startTime), endTime:timeToSeconds(endTime)});
+            }
+            // add frames from quetions
+            if (!questionKey.includes("nutrition_nutrition_change")){
+                f_match = image_regex.exec(questionData['question'])
+                if (f_match !== null && match === null){
+                    const time = f_match[1];  // Extracted time: "00:13:21.3"
+                    const videoNumber = f_match[2];  // Extracted video number: "1"
+                    const video = `video ${videoNumber}`;
+                    item = questionData['inputs'][video]
+                    if (item.id in video_src) {
+                            path = video_src[item['id']];
+                        } else {
+                            subfolder = item['id'].split('-')[0];  // This will give you "P03"
+                            path = `${folderPath.replace(/\\/g, '/')}/${subfolder}/${item['id']}.mp4`;
+                        }
+                    frames.push({name: `${video}`, src: path, time: timeToSeconds(time)})
+                    // Check if none of the videos has the name equal to 'somevalue'
+                    if (!fullVideos.some(video => video.src === path)) {
+                        fullVideos.push({name: `${video}`, src: path})
+                    }
+                    bbox_match = bbox_regex.exec(questionData['question'])
+                    if (bbox_match !== null) {
+                        // Parse the values to floats, y1, x1, y2, x2
+                        const y = parseFloat(bbox_match[1]);
+                        const x = parseFloat(bbox_match[2]);
+                        const height = parseFloat(bbox_match[3]) - y;
+                        const width = parseFloat(bbox_match[4]) - x;
+                        bbox.push({x:x, y:y, width:width, height:height, time:timeToSeconds(time), src:path})
+                    }
+                }
+            }
+            // put list to the video clips
+            populateVideoClipOptions(videoClips); // Populate the dropdown
+
+            // put list to the full videos
+            populateVideoOptions(fullVideos); // Populate the dropdown
+            
+        }
+    
+        // Function to populate the choices dynamically
+        function populateChoices(choices) {
+            choices.forEach((choice, index) => {
+                const choiceItem = document.createElement("div");
+                choiceItem.classList.add("choice-item");
+
+                const radioButton = document.createElement("input");
+                radioButton.type = "radio";
+                radioButton.name = "choices"; // All radio buttons belong to the same group
+                radioButton.id = `choice-${index}`;  // Set ID as the index
+                radioButton.value = choice;  // Set value as the choice text
+
+                const label = document.createElement("label");
+                label.setAttribute("for", `choice-${index}`);
+                label.textContent = choice;
+
+                // Append the radio button and label to the choice item
+                choiceItem.appendChild(radioButton);
+                choiceItem.appendChild(label);
+
+                // Append the choice item to the container
+                choicesContainer.appendChild(choiceItem);
+            });
+        }
+
+        // Function to get the selected radio button index
+        function getSelectedIndex() {
+            const selectedRadio = document.querySelector('input[name="choices"]:checked'); // Get the checked radio button
+            if (selectedRadio) {
+                const selectedIndex = Array.from(document.querySelectorAll('input[name="choices"]')).indexOf(selectedRadio);
+                return selectedIndex; // Return the index of the selected radio button
+            }
+            return -1; // Return -1 if no radio button is selected
+        }
+
+        //change time format
+        function timeToSeconds(timeString) {
+            const parts = timeString.split(":");
+            
+            if (parts.length === 3) {
+                // Format: HH:MM:SS.MS
+                const [hours, minutes, secondsWithMilliseconds] = parts;
+                const [seconds, milliseconds] = secondsWithMilliseconds.split(".");
+                const totalSeconds = (Number(hours.padStart(2, '0')) * 3600) + (Number(minutes.padStart(2, '0')) * 60) + Number(seconds.padStart(2, '0')) + (milliseconds ? Number(milliseconds.padEnd(3, '0')) / 1000 : 0);
+                return totalSeconds;
+            } else if (parts.length === 2) {
+                // Format: MM:SS.MS
+                const [minutes, secondsWithMilliseconds] = parts;
+                const [seconds, milliseconds] = secondsWithMilliseconds.split(".");
+                const totalSeconds = (Number(minutes.padStart(2, '0')) * 60) + Number(seconds.padStart(2, '0')) + (milliseconds ? Number(milliseconds.padEnd(3, '0')) / 1000 : 0);
+                return totalSeconds;
+            } else {
+                throw new Error("Invalid time format. Expected HH:MM:SS.MS or MM:SS.MS.");
+            }
+        }
+
+/***
+ *  Video Clips
+***/            
+
+        function populateVideoClipOptions(videos) {
+            videos.forEach((video, index) => {
+                    const option = document.createElement("option");
+                    option.value = index;
+                    option.textContent = video['name'];
+                    videoClipSelect.appendChild(option);
+                    });
+                // Automatically select and load the first video clip
+                if (videos.length > 0) {
+                    loadVideoClip(videos[0]);
+                }
+        }
+
+        // Event listener for video selection
+        videoClipSelect.addEventListener('change', () => {
+            const videoIndex = videoClipSelect.value;
+            if (videoClipPlayer) {
+                stopTimeUpdate();
+                videoClipPlayer.destroy(); // Properly destroy the existing player
+                videoClipPlayer = null;   // Reset the variable to null
+            }
+            loadVideoClip(videoClips[videoIndex]);
+        });
+
+        // Load a video clip with start and end time
+        function loadVideoClip(video) {
+            currentVideo = video;
+            if (currentVideo) {
+                videoClipPlayer = new YT.Player('videoClip', {
+                    width:550,
+                    height: 500,
+                    events: {
+                        'onReady': onPlayerReady,
+                        'onStateChange': onPlayerStateChange
+                    },
+                    playerVars: {
+                        'controls': 0, // Hide controls
+                        'autoplay': 1,  // Autoplay video
+                        'modestbranding': 1, // Hide YouTube logo
+                        'rel': 0,  // Do not show related videos at the end
+                        'showinfo': 0 // Hide video info
+                    }
+                });
+            }
+        }
+
+        // Handle player readiness
+        function onPlayerReady(event) {
+            // The player is ready, you can start controlling it
+            event.target.loadVideoById({
+                videoId: currentVideo.src,
+                startSeconds: currentVideo.startTime,
+                endSeconds: currentVideo.endTime,
+            });
+            startTimeUpdate();
+            event.target.playVideo();
+        }
+
+        // Handle state changes (like play/pause)
+        function onPlayerStateChange(event) {
+            if (event.data === YT.PlayerState.PLAYING) {
+                startTimeUpdate(); // Start polling when playing
+            } else if (event.data === YT.PlayerState.PAUSED) {
+                stopTimeUpdate(); // Stop polling when paused or ended
+            } else if (event.data === YT.PlayerState.ENDED) {
+                // Replay the video from the start of the clip
+                videoClipPlayer.seekTo(currentVideo.startTime, true);
+                videoClipPlayer.playVideo();
+            }
+        }
+        
+        // Start polling for time updates
+        function startTimeUpdate() {
+            if (!interval) {
+                interval = setInterval(() => {
+                    updateTimeDisplay();
+                }, 100); // Update every 100ms
+            }
+        }
+
+        // Stop polling for time updates
+        function stopTimeUpdate() {
+            if (interval) {
+                clearInterval(interval);
+                interval = null;
+            }
+        }
+
+        // Seek functionality
+        progressBar.addEventListener("input", () => {
+            const clipDuration = currentVideo.endTime - currentVideo.startTime;
+            const seekTime = currentVideo.startTime + event.target.value * clipDuration;
+            videoClipPlayer.seekTo(seekTime, true);
+        });
+
+        // Update time display
+        function updateTimeDisplay() {
+            const currentTime = videoClipPlayer.getCurrentTime();
+            segmentDuration = currentVideo.endTime - currentVideo.startTime;
+            const normalizedTime = currentTime - currentVideo.startTime;
+            progressBar.value = normalizedTime / segmentDuration;
+
+            const currentMinutes = Math.floor(normalizedTime / 60);
+            const currentSeconds = Math.floor(normalizedTime % 60).toString().padStart(2, "0");
+            const totalMinutes = Math.floor(segmentDuration / 60);
+            const totalSeconds = Math.floor(segmentDuration % 60).toString().padStart(2, "0");
+
+            timeDisplay.textContent = `${currentMinutes}:${currentSeconds} / ${totalMinutes}:${totalSeconds}`;
+
+        }
+
+/***
+ *  Full Videos
+***/
+        // Function to load video options dynamically
+        function populateVideoOptions(videos) {
+            videos.forEach((video, index) => {
+                const opt = document.createElement("option");
+                opt.value = index; // Set the video source as the value
+                opt.textContent = video['name']; // Set a display name
+                videoFullSelect.appendChild(opt);
+            });
+
+            // Automatically select and load the first video
+            if (videos.length > 0) {
+                loadFullVideo(fullVideos[0], videoFullSelect.options[videoFullSelect.selectedIndex].text);
+            }
+        }
+
+        // Function to load and play the selected video
+        function loadFullVideo(video, video_name) {
+            if (video) {
+                videoFullPlayer = new YT.Player('videoFull', {
+                    width:550,
+                    height: 500,
+                    videoId: video.src,
+                    events:{
+                        'onReady': function (event) {
+                            onPlayerReady_Full(event, video_name); // Pass video_name here
+                        },
+                        'onStateChange': onPlayerStateChange_Full
+                    },
+                    playerVars: {
+                        'controls': 1, // Hide controls
+                        'autoplay': 1,  // Autoplay video
+                        'modestbranding': 1, // Hide YouTube logo
+                        'rel': 0,  // Do not show related videos at the end
+                        'showinfo': 0 // Hide video info
+                    }
+                });
+            }
+        }
+
+        function onPlayerReady_Full(event, video_name) {
+            event.target.playVideo();
+            if (frames.length > 0){
+                const filteredTimes = frames.filter(item => item.name === video_name).map(item => item.time);
+                populateFrames(filteredTimes, video_name); // Start capturing frames once the video is ready
+            }
+        }
+
+        // Function to handle state changes
+        function onPlayerStateChange_Full(event) {
+            if (event.data === YT.PlayerState.PLAYING) {
+                // Call uncheckRadios when the video starts playing
+                uncheckRadios();
+            }
+        }
+
+        // Add an event listener for when a new video is selected
+        videoFullSelect.addEventListener("change", function () {
+            const selectedVideo = fullVideos[this.value]; // Get the selected value
+            if (videoFullPlayer) {
+                videoFullPlayer.destroy(); // Properly destroy the existing player
+                videoFullPlayer = null;   // Reset the variable to null
+            }
+            loadFullVideo(selectedVideo, videoFullSelect.options[this.value].text);
+        });
+/**
+ * image
+**/
+        function populateFrames(times, video_name) {
+            framesContainer.innerHTML = ''; // Clear any existing options
+
+            times.forEach((time, index) => {
+                const radioButton = document.createElement("input");
+                radioButton.type = "radio";
+                radioButton.name = "frames"; // All radio buttons belong to the same group
+                radioButton.id = `frame-${index}`;  // Set ID as the index
+                radioButton.value = time;  // Set value as the time for this frame
+
+                const label = document.createElement("label");
+                label.setAttribute("for", `frame-${index}`);
+                const show_time = secondsToTimeFormat(time);
+                label.textContent = `${show_time} of ${video_name}`;
+
+                // Append the radio button and label to the choice item
+                framesContainer.appendChild(radioButton);
+                framesContainer.appendChild(label);
+
+                // Add event listener for radio button click
+                radioButton.addEventListener("click", function() {
+                        videoFullPlayer.seekTo(time, true);
+                        videoFullPlayer.pauseVideo();
+                        adjustCanvasSize();
+                    });
+            });
+
+        }
+
+        function uncheckRadios() {
+            // Get all radio buttons inside frameItem
+            const radioButtons = framesContainer.querySelectorAll("input[type='radio']");
+            
+            // Iterate through all radio buttons and set checked to false
+            radioButtons.forEach(radio => {
+                radio.checked = false;
+            });
+            clearBoundingBox();
+        }
+
+        function secondsToTimeFormat(seconds) {
+            // Get the integer part of seconds (for hours, minutes, and seconds)
+            const totalSeconds = Math.floor(seconds);
+            const milliseconds = Math.round((seconds - totalSeconds) * 1000);
+
+            // Calculate hours, minutes, and seconds
+            const hours = Math.floor(totalSeconds / 3600);
+            const minutes = Math.floor((totalSeconds % 3600) / 60);
+            const remainingSeconds = totalSeconds % 60;
+
+            // Format the time as HH:MM:SS.MS
+            const formattedTime = `${padZero(hours)}:${padZero(minutes)}:${padZero(remainingSeconds)}.${padZero(milliseconds, 3)}`;
+
+            return formattedTime;
+        }
+        // Helper function to add leading zeros
+        function padZero(num, length = 2) {
+            return num.toString().padStart(length, '0');
+        }
+
+/**
+ * bounding box
+**/
+        // Draw a bounding box
+        function drawBoundingBox() {
+            context.clearRect(0, 0, canvas.width, canvas.height); // Clear canvas
+            context.strokeStyle = 'red'; // Bounding box color
+            context.lineWidth = 2;      // Bounding box thickness
+            scalingFactor = canvas.height / 1408
+            context.strokeRect(bbox[0].x * scalingFactor, bbox[0].y * scalingFactor, bbox[0].width * scalingFactor, bbox[0].height * scalingFactor); // Example bounding box dimensions
+        }    
+        // Hide the bounding box
+        function clearBoundingBox() {
+            context.clearRect(0, 0, canvas.width, canvas.height);
+        }
+        // Set canvas size based on the video size while maintaining aspect ratio
+        function adjustCanvasSize() {
+            // Calculate aspect ratio of the video
+            const videoFull = document.querySelector('#videoFull');
+
+            // Adjust the canvas width and height
+            canvas.width = videoFull.offsetHeight;
+            canvas.height = videoFull.offsetHeight;
+
+            // Optionally, position the canvas to be aligned with the video
+            canvas.style.position = 'absolute';
+            canvas.style.top = videoFull.offsetTop + 'px';
+            canvas.style.left = (videoFull.offsetLeft + (videoFull.offsetWidth - videoFull.offsetHeight)/2) + 'px';
+
+            // If you want the video to play after resizing
+            if (bbox.length > 0) {
+                drawBoundingBox();
+            }
+        }
+
+        // Adjust canvas size when the window is resized to maintain aspect ratio
+        window.addEventListener('resize', adjustCanvasSize);
+        
+/**
+ * download
+ **/
+        function downloadAnswer() {
+            // Part 1: Download JSON file
+            // const jsonData = JSON.stringify(answers, null, 2); // Pretty print with 2 spaces
+            // const jsonBlob = new Blob([jsonData], { type: 'application/json' }); // Create Blob for JSON
+            // const jsonLink = document.createElement('a'); // Create link for JSON
+            // jsonLink.href = URL.createObjectURL(jsonBlob); // Create URL for the Blob
+            // jsonLink.download = saveFileName_1; // Set JSON filename
+            // jsonLink.click(); // Trigger download
+            // URL.revokeObjectURL(jsonLink.href); // Clean up URL object
+
+            // // Part 2: Download text file for number
+            // const numberBlob = new Blob([accuracy], { type: 'text/plain' }); // Create Blob for text
+            // const numberLink = document.createElement('a'); // Create link for text
+            // numberLink.href = URL.createObjectURL(numberBlob); // Create URL for the Blob
+            // numberLink.download = saveFileName_2; // Set text filename
+            // numberLink.click(); // Trigger download
+            // URL.revokeObjectURL(numberLink.href); // Clean up URL object
+        }
+
+        function handleCompletion(){
+            downloadAnswer();
+            // alert("The questions have been finished and the answers file is already downloaded!");
+        }
+        saveButton.addEventListener('click', downloadAnswer); 
+    </script>
+</body>
+</html>
