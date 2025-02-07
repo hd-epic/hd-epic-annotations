@@ -1,7 +1,7 @@
 # ![logo](logo-white.png) HD-EPIC: A Highly-Detailed Egocentric Video Dataset
 
 <!-- start badges -->
-[![arXiv-xx](https://img.shields.io/badge/arXiv-xx-green.svg)](https://arxiv.org/abs/2006.13256)
+[![arXiv-2502.04144](https://img.shields.io/badge/arXiv-2502.04144-green.svg)](https://arxiv.org/abs/2502.04144)
 <!-- end badges -->
 
 ## Project Webpage
