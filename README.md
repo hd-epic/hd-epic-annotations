@@ -1,4 +1,5 @@
-# ![logo](logo-white.png) HD-EPIC: A Highly-Detailed Egocentric Video Dataset
+## ![logo](logo-white.png) HD-EPIC: A Highly-Detailed Egocentric Video Dataset (CVPR 2025)
+
 
 <!-- start badges -->
 [![arXiv-2502.04144](https://img.shields.io/badge/arXiv-2502.04144-green.svg)](https://arxiv.org/abs/2502.04144)
@@ -12,14 +13,13 @@ Paper is available at [ArXiv](https://hd-epic.github.io/)
 ## Citing
 When using the dataset, kindly reference:
 ```
-@article{perrett2025hdepic,
-    author    = {Perrett, Toby and Darkhalil, Ahmad and Sinha, Saptarshi and Emara, Omar and Pollard, Sam and Parida, Kranti and Liu, Kaiting and Gatti, Prajwal and Bansal, Siddhant and Flanagan, Kevin and Chalk, Jacob and Zhu, Zhifan and Guerrier, Rhodri and Abdelazim, Fahd and Zhu, Bin and Moltisanti, Davide and Wray, Michael and Doughty, Hazel and Damen, Dima},
-    title     = {HD-EPIC: A Highly-Detailed Egocentric Video Dataset},
-    journal   = {arXiv preprint},
-    volume    = {arXiv:2502.XXXXX},
-    year      = {2025},
-    month     = {February},
-} 
+@InProceedings{perrett2025hdepic,
+  author    = {Perrett, Toby and Darkhalil, Ahmad and Sinha, Saptarshi and Emara, Omar and Pollard, Sam and Parida, Kranti and Liu, Kaiting and Gatti, Prajwal and Bansal, Siddhant and Flanagan, Kevin and Chalk, Jacob and Zhu, Zhifan and Guerrier, Rhodri and Abdelazim, Fahd and Zhu, Bin and Moltisanti, Davide and Wray, Michael and Doughty, Hazel and Damen, Dima},
+  title     = {HD-EPIC: A Highly-Detailed Egocentric Video Dataset},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025},
+  month     = {June}
+}
 ```
 
 ## Narrations and Action Segments
