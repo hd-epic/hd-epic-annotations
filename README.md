@@ -80,58 +80,53 @@ This file contains information of verbs extracted from narration descriptions in
 
 
 ## Digital Twin: Scene & Object Movements
-We annotate object movements by labeling Temporal segments from pick-up to placement and 2D bounding boxes at movement onset and end. Tracks include even slight shifts/pushes, ensuring full coverage of movements. Every object movement is annotated and assgin to a scene fixture, providing a rich dataset for analysis. 
-The annotation data is stored as a JSON object where each key represents the video name, and the value is a list of track annotations including 3D locations, bounding boxes, and assigned fixtures. Each track annotation corresponds to a unique object track within a specific time segment.
-
-### Field Descriptions
-You can access the data from: `scene-and-object-movements/hd-epic-scene-and-object-movements.json`. Below is the template format of the annotations which will be explained next.
-
-**Structure**:
-
+We annotate object movements by labeling temporal segments from pick-up to placement and 2D bounding boxes at movement onset and end. Tracks include even slight shifts/pushes, ensuring full coverage of movements. Every object movement is annotated and assgin to a scene fixture, providing a rich dataset for analysis. Movements of the same object are then grouped into "associations" by human annotators. This association data is stored across two JSON files. The first (`scene-and-object-movements/assoc_info.json`) is a JSON object where the keys are video names and the values are groupings of each object's movements throughout the video (referred to as "associations"). The structure for this file is as follows:
 ```jsonc
 {
-  "video_id": [
-    {
-      "id": "string",
-      "time_segment": [start_time, end_time],
-      "track_num": integer,
-      "locations": {
-        "start": {
-          "frame": integer,
-          "3d_location": [x, y, z],
-          "bbox": [xmin, ymin, xmax, ymax],
-          "fixture": "string"
+  "video_id": {
+    "association_id": {
+      "name": "string",
+      "tracks": [
+        {
+          "track_id": "string",
+          "time_segment": [start_time, end_time],
+          "all_frames": ["string", ...]
         },
-        "end": {
-          "frame": integer,
-          "3d_location": [x, y, z],
-          "bbox": [xmin, ymin, xmax, ymax],
-          "fixture": "string"
-        },
-        "other_frames": []
-      }
-    }
-  ]
+        ...
+      ]
+    },
+    ...
+  }
 }
 ```
+The string IDs in "all_frames" can then be used to query the second JSON file (`scene-and-object-movements/frame_info.json`) for information on MP4 frame number, 3D location, bounding box and scene fixture. The structure of this JSON object is as follows:
+```jsonc
+{
+  "video_id": {
+    "frame_id": {
+      "frame_number": integer,
+      "3d_location": [x, y, z],
+      "bbox": [xmin, ymin, xmax, ymax],
+      "fixture": "string"
+    },
+    ...
+  }
+}
+```
+Each `frame_id` can be matched to a mask file name (e.g. `frame_id.png`) in the dropbox. It should be noted that the masks and bounding boxes were completed by different teams and therefore may be inconsistent in places.
 
-
-**Field Descriptions**:
-- **`video_id`**: A unique identifier for the video ID, i.e. `P01-20240202-110250`.
-- **`id`**: A unique identifier for the track, i.e. `e2e3eaba53bef1b6a7ddb6648b03b0d2`.
-- **`time_segment`**: The start and end times (in seconds) for the track, i.e. `[9.43, 14.60]`.
-- **`track_num`**: The order number of the track, typically assigned based on the start time, i.e. `10`.
-- **`locations`**: An object containing the 3D location, 2D bounding box, and fixture assignment for various frames.
-  - **`start`**: The object's location, bbox and fixture at the start of the track. `Null` if no start frame.
-    - **`frame`**: The starting frame number, i.e. `28`.
-    - **`3d_location`**: A three-element list representing the world-coordinates X, Y, and Z coordinates in 3D space, i.e. `[-0.1, -3.1, -0.02]` and `Null` if not 3D location avaiable.
-    - **`bbox`**: A four-element list specifying the 2D bounding box `[xmin, ymin, xmax, ymax]`, i.e. `[693.1, 847.2, 775.00, 979.8]`.
-    - **`fixture`**: A string indicating the fixture the object is assigned to, i.e. `P01_cupboard.009` and `Null` if no assigned fixture. 
-    For more information about the scene fixtures, please see [Digital Twin Scene Documentation](https://hd-epic.github.io/#digital-twin-scene--object-movements).
-  - **`end`**: The object's location, bbox and fixture at the end of the track, with the same structure as `start`. 
-  - **`other_frames`**: A list of other annotated frames for the track with the same structure as `start`. 
-
-Moreover, the long-term associations between the tracks are coming soon, please keep an eye on our website: [HD-EPIC](https://hd-epic.github.io/#digital-twin-scene--object-movements). 
+**Field Descriptions**
+- **`video_id`**: The name of the video, i.e. `P01-20240202-110250`
+- **`association_id`**: A unique identifier for the object movement tracks
+- **`name`**: The name of the association, i.e. `plate`
+- **`tracks`**: A list of object movements that make up the association
+- **`track_id`**: A unique identifier for the single movement of the object in the association
+- **`time_segment`**: A start and end time for the single movement of the object in the association
+- **`all_frames`**: A list of unique identifiers for each frame connected to this particular movement of the object
+- **`frame_id`**: A unique identifier for the frame. This can be matched to a frame ID in the `all_frames` field of `assoc_info.json`, if this frame is connected to any associations
+- **`frame_number`**: The MP4 frame number for the particular frame
+- **`bbox`**: A four-element list specifying the 2D bounding box `[xmin, ymin, xmax, ymax]`, i.e. `[693.1, 847.2, 775.00, 979.8]`.
+- **`fixture`**: A string indicating the fixture the object is assigned to, i.e. `P01_cupboard.009` and `Null` if no assigned fixture.
 
 ## High Level
 
