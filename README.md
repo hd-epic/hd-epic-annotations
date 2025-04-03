@@ -113,7 +113,7 @@ The string IDs in "all_frames" can then be used to query the second JSON file (`
   }
 }
 ```
-Each `frame_id` can be matched to a mask file name (e.g. `frame_id.png`) in the dropbox. It should be noted that the masks and bounding boxes were completed by different teams and therefore may be inconsistent in places.
+Each `frame_id` can be matched to a mask file name (e.g. `frame_id.png`) in the [dropbox](https://www.dropbox.com/scl/fo/f7hwei2m8y3ihlhp669h4/ALM8_1LDETY40O-06-ptr3A?rlkey=yrmqm3zk284htr5yjxb4z5nwp&e=1&st=815ovw6m&dl=0). It should be noted that the masks and bounding boxes were completed by different teams and therefore may be inconsistent in places.
 
 **Field Descriptions**
 - **`video_id`**: The name of the video, i.e. `P01-20240202-110250`
