@@ -90,7 +90,7 @@ We annotate object movements by labeling temporal segments from pick-up to place
         {
           "track_id": "string",
           "time_segment": [start_time, end_time],
-          "all_frames": ["string", ...]
+          "masks": ["string", ...]
         },
         ...
       ]
@@ -99,11 +99,11 @@ We annotate object movements by labeling temporal segments from pick-up to place
   }
 }
 ```
-The string IDs in "all_frames" can then be used to query the second JSON file (`scene-and-object-movements/frame_info.json`) for information on MP4 frame number, 3D location, bounding box and scene fixture. The structure of this JSON object is as follows:
+The string IDs in "masks" can then be used to query the second JSON file (`scene-and-object-movements/mask_info.json`) for information on MP4 frame number, 3D location, bounding box and scene fixture of each object mask. The structure of this JSON object is as follows:
 ```jsonc
 {
   "video_id": {
-    "frame_id": {
+    "mask_id": {
       "frame_number": integer,
       "3d_location": [x, y, z],
       "bbox": [xmin, ymin, xmax, ymax],
@@ -113,7 +113,7 @@ The string IDs in "all_frames" can then be used to query the second JSON file (`
   }
 }
 ```
-Each `frame_id` can be matched to a mask file name (e.g. `frame_id.png`) in the [dropbox](https://www.dropbox.com/scl/fo/f7hwei2m8y3ihlhp669h4/ALM8_1LDETY40O-06-ptr3A?rlkey=yrmqm3zk284htr5yjxb4z5nwp&e=1&st=815ovw6m&dl=0). It should be noted that the masks and bounding boxes were completed by different teams and therefore may be inconsistent in places.
+Each `mask_id` can be matched to a mask file name (e.g. `frame_id.png`) in the [dropbox](https://www.dropbox.com/scl/fo/f7hwei2m8y3ihlhp669h4/ALM8_1LDETY40O-06-ptr3A?rlkey=yrmqm3zk284htr5yjxb4z5nwp&e=1&st=815ovw6m&dl=0). It should be noted that the masks and bounding boxes were completed by different teams and therefore may be inconsistent in places.
 
 **Field Descriptions**
 - **`video_id`**: The name of the video, i.e. `P01-20240202-110250`
@@ -122,8 +122,8 @@ Each `frame_id` can be matched to a mask file name (e.g. `frame_id.png`) in the 
 - **`tracks`**: A list of object movements that make up the association
 - **`track_id`**: A unique identifier for the single movement of the object in the association
 - **`time_segment`**: A start and end time for the single movement of the object in the association
-- **`all_frames`**: A list of unique identifiers for each frame connected to this particular movement of the object
-- **`frame_id`**: A unique identifier for the frame. This can be matched to a frame ID in the `all_frames` field of `assoc_info.json`, if this frame is connected to any associations
+- **`masks`**: A list of unique identifiers for each object mask connected to this particular movement of the object
+- **`mask_id`**: A unique identifier for the object mask. This can be matched to a mask ID in the `masks` field of `assoc_info.json`, if this frame is connected to an association
 - **`frame_number`**: The MP4 frame number for the particular frame
 - **`bbox`**: A four-element list specifying the 2D bounding box `[xmin, ymin, xmax, ymax]`, i.e. `[693.1, 847.2, 775.00, 979.8]`.
 - **`fixture`**: A string indicating the fixture the object is assigned to, i.e. `P01_cupboard.009` and `Null` if no assigned fixture.
