@@ -124,7 +124,7 @@ Each `mask_id` can be matched to a mask file name (e.g. `frame_id.png`) in the [
 - **`time_segment`**: A start and end time for the single movement of the object in the association
 - **`masks`**: A list of unique identifiers for each object mask connected to this particular movement of the object
 - **`mask_id`**: A unique identifier for the object mask. This can be matched to a mask ID in the `masks` field of `assoc_info.json`, if this frame is connected to an association
-- **`frame_number`**: The MP4 frame number for the particular frame
+- **`frame_number`**: The MP4 frame number for the particular frame, starting from 0 index.
 - **`bbox`**: A four-element list specifying the 2D bounding box `[xmin, ymin, xmax, ymax]`, i.e. `[693.1, 847.2, 775.00, 979.8]`.
 - **`fixture`**: A string indicating the fixture the object is assigned to, i.e. `P01_cupboard.009` and `Null` if no assigned fixture.
 
