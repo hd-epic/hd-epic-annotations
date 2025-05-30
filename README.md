@@ -128,6 +128,59 @@ Each `mask_id` can be matched to a mask file name (e.g. `frame_id.png`) in the [
 - **`bbox`**: A four-element list specifying the 2D bounding box `[xmin, ymin, xmax, ymax]`, i.e. `[693.1, 847.2, 775.00, 979.8]`.
 - **`fixture`**: A string indicating the fixture the object is assigned to, i.e. `P01_cupboard.009` and `Null` if no assigned fixture.
 
+## Eye Gaze Priming
+We annotate priming moments when gaze anticipates object interactions—either by fixating on the pick-up location before the object is moved, or the placement location before it is put down. For pick-up priming, we project 3D gaze onto object locations within a 10-second window before the labelled interaction. For put-down priming, we use a similar window, starting either up to 10 seconds before placement or from the moment the object is lifted for shorter interactions. Near misses, where gaze is close but doesn’t directly intersect the object, are also captured using a proximity-based threshold. We exclude off-screen interactions and discard cases where gaze is already near the object long before motion starts, to avoid capturing ongoing manipulation.
+
+Priming data is stored in a single JSON file (`eye_gaze_priming/priming_info.json`), where the top-level keys correspond to `video_ids`. Each value is a dictionary keyed by an object identifier (e.g. `"0"`, `"1"`, etc.), which contains information about the object’s pick-up (start) and put-down (end) events, along with associated priming metadata. The structure is as follows:
+```jsonc
+{
+  "video_id": {
+    "object_id": {
+      "start": {
+        "frame": integer,
+        "3d_location": [x, y, z],
+        "prime_stats": {
+          "prime_window_start": integer,
+          "frame_primed": integer,
+          "gaze_point": [x, y, z],
+          "dist_to_cam": float,
+          "prime_gap": float
+        }
+      },
+      "end": {
+        "frame": integer,
+        "3d_location": [x, y, z],
+        "prime_stats": {
+          "prime_window_start": integer,
+          "frame_primed": integer,
+          "gaze_point": [x, y, z],
+          "dist_to_cam": float,
+          "prime_gap": float
+        }
+      }
+    },
+    ...
+  }
+}
+```
+
+**Field Descriptions**
+
+- **`video_id`**: The name of the video (e.g. `P01-20240202-110250`).  
+- **`object_id`**: A string identifier for the object in the scene (e.g. `"0"`).  
+- **`start` / `end`**: Contain data for the pick-up and put-down events of the object, respectively.  
+  - **`frame`**: The frame number when the object is picked up or put down.  
+  - **`3d_location`**: The 3D world coordinates \([x, y, z]\) of the object at pick-up or put-down.  
+  - **`prime_stats`**: Metadata related to the priming event:  
+    - **`prime_window_start`**: The frame at which the priming window begins.  
+    - **`frame_primed`**: The frame when gaze priming was detected:  
+      - `>= 0`: The exact frame of priming.  
+      - `-1`: The location was valid, but no priming occurred.  
+      - `-2`: The sample was excluded (e.g. off-screen movement or ongoing object manipulation).  
+    - **`gaze_point`**: The 3D location where gaze intersects the object’s bounding box, or the closest point to its centre if no direct intersection occurred.  
+    - **`dist_to_cam`**: The Euclidean distance from the object to the camera wearer at the time of priming.  
+    - **`prime_gap`**: Time in seconds between the priming frame and the interaction frame.  
+
 ## High Level
 
 This contains the high level activities as well as recipe and nutrition information
