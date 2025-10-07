@@ -252,4 +252,18 @@ This contains the links to all videos of the dataset. Notice that YouTube introd
 
 An interface to visualise all our VQA questions
 
+## SLAM
+
+### List of 3 Videos ran with COLMAP
+
+In paper section B.4, we mention:
+> Out of the 156 videos, 3 videos could not be successfully processed via SLAM API. For these videos, we run COLMAP [65, 66] following EPIC Fields [77] preprocessing to obtain camera poses and manually align them to the corresponding kitchen obtained from MPS.
+
+These 3 videos are: 
+```
+P02-20240210-113925
+P02-20240211-182630
+P06-20240510-140459
+```
+
 **Contact:** [uob-epic-kitchens@bristol.ac.uk](mailto:uob-epic-kitchens@bristol.ac.uk)
