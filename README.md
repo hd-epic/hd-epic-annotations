@@ -32,7 +32,7 @@ Aria glasses device calibration and frame-wise camera pose and gaze information.
 - Per-frame device to world transforms
 - Per-frame gaze centre (image space) and 3D gaze direction (world space)
 
-**[Download intermediate data](https://uob-my.sharepoint.com/:f:/g/personal/jc17360_bristol_ac_uk/IgCCGb5qDbiOR7cmj1R9OyUWAXQFYL7FP_d0eMzB4ENPVQk?e=3d3OT3IgCCGb5qDbiOR7cmj1R9OyUWAXQFYL7FP_d0eMzB4ENPVQk?e=3hngWD)**
+**[Download intermediate data](https://uob-my.sharepoint.com/:f:/g/personal/jc17360_bristol_ac_uk/IgCCGb5qDbiOR7cmj1R9OyUWAXQFYL7FP_d0eMzB4ENPVQk?e=8SoGEy)**
 
 Full details are provided in the README in the link above.
 
